@@ -4,7 +4,7 @@ special counsel Robert S. Mueller, III
 submitted pursuant t
 Washington, D.C. March 2019
 
-## introduction TO VOLUME I
+## INTRODUCTION TO VOLUME I
 
 This report is submitted to the attorney general pursuant to 28 C.F.R. § 600.8(c), which
 states that, "\[a\]t the conclusion of the special counsel's work, he ... shall provide the attorney
@@ -80,9 +80,9 @@ interference in the 2016 presidential election and related matters, and his acti
 special counsel's investigation. Volume II separately states its framework and the considerations
 that guided that investigation.
 
-## executive summary TO VOLUME I
+## EXECUTIVE SUMMARY TO VOLUME I
 
-### RUSSIAN SOCIAL MEDIA campaign
+### RUSSIAN SOCIAL MEDIA CAMPAIGN
 
 The Internet research Agency (IRA) carried out the earliest Russian interference
 operations identified by the investigation - asocial media campaign designed to provoke and
@@ -101,7 +101,7 @@ investigation did not identify evidence that any U.S. persons conspired or coord
 IRA. section II of this report details the Office's investigation of the Russian social media
 campaign.
 
-### RUSSIAN hacking operations
+### RUSSIAN HACKING OPERATIONS
 
 At the same time that the IRA operation began to focus on supporting candidate Trump in
 early 2016, the Russian government employed a second form of interference: cyber intrusions
@@ -126,7 +126,7 @@ video considered damaging to candidate Trump. section III of this Report details
 investigation into the Russian hacking operations, as well as other efforts by Trump campaign
 supporters to obtain Clinton-related emails.
 
-### RUSSIAN contacts WITH THE campaign
+### RUSSIAN CONTACTS WITH THE CAMPAIGN
 
 The social media campaign and the GRU hacking operations coincided with a series of
 contacts between Trump campaign officials and individuals with ties to the Russian government. The Office investigated whether those contacts reflected or resulted in the campaign conspiring
@@ -402,7 +402,7 @@ personnel who screened materials obtained via court process for privileged infor
 turning those materials over to investigators; a support staff of three paralegals on detail from the
 department's antitrust division; and an administrative staff of nine responsible for budget, finance, purchasing, human resources, records, facilities, security, information technology, and administrative support. The special counsel attorneys and support staff were co-located with and
 worked alongside approximately 40 FBI agents, intelligence analysts, forensic accountants, a
-paralegal, and professional staff assigned by the FBI to assist the special counsel's investigation. Those "assigned" FBI employees remained under FBI supervision at all times; the matters on which they assisted were supervised by the special counsel. 
+paralegal, and professional staff assigned by the FBI to assist the special counsel's investigation. Those "assigned" FBI employees remained under FBI supervision at all times; the matters on which they assisted were supervised by the special counsel.
 [^1]: During its investigation the Office issued more than 2,800 subpoenas under the auspices of
 a grand jury sitting in the district of Columbia; executed nearly 500 search-and-seizure warrants;
 obtained more than 230 orders for communications records under 18 U.S.C. § 2703(d); obtained
@@ -427,7 +427,7 @@ main factual results. 1 FBI personnel assigned to the special counsel's Office w
 FBI-related matters for the Office, such as FBI compliance with all FBI policies and procedures, including
  the FBI's domestic investigations and operations Guide (DIOG). That FBI attorney worked under FBI
  legal supervision, not the special counsel's supervision.
- 
+
 ## II. RUSSIAN "ACTIVE measures" SOCIAL MEDIA campaign
 
 The first form of Russian election influence came principally from the Internet research
@@ -451,7 +451,7 @@ Russian association, communicated electronically with individuals associated wit
 campaign and with other political activists to seek to coordinate political activities, including the
 staging of political rallies. 5 The investigation did not identify evidence that any U.S. persons
 knowingly or intentionally coordinated with the IRA's interference operation. By the end of the 2016 U.S. election, the IRA had the ability to reach millions of U.S. persons through their social media accounts. multiple IRA-controlled Facebook groups and
- 
+
 [^2]: The Office is aware of reports that other Russian entities engaged in similar active measures
 operations targeting the United States. Some evidence collected by the Office corroborates those rep01ts, and the Office has shared that evidence with other offices in the department of justice and FBI. 3 **\[ REDACTED: Harm to Ongoing Matter \]** see also SM-2230634, serial 44 (analysis). The FBI case number cited here, and other FBI case numbers
  identified in the report, should be treated as law enforcement sensitive given the context. The report contains
@@ -500,8 +500,8 @@ As early as the spring of 2014, the IRA be an to hide its funding and activities
 **\[ REDACTED: Harm to Ongoing Matter \]** 16
 
 The IRA's U.S. operations are part of a larger set of interlocking operations
-known as "Project Lakhta," **\[ REDACTED: Harm to Ongoing Matter \]** 
-[^18]: 
+known as "Project Lakhta," **\[ REDACTED: Harm to Ongoing Matter \]**
+[^18]:
 ### B. funding and oversight from concord and Prigozhin
 
 Until at least February 2018, Yevgeniy Viktorovich Prigozhin and two concord companies
@@ -509,7 +509,7 @@ funded the IRA. Prigozhin is a wealthy Russian businessman who served as the hea
 
 [^13]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^14]: See, e.g., SM-2230634, serials 9, 113 & 180 **\[ REDACTED: Harm to Ongoing Matter \]**.
-[^15]: **\[ REDACTED: Harm to Ongoing Matter \]** 
+[^15]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^16]: **\[ REDACTED: Harm to Ongoing Matter \]** See SM-2230634, serials 131 & 204.
 [^17]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^18]: **\[ REDACTED: Harm to Ongoing Matter \]**
@@ -541,7 +541,7 @@ I I. • I **\[ REDACTED: Harm to Ongoing Matter \]** In May
 2016, IRA employees, claiming to be U.S. social activists and administrators ofFacebook groups, recruited U.S. persons to hold signs (including one in front of the White House) that read "Happy 55th Birthday Dear Boss," as an homage to Prigozhin whose 55th birthday was on June 1, 2016. 31
 
 **\[ REDACTED: Harm to Ongoing Matter \]**
- 
+
 ### C. The IRA targets U.S. elections
 
 #### 1. The IRA Ramps Up U.S. operations As Early As 2014
@@ -549,20 +549,20 @@ I I. • I **\[ REDACTED: Harm to Ongoing Matter \]** In May
  I I. • I
  ! ...• ... • .... " • " I" : I I **\[ REDACTED: Harm to Ongoing Matter \]** subdivided the translator department into different
  responsibilities, ranging from operations on different social media platforms to analytics to
- 
-[^29]: investigative technique See SM-2230634, serials 131 & 204. 
-[^30]: See SM-2230634, serial 156. 
+
+[^29]: **\[ REDACTED: Investigative Technique \]** See SM-2230634, serials 131 & 204.
+[^30]: See SM-2230634, serial 156.
 [^31]: Internet research Agency indictment ,r 12 b; see also 5/26/16 Facebook messages, ID
  1479936895656747 (United Muslims of America) &
 graphics and IT. **\[ REDACTED: Harm to Ongoing Matter \]** ■ **\[ REDACTED: Harm to Ongoing Matter \]** I, • ·. I
- 
+
 [^34]: See SM-2230634, serial 204 **\[ REDACTED: Harm to Ongoing Matter \]** IRA employees also traveled to the United States on intelligence-gathering missions. In
 June 2014, four IRA employees applied to the U.S. department of State to enter the United States, while lying about the purpose of their trip and claiming to be four friends who had met at a party. 38
 
 ultimately, two IRA employees-Anna Bogacheva and Aleksandra Krylova-received visas and
-entered the United States on June 4, 2014. ••• ". **\[ REDACTED: Harm to Ongoing Matter \]** . • ,,. ,:,!,,. " ..... - .-. . · **\[ REDACTED: Harm to Ongoing Matter \]** 35 **\[ REDACTED: Harm to Ongoing Matter \]** 37 **\[ REDACTED: Harm to Ongoing Matter \]** 
+entered the United States on June 4, 2014. ••• ". **\[ REDACTED: Harm to Ongoing Matter \]** . • ,,. ,:,!,,. " ..... - .-. . · **\[ REDACTED: Harm to Ongoing Matter \]** 35 **\[ REDACTED: Harm to Ongoing Matter \]** 37 **\[ REDACTED: Harm to Ongoing Matter \]**
 [^38]: See SM-2230634, serials 150 & 172 **\[ REDACTED: Harm to Ongoing Matter \]**
- 
+
 #### 2. U.S. operations through IRA-controlled Social Media accounts
 
 Dozens of IRA employees were responsible for operating accounts and personas on
@@ -615,9 +615,9 @@ presidential election. **\[ REDACTED: Harm to Ongoing Matter \]**
 #### 3. U.S. operations through Facebook **\[ REDACTED: Harm to Ongoing Matter \]**
 
 Many IRA operations used Facebook accounts created and operated by its
-specialists. **\[ REDACTED: Harm to Ongoing Matter \]** 
+specialists. **\[ REDACTED: Harm to Ongoing Matter \]**
 
-**\[ REDACTED: Harm to Ongoing Matter \]** 
+**\[ REDACTED: Harm to Ongoing Matter \]**
 
 **\[ REDACTED: Harm to Ongoing Matter \]** IRA Facebook groups active during the 2016 campaign
 covered a range of political issues and included purported conservative groups
@@ -629,7 +629,7 @@ America").
 [^51]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^52]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^53]: **\[ REDACTED: Harm to Ongoing Matter \]**
-[^54]: **\[ REDACTED: Harm to Ongoing Matter \]** 
+[^54]: **\[ REDACTED: Harm to Ongoing Matter \]**
 
 Throughout 2016, IRA accounts published an increasing number of materials supporting
 the Trump campaign and opposing the Clinton campaign. For example, on May 31, 2016, the
@@ -648,7 +648,7 @@ advertisement depicting candidate Clinton and a caption that read in part, " If 
 this liar enter the White House as a president - that day would be a real national tragedy." 57
 
 similarly, on April 6, 2016, the IRA purchased advertisements for its account "Black matters"
-calling for a "flashmob" of U.S. persons to "take a photo with #HillaryClintonForPrison2016 or #nohillary2016."
+calling for a "flashmob" of U.S. persons to "take a photo with #HillaryClintonForPrison2016 or #noHillary2016."
 58 IRA-purchased advertisements featuring Clinton were, with very few
 exceptions, negative. 59
 
@@ -721,7 +721,7 @@ tweets (discussed below).
 
 [^66]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^67]: Other individualized accounts included `@MissouriNewsUS` (an account with 3,800 followers that posted pro-Sanders and anti-Clinton material).
-[^68]: See `@march_for_trump`, 5/30/16 Tweet (first post from account). 
+[^68]: See `@march_for_trump`, 5/30/16 Tweet (first post from account).
 [^69]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^70]: For example, one IRA account tweeted, "To those people, who hate the confederate flag. Did you know that the flag and the war wasn't about slavery, it was all about money." The tweet received over 40,000 responses. `@Jenn_Abrams` 4/24/17 (2:37 p.m.) Tweet.
 [^71]: Josephine Lukito & Chris Wells, Most Major outlets Have Used Russian Tweets as sources for
@@ -778,10 +778,10 @@ rallies was closely monitored **\[ REDACTED: Harm to Ongoing Matter \]**
 
 [^83]: See, e.g., 7/21/16~gmail.com to ; 7/21/16 Email, joshmilton024@gmail.com to-
 
-84 @march_for_trump 6/25/16 Tweet (posting photos from rally outside Trump Tower). 
+84 @march_for_trump 6/25/16 Tweet (posting photos from rally outside Trump Tower).
 [^85]: Instagram ID 2228012168 (Stand For freedom) 11/3/15 Post ("Good evening buds! Well I am
 planning to organize a confederate rally\[. . .\] in Houston on the 14 of November and I want more people
-to attend."). 
+to attend.").
 [^1]: From June 2016 until the end of the presidential campaign, almost all of the U.S. rallies organized by the IRA focused on the
  U.S. election, often promoting the Trump campaign and opposing
  the Clinton campaign. Pro-Trump rallies included three in New
@@ -793,7 +793,7 @@ to attend.").
  series of pro-Trump rallies in October 2016 in Pennsylvania. The
  Florida rallies drew the attention of the Trump campaign, which
  posted about the Miami rally on candidate Trump's Facebook
- BRING BACK OUR JOBSaccount (as discussed below). 
+ BRING BACK OUR JOBSaccount (as discussed below).
 [^86]: WHEN
  HELP MR. TRUMP FIXIT!
  IIC!llelli: Iii :Tf.1. . .. . . t I, .., •
@@ -804,14 +804,14 @@ to attend.").
  rallies organized by the IRA
  6. targeting and recruitment of U.S. persons
 
-IRA employees frequently used investigative technique Twitter, Facebook, and
+IRA employees frequently used **\[ REDACTED: Investigative Technique \]** Twitter, Facebook, and
 Instagram to contact and recruit U.S. persons who followed the group. The IRA recruited U.S. persons from across the political spectrum. For example, the IRA targeted the family of-and a number of black social justice activists
 while posing as a grassroots group called "Black matters US." 89 In February 2017, the persona
 "Black Fist" (purporting to want to teach African-Americans to protect themselves when contacted
 by law enforcement) hired a self-defense instructor in New York to offer classes sponsored by
 Black Fist. The IRA also recruited moderators of conservative social media groups to promote
 IRA-generated content, 90 as well as recruited individuals to perform political acts (such as walking
-around New York City dressed up as Santa Claus with a Trump mask). 
+around New York City dressed up as Santa Claus with a Trump mask).
 
 [^86]: The pro-Trump rallies were organized through multiple Facebook, Twitter, and email accounts. See, e.g., Facebook ID 100009922908461 (Matt Skiber); Facebook ID 1601685693432389 (Being
 patriotic); Twitter account @march_for_trump ; beingpatriotic@gmail.com. (rallies were organized in
@@ -827,10 +827,10 @@ with tasks ran in from organizing rallies to taking pictures with certain politi
 **\[ REDACTED: Harm to Ongoing Matter \]**
 
 [^89]: 3/11/16 Facebook advertisement ID 6045078289928, 5/6/16 Facebook advertisement ID
-6051652423528, 10/26/16 Facebook advertisement ID 6055238604687; 10/27/16 Facebook message, ID **\[ REDACTED: Harm to Ongoing Matter \]** & ID 100011698576461 (Taylor Brooks). 
+6051652423528, 10/26/16 Facebook advertisement ID 6055238604687; 10/27/16 Facebook message, ID **\[ REDACTED: Harm to Ongoing Matter \]** & ID 100011698576461 (Taylor Brooks).
 [^90]: 8/19/16 Facebook message, ID 10000992 2908461 (Matt Skiber) to ID
 [^91]: 12/8/16 Email, `robot@craigslist.org` to `beingpatriotic@gmail.com` (confirming Craigslist
-advertisement). 
+advertisement).
 [^92]: 8/18-19/16 Twitter DMs, `@march_for_trump` & ID 100011698576461 (Taylor Brooks) &
 (arranging to pay for plane tickets and for a
 Facebook message, ID 100009922908461 (Matt Skiber) &
@@ -851,7 +851,7 @@ Trump, 97 Kellyanne Conway, 98 Brad Parscale, 99 and Michael T. Flynn. 100 These
 allegations of voter fraud, 101 as well as allegations that secretary Clinton had mishandled
 classified information. 102
 
- 
+
 [^96]: See, e.g, @DonaldJTrumpJr 10/26/16 Tweet ("RT @TEN_GOP: breaking thousands of
  names changed on voter rolls in Indiana. Police investigating `#Voterfraud`. `#DrainTheSwamp`.");
  @DonaldJTrumpJr 11/2/16 Tweet ("RT @TEN_GOP: breaking: #VoterFraud by counting tens of
@@ -859,10 +859,10 @@ classified information. 102
  @DonaldJTrumpJr 11/8/16 Tweet ("RT @TEN_GOP: This vet passed away last month before he could
  vote for Trump. Here he is in his #MAGA hat. #voted #ElectionDay."). Trump Jr. retweeted additional
  @TEN_ GOP content subsequent to the election.
- 
+
 
 - A November 7, 2016 post from the IRA-controlled
- Twitter account `@Pamela_ Moore13` was retweeted by THANKYOU for your support Miami! Mylearn jusl shared photos from YOU! TRUMP SIGN WAVING DAY.yes1e1da. y! I bve you - and lhereis no question
+ Twitter account `@Pamela_ Moore13` was retweeted by THANKYOU for your support Miami! Mylearn jusl shared photos from YOU! TRUMP SIGN WAVING DAY.yes1e1da. y! I love you - and there is no question
  Donald J. Trump Jr. 103 • together, WE WILL MAKEAMEAICAGREATAGAIN!
  On September 19, 2017, president Trump's personal .. account @realDonaldTrump responded to a tweet from
  the IRA-controlled account @ l0_gop (the backup
@@ -873,29 +873,30 @@ IRA employees monitored the reaction of the Trump
 campaign and, later, Trump administration officials to their
 tweets. For example, on August 23, 2016, the IRA-
 controlled persona "Matt Skiber" Facebook account sent a
-message to a U.S. Tea Party activist, writin.g that "Mr. Trump posted about our event in Miami! This is great!" 105
+message to a U.S. Tea Party activist, writing that "Mr. Trump posted about our event in Miami! This is great!" 105
 
 The IRA employee included a screenshot of candidate
 Trump's Facebook account, which included a post about the screenshot of Trump Facebook
 August 20, 2016 political rallies organized by the IRA. account (from Matt Skibe,)
 
-[^97]: @Er icTrump 10/20/16 Tweet ("RT @TEN_GOP: breaking Hillary shuts down press
-conference when asked about DNC operatives corruption & #VoterFraud #debatenight #TrumpB"). 
-[^98]: @Ke llyannePo lls 11/6/16 Tweet ("RT @TEN_ GOP: Mother of jailed sailor:'Hold Hillary to
-same standards as my son on classified info'#hillarysemail #WeinerGa te."). 
-[^99]: @parsca le 10/15/16 Tweet ("thousands of deplorables chanting to the media:'Tell The Truth!'RT if you are also done w/ biased Media! #Friday feeling"). 
-[^100]: @GenF lynn 11/7/16 (retweeting @TEN_GOP post that included in part " @rea!Dona ldTrump p
-& @m ike_pence will be our next POTUS & VPOTUS."). 
-[^101]: @TEN_ GOP 10/11/16 Tweet ("North Carolina finds 2,214 voters over the age of 110!!"). 
+[^97]: @EricTrump 10/20/16 Tweet ("RT @TEN_GOP: breaking Hillary shuts down press
+conference when asked about DNC operatives corruption & #VoterFraud #debatenight #TrumpB").
+[^98]: @KellyannePo lls 11/6/16 Tweet ("RT @TEN_ GOP: Mother of jailed sailor:'Hold Hillary to
+same standards as my son on classified info'#Hillarysemail #WeinerGa te.").
+[^99]: @parscale 10/15/16 Tweet ("thousands of deplorables chanting to the media:'Tell The Truth!'RT if you are also done w/ biased Media! #Friday feeling").
+[^100]: @GenFlynn 11/7/16 (retweeting @TEN_GOP post that included in part " @realDonaldTrump p
+& @m ike_pence will be our next POTUS & VPOTUS.").
+[^101]: @TEN_ GOP 10/11/16 Tweet ("North Carolina finds 2,214 voters over the age of 110!!").
 [^102]: @TEN_ GOP 11/6/16 Tweet ("Mother of jailed sailor:'Hold Hillary to same standards as my
-son on classified info #hillaryemail #WeinerGate."'). 
-[^103]: @Dona ldJTrumpJr 11/7/16 Tweet ("RT @Pamela _M oore 13: Detroit residents speakout against
-the failed policies of Obama, Hillary & democrats .... "). 
-[^104]: @rea!Dona ldTrump 9/19/17 (7 :33 p.m.) Tweet ("thankyou for your support Miami! My
-team just shared photos from your TRUMP SIGN WA YING DAY, yesterday! I lov e you- and there is no
-question - together, WE WILL MAKE AMERICA GREAT AGAIN! "). 
-[^105]: 8/23/16 Facebook message, ID 100009922908461 (Matt Skiber) to ID **\[ REDACTED: Harm to Ongoing Matter \]** I•
- b. contact with Trump campaign officials in connection to rallies
+son on classified info #Hillaryemail #WeinerGate."').
+[^103]: @DonaldJTrumpJr 11/7/16 Tweet ("RT @Pamela_Moore 13: Detroit residents speakout against
+the failed policies of Obama, Hillary & democrats .... ").
+[^104]: @realDonaldTrump 9/19/17 (7 :33 p.m.) Tweet ("thankyou for your support Miami! My
+team just shared photos from your TRUMP SIGN WA YING DAY, yesterday! I love you-and there is no
+question - together, WE WILL MAKE AMERICA GREAT AGAIN! ").
+[^105]: 8/23/16 Facebook message, ID 100009922908461 (Matt Skiber) to ID **\[ REDACTED: Harm to Ongoing Matter \]**
+
+##### b. contact with Trump campaign officials in connection to rallies
 
 starting in June 2016, the IRA contacted different U.S. persons affiliated with the Trump
 campaign in an effort to coordinate pro-Trump IRA-organized rallies inside the United States. In
@@ -913,11 +914,11 @@ through the "active measures" social media campaign carried out by the IRA, an o
 funded by Prigozhin and companies that he controlled. As explained further in Volume I, section
 V.A, infra, the Office concluded (and a grand jury has alleged) that Prigozhin, his companies, and
 IRA employees violated U.S. law through these operations, principally by undermining through
-deceptive acts the work of federal agencies charged with regulating foreign influence in U.S. elections. 
+deceptive acts the work of federal agencies charged with regulating foreign influence in U.S. elections.
 [^107]: See, e.g., 8/16/16 Email, joshmilton024@gmail.com to -@donaldtrump.com (asking for
 ~Pence signs for Florida rally); 8/18/16 Email, joshmilton024@gmail.com to
 -@donaldtrump.com (a-kin for Trump/Pence signs for Florida rally); 8/12/16 Email, joshmilton024@gmail.com to @donaldtrump.com (asking for "contact phone numbers for Trump
- campaign affiliates" in various Florida cities and signs). 
+ campaign affiliates" in various Florida cities and signs).
 [^108]: 8/15/16 Email, to joshmilton
 [^024]: locations to the "Florida Goes Trump," list); 8/16/16 Email, to
  joshmi1ton024@gmail.com (volunteering to send an email blast to followers).
@@ -948,19 +949,17 @@ cyber unit dedicated to targeting military, political, governmental, and non-gov
 organizations outside of Russia, including in the United States. 111 The unit was sub-divided into
 departments with different specialties. One department, for example, developed specialized
 malicious software "malware", while another department conducted large-scale spearphishing
-campaigns. 112 **\[ REDACTED: investigative technique \]** a bitcoin mining operation to
- 
-[^109]: As discussed insection V below, our Office charged 12 GRU officers for crimes arising from
-the hacking of these computers, principally with conspiring to commit computer intrusions, in violation of
- 18 U.S.C. §§ 1030 and 371. See Volume I, section V.B, infra; indictment, United States v. Netyksho, No. I :18-cr-215 (D.D.C. July 13, 2018), Doc. 1 ("Netyksho indictment"). 
-[^110]: Netyksho indictment, r1. 
-[^111]: separate from this Office's indictment of GRU officers, in October 2018 a grand jury sitting in
- the western district of Pennsylvania returned an indictment charging certain members of Unit 26165 with
- hacking the U.S. Anti-Doping Agency, the World Anti-Doping Agency, and other international sport
- associations. United States v. Aleksei Sergeyevich Morenets, No. 18-263 (W.D. Pa.). 
-[^112]: A spearphishing email is designed to appear as though it originates from a trusted source, and
- solicits information to enable the sender to gain access to an account or network, or causes the recipient to
-secure bitcoins used to purchase computer infrastructure used in hacking operations. military Unit 74455 is a related GRU unit with multiple departments that engaged in cyber
+campaigns. 112 **\[ REDACTED: Investigative Technique \]** a bitcoin mining operation to
+
+[^109]: As discussed in section V below, our Office charged 12 GRU officers for crimes arising from
+the hacking of these computers, principally with conspiring to commit computer intrusions, in violation of 18 U.S.C. §§ 1030 and 371. See Volume I, section V.B, infra; indictment, United States v. Netyksho, No. I :18-cr-215 (D.D.C. July 13, 2018), Doc. 1 ("Netyksho indictment").
+[^110]: Netyksho indictment, r1.
+[^111]: separate from this Office's indictment of GRU officers, in October 2018 a grand jury sitting in the western district of Pennsylvania returned an indictment charging certain members of Unit 26165 with hacking the U.S. Anti-Doping Agency, the World Anti-Doping Agency, and other international sport associations. United States v. Aleksei Sergeyevich Morenets, No. 18-263 (W.D. Pa.).
+[^112]: A spearphishing email is designed to appear as though it originates from a trusted source, and solicits information to enable the sender to gain access to an account or network, or causes the recipient to download malware that enables the sender to gain access to an account or network. Netyksho indictment ¶ 10.
+
+secure bitcoins used to purchase computer infrastructure used in hacking operations.
+
+Military Unit 74455 is a related GRU unit with multiple departments that engaged in cyber
 operations. Unit 74455 assisted in the release of documents stolen by Unit 26165, the promotion
 of those releases, and the publication of anti-Clinton content on social media accounts operated by
 the GRU. officers from Unit 74455 separately hacked computers belonging to state boards of
@@ -968,131 +967,143 @@ elections, secretaries of state, and U.S. companies that supplied software and o
 related to the administration of U.S. elections. 114
 
 beginning in mid-March 2016, Unit 26165 had primary responsibility for hacking the
-DCCC and DNC, as well as email accounts of individuals affiliated with the Clinton campaign: 
-[^115]: Unit 26165 used investigative technique
- began before the GRU had obtained any credentials or gained access
- to these networks, indicating that the later DCCC and DNC intrusions were not crimes of
- opportunity but rather the result of targeting. 
-[^116]: GRU officers also sent hundreds of spearphishing emails to the work and personal email
- accounts of Clinton campaign employees and volunteers. between March 10, 2016 and March
- 15, 2016, Unit 26165 appears to have sent approximately 90 spearphishing emails to email
- accounts at hillaryclinton.com. starting on March 15, 2016, the GRU began targeting Google
- email accounts used by Clinton campaign employees, along with a smaller number of dnc.org
- email accounts. 117
+DCCC and DNC, as well as email accounts of individuals affiliated with the Clinton campaign: 115
+
+- Unit 26165 used **\[ REDACTED: Investigative Technique \]** to learn about
+  **\[ REDACTED: Investigative Technique \]** different Democratic websites,
+  including democrats.org, hillaryclinton.com, dnc.org, and dccc.org.
+  **\[ REDACTED: Investigative Technique \]** began before the GRU had
+  obtained any credentials or gained access to these networks, indicating that
+  the later DCCC and DNC intrusions were not crimes of opportunity but rather
+  the result of targeting. 116
+- GRU officers also sent hundreds of spearphishing emails to the work and personal email
+  accounts of Clinton campaign employees and volunteers. between March 10, 2016 and March
+  15, 2016, Unit 26165 appears to have sent approximately 90 spearphishing emails to email
+  accounts at Hillaryclinton.com. starting on March 15, 2016, the GRU began targeting Google
+  email accounts used by Clinton campaign employees, along with a smaller number of dnc.org
+  email accounts. 117
 
 The GRU spearphishing operation enabled it to gain access to numerous email accounts of
 Clinton campaign employees and volunteers, including campaign chairman John Podesta, junior
 volunteers assigned to the Clinton campaign's advance team, informal Clinton campaign
 advisors, and a DNC employee. 118 GRU officers stole tens of thousands of emails from
-spearphishing victims, including various Clinton campaign-related communications. download malware that enables the sender to gain access to an account or network. Netyksho indictment
-~ 10. 113
+spearphishing victims, including various Clinton campaign-related communications.
 
- Bitcoin mining consists of unlocking new bitcoins by solving computational problems. Ill
+[^113]: Bitcoin mining consists of unlocking new bitcoins by solving computational problems. Ill
 1111 kept its newly mined coins in an account on the bitcoin exchange platform CEX.io. To make
 purchases, the GRU routed funds into other accounts through transactions designed to obscure the source
-of funds. Netyksho indictment~ 62. 
-[^114]: Netyksho indictment~ 69. 
-[^115]: Netyksho indictment~ 9. 
-[^116]: See SM-2589105, serials 144 & 495. 118 investigative technique
- 2. intrusions into the DCCC and DNC networks
- a. initial Access
+of funds. Netyksho indictment ¶ 62.
+[^114]: Netyksho indictment ¶ 69.
+[^115]: Netyksho indictment ¶ 9.
+[^116]: See SM-2589105, serials 144 & 495. 118 **\[ REDACTED: Investigative Technique \]**
+
+#### 2. intrusions into the DCCC and DNC networks
+
+##### a. initial Access
 
 By no later than April 12, 2016, the GRU had gained access to the DCCC computer
 network using the credentials stolen from a DCCC employee who had been successfully
-spearphished the week before. Over the ensuing weeks, the GRU traversed the network, identifying different computers connected to the DCCC network. By stealing network access
+spearphished the week before. Over the ensuing weeks, the GRU traversed the network,
+identifying different computers connected to the DCCC network. By stealing network access
 credentials along the way (including those of IT administrators with unrestricted access to the
 system), the GRU compromised approximately 29 different computers on the DCCC network. 119
 
-approximately six days after first hacking into the DCCC network, on April 18, 2016, GRU officers gained access to the DNC network via a virtual private network (VPN) connection 120
+Approximately six days after first hacking into the DCCC network, on April 18, 2016,
+GRU officers gained access to the DNC network via a virtual private network (VPN)
+connection 120 Between the DCCC and DNC networks. 121 Between April 18, 2016 and
+June 8, 2016, Unit 26165 compromised more than 30 computers on the DNC network,
+including the DNC mail server and shared file server. 122
 
-between the DCCC and DNC networks. 121 between April 18, 2016 and June 8, 2016, Unit 26165
-
-compromised more than 30 computers on the DNC network, including the DNC mail server and
-shared file server. 
-[^122]: b. implantation of Ma/ware on DCCC and DNC networks
+##### b. implantation of Malware on DCCC and DNC networks
 
 Unit 26165 implanted on the DCCC and DNC networks two types of customized
 malware, 123 known as "X-Agent" and "X-Tunnel "; Mimikatz, a credential-harvesting tool ; and
 rar.exe, a tool used in these intrusions to compile and compress materials for exfiltration. X-Agent
-was a multi -function hacking tool that allowed Unit 26165 to log keystrokes, take screenshots, and
+was a multi-function hacking tool that allowed Unit 26165 to log keystrokes, take screenshots, and
 gather other data about the infected computers (e.g., file directories, operating systems). 124 X-
 Tunnel was a hacking tool that created an encrypted connection between the victim DCCC/DNC
 computers and GRU-controlled computers outside the DCCC and DNC networks that was capable
-of large -scale data transfers. 125 GRU officers then used X-Tunnel to exfiltrate stolen data from the
-victim computers. 
+of large-scale data transfers. 125 GRU officers then used X-Tunnel to exfiltrate stolen data from the
+victim computers.
+
+[^119]: **\[ REDACTED: Investigative Technique \]**
 [^120]: A VPN extends a private network, allowing users to send and receive data across public
 networks (such as the Internet) as if the connecting computer was directly connected to the private network. The VPN in this case had been created to give a small number of DCCC employees access to certain
 databases housed on the DNC network. therefore, while the DCCC employees were outside the DNC's
-private network, they could access parts of the DNC network from their DCCC computers. investigative technique
- investigative technique
-
-[^123]: "malware" is short for malicious software, and here refers to software designed to allow a third
-party to infiltrate a computer without the consent or knowledge of the computer's user or operator. 
-[^124]: investigative technique
-
-[^125]: investigative technique
+private network, they could access parts of the DNC network from their DCCC computers.
+[^121]: **\[ REDACTED: Investigative Technique \]**
+[^122]: **\[ REDACTED: Investigative Technique \]**
+[^123]: "malware" is short for malicious software, and here refers to software designed to allow a third party to infiltrate a computer without the consent or knowledge of the computer's user or operator.
+[^124]: **\[ REDACTED: Investigative Technique \]**
+[^125]: **\[ REDACTED: Investigative Technique \]**
 
 To operate X-Agent and X-Tunnel on the DCCC and DNC networks, Unit 26165 officers
 set up a group of computers outside those networks to communicate with the implanted
 malware. 126 The first set of GRU-controlled computers, known by the GRU as "middle servers,"
 sent and received messages to and from malware on the DNC/DCCC networks. The middle
-servers, in turn, relayed messages to a second set of GRU-controlled com;§'ters, labeled internally
-by the GRU as an "AMS Panel." The AMS Panel jjjff 11'•§\1flffl 1•j'1·- served as a
+servers, in turn, relayed messages to a second set of GRU-controlled computers, labeled internally
+by the GRU as an "AMS Panel." The AMS Panel **\[ REDACTED: Investigative Technique \]** served as a
 nerve center through which GRU officers monitored and directed the malware's operations on the
-DNC/DCCC networks. 
-[^127]: !. •. • • •
- : investigative technique
-investigative technique
+DNC/DCCC networks. 127
 
-investigative technique
- 
-[^126]: In connection with these intrusions, the GRU used computers (virtual private networks, alia, -~-~-Ii
- dedicated servers operated by hosting companies, etc.) that it leased from third-party providers located all
- over the world. The investigation identified rental agreements and payments for computers located in, inter
-targeting the U.S. election. 
-[^127]: IIMliilili
- Netyksho indictment ,r25. all of which were used in the operations
- 
-[^128]: Netyksho indictment ,r24(c). 
-[^129]: Netyksho indictment ,r24(b). The Arizona-based AMS Panel also stored thousands of files containing keylogging
+The AMS Panel used to control X-Agent during the DCCC and DNC intrusions was
+housed on a leased computer located near **\[ REDACTED: Investigative Technique \]**
+Arizona. 128 **\[ REDACTED: Investigative Technique \]**
+
+**\[ REDACTED: Investigative Technique \]**
+**\[ REDACTED: Investigative Technique \]**
+
+[^126]: In connection with these intrusions, the GRU used computers (virtual private networks,
+ dedicated servers operated by hosting companies, etc.) that it leased from third-party
+ providers located all over the world. The investigation identified rental agreements
+ and payments for computers located in, inter alia, **\[ REDACTED: Investigative Technique \]**
+ all of which were used in the operations targeting the U.S. election.
+[^127]: Netyksho indictment ¶ 25.
+[^128]: Netyksho indictment ¶ 4(c).
+[^129]: Netyksho indictment ¶ 4(b).
+
+The Arizona-based AMS Panel also stored thousands of files containing keylogging
 sessions captured through X-Agent. These sessions were captured as GRU officers monitored
-DCCC and DNC employees' work on infected computers regularly between April 2016 and June
-2016. Data captured in these keylogging sessions included passwords, internal communications
-between employees, banking information, and sensitive personal information. c. Theft of documents from DNC and DCCC networks
- officers from Unit 26165 stole thousands of documents from the DCCC and DNC
-networks, including significant amounts of data pertaining to the 2016 U.S. federal elections. Stolen documents included internal strategy documents, fundraising data, opposition research, and
-emails from the work inboxes of DNC employeesY 
-[^0]: The GRU began stealing DCCC data shortly after it gained access to the network. On April
-14, 2016 (approximately three days after the initial intrusion) GRU officers downloaded rar .exe
+DCCC and DNC employees' work on infected computers regularly between April 2016 and June 2016.
+Data captured in these keylogging sessions included passwords, internal communications
+between employees, banking information, and sensitive personal information.
+
+##### c. Theft of documents from DNC and DCCC networks
+
+officers from Unit 26165 stole thousands of documents from the DCCC and DNC
+networks, including significant amounts of data pertaining to the 2016 U.S. federal elections. Stolen documents included internal strategy documents, fundraising data, opposition research, and emails from the work inboxes of DNC employees. 130
+
+The GRU began stealing DCCC data shortly after it gained access to the network. On April
+14, 2016 (approximately three days after the initial intrusion) GRU officers downloaded `rar.exe`
 onto the DCCC's document server. The following day, the GRU searched one compromised
 DCCC computer for files containing search terms that included "Hillary ," "DNC, " "Cruz ," and
 "Trump." 131 On April 25, 2016, the GRU collected and compressed PDF and Microsoft documents
 from folders on the DCCC's shared file server that pertained to the 2016 election. 132 The GRU
-appears to have compressed and exfiltrated over 70 gigabytes of data from this file server. 
-[^133]: The GRU also stole documents from the DNC network shortly after gaining access. On
-April 22, 2016, the GRU copied files from the DNC network to GRU-controlled computers. Stolen
-documents included the DNC's opposition research into candidate Trump .134 between
-approximately May 25, 2016 and June 1, 2016, GRU officers accessed the DNC's mail server
-from a GRU-controlled computer leased inside the United States. 135 During these connections, 
-[^130]: Netyksho indictment ¶¶ 27-29 ; investigative technique
- 
-[^131]: investigative technique
- investigative technique
- investigative technique
- · investigative technique
- SM-2589105-HACK, serial 5. investigative technique
+appears to have compressed and exfiltrated over 70 gigabytes of data from this file server. 133
 
-135 investigative technique
-- See SM-2589105-GJ, serial 649. As part of its investigation, the FBI later received images ofDNC
-servers and copies of relevant traffic logs. Netyksho indictment ¶¶ 28-29. Unit 26165 officers appear to have stolen thousands of emails and attachments, which were later
-released by WikiLeaks in July 2016. 136
+The GRU also stole documents from the DNC network shortly after gaining access. On
+April 22, 2016, the GRU copied files from the DNC network to GRU-controlled computers. Stolen
+documents included the DNC's opposition research into candidate Trump. 134 between
+approximately May 25, 2016 and June 1, 2016, GRU officers accessed the DNC's mail server
+from a GRU-controlled computer leased inside the United States. 135 During these connections,
+
+[^130]: Netyksho indictment ¶¶ 27-29 ; **\[ REDACTED: Investigative Technique \]**
+[^131]: **\[ REDACTED: Investigative Technique \]**
+[^132]: **\[ REDACTED: Investigative Technique \]**
+[^133]: **\[ REDACTED: Investigative Technique \]**
+[^134]: **\[ REDACTED: Investigative Technique \]** SM-2589105-HACK, serial 5. **\[ REDACTED: Investigative Technique \]**
+[^135]: **\[ REDACTED: Investigative Technique \]** See SM-2589105-GJ, serial 649. As part of its investigation, the FBI later received images ofDNC servers and copies of relevant traffic logs. Netyksho indictment ¶ 28-29.
+
+Unit 26165 officers appear to have stolen thousands of emails and attachments, which were later released by WikiLeaks in July 2016. 136
 
 ### B. dissemination of the Hacked materials
 
 The GRU's operations extended beyond stealing materials, and included releasing
 documents stolen from the Clinton campaign and its supporters. The GRU carried out the
 anonymous release through two fictitious online personas that it created-DCLeaks and Guccifer
-2.0-and later through the organization WikiLeaks. 1. DCLeaks
+2.0-and later through the organization WikiLeaks.
+
+#### 1. DCLeaks
 
 The GRU began planning the releases at least as early as April 19, 2016, when Unit 26165
 
@@ -1100,9 +1111,13 @@ registered the domain dcleaks.com through a service that anonymized the registra
 
 paid for the registration using a pool of bitcoin that it had mined. 138 The dcleaks.com landing page
 pointed to different tranches of stolen documents, arranged by victim or subject matter. Other
-dcleaks.compages contained indexes of the stolen emails that were being released (bearing the
+dcleaks.com pages contained indexes of the stolen emails that were being released (bearing the
 sender, recipient, and date of the email). To control access and the timing of releases, pages were
-sometimes password-protected for a period of time and later made unrestricted to the public. starting in June 2016, the GRU posted stolen documents onto the website dcleaks.com, including documents stolen from a number of individuals associated with the Clinton campaign. These documents appeared to have originated from personal email accounts (in particular, Google
+sometimes password-protected for a period of time and later made unrestricted to the public.
+
+Starting in June 2016, the GRU posted stolen documents onto the website dcleaks.com,
+including documents stolen from a number of individuals associated with the Clinton campaign.
+These documents appeared to have originated from personal email accounts (in particular, Google
 and Microsoft accounts), rather than the DNC and DCCC computer networks. DCLeaks victims
 included an advisor to the Clinton campaign, a former DNC employee and Clinton campaign
 employee, and four other campaign volunteers. 139 The GRU released through dcleaks.com
@@ -1110,48 +1125,47 @@ thousands of documents, including personal identifying and financial information
 correspondence related to the Clinton campaign and prior political jobs, and fundraising files and
 information. 140
 
+[^136]: Netyksho indictment ¶ 29. The last-in-time DNC email released by WikiLeaks was dated May 25, 2016, the same period of time during which the GRU gained access to the DNC's email server. Netyksho indictment ¶ 45.
+[^137]: Netyksho indictment ¶ 5. approximately a week before the registration of dcleaks.com, the same actors attempted to register the website electionleaks.com using the same domain registration service. **\[ REDACTED: Investigative Technique \]**
+[^138]: See SM-2589105, serial 181; Netyksho indictment ¶ 2l(a).
+[^139]: **\[ REDACTED: Investigative Technique \]**
+[^140]: See, e.g., Internet archive, "https://dcleaks.com/" (archive date Nov. 10, 2016). Additionally, DCLeaks released documents relating to **\[ REDACTED: Personal Privacy \]**, emails belonging to **\[ REDACTED: Personal Privacy \]**, and emails from 2015 relating to Republican Party employees (under the portfolio name "The United States republican Party"). "The United States republican Party" portfolio contained approximately 300 emails from a variety of GOP members, PACs, campaigns, state parties, and businesses dated between May and October 2015. according to open-source reporting, these victims shared the same Tennessee-based web-hosting company, called Smartech corporation. William Bastone, RNC E-Mail Was, In Fact, Hacked By Russians, The smoking Gun (Dec. 13, 2016).
 
-[^136]: Netyksho indictment ¶ 29. The last-in-time DNC email released by WikiLeaks was dated May
-25, 2016, the same period of time during which the GRU gained access to the DNC's email server. Netyksho indictment ¶ 45. 
-[^137]: Netyksho indictment ¶ 35. approximately a week before the registration of dcleaks.com, the
-same actors attempted to register the website electionleaks.com using the same domain registration service. 
-[^138]: See SM-2589105, serial 181; Netyksho indictment ¶ 2l(a). 
-[^140]: See, e.g., Internet archive, "https://dcleaks.com/" archive date Nov. 10, 2016). additionally, DCLeaks released documents relating to, emails belonging
-to_, and emails from 2015 relating to republican Party employees (under the portfolio name
- "The United States republican Party"). "The United States republican Party" portfolio contained
- approximately 300 emails from a variety of GOP members, PACs, campaigns, state parties, and businesses
- dated between May and October 2015. according to open-source reporting, these victims shared the same
  GRU officers operated a Facebook page under the DCLeaks moniker, which they primarily
  used to promote releases of materials. 141 The Facebook page was administered through a small
- number of preexisting GRU-controlled Facebook accounts. 
-[^142]: GRU officers also used the DCLeaks Facebook account, the Twitter account `@dcleaks_`, and the email account `dcleaksproject@gmail.com` to communicate privately with reporters and
-· other U.S. persons. GRU officers using the DCLeaks persona gave certain reporters early access
- to archives of leaked files by sending them links and passwords to pages on the dcleaks.com
- website that had not yet become public. For example, on July 14, 2016, GRU officers operating
- under the DCLeaks persona sent a link and password for a non-public DCLeaks webpage to a U.S. reporter via the Facebook account. 143 similarly, on September 14, 2016, GRU officers sent
- reporters Twitter direct messages from `@dcleaks_`, with a password to another non-public part of
- the dcleaks.com website. 
-[^144]: The DCLeaks.com website remained operational and public until March 2017. 2. Guccifer 2.
-[^0]: On June 14, 2016, the DNC and its cyber-response team announced the breach of the DNC
- network and suspected theft of DNC documents. In the statements, the cyber-response team
- alleged that Russian state-sponsored actors (which they referred to as "Fancy Bear") were
- responsible for the breach. 145 apparently in response to that announcement, on June 15, 2016, GRU officers using the persona Guccifer 2.0 created a WordPress blog. In the hours leading up
- to the launch of that WordPress blog, GRU officers logged into a Moscow-based server used and
- managed by Unit 74455 and searched for a number of specific words and phrases in english, including "some hundred sheets," "illuminati, " and "worldwide known." approximately two
- hours after the last of those searches, Guccifer 2.0 published its first post, attributing the DNC
- server hack to a lone Romanian hacker and using several of the unique english words and phrases
- that the GRU officers had searched for that day. 
-[^146]: Tennessee-based web-hosting company, called Smartech corporation. william Bastone, RNC E-Mail Was, In Fact, Hacked By Russians, The smoking Gun (Dec. 13, 2016). 
-[^141]: Netyksho indictment ,r38. 
-[^142]: See, e.g., Facebook account 100008825623541 (Alice Donovan). 
-[^143]: 7/14/16 Facebook message, ID 793058100795341 (DC Leaks) to ID
- 
-[^144]: See, e. ., 9/14/16 Twitter DM, ; 9/14/16 Twitter OM, `@dcleaks_` to. The messages read: " Hi https://t.co/QTvKUjQc Ox pass :
- KvFsgo/o\*14@gPgu&amp; enjo y;)."
- 
-[^145]: Dmitri Alperovitch, Bears in the Midst: intrusion into the democratic national committee, CrowdStrike Blog (June 14, 2016). Crow dStrike updated its post after the June 15, 2016 post by Guccifer
- 2 .0 claiming responsibility for the intrusion. 
-[^146]: Netyksho indictment ,r,r41-4 2. That same day, June 15, 2016, the GRU also used the Guccifer 2.0 WordPress blog to begin
+ number of preexisting GRU-controlled Facebook accounts. 142
+
+GRU officers also used the DCLeaks Facebook account, the Twitter account `@dcleaks_`,
+and the email account `dcleaksproject@gmail.com` to communicate privately with reporters and
+other U.S. persons. GRU officers using the DCLeaks persona gave certain reporters early access
+to archives of leaked files by sending them links and passwords to pages on the dcleaks.com
+website that had not yet become public. For example, on July 14, 2016, GRU officers operating
+under the DCLeaks persona sent a link and password for a non-public DCLeaks webpage to a U.S. reporter via the Facebook account. 143 similarly, on September 14, 2016, GRU officers sent
+reporters Twitter direct messages from `@dcleaks_`, with a password to another non-public part of
+the dcleaks.com website. 144
+
+The DCLeaks.com website remained operational and public until March 2017.
+
+#### 2. Guccifer 2.0
+
+On June 14, 2016, the DNC and its cyber-response team announced the breach of the DNC
+network and suspected theft of DNC documents. In the statements, the cyber-response team
+alleged that Russian state-sponsored actors (which they referred to as "Fancy Bear") were
+responsible for the breach. 145 apparently in response to that announcement, on June 15, 2016, GRU officers using the persona Guccifer 2.0 created a WordPress blog. In the hours leading up
+to the launch of that WordPress blog, GRU officers logged into a Moscow-based server used and
+managed by Unit 74455 and searched for a number of specific words and phrases in English, including "some hundred sheets," "illuminati, " and "worldwide known." approximately two
+hours after the last of those searches, Guccifer 2.0 published its first post, attributing the DNC
+server hack to a lone Romanian hacker and using several of the unique English words and phrases
+that the GRU officers had searched for that day. 146
+
+[^141]: Netyksho indictment ¶ 38.
+[^142]: See, e.g., Facebook account 100008825623541 (Alice Donovan).
+[^143]: 7/14/16 Facebook message, ID 793058100795341 (DC Leaks) to ID **\[ REDACTED: Personal Privacy \]**
+[^144]: See, e.g., 9/14/16 Twitter DM, `@dcleaks_` to **\[ REDACTED: Personal Privacy \]**; 9/14/16 Twitter DM, `@dcleaks_` to **\[ REDACTED: Personal Privacy \]**. The messages read: `Hi https://t.co/QTvKUjQcOx pass: KvFsg%\*14@gPgu&amp; enjoy;).`
+[^145]: Dmitri Alperovitch, Bears in the Midst: intrusion into the democratic national committee, CrowdStrike Blog (June 14, 2016). CrowdStrike updated its post after the June 15, 2016 post by Guccifer 2.0 claiming responsibility for the intrusion.
+[^146]: Netyksho indictment ¶ 41-42.
+
+That same day, June 15, 2016, the GRU also used the Guccifer 2.0 WordPress blog to begin
 releasing to the public documents stolen from the DNC and DCCC computer networks. The
 Guccifer 2.0 persona ultimately released thousands of documents stolen from the DNC and DCCC
 in a series of blog posts between June 15, 2016 and October 18, 2016. 147 released documents
@@ -1160,130 +1174,169 @@ potential criticisms of candidate Trump), internal policy documents (such as rec
 how to address politically sensitive issues), analyses of specific congressional races, and
 fundraising documents. releases were organized around thematic issues, such as specific states
 (e.g., Florida and Pennsylvania) that were perceived as competitive in the 2016 U.S. presidential
-election. beginning in late June 2016, the GRU also used the Guccifer 2.0 persona to release
+election.
+
+Beginning in late June 2016, the GRU also used the Guccifer 2.0 persona to release
 documents directly to reporters and other interested individuals. specifically, on June 27, 2016, Guccifer 2.0 sent an email to the news outlet The smoking Gun offering to provide "exclusive
 access to some leaked emails linked \[to\] Hillary Clinton's staff." 148 The GRU later sent the
 reporter a password and link to a locked portion of the dcleaks.com website that contained an
 archive of emails stolen by Unit 26165 from a Clinton campaign volunteer in March 2016. 149 That
 the Guccifer 2.0 persona provided reporters access to a restricted portion of the DCLeaks website
 tends to indicate that both personas were operated by the same or a closely-related group of
-people. 1so
+people. 150
 
 The GRU continued its release efforts through Guccifer 2.0 into August 2016. For
 example, on August 15, 2016, the Guccifer 2.0 persona sent a candidate for the U.S. congress
 documents related to the candidate's opponent. 1st On August 22, 2016, the Guccifer 2.0 persona
-transferred approximately 2.5 gigabytes of Florida-related data stolen from the DCCC to a U.S. blogger covering Florida politics. 1s2 On August 22, 2016, the Guccifer 2.0 persona sent a U.S. reporter documents stolen from the DCCC pertaining to the Black Lives Matter movement. 1s3
-
+transferred approximately 2.5 gigabytes of Florida-related data stolen from the DCCC to a U.S. blogger covering Florida politics. 152 On August 22, 2016, the Guccifer 2.0 persona sent a U.S. reporter documents stolen from the DCCC pertaining to the Black Lives Matter movement. 153
 
 [^147]: releases of documents on the Guccifer 2.0 blog occurred on June 15, 2016; June 20, 2016; June
-21, 2016; July 6, 2016; July 14, 2016; August 12, 2016; August 15, 2016; August 21, 2016; August 31, 2016; September 15, 2016; September 23, 2016; October 4, 2016; and October 18, 2016. ~~ccifer20@aol.fr to (subject "leaked emails"); ■
-
-[^149]: 6/27/16 Email, uccifer20 @aol.fr to (subject "leaked emails" ;
- ; see also 6127/16 uccifer20@aol.fr to
-(subject "leaked emails"); (claiming DCLeaks was a "Wikileaks sub
-project"). 
+21, 2016; July 6, 2016; July 14, 2016; August 12, 2016; August 15, 2016; August 21, 2016; August 31, 2016; September 15, 2016; September 23, 2016; October 4, 2016; and October 18, 2016.
+[^148]: 6/27/16 Email, guccifer20@aol.fr to **\[ REDACTED: Personal Privacy \]** (subject "leaked emails"); **\[ REDACTED: Investigative Technique \]**
+[^149]: 6/27/16 Email, guccifer20 @aol.fr to **\[ REDACTED: Personal Privacy \]** (subject "leaked emails"); **\[ REDACTED: Investigative Technique \]**; see also 6127/16 guccifer20@aol.fr to **\[ REDACTED: Personal Privacy \]** (subject "leaked emails"); **\[ REDACTED: Investigative Technique \]** (claiming DCLeaks was a "Wikileaks sub project").
 [^150]: Before sending the reporter the link and password to the closed DCLeaks website, and in an
 apparent effort to deflect attention from the fact that DCLeaks and Guccifer 2.0 were operated by the same
-organization, the Guccifer 2.0 persona sent the repm1er an email stating that DCLeaks was a "Wikileaks
+organization, the Guccifer 2.0 persona sent the reporter an email stating that DCLeaks was a "Wikileaks
 subproject" and that Guccifer 2.0 had asked DCLeaks to release the leaked emails with "closed access" to
-give reporters a preview of them. 
-[^151]: Netyksho indictment ,r43(a). 
-[^152]: Netyksho indictment ,r43(b). 
-[^153]: Netyksho indictment ,r43(c). In early August 2016, Twitter's suspension of the
+give reporters a preview of them.
+[^151]: Netyksho indictment ¶ 3(a).
+[^152]: Netyksho indictment ¶ 3(b).
+[^153]: Netyksho indictment ¶ 3(c).
+
+The GRU was also in contact through the Guccifer 2.0 persona with **\[ REDACTED: Harm to Ongoing Matter \]**
+a former Trump Campaign member **\[ REDACTED: Harm to Ongoing Matter \]** 154
+In early August 2016, **\[ REDACTED: Harm to Ongoing Matter \]** Twitter's suspension of the
 Guccifer 2.0 Twitter account. After it was reinstated, GRU officers posing as Guccifer 2.0 wrote
-1;c•)Wp ,¶a private message, "thank u for writing back ... do u find anyt\[h\]ing interesting in the
-docs i posted? " On August 17, 2016, the GRU added, "please tell me if i can help u anyhow. .. it would be a great pleasure to me." On September 9, 2016, the
-Guccifer 2.0-referred to a stolen DCCC document posted online and asked •
- GRUi;(T);f posing as
- "what do u
-think of the info on the turnout model for the democrats entire presidential campaign. " -
-responded, "pretty standard. " 155 The investigation did not identify evidence of other
-communications between- and Guccifer 2.0. 3. Use of WikiLeaks
+**\[ REDACTED: Harm to Ongoing Matter \]** via private message,
+`thank u for writing back ... do u find anyt\[h\]ing interesting in the docs i posted?`
+On August 17, 2016, the GRU added,
+`please tell me if i can help u anyhow. .. it would be a great pleasure to me.`
+On September 9, 2016, the Guccifer 2.0-referred to a stolen DCCC document posted online and asked
+**\[ REDACTED: Harm to Ongoing Matter \]**
+`what do u think of the info on the turnout model for the democrats entire presidential campaign.`
+**\[ REDACTED: Harm to Ongoing Matter \]**
+responded, `pretty standard.` 155 The investigation did not identify evidence of other
+communications between **\[ REDACTED: Harm to Ongoing Matter \]** and Guccifer 2.0.
+
+#### 3. Use of WikiLeaks
 
 In order to expand its interference in the 20 I 6 U.S. presidential election, the GRU units
 transferred many of the documents they stole from the DNC and the chairman of the Clinton
 campaign to WikiLeaks. GRU officers used both the DCLeaks and Guccifer 2 .0 personas to
-communicate with WikiLeaks through Twitter private messaging and through encrypted channels, including possibly through WikiLeaks's private communication system. . a. WikiLeaks's expressed opposition Toward the Clinton campaign
+communicate with WikiLeaks through Twitter private messaging and through encrypted channels, including possibly through WikiLeaks's private communication system.
+
+##### a. WikiLeaks's expressed opposition Toward the Clinton campaign
 
 WikiLeaks, and particularly its founder Julian Assange, privately expressed opposition to
 candidate Clinton well before the first release of stolen documents. In November 2015, Assange
-wrote to other members and associates of WikiLeaks that "\[w\]e believe it would be much better
-for GOP to win ... Dems +Media + liberals woudl \[sic\] then form a block to reign in their worst
-qualities. . . . With Hillary in charge, GOP will be pushing for her worst qualities., dems+media+neoliberals will be mute. ... She's a bright, well connected, sadisitic sociopath ." 156
+wrote to other members and associates of WikiLeaks that
+
+> [w]e believe it would be much better for GOP to win ... Dems+Media+liberals
+> woudl [sic] then form a block to reign in their worst qualities.... With
+> Hillary in charge, GOP will be pushing for her worst qualities.,
+> dems+media+neoliberals will be mute.... She's a bright, well connected,
+> sadistic sociopath. 156
 
 In March 2016, WikiLeaks released a searchable archive of approximately 30 ,000 Clinton
 emails that had been obtained through FOIA litigation. 157 While designing the archive, one
 WikiLeaks member explained the reason for building the archive to another associate:
- 
-[^154]: 155 **\[ REDACTED: Harm to Ongoing Matter \]** 
+
+> We want this repository to become "the place" to search for background on Hillary's
+> plotting at the state department during 2009-2013.... firstly because its useful and will
+> annoy Hillary, but secondly because we want to be seen to be a resource/player in the US
+> election, because eit [sic] may en[]courage people to send us even more important leaks. 158
+
+[^154]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^155]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^156]: 1l/1 9/ 15 Twitter Group Chat, Group ID 594242937858486276, @WikiLeaks et al. Assange
-also wrote that, "GOP will generate a lot oposition \[sic\], including through dumb moves. Hillary will do
+also wrote that, `GOP will generate a lot oposition \[sic\], including through dumb moves. Hillary will do
 the same thing, but co-opt the liberal opposition and the GOP opposition. Hence biliary has greater freedom
-to start wars than the GOP and has the will to do so." Id. 
-[^157]: WikiLeaks, "Hillary Clinton Email archive," available at https://wikileaks.org/clinton-emai ls/. \[W\]e want this repository to become "the place" to search for background on hillary's
- plotting at the state department during 2009-2013. . . . firstly because its useful and will
- annoy Hillary, but secondly because we want to be seen to be a resource/player in the US
- election, because eit \[sic\] may en\[\]courage people to send us even more important leaks. 
-[^158]: b. WikiLeaks's First contact with Guccifer 2.0 and DCLeaks
- shortly after the GRU's first release of stolen documents through dcleaks.com in June
+to start wars than the GOP and has the will to do so.` Id.
+[^157]: WikiLeaks, "Hillary Clinton Email archive," available at https://wikileaks.org/clinton-emails/.
+
+##### b. WikiLeaks's First contact with Guccifer 2.0 and DCLeaks
+
+Shortly after the GRU's first release of stolen documents through dcleaks.com in June
 2016, GRU officers also used the DCLeaks persona to contact WikiLeaks about possible
 coordination in the future release of stolen emails. On June 14, 2016, `@dcleaks_` sent a direct
-message to `@WikiLeaks`, noting, "You announced your organization was preparing to publish
-more Hillary's emails. We are ready to support you. We have some sensitive information too, in
-particular, her financial documents. Let's do it to ether. What do you think about publishing our
-info at the same moment? thankyou." 
-[^159]: Around the same time, WikiLeaks initiated communications with the GRU persona
-Guccifer 2.0 shortly after it was used to release documents stolen from the DNC. On June 22, 2016, seven days after Guccifer 2.0's first releases of stolen DNC documents, WikiLeaks used
-Twitter's direct message function to contact the Guccifer 2.0 Twitter account and suggest that
-Guccifer 2.0 "\[s\]end any new material \[stolen from the DNC\] here for us to review and it will have
-a much higher impact than what you are doing." 
-[^160]: On July 6, 2016, WikiLeaks again contacted Guccifer 2.0 through Twitter's private
-messaging function, writing, "if you have anything hillary related we want it in the next tweo \[sic\]
-days prefab le \[sic\] because the DNC is approaching and she will solidify bernie supporters behind
-her after." The Guccifer 2.0 persona responded, "ok ... i see." WikiLeaks also explained, "we
-think trump has only a 25% chance of winning against hillary ... so conflict between bernie and
-hillary is interesting." 
-[^161]: c. The GRU's transfer of Stolen materials to WikiLeaks
- Both the GRU and WikiLeaks sought to hide their communications, which has limited the
+message to `@WikiLeaks`, noting,
+
+> You announced your organization was preparing to publish
+> more Hillary's emails. We are ready to support you. We have some sensitive information too, in
+> particular, her financial documents. Let's do it to ether. What do you think about publishing our
+> info at the same moment? Thank you. 159
+
+**\[ REDACTED: Investigative Technique \]**
+
+Around the same time, WikiLeaks initiated communications with the GRU persona
+Guccifer 2.0 shortly after it was used to release documents stolen from the
+DNC. On June 22, 2016, seven days after Guccifer 2.0's first releases of
+stolen DNC documents, WikiLeaks used Twitter's direct message function to
+contact the Guccifer 2.0 Twitter account and suggest that Guccifer 2.0
+
+> \[s\]end any new material \[stolen from the DNC\] here for us to review and it will have
+> a much higher impact than what you are doing." 160
+
+On July 6, 2016, WikiLeaks again contacted Guccifer 2.0 through Twitter's private
+messaging function, writing,
+
+> if you have anything Hillary related we want it in the next tweo \[sic\]
+> days prefab le \[sic\] because the DNC is approaching and she will
+> solidify Bernie supporters behind her after.
+
+The Guccifer 2.0 persona responded, `ok ... i see.` WikiLeaks also explained,
+
+> we think trump has only a 25% chance of winning against Hillary... so conflict
+> between Bernie and Hillary is interesting. 161
+
+##### c. The GRU's transfer of Stolen materials to WikiLeaks
+
+Both the GRU and WikiLeaks sought to hide their communications, which has limited the
 Office's ability to collect all of the communications between them. Thus, although it is clear that
-the stolen DNC and Podesta documents were transferred from the GRU to WikiLeaks, -
-investigative technique
+the stolen DNC and Podesta documents were transferred from the GRU to WikiLeaks,
+**\[ REDACTED: Investigative Technique \]**
 
 [^158]: 3/14/16 Twitter DM, `@WikiLeaks` to Less than two weeks earlier, the same
-account had been used to send a private message opposing the idea of Clinton " in whitehouse with her
-bloodlust and amitions \[sic\] of empire with hawkish liberal-interventionist appointees." 11/19/15 Twitter
-Group Chat, Group ID 594242937858486276, @WikiLeaks et al. 
-[^159]: 6/14/16 Twitter DM, `@dcleaks_` to @WikiLeaks. 
-[^160]: Netyksho indictment ,r47(a). 
-[^161]: 7/6/16 Twitter DMs, @WikiLeaks & @g uccifer_2. The Office was able to identify when the GRU (operating through its personas Guccifer 2.0
+account had been used to send a private message opposing the idea of Clinton `in whitehouse with her
+bloodlust and amitions \[sic\] of empire with hawkish liberal-interventionist appointees.` 11/19/15 Twitter
+Group Chat, Group ID 594242937858486276, @WikiLeaks et al.
+[^159]: 6/14/16 Twitter DM, `@dcleaks_` to @WikiLeaks.
+[^160]: Netyksho indictment ¶ 7(a).
+[^161]: 7/6/16 Twitter DMs, @WikiLeaks & @guccifer_2.
 
+The Office was able to identify when the GRU (operating through its personas Guccifer 2.0
 and DCLeaks) transferred some of the stolen documents to WikiLeaks through online archives set
-up by the GRU. Assan e had access to the Internet from the Ecuadorian embassy in London, England. On July 14, 2016, GRU officers used a Guccifer 2.0 email account to send WikiLeaks an
+up by the GRU. Assan e had access to the Internet from the Ecuadorian embassy in London, England.
+**\[ REDACTED: Investigative Technique \]**
+
+On July 14, 2016, GRU officers used a Guccifer 2.0 email account to send WikiLeaks an
 email bearing the subject "big archive" and the message "a new attempt." 163 The email contained
-an encrypted attachment with the name "wk dnc link I .txt.gpg." 164 Using the Guccifer 2.0 Twitter
+an encrypted attachment with the name "wk dnc link1.txt.gpg." 164 Using the Guccifer 2.0 Twitter
 account, GRU officers sent WikiLeaks an encrypted file and instructions on how to open it. 165 On
 July 18, 2016, WikiLeaks confirmed in a direct message to the Guccifer 2.0 account that it had
 "the 1Gb or so archive" and would make a release of the stolen documents "this week." 166 On
 July 22, 2016, WikiLeaks released over 20,000 emails and other documents stolen from the DNC
-computer networks. 167 The democratic national convention began three days later. similar communications occurred between WikiLeaks and the GRU-operated persona
+computer networks. 167 The democratic national convention began three days later.
+
+Similar communications occurred between WikiLeaks and the GRU-operated persona
 DCLeaks. On September 15, 2016, `@dcleaks` wrote to `@WikiLeaks`, "hi there! I'm from DC
 Leaks. How could we discuss some submission-related issues? Am trying to reach out to you via
 your secured chat but getting no response. I've got something that might interest you. You won't
 be disappointed, I promise. " 168 The WikiLeaks account responded, "Hi there ," without further
-elaboration. The `@dcleaks_` account did not respond immediately. The same day, the Twitter account@guccifer_2 sent `@dcleaks_` a direct message, which
-is the first known contact between the personas. 169 During subsequent communications, the
+elaboration. The `@dcleaks_` account did not respond immediately.
 
-[^163]: This was not the GRU's first attempt at transferring data to WikiLeaks. On June 29, 2016, the
-GRU used a Guccifer 2.0 email accou~ted file to a WikiLeak s email account. 6/29/16 Email, guccifer2@mail.com ~ (The email appears to have been
-undelivered.)
+The same day, the Twitter account@guccifer_2 sent `@dcleaks_` a direct message,
+which is the first known contact between the personas. 169 During subsequent
+communications, the Guccifer 2.0 persona informed DCLeaks that WikiLeaks was
+trying to contact DCLeaks and arrange for a way to speak through encrypted emails. 170
 
-[^164]: See SM-2589105-DCLEAKS, serial 28 (analysis). 
-[^165]: 6/27/16 Twitter DM, `@Guccifer_2` to `@WikiLeaks`. 
-[^166]: 7/18/16 Twitter OM, `@Guccifer_2` & `@WikiLeaks`. 
-[^167]: "DNC Email archive," WikiLeaks (Jul. 22, 2016), available at https://wikileaks.org/dnc-emails. 
-[^168]: 9/15/16 Twitter DM, `@dcleaks_` to `@WikiLeaks`. 
-[^169]: 9/15/16 Twitter DM, `@guccifer_2` to `@dcleaks_`. Guccifer 2.0 persona informed DCLeaks that WikiLeaks was trying to contact DCLeaks and
-arrange for a way to speak through encrypted emails. 170
+[^163]: This was not the GRU's first attempt at transferring data to WikiLeaks. On June 29, 2016, the GRU used a Guccifer 2.0 email accounted file to a WikiLeak s email account. 6/29/16 Email, guccifer2@mail.com ~ (The email appears to have been undelivered.)
+[^164]: See SM-2589105-DCLEAKS, serial 28 (analysis).
+[^165]: 6/27/16 Twitter DM, `@Guccifer_2` to `@WikiLeaks`.
+[^166]: 7/18/16 Twitter OM, `@Guccifer_2` & `@WikiLeaks`.
+[^167]: "DNC Email archive," WikiLeaks (Jul. 22, 2016), available at https://wikileaks.org/dnc-emails.
+[^168]: 9/15/16 Twitter DM, `@dcleaks_` to `@WikiLeaks`.
+[^169]: 9/15/16 Twitter DM, `@guccifer_2` to `@dcleaks_`.
 
 An analysis of the metadata collected from the WikiLeaks site revealed that the stolen
 Podesta emails show a creation date of September 19, 2016. 171 Based on information about
@@ -1294,73 +1347,70 @@ Podesta that were attachments to emails in his account; these documents had a cr
 October 2, 2016, which appears to be the date the attachments were separately staged by
 WikiLeaks on its site. 173
 
-beginning on September 20, 2016, WikiLeaks and DCLeaks resumed communications in
+Beginning on September 20, 2016, WikiLeaks and DCLeaks resumed communications in
 a brief exchange. On September 22, 2016, a DCLeaks email account dcleaksproject@gmail.com
 sent an email to a WikiLeaks account with the subject "submission" and the message "Hi from
-DCLeaks." The email contained a PGP-encrypted with the filename
- lllliliiliiiiil.■lliiljiillllllilili
- 174
-
-"wiki_mail.txt.gpg." The email, however, bears a
+DCLeaks." The email contained a PGP-encrypted with the filename "wiki_mail.txt.gpg." 174
+**\[ REDACTED: Investigative Technique \]** The email, however, bears a
 number of similarities to the July 14, 2016 email in which GRU officers used the Guccifer 2.0
-
 persona to give WikiLeaks access to the archive of DNC files. On September 22, 2016 (the same
-day of DCLeaks'email to WikiLeaks), the Twitter account `dcleaks` sent a single message to
+day of DCLeaks' email to WikiLeaks), the Twitter account `dcleaks` sent a single message to
 WikiLeaks with the string of characters
 
 The Office cannot rule out that stolen documents were transferred to WikiLeaks through
 intermediaries who visited during the summer of 2016. For example, public reporting identified
-A d M "'ll M h w·kiL k. t h h. t d "th th t fi fth
- investigative technique
+Andrew Müller-Maguhn as a Wikileaks associate who may have assisted with the
+transfer of these stolen documents to WikiLeaks. 175
+**\[ REDACTED: Investigative Technique \]**
 
-[^170]: See SM-2589105-DCLEAKS,serial 28; 9/15/16 Twitter DM, @Guccifer_2 & @WikiLeaks. 
-[^171]: See SM-2284941, serials 63 & 64 investigative technique
- At the time, certain Apple operating systems used a setting that left a
-downloaded file's creation date the same as the creation date shown on the host computer. This would
-explain why the creation date on WikiLeaks's version of the files was still September 19, 2016. See SM-
-2284941, serial 62 investigative technique
-
-173
-
-When WikiLeaks saved attachments separately from the stolen emails, its computer system
-appears to have treated each attachment as a new file and given it a new creation date. See SM-2284941, serials 63 & 64. 174
-
-See 9/22/16 Email, dcleaksproject@gmail.com
-
+[^170]: See SM-2589105-DCLEAKS, serial 28; 9/15/16 Twitter DM, @Guccifer_2 & @WikiLeaks.
+[^171]: See SM-2284941, serials 63 & 64 **\[ REDACTED: Investigative Technique \]**
+[^172]: **\[ REDACTED: Investigative Technique \]** At the time, certain Apple operating systems used a setting that left a downloaded file's creation date the same as the creation date shown on the host computer. This would explain why the creation date on WikiLeaks's version of the files was still September 19, 2016. See SM-2284941, serial 62 **\[ REDACTED: Investigative Technique \]**
+[^173]: When WikiLeaks saved attachments separately from the stolen emails, its computer system appears to have treated each attachment as a new file and given it a new creation date. See SM-2284941, serials 63 & 64.
+[^174]: See 9/22/16 Email, dcleaksproject@gmail.com
 [^175]: Ellen Nakashima et al., A German Hacker Offers a Rare Look Inside the secretive World of
-Julian Assange and WikiLeaks, Washington Post (Jan. 17, 2018). Mtl:teritl:l
- Proteetetl UAtierFetl. R. Criffl. P. 6(e)
-investigative technique. On October 7, 2016, WikiLeaks released the first emails stolen from the Podesta email
+Julian Assange and WikiLeaks, Washington Post (Jan. 17, 2018).
+
+**\[ REDACTED: Investigative Technique \]** 176
+
+On October 7, 2016, WikiLeaks released the first emails stolen from the Podesta email
 account. In total, WikiLeaks released 33 tranches of stolen emails between October 7, 2016 and
 November 7, 2016. The releases included private speeches given by Clinton; 177 internal
 communications between Podesta and other high-ranking members of the Clinton campaign ; 178
-
 and correspondence related to the Clinton foundation. 179 In total, WikiLeaks released over 50,000
-
 documents stolen from Podesta's personal email account. The last-in-time email released from
 Podesta's account was dated March 21, 2016, two days after Podesta received a spearphishing
-email sent by the GRU. d. WikiLeaks statements dissembling About the Source of Stolen materials
+email sent by the GRU.
+
+##### d. WikiLeaks statements dissembling About the Source of Stolen materials
 
 As reports attributing the DNC and DCCC hacks to the Russian government emerged, WikiLeaks and Assange made several public statements apparently designed to obscure the source
- of the materials that WikiLeaks was releasing. The file-transfer evidence described above and
- other information uncovered during the investigation discredit WikiLeaks's claims about the
- source of material that it posted. beginning in the summer of 2016, Assange and WikiLeaks made a number of statements
- about Seth Rich, a former DNC staff member who was killed in July 2016. The statements about
- Rich implied falsely that he had been the source of the stolen DNC emails. On August 9, 2016, the @WikiLeaks Twitter account posted: "announce: WikiLeaks has decided to issue a
- US$20k reward for information leading to conviction for the murder ofDNC staffer Seth Rich. " 
-[^180]: likewise, on August 25, 2016, Assange was asked in an interview, "Why are you so interested in
- Seth Rich's killer?" and responded, "We're very interested in anything that might be a threat to
- alleged Wikileaks sources. " The interviewer responded to Assange's statement by commenting, " I know you don't want to reveal your source, but it certainly sounds like you're suggesting a man
- who leaked information to WikiLeaks was then murdered." Assange replied, "If there's someone
- who's potentially connected to our publication, and that person has been murdered in suspicious
- t
- 
-[^79]: Netyksho indictment ,r43. 
-[^180]: @WikiLeaks 8/9/16 Tweet. circumstances, it doesn't necessarily mean that the two are connected. But it is a very serious
-matter ... that type of allegation is very serious, as it's taken very seriously by us." 
-[^181]: After the U.S. intelligence community publicly announced its assessment that Russia was
+of the materials that WikiLeaks was releasing. The file-transfer evidence described above and
+other information uncovered during the investigation discredit WikiLeaks's claims about the
+source of material that it posted.
+
+Beginning in the summer of 2016, Assange and WikiLeaks made a number of statements
+about Seth Rich, a former DNC staff member who was killed in July 2016. The statements about
+Rich implied falsely that he had been the source of the stolen DNC emails. On August 9, 2016,
+the @WikiLeaks Twitter account posted: "announce: WikiLeaks has decided to issue a
+US$20k reward for information leading to conviction for the murder of DNC staffer Seth Rich." 180
+likewise, on August 25, 2016, Assange was asked in an interview, "Why are you so interested in
+Seth Rich's killer?" and responded, "We're very interested in anything that might be a threat to
+alleged Wikileaks sources." The interviewer responded to Assange's statement by commenting,
+"I know you don't want to reveal your source, but it certainly sounds like you're suggesting a man
+who leaked information to WikiLeaks was then murdered." Assange replied, "If there's someone
+who's potentially connected to our publication, and that person has been murdered in suspicious
+circumstances, it doesn't necessarily mean that the two are connected. But it is a very serious
+matter ... that type of allegation is very serious, as it's taken very seriously by us." 181
+After the U.S. intelligence community publicly announced its assessment that Russia was
 behind the hacking operation, Assange continued to deny that the Clinton materials released by
 WikiLeaks had come from Russian hacking. according to media reports, Assange told a U.S. congressman that the DNC hack was an "inside job," and purported to have "physical proof that Russians did not give materials to Assange. 182
+
+[^176]: **\[ REDACTED: Investigative Technique \]**
+[^177]: **\[ REDACTED: Personal Privacy \]**
+[^178]: **\[ REDACTED: Personal Privacy \]**
+[^179]: Netyksho indictment ¶ 43.
+[^180]: @WikiLeaks 8/9/16 Tweet.
 
 ### C. additional GRU Cyber operations
 
@@ -1374,18 +1424,16 @@ On July 27 2016, Unit 26165 targeted email accounts connected to candidate Clint
 personal office **\[ REDACTED: Personal Privacy \]**. earlier that day, candidate Trump made public statements that
 included the following: "Russia, if you're listening, I hope you're able to find the 30,000 emails
 that are missing. I think you will probably be rewarded mightily by our press." 183 The "30,000
-
 emails" were apparently a reference to emails described in media accounts as having been stored
 on a personal server that candidate Clinton had used while serving as secretary of State.
 
 Within approximately five hours of Trump's statement, GRU officers targeted for the first
 time Clinton's personal office. After candidate Trump's remarks, Unit 26165 created and sent
 malicious links targeting 15 email accounts at the domain **\[ REDACTED: Personal Privacy \]**
-including an email
-account belonging to Clinton aide **\[ REDACTED: Personal Privacy \]**
-The investigation did not find evidence of earlier
-GRU attempts to compromise accounts hosted on this domain. It is unclear how the GRU was
-able to identify these email accounts, which were not public. 184
+including an email account belonging to Clinton aide **\[ REDACTED: Personal Privacy \]**
+The investigation did not find evidence of earlier GRU attempts to compromise accounts
+hosted on this domain. It is unclear how the GRU was able to identify these email
+accounts, which were not public. 184
 
 Unit 26165 officers also hacked into a DNC account hosted on a cloud-computing service
 **\[ REDACTED: Personal Privacy \]**
@@ -1397,8 +1445,8 @@ The GRU then stole those snapshots by moving
 them to - account that they controlled; from there, the copies were moved to GRU-
 controlled computers. The GRU stole approximately 300 gigabytes of data from the DNC cloud-based account. 185
 
-[^181]: See Assange: "Murdered DNC Staffer Was 'Potential' WikiLeaks Source," Fox News (Aug. 25, 2016)(containing video of Assange interview by Megyn Kelly). 
-[^182]: M. Raju & Z. Cohen, A GOP congressman's Lonely Quest defending Julian Assange, CNN (May 23, 2018). 
+[^181]: See Assange: "Murdered DNC Staffer Was 'Potential' WikiLeaks Source," Fox News (Aug. 25, 2016)(containing video of Assange interview by Megyn Kelly).
+[^182]: M. Raju & Z. Cohen, A GOP congressman's Lonely Quest defending Julian Assange, CNN (May 23, 2018).
 [^183]: "Donald Trump on Russian & missing Hillary Clinton Emails ," YouTube channel C-SPAN, Posted 7/27/16, available at https://www.youtube.com/watch?v=3kxG8uJUsWU (starting at 0:41).
 [^184]: **\[ REDACTED: Investigative Technique \]**
 
@@ -1428,7 +1476,7 @@ local websites for vulnerabilities. For example, over a two-day period in July
 2016, GRU officers **\[ REDACTED: Investigative Technique \]** for
 vulnerabilities on websites of more than two dozen states.
 **\[ REDACTED: Investigative Technique \]**
- 
+
 [^185]: Netyksho indictment ¶ 34; see also SM-2589105-HACK, serial 29 **\[ REDACTED: Investigative Technique \]**
 [^186]: Netyksho indictment ¶ 69.
 [^187]: **\[ REDACTED: Investigative Technique \]**
@@ -1465,8 +1513,8 @@ throughout the summer and fall of 2016. **\[ REDACTED: Harm to Ongoing Matter \]
 
 **\[ REDACTED: Harm to Ongoing Matter \]**
 
-[^191]: Netyksho indictment ¶ 76; **\[ REDACTED: investigative technique \]**
-[^192]: **\[ REDACTED: investigative technique \]**
+[^191]: Netyksho indictment ¶ 76; **\[ REDACTED: Investigative Technique \]**
+[^192]: **\[ REDACTED: Investigative Technique \]**
 
 ##### b. contacts with the campaign about WikiLeaks
 
@@ -1483,15 +1531,15 @@ Paul Manafort, who would later become campaign chairman,
 **\[ REDACTED: Harm to Ongoing Matter \]** 198
 
 [^193]: **\[ REDACTED: Harm to Ongoing Matter \]**
-[^194]: See Mahita Gajanan, Julian Assange Timed DNC Email release for democratic convention, Time (July 27, 2016) (quoting the June 12, 2016 television interview). 
+[^194]: See Mahita Gajanan, Julian Assange Timed DNC Email release for democratic convention, Time (July 27, 2016) (quoting the June 12, 2016 television interview).
 [^195]: In February 2018, Gates pleaded guilty, pursuant to a plea agreement, to a superseding criminal
- information charging him with conspiring to defraud and commit multiple offenses (i.e., tax fraud, failure
+information charging him with conspiring to defraud and commit multiple offenses (i.e., tax fraud, failure
 to report foreign bank accounts, and acting as an unregistered agent of a foreign principal) against the
- United States, as well as making false statements to our Office. superseding criminal information, United
+United States, as well as making false statements to our Office. superseding criminal information, United
 States v. Richard W Gates III, l: 17-cr-201 (D.D.C. Feb. 23, 2018), Doc. 195 ("Gates superseding criminal
- information"); Plea agreement, United States v. Richard W Gates III, 1: 17-cr-201 (D.D.C. Feb. 23, 2018), Doc. 205 ("Gates Plea agreement"). Gates has provided information and in-court testimony that the Office
- has deemed to be reliable. 
-[^196]: Gates I 0/25/18 302, at 1-2. 
+information"); Plea agreement, United States v. Richard W Gates III, 1: 17-cr-201 (D.D.C. Feb. 23, 2018), Doc. 205 ("Gates Plea agreement"). Gates has provided information and in-court testimony that the Office
+has deemed to be reliable.
+[^196]: Gates I 0/25/18 302, at 1-2.
 [^197]: As explained further in Volume I, section IV.A.8, infra, Manafort entered into a plea agreement with our Office. We determined that he breached the agreement by being untruthful in proffer sessions and before the grand jury. We have generally recounted his version of events in this report only when his statements are sufficiently corroborated to be trustworthy; to identify issues on which Manafort's untruthful responses may themselves be of evidentiary value; or to provide Manafort's explanations for certain events, even when we were unable to determine whether that explanation was credible. His account appears here principally because it aligns with those of other witnesses.
 [^198]: **\[ REDACTED: Grand Jury \]**
 
@@ -1502,19 +1550,24 @@ Cohen further told the Office that, after WikiLeaks's subsequent release of stol
 DNC emails in July 2016, candidate Trump said to Cohen something to the effect of
 **\[ REDACTED: Harm to Ongoing Matter \]** 202
 
+According to Gates, Manafort expressed excitement about the release
+**\[ REDACTED: Harm to Ongoing Matter \]** 203 Manafort, for his part, told the
+Office that, shortly after WikiLeaks's July 22 release, Manafort also spoke
+with candidate Trump **\[ REDACTED: Harm to Ongoing Matter \]** 205 Manafort
+also **\[ REDACTED: Harm to Ongoing Matter \]** wanted to be kept apprised of
+any developments with WikiLeaks and separately told Gates to keep in touch
+**\[ REDACTED: Harm to Ongoing Matter \]** about future WikiLeaks releases. 206
+
 [^199]: In November 2018, Cohen pleaded guilty pursuant to a plea agreement to a single-count
 information charging him with making false statements to congress, in violation of 18 U.S.C. § l00l(a) &
 (c). He had previously pleaded guilty to several other criminal charges brought by the U.S. attorney's
 Office in the southern district of New York, after a referral from this Office. In the months leading up to
 his false-statements guilty plea, Cohen met with our Office on multiple occasions for interviews and
-provided information that the Office has generally assessed to be reliable and that is included in this report. 
+provided information that the Office has generally assessed to be reliable and that is included in this report.
 [^202]: Cohen 9/18/18 302, at I 0. **\[ REDACTED: Harm to Ongoing Matter \]**
 [^203]: Gates 10/25/18 302 (serial 241), at 4.
 [^204]: **\[ REDACTED: Grand Jury \]**
 [^205]: **\[ REDACTED: Grand Jury \]**
-
-developments with WikiLeaks and separately told Gates to keep in touch-- about future
-WikiLeaks releases. 206
 
 According to Gates, by the late summer of 2016, the Trump campaign was planning a
 press strategy, a communications campaign, and messaging based on the possible release of
@@ -1534,29 +1587,36 @@ doctorate in political science. 212 In 2016, Corsi also worked for the
 media outlet, WorldNetDaily (WND). **\[ REDACTED: Harm to Ongoing Matter \]**
 
 [^206]: **\[ REDACTED: Grand Jury \]**
-[^207]: Gates 4/10/18 302, at 3; Gates 4/11/18 302, at 1-2 (SM-2180998); Gates 10/25/18 302, at 2. 
+[^207]: Gates 4/10/18 302, at 3; Gates 4/11/18 302, at 1-2 (SM-2180998); Gates 10/25/18 302, at 2.
 [^208]: **\[ REDACTED: Harm to Ongoing Matter \]**
-[^209]: Gates 10/25/18 302 (serial 241), at 4. 
+[^209]: Gates 10/25/18 302 (serial 241), at 4.
 [^210]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^211]: **\[ REDACTED: Harm to Ongoing Matter \]**
-[^212]: Corsi first rose to public prominence in August 2004 when he published his book Unfit for command: Swift Boat veterans speak out against John Kerry. In the 2008 election cycle, Corsi gained prominence for being a leading proponent of the allegation that Barack Obama was not born in the United States. Corsi told the Office that Donald Trump expressed interest in his writings, and that he spoke with Trump on the phone on at least six occasions. Corsi 9/6/18 302, at 3. 
+[^212]: Corsi first rose to public prominence in August 2004 when he published his book Unfit for command: Swift Boat veterans speak out against John Kerry. In the 2008 election cycle, Corsi gained prominence for being a leading proponent of the allegation that Barack Obama was not born in the United States. Corsi told the Office that Donald Trump expressed interest in his writings, and that he spoke with Trump on the phone on at least six occasions. Corsi 9/6/18 302, at 3.
 [^213]: Corsi 10/31/18 302, at 2; **\[ REDACTED: Harm to Ongoing Matter \]** Corsi was first interviewed on September 6, 2018 at the special counsel's offices in Washington, D.C. He was accompanied by counsel throughout the interview. Corsi was subsequently interviewed on September 17, 2018; September 21, 2018; October 31, 2018; November I, 2018; and November 2, 2018. Counsel was present for all interviews, and the interviews beginning on September 21, 2018 were conducted pursuant to a proffer agreement that precluded affirmative use of his statements against him in limited circumstances.
 
-**\[ REDACTED: Harm to Ongoing Matter \]** according to Malloch, Corsi asked him to put Corsi in touch with Assange, whom Corsi
-wished to interview. Malloch recalled that Corsi also suggested that individuals in the "orbit" of
-U.K. politician Nigel Farage might be able to contact Assange and asked if Malloch knew them. Malloch told Corsi that he would think about the request but made no actual attempt to connect
-Corsi with Assange. 218 
+**\[ REDACTED: Harm to Ongoing Matter \]** 14 Corsi told the Office during
+interviews that he "must have" previously discussed Assange with Malloch. 215
+**\[ REDACTED: Harm to Ongoing Matter \]** 216
+**\[ REDACTED: Harm to Ongoing Matter \]** 217
+
+**\[ REDACTED: Grand Jury \]**  According to Malloch, Corsi asked him to put
+Corsi in touch with Assange, whom Corsi wished to interview. Malloch recalled
+that Corsi also suggested that individuals in the "orbit" of U.K. politician
+Nigel Farage might be able to contact Assange and asked if Malloch knew them.
+Malloch told Corsi that he would think about the request but made no actual
+attempt to connect Corsi with Assange. 218
 
 **\[ REDACTED: Harm to Ongoing Matter \]**
 
 [^214]: **\[ REDACTED: Harm to Ongoing Matter \]**
-[^215]: Corsi 10/31/18 302, at 4. 
+[^215]: Corsi 10/31/18 302, at 4.
 [^216]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^217]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^218]: **\[ REDACTED: Grand Jury \]** Malloch denied ever communicating with Assange or Wikileaks, stating that he did not pursue the request to contact Assange because he believed he had no connections to Assange. **\[ REDACTED: Grand Jury \]**
 [^219]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^220]: **\[ REDACTED: Harm to Ongoing Matter \]**
- 
+
 Malloch stated to investigators that beginning in or about August 2016, he and Corsi had
 multiple Face Time discussions about WikiLeaks **\[ REDACTED: Harm to Ongoing Matter \]**
 had made a connection to Assange and that the hacked emails of John Podesta would be released
@@ -1575,125 +1635,137 @@ first set of emails stolen by the GRU from the account of Clinton campaign chair
 John Podesta. **\[ REDACTED: Harm to Ongoing Matter \]** 111 **\[ REDACTED: Harm to Ongoing Matter \]** - **\[ REDACTED: Harm to Ongoing Matter \]** 1111 **\[ REDACTED: Harm to Ongoing Matter \]** Corsi said that, because he had no direct means o communicating with
 WikiLeaks, he told members of the news site WNO-who were participating on a conference call
 with him that day-to reach Assange immediately. 244 Corsi claimed that the pressure was
-
-[^239]: candidate Trump can be heard off camera making graphic statements about women. 240
-
-241
-
-242
-
-243
-
-
-[^244]: In a later November 2018 interview, Corsi stated **\[ REDACTED: Harm to Ongoing Matter \]** that he believed Malloch was on the call but then focused
-on other individuals who were on the call-invitation, which Malloch was not. (separate travel records show
-that at the time of the call, Malloch was aboard a transatlantic flight). Corsi at one point stated that after
-WikiLeaks's release of stolen emails on October 7, 2016, he concluded Malloch had gotten in contact with
-Assange. Corsi 11/1/18 302, at 6. enormous and recalled telling the conference call the Access Hollywood tape was coming. 245 Corsi
+enormous and recalled telling the conference call the Access Hollywood tape was coming. 245 Corsi
 stated that he was convinced that his efforts had caused WikiLeaks to release the emails when they
 did. 246 In a later November 2018 interview, Corsi stated that he thought that he had told people
 on a WND conference call about the forthcoming tape and had sent out a tweet asking whether
 anyone could contact Assange, but then said that maybe he had done nothing. 247
 
-The Office investigated Corsi's allegations about the events of October 7
+[^239]: candidate Trump can be heard off camera making graphic statements about women. 240
+[^241]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^242]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^243]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^244]: In a later November 2018 interview, Corsi stated **\[ REDACTED: Harm to Ongoing Matter \]** that he believed Malloch was on the call but then focused
+on other individuals who were on the call-invitation, which Malloch was not. (separate travel records show
+that at the time of the call, Malloch was aboard a transatlantic flight). Corsi at one point stated that after
+WikiLeaks's release of stolen emails on October 7, 2016, he concluded Malloch had gotten in contact with
+Assange. Corsi 11/1/18 302, at 6.
 
-little corroboration for his alle ations about the da .
-[^248]: however, the phone records
-themselves do not indicate that the conversation was with any of the reporters who broke the
-Access Hollywood sto, and the Office has not otherwise been able to identif the substance of
-the conversation. however, the Office
-has not identified any conference call participant, or anyone who spoke to Corsi that day, who says
-that they received non-public information about the tape from Corsi or acknowledged having
-contacted a member of WikiLeaks on October 7, 2016 after a conversation with Corsi. e. Donald Trump Jr. interaction with WikiLeaks
+The Office investigated Corsi's allegations about the events of October 7, 2016
+but found little corroboration for his allegations about the day. 248
+**\[ REDACTED: Harm to Ongoing Matter \]** 249
+**\[ REDACTED: Harm to Ongoing Matter \]** 50
+However, the phone records themselves do not indicate that the conversation
+was with any of the reporters who broke the Access Hollywood story, and the
+Office has not otherwise been able to identify the substance of the
+conversation. however, the Office has not identified any conference call
+participant, or anyone who spoke to Corsi that day, who says that they
+received non-public information about the tape from Corsi or acknowledged
+having contacted a member of WikiLeaks on October 7, 2016 after a
+conversation with Corsi.
+
+##### e. Donald Trump Jr. interaction with WikiLeaks
 
 Donald Trump Jr. had direct electronic communications with WikiLeaks during the
 campaign period. On September 20, 2016, an individual named Jason Fishbein sent WikiLeaks
 the password for an unlaunched website focused on Trump's "unprecedented and dangerous " ties
 
 [^245]: During the same interview, Corsi also suggested that he may have sent out public tweet s because
-he knew Assange was reading his tweets. Our Office was unable to find evidence of any such tweets. 
-[^246]: _Corsi 9/21/18 302, at 6-7. 
-[^247]: Corsi 11/1/18 302, at 6. **\[ REDACTED: Harm to Ongoing Matter \]** ·· **\[ REDACTED: Harm to Ongoing Matter \]** to Russia, PutinTrump .org.252 WikiLeaks publicly tweeted:'"Let's bomb Iraq'progress for
-America PAC to launch "PutinTrump.org'at 9:30am. Oops pw is'putintrump'putintrump.org."
-several hours later, WikiLeaks sent aTwitter direct message to Donald Trump Jr., "A PAC run
+he knew Assange was reading his tweets. Our Office was unable to find evidence of any such tweets.
+[^246]: _Corsi 9/21/18 302, at 6-7.
+[^247]: Corsi 11/1/18 302, at 6. **\[ REDACTED: Harm to Ongoing Matter \]** ·· **\[ REDACTED: Harm to Ongoing Matter \]** to Russia, PutinTrump .org.252 WikiLeaks publicly tweeted: "'Let's bomb Iraq' Progress for
+America PAC to launch "PutinTrump.org' at 9:30am. Oops pw is 'putintrump' putintrump.org."
+several hours later, WikiLeaks sent a Twitter direct message to Donald Trump Jr., "A PAC run
 anti-Trump site putintrump.org is about to launch. The PAC is a recycled pro-Iraq war PAC. We
-have guessed the password. It is'putintrump.'See'About'for who is behind it. Any
-comments ?"253
+have guessed the password. It is 'putintrump.' See 'About' for who is behind it. Any
+comments?" 253
 
-several hours later, Trump Jr. emailed a variety of senior campaign staff:
+Several hours later, Trump Jr. emailed a variety of senior campaign staff:
 
-Guys I got a weird Twitter DM from wikileaks. See below. I tried the password and it
-
-works and the about section they reference contains the next pie in terms of who is behind
-
-it. Not sure if this is anything but it seems like it's really wikileaks asking me as I follow
-
-them and it is a DM. Do you know the people mentioned and what the conspiracy they are
-
-looking for could be? These are just screenshots but it's a fully built out page claiming to
-
-be a PAC let me know your thoughts and ifwe want to look into it.254
+> Guys I got a weird Twitter DM from wikileaks. See below. I tried the password and it
+> works and the about section they reference contains the next pie in terms of who is behind
+> it. Not sure if this is anything but it seems like it's really wikileaks asking me as I follow
+> them and it is a DM. Do you know the people mentioned and what the conspiracy they are
+> looking for could be? These are just screenshots but it's a fully built out page claiming to
+> be a PAC let me know your thoughts and if we want to look into it. 254
 
 Trump Jr. attached a screenshot of the "About" page for the unlaunched site PutinTrump.org. The
 next day (after the website had launched publicly), Trump Jr. sent a direct message to WikiLeaks:
-"Off the record, l don't know who that is but I'll ask around. Thanks. " 255
+"Off the record, I don't know who that is but I'll ask around. Thanks." 255
 
 On October 3, 2016, WikiLeaks sent another direct message to Trump Jr., asking "you
 guys" to help disseminate a link alleging candidate Clinton had advocated using a drone to target
 Julian Assange. Trump Jr. responded that he already "had done so," and asked, "what's behind
-this Wednesday leak I keep reading about?" 256 WikiLeaks did not respond. On October 12, 2016, WikiLeaks wrote again that it was "great to see you and your dad
+this Wednesday leak I keep reading about?" 256 WikiLeaks did not respond.
+
+On October 12, 2016, WikiLeaks wrote again that it was "great to see you and your dad
 talking about our publications. strongly suggest your dad tweets this link if he mentions us
-wlsearch.tk." 257 WikiLeaks wrote that the link would help Trump in "digging through " leaked
+wlsearch.tk." 257 WikiLeaks wrote that the link would help Trump in "digging through" leaked
 emails and stated, "we just released Podesta emails Part 4." 258 Two days later, Trump Jr. publicly
-tweeted the wlsearch.tk link.259'
-[^252]: 9/20/16 Twitter DM~hbein to @WikiLeaks; see JF0058 7 (9/2 1/16 messages, -@jabber.cryptoparty.is ~@jabber.cryptoparty.is); Fishbein 9/5/18 302, at 4. When
- interviewed by our Office, Fishbein produced what he claimed to be logs from a chatroom in which the
-participants discussed U.S. politics; one of the other participants had posted the website and password that
-Fishbein sent to WikiLeaks. 
-[^253]: 9/20/16 Twitter DM, @WikiLeaks to @DonaldJTrumpJr. 
+tweeted the wlsearch.tk link. 259
+
+[^252]: 9/20/16 Twitter DM, @JasonFishbein to @WikiLeaks; see JF0058 7 (9/2 1/16 messages, **\[ REDACTED: Personal Privacy \]**@jabber.cryptoparty.is & **\[ REDACTED: Personal Privacy \]**@jabber.cryptoparty.is); Fishbein 9/5/18 302, at 4. When interviewed by our Office, Fishbein produced what he claimed to be logs from a chatroom in which the participants discussed U.S. politics; one of the other participants had posted the website and password that Fishbein sent to WikiLeaks.
+[^253]: 9/20/16 Twitter DM, @WikiLeaks to @DonaldJTrumpJr.
 [^254]: TRUMPORG _ 28_ 000629-33 (9/21/16 Email, Trump Jr. to Conway et al. (subject
- "Wikileaks")). 
-[^255]: 9/21/16 Twitter DM, @DonaldJTrumpJr to @W ikiLeaks. 
-[^256]: 10/3/16 Twitter DMs, @Dona ldJTrumpJr & @Wik iLeaks. 
-[^257]: At the time, the link took users to a WikiLeaks archive of stolen Clinton campaign documents. 
-[^258]: 10/12/16 Twitter DM, @WikiLeaks to @DonaldJTrumpJr. 
-[^259]: @DonaldJTrumpJr 10/14/16 (6:34 a.m.) Tweet. 2. Other potential campaign interest in Russian Hacked materials
- throughout 2016, the Trump campaign expressed interest in Hillary Clinton's private
+ "Wikileaks")).
+[^255]: 9/21/16 Twitter DM, @DonaldJTrumpJr to @WikiLeaks.
+[^256]: 10/3/16 Twitter DMs, @DonaldJTrumpJr & @WikiLeaks.
+[^257]: At the time, the link took users to a WikiLeaks archive of stolen Clinton campaign documents.
+[^258]: 10/12/16 Twitter DM, @WikiLeaks to @DonaldJTrumpJr.
+[^259]: @DonaldJTrumpJr 10/14/16 (6:34 a.m.) Tweet.
+
+#### 2. Other potential campaign interest in Russian Hacked materials
+
+Throughout 2016, the Trump campaign expressed interest in Hillary Clinton's private
 email server and whether approximately 30,000 emails from that server had in fact been
 permanently destroyed, as reported by the media. several individuals associated with the
 campaign were contacted in 2016 about various efforts to obtain the missing Clinton emails and
 other stolen material in support of the Trump campaign. Some of these contacts were met with
-sk~pticism, and nothing came of them; others were pursued to some degree. The investigation did
-not find evidence that the Trump campaign recovered any s~ch Clinton emails, or that these
-contacts were part of a coordinated effort between Russia and the Trump campaign. a. Henry Oknyansky (a/k/a Henry Greenberg)
- In the spring of 2016, Trump campaign advisor Michael Caputo learned through a Florida-
+skepticism, and nothing came of them; others were pursued to some degree. The investigation did
+not find evidence that the Trump campaign recovered any such Clinton emails, or that these
+contacts were part of a coordinated effort between Russia and the Trump campaign.
+
+##### a. Henry Oknyansky (a/k/a Henry Greenberg)
+
+In the spring of 2016, Trump campaign advisor Michael Caputo learned through a Florida-
 based Russian business partner that another Florida-based Russian, Henry Oknyansky (who also
-went by the name Henry Greenberg), claimed to have information pertaining to Hillary Clinton. Caputo notified Roger Stone and brokered communication between Stone and Oknyansky. Oknyansky and Stone set up a May 2016 in-person meeting. 
-[^260]: Oknyansky was accompanied to the meeting by Alexei Rasin, a Ukrainian associate
+went by the name Henry Greenberg), claimed to have information pertaining to Hillary Clinton.
+Caputo notified Roger Stone and brokered communication between Stone and Oknyansky. Oknyansky
+and Stone set up a May 2016 in-person meeting. 260
+
+Oknyansky was accompanied to the meeting by Alexei Rasin, a Ukrainian associate
 involved in Florida real estate. At the meeting, Rasin offered to sell Stone derogatory information
 on Clinton that Rasin claimed to have obtained while working for Clinton. Rasin claimed to
 possess financial statements demonstrating Clinton's involvement in money laundering with
 Rasin's companies. according to Oknyansky, Stone asked if the amounts in question totaled
-millions of dollars but was told it was closer to hundreds of thousands. Stone refused the offer, stating that Trump would not pay for opposition research. 
-[^261]: Oknyansky claimed to the Office that Rasin's motivation was financial. according to
+millions of dollars but was told it was closer to hundreds of thousands. Stone refused the offer,
+stating that Trump would not pay for opposition research. 261
+
+Oknyansky claimed to the Office that Rasin's motivation was financial. according to
 Oknyansky, Rasin had tried unsuccessfully to shop the Clinton information around to other
 interested parties, and Oknyansky would receive a cut if the information was sold .262 Rasin is
 noted in public source documents as the director and/or registered agent for a number of Florida
 companies, none of which appears to be connected to Clinton. The Office found no other evidence
-that Rasin worked for Clinton or any Clinton-related entities. In their statements to investigators, Oknyansky and Caputo had contradictory recollections
+that Rasin worked for Clinton or any Clinton-related entities.
+
+In their statements to investigators, Oknyansky and Caputo had contradictory recollections
 about the meeting. Oknyansky claimed that Caputo accompanied Stone to the meeting and
 provided an introduction, whereas Caputo did not tell us that he had attended and claimed that he
 was never told what information Oknyansky offered. Caputo also stated that he was unaware
-Oknyansky sought to be paid for the information until Stone informed him after the fact.
-[^263]: 
-[^26]: °Caputo 5/2/18 302, at 4; Oknyansky 7/13/18 302, at l. 
-[^261]: Oknyansky 7/13/18 302, at 1-2. 
-[^262]: Oknyansky 7/13/18 302, at 2. 
-[^263]: Caputo 5/2/18 302, at 4; Oknyansky 7/13/18 302, at l. The Office did not locate Rasin in the United States, although the Office confirmed Rasin
+Oknyansky sought to be paid for the information until Stone informed him after the fact. 263
+
+[^260]: Caputo 5/2/18 302, at 4; Oknyansky 7/13/18 302, at 1.
+[^261]: Oknyansky 7/13/18 302, at 1-2.
+[^262]: Oknyansky 7/13/18 302, at 2.
+[^263]: Caputo 5/2/18 302, at 4; Oknyansky 7/13/18 302, at 1.
+
+The Office did not locate Rasin in the United States, although the Office confirmed Rasin
 had been issued a Florida driver's license. The Office otherwise was unable to determine the
 content and origin of the information he purportedly offered to Stone. finally, the investigation
 did not identify evidence of a connection between the outreach or the meeting and Russian
-interference efforts. b. campaign efforts to Obtain deleted Clinton Emails
+interference efforts.
+
+##### b. campaign efforts to Obtain deleted Clinton Emails
 
 After candidate Trump stated on July 27, 2016, that he hoped Russia would "find the
 30,000 emails that are missing," Trump asked individuals affiliated with his campaign to find the
@@ -1707,27 +1779,37 @@ about her efforts throughout the summer of 2016.266 Smith, an investment advisor
 in republican politics, also attempted to locate and obtain the deleted Clinton emails. 267
 
 Ledeen began her efforts to obtain the Clinton emails before Flynn's request, as early as
-December 2015. 268 On December 3, 2015, she emailed Smith a proposal to obtain the emails, stating, "Here is the proposal I briefly mentioned to you. The person I described to you would be
-happy to talk with you either in person or over the phone. The person can get the emails which 1. Were classified and 2. Were purloined by our enemies. That would demonstrate what needs to be
-demonstrated. "269
+December 2015. 268 On December 3, 2015, she emailed Smith a proposal to obtain the emails,
+stating,
 
-attached to the email was a 25-page proposal stating that the "Clinton email server was, in
-all likelihood, breached long ago," and that the chinese, Russian, and Iranian intelligence services
-could "re-assemble the server's email content." 270 The proposal called for a three-phase approach. The first two phases consisted of open-source analysis. The third phase consisted of checking with
+> Here is the proposal I briefly mentioned to you. The person I described to you would be
+> happy to talk with you either in person or over the phone. The person can get the
+> emails which 1. Were classified and 2. Were purloined by our enemies. That would
+> demonstrate what needs to be demonstrated. 269
+
+Attached to the email was a 25-page proposal stating that the "Clinton email server was, in
+all likelihood, breached long ago," and that the Chinese, Russian, and Iranian intelligence services
+could "re-assemble the server's email content." 270 The proposal called for a three-phase approach.
+The first two phases consisted of open-source analysis. The third phase consisted of checking with
 certain intelligence sources "that have access through liaison work with various foreign services"
-to determine if any of those services had gotten to the server. The proposal noted, "Even if a
-single email was recovered and the providence \[sic\] of that email was a foreign service, it would
-be catastrophic to the Clinton campaign\[.\]" Smith forwarded the email to two colleagues and
+to determine if any of those services had gotten to the server. The proposal noted,
 
-[^264]: Flynn 4/25/18 302, at 5-6; Flynn 5/1/18 302, at 1-3. 
-[^265]: Flynn 5/1/18 302, at l -3. 
-[^266]: Flynn 4/25/18 302, at 7; Flynn 5/4/18 302, at 1-2; Flynn 11/29/17 302, at 7-8. 
-[^267]: Flynn 11/29/17 302, at 7. 
-[^268]: Szobocsan 3/29/17 302, at 1. 
-[^269]: 12/3/15 Email, Ledeen to Smith. 
-[^270]: 12/3/15 Email, Ledeen to Smith (attachment). wrote, "we can discuss to whom it should be referred. "27 1 On December 16, 2015, Smith informed
-Ledeen that he declined to participate in her "initiative." according to one of Smith's business
+> Even if a single email was recovered and the providence \[sic\] of that email
+> was a foreign service, it would be catastrophic to the Clinton campaign\[.\]
+
+Smith forwarded the email to two colleagues and wrote,
+"we can discuss to whom it should be referred." 271
+On December 16, 2015, Smith informed Ledeen that he declined to participate in
+her "initiative." according to one of Smith's business
 associates, Smith believed Ledeen's initiative was not viable at that time. 272
+
+[^264]: Flynn 4/25/18 302, at 5-6; Flynn 5/1/18 302, at 1-3.
+[^265]: Flynn 5/1/18 302, at l -3.
+[^266]: Flynn 4/25/18 302, at 7; Flynn 5/4/18 302, at 1-2; Flynn 11/29/17 302, at 7-8.
+[^267]: Flynn 11/29/17 302, at 7.
+[^268]: Szobocsan 3/29/17 302, at 1.
+[^269]: 12/3/15 Email, Ledeen to Smith.
+[^270]: 12/3/15 Email, Ledeen to Smith (attachment).
 
 Just weeks after Trump's July 2016 request to find the Clinton emails, however, Smith
 tried to locate and obtain the emails himself. He created a company, raised tens of thousands of
@@ -1736,43 +1818,49 @@ involved in the effort (and those from whom he sought funding) that he was in co
 with "ties and affiliations to Russia" who had access to the emails, and that his efforts were
 coordinated with the Trump campaign. 273
 
-On August 28, 2016, Smith sent an email from an encrypted account with the subject "Sec. Clinton's unsecured private email server" to an undisclosed list ofrecipients, including campaign
-co-chairman Sam Clovis. The email stated that Smith was "u\]ust finishing two days of sensitive
-meetings here in DC with involved groups to poke and probe on the above. It is clear that the
-Clinton's home -based, unprotected server was hacked with ease by both State-related players, and
-private mercenaries. parties with varying interests, are circling to release ahead of the election. "
-[^274]: On September 2, 2016, Smith directed a business associate to establish KLS research LLC
+On August 28, 2016, Smith sent an email from an encrypted account with the
+subject "Sec. Clinton's unsecured private email server" to an undisclosed
+list of recipients, including campaign co-chairman Sam Clovis. The email
+stated that Smith was "just finishing two days of sensitive
+meetings here in DC with involved groups to poke and probe on the above.
+It is clear that the Clinton's home-based, unprotected server was hacked
+with ease by both State-related players, and private mercenaries. Parties
+with varying interests, are circling to release ahead of the election." 274
+
+On September 2, 2016, Smith directed a business associate to establish KLS research LLC
  in furtherance of his search for the deleted Clinton emails. 275 One of the purposes ofKLS research
 was to manage the funds Smith raised in support of his initiative. 276 KLS research received over
 $30,000 during the presidential campaign, although Smith represented that he raised even more
-money. 
-[^277]: Smith recruited multiple people for his initiative, including security experts to search for
- and authenticate the emails .278 In early September 2016, as pait of his recruitment and fundraising
- effort, Smith circulated a document stating that his initiative was "incoordination" with the Trump
- campaign, "to the extent permitted as an independent expenditure organization." 279 The document
- listed multiple individuals affiliated with the Trump campaign, including Flynn, Clovis, Bannon, 
-[^271]: 12/3/15 Email, Smith to Szobocsan & Safron. 
-[^272]: Szobocsan 3/29/18 302, at 1. 27 
-[^3]: 8/31/16 Email, Smith to Smith. 
-[^274]: 8/28/16 Email, Smith to Smith. 
-[^275]: incorporation papers ofKLS research LLC, 7/26/
-[^17]: Szobocsan 3/29/18 302, at 2. 
-[^276]: Szobocsan 3/29/18 302, at 3. 
-[^277]: financial institution Record of Peter Smith and KLS research LLC, 10/31/17 -
- 10/11/16 Email, Smith to
- 
-[^278]: Tait 8/22/17 302, at 3; York 7/12/17 302, at 1-2; York 11/22/17 302, at 1. 
-[^279]: York 7/13/17 302 (attachment KLS research, LLC, "Clinton Email reconnaissance initiative,"
- Sept. 9, 2016). and Kellyanne Conway. 280 The investigation established that Smith communicated with at least
+money. 277
+
+Smith recruited multiple people for his initiative, including security experts to search for
+and authenticate the emails. 278 In early September 2016, as part of his recruitment and fundraising
+effort, Smith circulated a document stating that his initiative was "incoordination" with the Trump
+campaign, "to the extent permitted as an independent expenditure organization." 279 The document
+listed multiple individuals affiliated with the Trump campaign, including Flynn, Clovis, Bannon,
+and Kellyanne Conway. 280 The investigation established that Smith communicated with at least
 Flynn and Clovis about his search for the deleted Clinton emails ,281 but the Office did not identify
-evidence that any of the listed individuals initiated or directed Smith's efforts. In September 2016, Smith and Ledeen got back in touch with each other about their
+evidence that any of the listed individuals initiated or directed Smith's efforts.
+
+[^271]: 12/3/15 Email, Smith to Szobocsan & Safron.
+[^272]: Szobocsan 3/29/18 302, at 1. 27
+[^3]: 8/31/16 Email, Smith to Smith.
+[^274]: 8/28/16 Email, Smith to Smith.
+[^275]: incorporation papers ofKLS research LLC, 7/26/
+[^17]: Szobocsan 3/29/18 302, at 2.
+[^276]: Szobocsan 3/29/18 302, at 3.
+[^277]: financial institution Record of Peter Smith and KLS research LLC, 10/31/17 **\[ REDACTED: Grand Jury \]** 10/11/16 Email, Smith to **\[ REDACTED: Personal Privacy \]**
+[^278]: Tait 8/22/17 302, at 3; York 7/12/17 302, at 1-2; York 11/22/17 302, at 1.
+[^279]: York 7/13/17 302 (attachment KLS research, LLC, "Clinton Email reconnaissance initiative," Sept. 9, 2016).
+
+In September 2016, Smith and Ledeen got back in touch with each other about their
 respective efforts. Ledeen wrote to Smith, "wondering if you had some more detailed reports or
 memos or other data you could share because we have come a long way in our efforts since we
 last visited ... . We would need as much technical discussion as possible so we could marry it
-against the new data we have found and then could share it back to you'your eyes only.'" 282
+against the new data we have found and then could share it back to your eyes only.'" 282
 
 Ledeen claimed to have obtained a trove of emails (from what she described as the "dark
-web") that purpo1ted to be the deleted Clinton emails. Ledeen wanted to authenticate the emails
+web") that purported to be the deleted Clinton emails. Ledeen wanted to authenticate the emails
 and solicited contributions to fund that effort. Erik Prince provided funding to hire a tech advisor
 to ascertain the authenticity of the emails. according to Prince, the tech advisor determined that
 the emails were not authentic. 283
@@ -1789,23 +1877,19 @@ emails until shortly before the election. For example, on October 28, 2016, Smit
 was a "tug -of-war going on within WikiLeaks over its planned releases in the next few days," and
 that WikiLeaks "has maintained that it will save its best revelations for last, under the theory this
 allows little time for response prior to the U.S. election November 8."285 An attachment to the
+email claimed that WikiLeaks would release "All 33k deleted Emails" by "November 1st." No
+emails obtained from Clinton's server were subsequently released.
 
 [^280]: The same recruitment document listed Jerome Corsi under "independent
  Groups/organizations/individuals," and described him as an "established author and writer from the right
  on president Obama and Sec. Clinton."
+[^281]: Flynn 11/29/17 302, at 7-8; 10/15/16 Email, Smith to Flynn et al.; 8/28/16 Email, Smith to Smith (bee: Clovis et al.).
+[^282]: 9/16/16 Email, Ledeen to Smith.
+[^283]: Prince 4/4/18 302, at 4-5.
+[^284]: The forensic analysis of Smith's computer devices found that Smith used an older Apple operating system that would have preserved that October 2, 2016 creation date when it was downloaded (no matter what day it was in fact downloaded by Smith). See Volume I, section 111.B.3.c,supra. The Office tested this theory in March 2019 by downloading the two files found on Smith's computer from WikiLeaks's site using the same Apple operating system on Smith's computer ; both files were successfully downloaded and retained the October 2, 2016 creation date. See SM-2284941, serial 62.
+[^285]: 10/28/16 Email, Smith to Smith.
 
-[^281]: Flynn 11/29/17 302, at 7-8; 10/15/16 Email, Smith to Flynn et al.; 8/28/16 Email, Smith to Smith
- (bee: Clovis et al.). 
-[^282]: 9/16/16 Email, Ledeen to Smith. 
-[^283]: Prince 4/4/18 302, at 4-5. 
-[^284]: The forensic analysis of Smith's computer devices found that Smith used an older Appl e
- operating system that would have preserved that October 2, 2016 creation date when it was downloaded
- (no matter what day it was in fact downloaded by Smith). See Volume I, section 111.B.3.c,supra. The
- Office tested this theory in March 2019 by downloading the two files found on Smith's computer from
- WikiLeaks's site using the same Apple operating system on Smith's computer ; both files were successfully
- downloaded and retained the October 2, 2016 creation date. See SM-2284941, serial 62. 2 
-[^85]: 10/28/16 Email, Smith to Smith. email claimed that WikiLeaks would release "All 33k deleted Emails" by "November 1st." No
-emails obtained from Clinton's server were subsequently released. Smith drafted multiple emails stating or intimating that he was in contact with Russian
+Smith drafted multiple emails stating or intimating that he was in contact with Russian
 hackers. For example, in one such email, Smith claimed that, in August 2016, KLS research had
 organized meetings with parties who had access to the deleted Clinton emails, including parties
 with "ties and affiliations to Russia." 286 The investigation did not identify evidence that any such
@@ -1822,12 +1906,14 @@ affiliated with the Clinton campaign, as well as the computers of the DNC and DC
 then exfiltrated data related to the 2016 election from these accounts and computers, and
 disseminated that data through fictitious online personas (DCLeaks and Guccifer 2.0) and later
 through WikiLeaks. The investigation also established that the Trump campaign displayed
-interest in the WikiLeaks releases, and that
+interest in the WikiLeaks releases, and that **\[ REDACTED: Harm to Ongoing Matter \]**
 explained in Volume I, section V.B, infra, the evidence was sufficient to support computer-
-intrusion and other charges against GRU officers for their role in election-related hacking. 
-[^286]: 8/31/16 Email, Smith to Smith. 
+intrusion and other charges against GRU officers for their role in election-related hacking.
+**\[ REDACTED: Grand Jury \]**
+
+[^286]: 8/31/16 Email, Smith to Smith.
 [^287]: Safron 3/20/18 302, at 3; Szobocsan 3/29/18 302, at 6.
- 
+
 ## IV. RUSSIAN government LINKS TO AND contacts WITH THE TRUMP campaign
 
  The Office identified multiple contacts- "links ," in the words of the appointment Order-
@@ -1837,7 +1923,9 @@ interference with or influence on the 2016 presidential election. In particular,
 examined whether these contacts involved or resulted incoordination or a conspiracy with the
 Trump campaign and Russia, including with respect to Russia providing assistance to the
 campaign in exchange for any sort of favorable treatment in the future. Based on the available
-information, the investigation did not establish such coordination. This section describes the principal links between the Trump campaign and individuals
+information, the investigation did not establish such coordination.
+
+This section describes the principal links between the Trump campaign and individuals
 with ties to the Russian government, including some contacts with campaign officials or associates
 that have been publicly reported to involve Russian contacts. Each subsection begins with an
 overview of the Russian contact at issue and then describes in detail the relevant facts, which are
@@ -1846,12 +1934,15 @@ extending through the post-election, transition period.
 
 ### A. campaign Period (September 2015 - November 8, 2016)
 
-Russian-government -connected individuals and media entities began showing interest in
+Russian-government-connected individuals and media entities began showing interest in
 Trump's campaign in the months after he announced his candidacy in June 2015. 288 because
 Trump's status as a public figure at the time was attributable in large part to his prior business and
 entertainment dealings, this Office investigated whether a business contact with Russia-linked
 individuals and entities during the campaign period-the Trump Tower Moscow project, see
-Volume l, section IV.A. I, infra-led to or involved coordination of election assistance. outreach from individuals with ties to Russia continued in the spring and summer of 2016, when Trump was moving toward- and eventually becoming -t he republican nominee for
+Volume l, section IV.A. I, infra-led to or involved coordination of election assistance.
+
+Outreach from individuals with ties to Russia continued in the spring and summer of 2016,
+when Trump was moving toward--and eventually becoming--the republican nominee for
 president. As set forth below, the Office also evaluated a series of links during this period:
 outreach to two of Trump's then-recently named foreign policy advisors, including a
 representation that Russia had "dirt" on Clinton in the form of thousands of emails (Volume I, sections IV.A.2 & IV.A.3); dealings with a D.C.-based think tank that specializes in Russia and
@@ -1861,12 +1952,9 @@ Russia and its government's support for \[Trump\]" (Volume I, section IV.A.5); e
 republican national convention (Volume I, section IV.A.6); post- convention contacts between
 Trump campaign officials and Russia's ambassador to the United States (Volume I, section
 IV .A.7) ; and contacts through campaign chairman Paul Manafort, who had previously worked for
-a Russian oligarch and a pro-Russian political party in Ukraine (Volume I, section IV.A.8). 
-[^288]: For example, on August 18, 2015, on behalf of the editor-in-chief of the Internet newspaper
- Vzglyad, Georgi Asatryan emailed campaign press secretary Hope Hicks asking for a phone or in-person
-candidate interview. 8/18/15 Email, Asatryan to Hicks. One day earlier, the publication's founder (and
-former Russian parliamentarian) Konstantin Rykov had registered two Russian websites-Trump2016.ru
-and DonaldTrump2016.ru. No interview took place.
+a Russian oligarch and a pro-Russian political party in Ukraine (Volume I, section IV.A.8).
+
+[^288]: For example, on August 18, 2015, on behalf of the editor-in-chief of the Internet newspaper Vzglyad, Georgi Asatryan emailed campaign press secretary Hope Hicks asking for a phone or in-person candidate interview. 8/18/15 Email, Asatryan to Hicks. One day earlier, the publication's founder (and former Russian parliamentarian) Konstantin Rykov had registered two Russian websites-Trump2016.ru and DonaldTrump2016.ru. No interview took place.
 
 #### 1. Trump Tower Moscow project
 
@@ -1876,41 +1964,36 @@ part of its real estate portfolio. Some projects have involved the acquisition a
 executed licensing deals with real estate developers and management companies, often local to the
 country where the project was located. 289
 
-between at least 2013 and 2016, the Trump organization explored a similar licensing deal
- in Russia involving the construction of a Trump-branded property in Moscow. The project, commonly referred to as a "Trump Tower Moscow" or "Trump Moscow" project, anticipated a
- combination of commercial, hotel, and residential properties all within the same building. between 2013 and June 2016, several employees of the Trump organization, including then-
+Between at least 2013 and 2016, the Trump organization explored a similar licensing deal
+in Russia involving the construction of a Trump-branded property in Moscow. The project,
+commonly referred to as a "Trump Tower Moscow" or "Trump Moscow" project, anticipated a
+combination of commercial, hotel, and residential properties all within the same building.
+Between 2013 and June 2016, several employees of the Trump organization, including then-
 president of the organization Donald J. Trump, pursued a Moscow deal with several Russian
- counterparties. From the fall of 2015 until the middle of 2016, Michael Cohen spearheaded the
+counterparties. From the fall of 2015 until the middle of 2016, Michael Cohen spearheaded the
 Trump organization's pursuit of a Trump Tower Moscow project, including by reporting on the
 project's status to candidate Trump and other executives in the Trump organization. 290
 
 ##### a. Trump Tower Moscow venture with the Crocus Group (2013-2014)
 
- The Trump organization and the Crocus Group, a Russian real estate conglomerate owned
- and controlled by Aras Agalarov, began discussing a Russia-based real estate project shortly after
- the conclusion of the 2013 Miss universe pageant in Moscow. 291 Donald J. Trump Jr. served as
-_the primary negotiator on behalf of the Trump organization; Emin Agalarov (son of Aras
- Agalarov) and Irakli "Ike" Kaveladze represented the Crocus Group during negotiations, 292 with
- the occasional assistance of Robe1t goldstone. 
+The Trump organization and the Crocus Group, a Russian real estate conglomerate owned
+and controlled by Aras Agalarov, began discussing a Russia-based real estate project shortly after
+the conclusion of the 2013 Miss universe pageant in Moscow. 291 Donald J. Trump Jr. served as
+the primary negotiator on behalf of the Trump organization; Emin Agalarov (son of Aras
+Agalarov) and Irakli "Ike" Kaveladze represented the Crocus Group during negotiations, 292 with
+the occasional assistance of Robert Goldstone. 293
 
-[^293]: In December 2013, Kaveladze and Trump Jr. negotiated and signed preliminary terms of
-
-[^289]: See, e.g., interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 151-
-[^52]: (Sept. 7, 2017) (discussing licensing deals of specific projects). 
-[^290]: As noted in Volume I, section III.D.l, supra, in November 20 18, Cohen pleaded guilty to
- making false statements to congress concerning, among other things, the duration of the Trump Tower
- Moscow project. See information ,r7(a), United States v. Michael Cohen, 1:18-cr-850 (S.D.N .Y. Nov. 29, 2018), Doc. 2 ("Cohen information "). 
-[^291]: See interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 13 (Sept. 7, 2017) ("following the pageant the Trump organization and Mr. Agalarov's company, Crocus Group, began
- preliminarily discussion \[sic\] potential real estate projects in Moscow."). As has been widely reported, the
- Miss universe pageant-which Trump co-owned _at the time-was held at the Agalarov-owned Crocus
- City Hall in Moscow in November 2013. Both groups were involved in organizing the pageant, and Aras
- Agalarov's son Emin was a musical performer at the event, which Trump attended. 
-[^292]: Kaveladze 11/16/17 302, at 2, 4-6; OSC-
- KA V_00385 (12/6/13 Email, Trump Jr. to Kaveladze & E. Agalarov). an agreement for the Trump Tower Moscow project. 294 On December 23, 2013, after discussions
+In December 2013, Kaveladze and Trump Jr. negotiated and signed preliminary terms of
+an agreement for the Trump Tower Moscow project. 294 On December 23, 2013, after discussions
 with Donald J. Trump, the Trump organization agreed to accept an arrangement whereby the
 organization received a flat 3.5% commission on all sales, with no licensing fees or incentives. 295
-
 The parties negotiated a letter of intent during January and February 2014. 296
+
+[^289]: See, e.g., interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 151-152: (Sept. 7, 2017) (discussing licensing deals of specific projects).
+[^290]: As noted in Volume I, section III.D.l, supra, in November 20 18, Cohen pleaded guilty to making false statements to congress concerning, among other things, the duration of the Trump Tower Moscow project. See information ,r7(a), United States v. Michael Cohen, 1:18-cr-850 (S.D.N .Y. Nov. 29, 2018), Doc. 2 ("Cohen information ").
+[^291]: See interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 13 (Sept. 7, 2017) ("following the pageant the Trump organization and Mr. Agalarov's company, Crocus Group, began preliminarily discussion \[sic\] potential real estate projects in Moscow."). As has been widely reported, the Miss universe pageant-which Trump co-owned _at the time-was held at the Agalarov-owned Crocus City Hall in Moscow in November 2013. Both groups were involved in organizing the pageant, and Aras Agalarov's son Emin was a musical performer at the event, which Trump attended.
+[^292]: Kaveladze 11/16/17 302, at 2, 4-6; **\[ REDACTED: Grand Jury \]** OSC-KAV_00385 (12/6/13 Email, Trump Jr. to Kaveladze & E. Agalarov).
+[^293]: **\[ REDACTED: Grand Jury \]**
 
 From January 2014 through November 2014, the Trump organization and Crocus Group
 discussed development plans for the Moscow project. sometime before January 24, 2014, the
@@ -1922,32 +2005,31 @@ and toured the Crocus City site during a visit to Moscow. 298 From March 2014 th
 "demographics of these prospective buyers " in the Crocus City area, the development of
 neighboring parcels in Crocus City, and concepts for redesigning portions of the building. 300 In
 August 2014, the Trump organization requested specifications for a competing Marriott-branded
-tower being built in Crocus City. 
-[^301]: beginning in September 2014, the Trump organization stopped responding in a timely
+tower being built in Crocus City. 301
+
+Beginning in September 2014, the Trump organization stopped responding in a timely
 fashion to correspondence and proposals from the Crocus Group. 302 communications between the
 two groups continued through November 2014 with decreasing frequency; what appears to be the
 last communication is dated November 24, 2014. 303 The project appears not to have developed
-past the planning stage, and no construction occurred. 
-[^294]: 
-[^295]: OSC-KA V_00452 (12/23/13 Email, Trump Jr. to Kaveladze & E. Agalarov). 
+past the planning stage, and no construction occurred.
+
+[^294]: **\[ REDACTED: Grand Jury \]**
+[^295]: OSC-KAV_00452 (12/23/13 Email, Trump Jr. to Kaveladze & E. Agalarov).
 [^296]: See, e.g., OSC-KAV _011 58 (Letter agreement signed by Trump Jr. & E. Agalarov); OSC-
-KAV _01147 (1/20/14 Email, Kaveladze to Trump Jr. et al.). 
-[^297]: See, e.g., OSC-KA V_00972 (10/14/14 Email, McGee to Khoo et al.) (email from Crocus Group
-contractor about specifications); OSC-KA V_00540 (1/24/14 Email, McGee to Trump Jr. et al.). 
+KAV _01147 (1/20/14 Email, Kaveladze to Trump Jr. et al.).
+[^297]: See, e.g., OSC-KAV_00972 (10/14/14 Email, McGee to Khoo et al.) (email from Crocus Group
+contractor about specifications); OSC-KA V_00540 (1/24/14 Email, McGee to Trump Jr. et al.).
 [^298]: See OSC-KA V 00631 (2/5/14 Email, E. Agalarov to Ivanka Trump Jr. & Kaveladze);
-goldstone Facebook post, 2/4/14 (8:01 a.m.)jjjijfiU(\h'llffi@\[lm •--
- 299 See, e.g., OSC-KAV_00791 (6/3/14 Email, Kaveladze to Trump Jr. et al.; OSC-KAV_00799
-
-(6/10/14 Email, Trump Jr. to Kaveladze et al.); OSC-KA V_0081 7 (6/16/14 Email, Trump Jr. to Kaveladze
-et al.). 
-[^300]: OSC-KAV 00870 (7/17/14 Email, Khoo to McGee et al.). 
-[^301]: OSC-KA V_00855 (8/4/14 Email, Khoo to McGee et al.). 
-[^302]: OSC-KA V_ 00903 (9/29/14 Email, Tropea to McGee & Kaveladze (noting last response was on
+goldstone Facebook post, 2/4/14 (8:01 a.m.) **\[ REDACTED: Investigative Technique \]**
+[^299]: See, e.g., OSC-KAV_00791 (6/3/14 Email, Kaveladze to Trump Jr. et al.; OSC-KAV_00799 (6/10/14 Email, Trump Jr. to Kaveladze et al.); OSC-KAV_0081 7 (6/16/14 Email, Trump Jr. to Kaveladze et al.).
+[^300]: OSC-KAV 00870 (7/17/14 Email, Khoo to McGee et al.).
+[^301]: OSC-KAV_00855 (8/4/14 Email, Khoo to McGee et al.).
+[^302]: OSC-KAV_ 00903 (9/29/14 Email, Tropea to McGee & Kaveladze (noting last response was on
 August 26, 2014)); OSC-KAV _00906 (9/29/14 Email, Kaveladze to Tropea & McGee (suggesting silence
-"proves my fear that those guys are bailing out of the project")); OSC-KA V_00972 (10/14/14 Email, McGee to Khoo et al.) (email from Crocus Group contractor about development specifications)). 
-[^303]: OSC-KA V_ 01140 (11/24/14 Email, Khoo to McGee et al.).
+"proves my fear that those guys are bailing out of the project")); OSC-KA V_00972 (10/14/14 Email, McGee to Khoo et al.) (email from Crocus Group contractor about development specifications)).
+[^303]: OSC-KAV_ 01140 (11/24/14 Email, Khoo to McGee et al.).
 
-##### b. communications with J.C. Expert investment company and Giorgi Rtskhiladze (Summer and Fall 2015)
+##### b. communications with I.C. Expert investment company and Giorgi Rtskhiladze (Summer and Fall 2015)
 
 In the late summer of 2015, the Trump organization received a new inquiry about pursuing
 a Trump Tower project in Moscow. In approximately September 2015, Felix Sater, a New York-
@@ -1965,24 +2047,29 @@ Russian real-estate development corporation controlled by Andrei Vladimirovich R
 had known Rozov since approximately 2007 and, in 2014, had served as an agent on behalf of
 Rozov during Rozov's purchase of abuilding in New York City. 308 Sater later contacted Rozov
 and proposed that I.C. Expert pursue a Trump Tower Moscow project in which l.C. Expert would
-license the name and brand from the Trump organization but construct the building on its own. Sater worked on the deal with Rozov and another .employee of l.C. Expert .309
+license the name and brand from the Trump organization but construct the building on its own.
+Sater worked on the deal with Rozov and another employee of I.C. Expert. 309
 
-Cohen was the only Trump organization representative to negotiate directly with l.C. Expert or its agents. In approximately September 2015, Cohen obtained approval to negotiate with
+Cohen was the only Trump organization representative to negotiate directly with
+I.C. Expert or its agents. In approximately September 2015, Cohen obtained approval to negotiate with
 I.C. Expert from candidate Trump, who was then president of the Trump organization. Cohen
 provided updates directly to Trump about the project throughout 2015 and into 2016, assuring him
- °
-the project was continuing. 31 Cohen also discussed the Trump Moscow project with Ivanka
-Trump as to design elements (such as possible architects to use for the project 311) and Donald J. Trump Jr. (about his experience in Moscow and possible involvement in the project 312) during the
-fall of 2015. provided information to our Office in two 2017 interviews conducted under a proffer
-agreement
+the project was continuing. 310 Cohen also discussed the Trump Moscow project with Ivanka
+Trump as to design elements (such as possible architects to use for the project 311)
+and Donald J. Trump Jr. (about his experience in Moscow and possible involvement in the project 312) during the
+fall of 2015.
 
-[^306]: Sater9/19/1 7 302, at 1-2, 5. 
-[^307]: Sater 9/19/17 302, at 3. 
-[^308]: Rozov 1/25/18 3 02, at 1. 
-[^309]: Rozov 1/25/18 302, at I ; see also 11/2/15 Email, Cohen to Rozov et al. (sending letter of intent). 
-[^31]: °Cohen 9/12/18 302, at 1-2, 4-6. 31 
-[^1]: Cohen 9/12/18 302, at 5. 
-[^312]: Cohen 9/12/18 302, at 4-5. Also during the fall of 2015, Cohen communicated about the Trump Moscow proposal with
+[^304]: Sater provided information to our Office in two 2017 interviews conducted under a proffer agreement, **\[ REDACTED: Grand Jury \]**
+[^305]: **\[ REDACTED: Grand Jury \]**
+[^306]: Sater 9/19/1 7 302, at 1-2, 5.
+[^307]: Sater 9/19/17 302, at 3.
+[^308]: Rozov 1/25/18 3 02, at 1.
+[^309]: Rozov 1/25/18 302, at I ; see also 11/2/15 Email, Cohen to Rozov et al. (sending letter of intent).
+[^3100]: Cohen 9/12/18 302, at 1-2, 4-6.
+[^311]: Cohen 9/12/18 302, at 5.
+[^312]: Cohen 9/12/18 302, at 4-5.
+
+Also during the fall of 2015, Cohen communicated about the Trump Moscow proposal with
 Giorgi Rtskhiladze, a business executive who previously had been involved in a development deal
 with the Trump organization in Batumi, Georgia. 313 Cohen stated that he spoke to Rtskhiladze in
 part because Rtskhiladze had pursued business ventures in Moscow, including a licensing deal with
@@ -1990,7 +2077,7 @@ the Agalarov-owned Crocus Group. 314 On September 22, 2015, Cohen forwarded a pr
 design study for the Trump Moscow project to Rtskhiladze, adding "I look forward to your reply
 about this spectacular project in Moscow ." Rtskhiladze forwarded Cohen's email to an associate
 and wrote, "\[i\]f we could organize the meeting in New York at the highest level of the Russian
-government and Mr. Trump this project would definitely receive the worldwide attention ." 315
+government and Mr. Trump this project would definitely receive the worldwide attention." 315
 
 On September 24, 2015, Rtskhiladze sent Cohen an attachment that he described as a
 proposed "\[Letter to the Mayor of Moscow from Trump org," explaining that "\[w \]e need to send
@@ -2012,19 +2099,15 @@ between approximately October 13, 2015 and November 2, 2015, the Trump organizat
 (through its subsidiary Trump acquisition, LLC) and I.C. Expert completed a letter of intent (LOI)
 for a Trump Moscow property. The LOI, signed by Trump for the Trump organization and Rozov
 on behalf of I.C. Expert, was "intended to facilitate further discussions" in order to "attempt to
+enter into a mutually acceptable agreement" related to the Trump-branded project in Moscow. 320
 
-[^313]: Rtskhiladze was a U.S.-based executive of the Georgian company Silk Road Group. In
-approximately 2011, Silk Road Group and the Trump organization entered into a licensing agreement to
-build a Trump-branded property in Batumi, Georgia. Rtskhiladze was also involved in discussions for a
-Trump -branded project in Astana, Kazakhstan. The Office twice interviewed Rtskhiladze, -
-
-3 
-[^14]: Cohen 9/12/18 302, at 12; see also Rtskhiladze 5/10/18 302, at 1. 
-[^315]: 9/22/1 5 Email, Rtskhiladze to Nizharadze. 
-[^316]: 9/24/15 Email, Rtskhiladze to Cohen. 
-[^317]: 9/24/1 5 Email, Rtskhiladze to Cohen. 3 
-[^18]: 9/27/15 Email, Rtskhiladze to Cohen. 3 
-[^19]: Cohen 9/12/18 302, at 12. enter into a mutually acceptable agreement" related to the Trump-branded project in Moscow. 320
+[^313]: Rtskhiladze was a U.S.-based executive of the Georgian company Silk Road Group. In approximately 2011, Silk Road Group and the Trump organization entered into a licensing agreement to build a Trump-branded property in Batumi, Georgia. Rtskhiladze was also involved in discussions for a Trump-branded project in Astana, Kazakhstan. The Office twice interviewed Rtskhiladze, **\[ REDACTED: Grand Jury \]**
+[^314]: Cohen 9/12/18 302, at 12; see also Rtskhiladze 5/10/18 302, at 1.
+[^315]: 9/22/1 5 Email, Rtskhiladze to Nizharadze.
+[^316]: 9/24/15 Email, Rtskhiladze to Cohen.
+[^317]: 9/24/1 5 Email, Rtskhiladze to Cohen.
+[^318]: 9/27/15 Email, Rtskhiladze to Cohen.
+[^319]: Cohen 9/12/18 302, at 12.
 
 The LOI contemplated a development with residential, hotel, commercial, and office components, and called for"\[a\]pproximately 250 first class, luxury residential condominiums ," as well as"\[o\]ne
 first class, luxury hotel consisting of approximately 15 floors and containing not fewer than 150
@@ -2057,22 +2140,19 @@ Later that day, Sater followed up:
 > the same for someone who knows how to deal"
 
 [^320]: 11/2/15 Email, Cohen to Rozov et al. (attachment) (hereinafter "LOI"); see also I 0/13/15 Email, Sater to Cohen & Davis (attaching proposed letter of intent). 321 LOI, p. 2.
-[^322]: The LOI called for the Trump organization to receive 5% of all gross sales up to $100 million ;
-4% of all gross sales from $100 million to $250 million ; 3% of all gross sales from $250 million to $500
-
-million; 2% of all gross sales from $500 million to $1 billion; and 1% of all gross sales over $1 billion. LOI, schedule 2. 
-[^323]: LOI, schedule 2. 
-[^324]: LOI, schedule 1. 
-[^325]: LOI, schedule 2. 
-[^326]: Cohen 9/12/18 302, at 3. 
+[^322]: The LOI called for the Trump organization to receive 5% of all gross sales up to $100 million; 4% of all gross sales from $100 million to $250 million; 3% of all gross sales from $250 million to $500 million; 2% of all gross sales from $500 million to $1 billion; and 1% of all gross sales over $1 billion. LOI, schedule 2.
+[^323]: LOI, schedule 2.
+[^324]: LOI, schedule 1.
+[^325]: LOI, schedule 2.
+[^326]: Cohen 9/12/18 302, at 3.
 [^327]: 11/3/15 Email, Sater to Cohen (12:14 p.m.).
- 
+
 > I think I can get Putin to say that at the Trump Moscow press conference. If he says it we own this election.
 > Americas most difficult adversary agreeing that Donald is a good guy to negotiate ....
 > We can own this election. Michael my next steps are very sensitive with Putins very very close people, we can pull
-> this off. Michael lets go. 2 boys from Brooklyn getting a USA president elected. This is good really good.328
+> this off. Michael lets go. 2 boys from Brooklyn getting a USA president elected. This is good really good. 328
 
-according to Cohen, he did not consider the political import of the Trump Moscow project
+According to Cohen, he did not consider the political import of the Trump Moscow project
 to the 2016 U.S. presidential election at the time. Cohen also did not recall candidate Trump or
 anyone affiliated with the Trump campaign discussing the political implications of the Trump
 Moscow project with him. however, Cohen recalled conversations with Trump in which the
@@ -2096,25 +2176,24 @@ approximately a month later, after the LOI had been signed, Lana Erchova emailed
 Trump on behalf of Erchova's then-husband Dmitry Klokov, to offer Klokov's assistance to the
 Trump campaign. 334 Klokov was at that time director of external communications for PJSC
 federal Grid company of unified Energy System, a large Russian electricity transmission
-
-[^328]: 11/3/15 Email, Sater to Cohen (12 :40 p.m.). 
-[^329]: Cohen 9/12/18 302, at 3-4; Cohen 8/7/18 302, at 15. 
-[^330]: Sater 12/15/17 302, at 2. 
-[^331]: Sater 12/15/17 302, at 3-4. 
-[^332]: 10/12/15 Email, Sater to Cohen (8:07 a.m.). 
-[^333]: 
-[^334]: Ivanka Trump received an email from a woman who identified herself as "Lana E. alexander,"
-which said in part, "If you ask anyone who knows Russian to google my husband Dmitry Klokov, you'll
- see who he is close to and that he has done Putin's political campaigns." 11/16/15 Email, Erchova to
- I. Trump. company, and had been previously employed as an aide and press secretary to Russia's energy
+company, and had been previously employed as an aide and press secretary to Russia's energy
 minister. Ivanka Trump forwarded the email to Cohen. 335 He told the Office that, after receiving
 this inquiry, he had conducted an Internet search for Klokov's name and concluded (incorrectly)
 that Klokov was a former Olympic weightlifter. 336
 
-between November 18 and 19, 2015,-Klokov and Cohen had at least one telephone call
+[^328]: 11/3/15 Email, Sater to Cohen (12 :40 p.m.).
+[^329]: Cohen 9/12/18 302, at 3-4; Cohen 8/7/18 302, at 15.
+[^330]: Sater 12/15/17 302, at 2.
+[^331]: Sater 12/15/17 302, at 3-4.
+[^332]: 10/12/15 Email, Sater to Cohen (8:07 a.m.).
+[^333]: **\[ REDACTED: Grand Jury \]**
+[^334]: Ivanka Trump received an email from a woman who identified herself as "Lana E. alexander," which said in part, "If you ask anyone who knows Russian to google my husband Dmitry Klokov, you'll see who he is close to and that he has done Putin's political campaigns." 11/16/15 Email, Erchova to I. Trump.
+
+Between November 18 and 19, 2015, Klokov and Cohen had at least one telephone call
 and exchanged several emails. describing himself in emails to Cohen as a "trusted person " who
 could offer the campaign "political synergy" and "synergy on a government level," Klokov
-recommended that Cohen travel to Russia to speak with him and an unidentified intermediary. Klokov said that those conversations could facilitate a later meeting in Russia between the
+recommended that Cohen travel to Russia to speak with him and an unidentified intermediary.
+Klokov said that those conversations could facilitate a later meeting in Russia between the
 candidate and an individual Klokov described as "our person of interest." 337 In an email to the
 Office, Erchova later identified the "person of interest" as Russian president Vladimir Putin. 338
 
@@ -2128,29 +2207,11 @@ formal invitation to visit. 339 (Klokov had written previously that "the visit \
 to Russia\] has to be informal.") 340
 
 Klokov had also previously recommended to Cohen that he separate their negotiations over
-a possible meeting between Trump and "the person of interest " from any existing business track. 341
-
+a possible meeting between Trump and "the person of interest" from any existing business track. 341
 Re-emphasizing that his outreach was not done on behalf of any business, Klokov added in second
 email to Cohen that, if publicized well, such a meeting could have "phenomenal " impact "in a
 business dimension" and that the "person of interest\['s\]" "most important support" could have
 significant ramifications for the "level of projects and their capacity." Klokov concluded by telling
-
-[^335]: 11/16/15 Email, I. Trump to Cohen. 
-[^336]: Cohen 8/7/18 302, at 17. During his interviews with the Office, Cohen still appeared to believe
-that the Klokov he spoke with was that Olympian. The investigation, however, established that the email
-address used to communicate with Cohen belongs to a different Dmitry Klokov, as described above. 
-[^337]: 11/18/15 Email, Klokov to Cohen (6:51 a.m.). 
-[^338]: In July 2018, the Office received an unsolicited email purporting to be from Erchova, in which
-she wrote that "\[a\]t the end of2015 and beginning of2016 I was asked by my ex-husband to contact Ivanka
-Trump. .. and offer cooperation to Trump's team on behalf of the Russian officials." 7/27/18 Email, Erchova to special counsel's Office. The email claimed that the officials wanted to offer candidate Trump
-"land in Crimea among other things and unofficial meeting with Putin." Id. In order to vet the email's
-claims, the Office responded requesting more details. The Office did not receive any reply. 
-[^339]: 11/18/15 Email, Cohen to Klokov (7:15 a.m.). 
-[^340]: 11/18/15 Email, Klokov to Cohen (6:51 a.m.). 
-[^341]: 11/18/15 Email, Klokov to Cohen (6:51 a.m.) ("I would suggest separating your negotiations
- and our proposal to meet. I assure you, after the meeting level of projects and their capacity can be
- completely different, having the most important support.").
-
 Cohen that there was "no bigger warranty in any project than \[the\] consent of the person of
 interest." 342 Cohen rejected the proposal, saying that "\[c\]urrently our LOI developer is in talks
 with VP's Chief of Staff and arranging a formal invite for the two to meet." 343 This email appears
@@ -2158,8 +2219,25 @@ to be their final exchange, and the investigation did not identify evidence that
 Klokov's initial offer of assistance to the campaign's attention or that anyone associated with the
 Trump organization or the campaign dealt with Klokov at a later date. Cohen explained that he
 did not pursue the proposed meeting because he was already working on the Moscow project with
-Sater, who Cohen understood to have his own connections to the Russian government. 
-[^344]: By late December 2015, however, Cohen was complaining that Sater had not been able to
+Sater, who Cohen understood to have his own connections to the Russian government. 344
+
+[^335]: 11/16/15 Email, I. Trump to Cohen.
+[^336]: Cohen 8/7/18 302, at 17. During his interviews with the Office, Cohen still appeared to believe
+that the Klokov he spoke with was that Olympian. The investigation, however, established that the email
+address used to communicate with Cohen belongs to a different Dmitry Klokov, as described above.
+[^337]: 11/18/15 Email, Klokov to Cohen (6:51 a.m.).
+[^338]: In July 2018, the Office received an unsolicited email purporting to be from Erchova, in which
+she wrote that "\[a\]t the end of2015 and beginning of2016 I was asked by my ex-husband to contact Ivanka
+Trump. .. and offer cooperation to Trump's team on behalf of the Russian officials." 7/27/18 Email, Erchova to special counsel's Office. The email claimed that the officials wanted to offer candidate Trump
+"land in Crimea among other things and unofficial meeting with Putin." Id. In order to vet the email's
+claims, the Office responded requesting more details. The Office did not receive any reply.
+[^339]: 11/18/15 Email, Cohen to Klokov (7:15 a.m.).
+[^340]: 11/18/15 Email, Klokov to Cohen (6:51 a.m.).
+[^341]: 11/18/15 Email, Klokov to Cohen (6:51 a.m.) ("I would suggest separating your negotiations
+ and our proposal to meet. I assure you, after the meeting level of projects and their capacity can be
+ completely different, having the most important support.").
+
+By late December 2015, however, Cohen was complaining that Sater had not been able to
 use those connections to set up the promised meeting with Russian government officials. Cohen
 told Sater that he was "setting up the meeting myself. " 345 On January 11, 2016, Cohen emailed
 the office of Dmitry Peskov, the Russian government's press secretary, indicating that he desired
@@ -2167,12 +2245,18 @@ contact with Sergei Ivanov, Putin's chief of staff. Cohen erroneously used the e
 "Pr_peskova@prpress.gof.ru" instead of "Pr_peskova@prpress.gov.ru," so the email apparently
 did not go through. 346 On January 14, 2016, Cohen emailed a different address
 (info@prpress.gov.ru) with the following message:
- Dear Mr. Peskov, Over the past few months, I have been working with a company based in Russia regarding
- the development of a Trump Tower-Moscow project in Moscow City. without getting into lengthy specifics, the communication between our two sides has
 
-stalled. As this project is too important, I am hereby requesting your assistance. I respectfully request someone, preferably you; contact me so that I might discuss the
-
-specifics as well as arranging meetings with the appropriate individuals. I thankyou in advance for your assistance and look forward to hearing from you soon. 347
+> Dear Mr. Peskov,
+> 
+> Over the past few months, I have been working with a company
+> based in Russia regarding the development of a Trump Tower-Moscow project in
+> Moscow City. without getting into lengthy specifics, the communication between
+> our two sides has stalled. As this project is too important, I am hereby
+> requesting your assistance. I respectfully request someone, preferably you;
+> contact me so that I might discuss the specifics as well as arranging meetings
+> with the appropriate individuals.
+> 
+> I thankyou in advance for your assistance and look forward to hearing from you soon. 347
 
 Two days later, Cohen sent an email to Pr_peskova@prpress.gov.ru, repeating his request to speak
 with Sergei Ivanov. 348
@@ -2180,15 +2264,18 @@ with Sergei Ivanov. 348
 Cohen testified to congress, and initially told the Office, that he did not recall receiving a
 response to this email inquiry and that he decided to terminate any further work on the Trump
 Moscow project as of January 2016. Cohen later admitted that these statements were false. In
+fact, Cohen had received (and recalled receiving) a response to his inquiry, and he continued
+to work on and update candidate Trump on the project through as late as June 2016. 349
 
-[^342]: 11/19/15 Email, Klokov to Cohen (7:40 a.m.). 
-[^343]: 11/19/15 Email, Cohen to Klokov (12:56 p.m.). 
-[^344]: Cohen 9/18/18 302, at 12. 
-[^345]: FS00004 (12/30/15 Text message, Cohen to Sater (6:17 p.m.)). 
-[^346]: 1/11/16 Email, Cohen to pr_peskova@prpress.gof.ru (9: 12 a.m.). 
-[^347]: 1/14/16 Email, Cohen to info@prpress.gov.ru (9:21 a.m.). 
-[^348]: 1/16/16 Email, Cohen to pr_peskova@prpress.gov.ru (10:28 a.m.). fact, Cohen had received (and recalled receiving) a response to his inquiry, and he continued to work on and update candidate Trump on the project through as late as June 2016. 
-[^349]: On January 20, 2016, Cohen received an email from Elena Poliakova, Peskov's personal
+[^342]: 11/19/15 Email, Klokov to Cohen (7:40 a.m.).
+[^343]: 11/19/15 Email, Cohen to Klokov (12:56 p.m.).
+[^344]: Cohen 9/18/18 302, at 12.
+[^345]: FS00004 (12/30/15 Text message, Cohen to Sater (6:17 p.m.)).
+[^346]: 1/11/16 Email, Cohen to pr_peskova@prpress.gof.ru (9: 12 a.m.).
+[^347]: 1/14/16 Email, Cohen to info@prpress.gov.ru (9:21 a.m.).
+[^348]: 1/16/16 Email, Cohen to pr_peskova@prpress.gov.ru (10:28 a.m.). 
+
+On January 20, 2016, Cohen received an email from Elena Poliakova, Peskov's personal
  assistant. writing from her personal email account, Poliakova stated that she had been trying to
  reach Cohen and asked that he call her on the personal number that she provided. 350 shortly after
  receiving Poliakova's email, Cohen called and spoke to her for 20 minutes. 351 Cohen described to
@@ -2203,32 +2290,23 @@ representative of the Russian government, nor did the Office identify any eviden
 follow-up. however, the day after Cohen's call with Poliakova, Sater texted Cohen, asking him
 to "\[c\]all me when you have a few minutes to chat .. . It's about Putin they called today." 353 Sater
 then sent a draft invitation for Cohen to visit Moscow to discuss the Trump Moscow project, 354
-
 along with a note to "\[t\]ell me if the letter is good as amended by me or make whatever changes
 you want and send it back to me." 355 After a further round of edits, on January 25, 2016, Sater
 sent Cohen an invitation - signed by Andrey Ryabinskiy of the company MHJ-to travel to
 "Moscow for a working visit" about the "prospects of development and the construction business
 in Russia," "the various land plots available suited for construction of this enormous Tower," and
-"the opportunity to co-ordinate a follow up visit to Moscow by Mr. Donald Trump." 356 according
+"the opportunity to co-ordinate a follow up visit to Moscow by Mr. Donald Trump." 356 According
+to Cohen, he elected not to travel at the time because of concerns about the lack of concrete
+proposals about land plots that could be considered as options for the project. 357
 
-[^349]: Cohen information ¶¶ 4, 7. Cohen's interactions with president Trump and the president's
-lawyers when preparing his congressional testimony are discussed further in Volume II. See Vol. II, section
-11.K.3 infra. 
-[^350]: 1/20/16 Email, Poliakova to Cohen (5:57 a.m.) ("Mr. Cohen\[,\] I can't get through to both your
-phones. Pls, call me.").
-[^351]: telephone records show a 20-minute call on January 20, 2016 between Cohen and the number
-Poliakova provided in her email. Call records of Michael Cohen After
-the call, Cohen saved Poliakova's contact information in his Trump organization outlook contact list. 1/20/16 Cohen Microsoft outlook Entry (6:22 a.m.). 
-[^352]: Cohen 9/12/18 302, at 2-3. 
-[^353]: FS000l 1 (1/21/16 Text messages, Sater to Cohen). 
-[^354]: The invitation purported to be from Genbank, a Russian bank that was, according to Sater, working at the behest of a larger bank, VTB, and would consider providing financing. FS00008 (12/31/15)
-
-Text messages, Sater & Cohen). additional information about Genbank can be found infra. 
-[^355]: FS000l I (1/21/16 Text message, Sater to Cohen (7:44 p.m.)) ; 1/21/16 Email, Sater to Cohen
-(6:49 p.m.). 
-[^356]: 1/25/16 Email, Sater to Cohen (12:01 p.m.) (attachment). to Cohen, he elected not to travel at the time because of concerns about the lack of concrete
-proposals about land plots that could be considered as options for the project. 
-[^357]:
+[^349]: Cohen information ¶¶ 4, 7. Cohen's interactions with president Trump and the president's lawyers when preparing his congressional testimony are discussed further in Volume II. See Vol. II, section 11.K.3 infra.
+[^350]: 1/20/16 Email, Poliakova to Cohen (5:57 a.m.) ("Mr. Cohen\[,\] I can't get through to both your phones. Pls, call me.").
+[^351]: telephone records show a 20-minute call on January 20, 2016 between Cohen and the number Poliakova provided in her email. Call records of Michael Cohen After the call, Cohen saved Poliakova's contact information in his Trump organization outlook contact list. 1/20/16 Cohen Microsoft Outlook Entry (6:22 a.m.).
+[^352]: Cohen 9/12/18 302, at 2-3.
+[^353]: FS000l 1 (1/21/16 Text messages, Sater to Cohen).
+[^354]: The invitation purported to be from Genbank, a Russian bank that was, according to Sater, working at the behest of a larger bank, VTB, and would consider providing financing. FS00008 (12/31/15 Text messages, Sater & Cohen). Additional information about Genbank can be found infra.
+[^355]: FS000l I (1/21/16 Text message, Sater to Cohen (7:44 p.m.)) ; 1/21/16 Email, Sater to Cohen (6:49 p.m.).
+[^356]: 1/25/16 Email, Sater to Cohen (12:01 p.m.) (attachment). 
 
 ##### d. discussions about Russia Travel by Michael Cohen or candidate Trump (December 2015-June 2016)
 
@@ -2252,21 +2330,20 @@ Russia for meetings. 358 On December 19, 2015, Sater wrote:
 In response, Cohen texted Sater an image of his own passport. 361 Cohen told the Office that at one
 point he requested a copy of candidate Trump's passport from Rhona Graff, Trump's executive
 assistant at the Trump organization, and that Graff later brought Trump's passport to Cohen's
- 
-[^357]: Cohen 9/12/18 302, at 6-7. 
+
+[^357]: Cohen 9/12/18 302, at 6-7.
 [^358]: See, e.g., 12/1/15 Email, Sater to Cohen (12:41 p.m.) ("Please scan and send me a copy of your
-passport for the Russian ministry of foreign affairs."). 
+passport for the Russian ministry of foreign affairs.").
 [^359]: Toll records show that Sater was speaking to Evgeny Dvoskin. Call records of Felix Sater
  Dvoskin is an executive of Genbank, a large bank with lending focused
 in Crimea, Ukraine. At the time that Sater provided this financing letter to Cohen, Genbank was subject to
 U.S. government sanctions, see Russia/Ukraine -related sanctions and identifications, Office of foreign
-Assets control (Dec. 22, 2015), available at https://www.treasury.gov/resource-center /sanctions/OF AC-
-enforcement/Pages/20151222.aspx. Dvoskin, who had been deported from the United States in 2000 for
+Assets control (Dec. 22, 2015), available at https://www.treasury.gov/resource-center/sanctions/OFAC-enforcement/Pages/20151222.aspx. Dvoskin, who had been deported from the United States in 2000 for
 criminal activity, was under indictment in the United States for stock fraud under the aliases Eugene Slusker
-and Gene Shustar. See United States v. Rizzo, et al., 2:03-cr-63 (E.D.N.Y. Feb. 6, 2003). 
+and Gene Shustar. See United States v. Rizzo, et al., 2:03-cr-63 (E.D.N.Y. Feb. 6, 2003).
 [^360]: 12/19/15 Email, Sater to Cohen (10:50 a.m.); FS00002 (12/19/15 Text messages, Sater to
-Cohen, (10:53 a.m.). 36 
-[^1]: FS00004 (12/19/15 Text message, Cohen to Sater); ERT_0198-256 (12/19/15 Text messages, Cohen & Sater). office. 362 The investigation did not, however, establish that the passport was forwarded to Sater. 
+Cohen, (10:53 a.m.). 36
+[^1]: FS00004 (12/19/15 Text message, Cohen to Sater); ERT_0198-256 (12/19/15 Text messages, Cohen & Sater). office. 362 The investigation did not, however, establish that the passport was forwarded to Sater.
 [^363]: Into the spring of 2016, Sater and Cohen continued to discuss a trip to Moscow in
  connection with the Trump Moscow project. On April 20, 2016, Sater wrote Cohen, " \[t\]he People. wanted to know when you are coming?" 364 On May 4, 2016, Sater followed up:
  I had a chat with Moscow. assuming the trip does happen the question is before or after
@@ -2274,9 +2351,9 @@ Cohen, (10:53 a.m.). 36
  convention. obviously the pre-meeting trip (you only) can happen anytime you want but
  the 2 big guys where \[sic\] the question. I said I would confirmand revert. . . . Let me
  know about If I was right by saying I believe after Cleveland and also when you want to
- speak to them and possibly flyover. 
+ speak to them and possibly flyover.
 [^365]: Cohen responded, "My trip before Cleveland. Trump once he becomes the nominee after the
- convention." 
+ convention."
 [^366]: The day after this exchange, Sater tied Cohen's travel to Russia to the St. Petersburg
  international economic Forum ("Forum"), an annual event attended by prominent Russian
  politicians and businessmen. Sater told the Office that he was informed by a business associate
@@ -2286,17 +2363,17 @@ Cohen, (10:53 a.m.). 36
  either Putin or Medvedev, as they are not sure if 1 or both will be there. This is perfect. The entire business class of Russia wiU be there as well. He said anything you want to discuss including dates and subjects are on the table to
  discuss\[. \]
 [^368]: The following day, Sater asked Cohen to confirm those dates would work for him to travel ; Cohen
- wrote back, "\[w\]orks for me." 
-[^369]: 
-[^362]: Cohen 9/12/18 302, at 5. 
+ wrote back, "\[w\]orks for me."
+[^369]:
+[^362]: Cohen 9/12/18 302, at 5.
 [^363]: On December 21, 2015, Sater sent Cohen a text message that read, "They need a copy of DJT
  passport ," to which Cohen responded, "After I return from Moscow with you with a date for him." FS
-[^00004]: (12/21/15 Text messages, Cohen & Sater). 
-[^364]: FS00014 (4/20/16 Text message, Sater to Cohen (9:06 p.m.)). 
-[^365]: FS000l 5 (5/4/16 Text message, Sater to Cohen (7:38 p.m.)). 3 
-[^66]: FS00015 (5/4/16 Text message, Cohen to Sater (8:03 p.m.)). 
-[^367]: Sater 12/15/17 302, at 4. 
-[^368]: FS00016 (5/5/16 Text messages, Sater to Cohen (6:26 & 6:27 a.m.)). 
+[^00004]: (12/21/15 Text messages, Cohen & Sater).
+[^364]: FS00014 (4/20/16 Text message, Sater to Cohen (9:06 p.m.)).
+[^365]: FS000l 5 (5/4/16 Text message, Sater to Cohen (7:38 p.m.)). 3
+[^66]: FS00015 (5/4/16 Text message, Cohen to Sater (8:03 p.m.)).
+[^367]: Sater 12/15/17 302, at 4.
+[^368]: FS00016 (5/5/16 Text messages, Sater to Cohen (6:26 & 6:27 a.m.)).
 [^369]: FS00016 (5/6/16 Text messages, Cohen & Sater). On June 9, 2016, Sater sent Cohen a notice that he (Sater) was completing the badges for
 the Forum, adding, "Putin is thereon the 17th very strong chance you will meet him as well." 370
 
@@ -2326,16 +2403,16 @@ from Sergei Prikhodko, a Deputy Prime minister of the Russian federation. 377 On
 participate in the highly prestigious" Forum event, but that he would "have to decline" the
 invitation given his "very grueling and full travel schedule" as a presidential candidate. 378 Graff
 
-[^370]: FS000 18 (6/9/16 Text messages, Sater & Cohen). 
-[^371]: 6/13/16 Email, Sater to Cohen (2:10 p.m.). 
-[^372]: FS00018 (6/13/16 Text message, Sater to Cohen (2:20 p.m.)); 6/13/16 Email, Sater to Cohen. 
-[^373]: Cohen 9/12/18 302, at 6-8. 
-[^374]: FS00019 (6/14/16 Text messages, Cohen & Sater (12:06 and 2:50 p.m.)). 
-[^375]: Cohen 9/12/18 302, at 2. 
-[^376]: Cohen 9/12/18 302, at 7. 
+[^370]: FS000 18 (6/9/16 Text messages, Sater & Cohen).
+[^371]: 6/13/16 Email, Sater to Cohen (2:10 p.m.).
+[^372]: FS00018 (6/13/16 Text message, Sater to Cohen (2:20 p.m.)); 6/13/16 Email, Sater to Cohen.
+[^373]: Cohen 9/12/18 302, at 6-8.
+[^374]: FS00019 (6/14/16 Text messages, Cohen & Sater (12:06 and 2:50 p.m.)).
+[^375]: Cohen 9/12/18 302, at 2.
+[^376]: Cohen 9/12/18 302, at 7.
 [^377]: 12/21/15 Email, Mira to Ivanka Trump (6:57 a.m.) (attachments); TRUMPORG_16_000057
 
-(1/7/16 Email, I. Trump to Graff(9:18 a.m.)). 
+(1/7/16 Email, I. Trump to Graff(9:18 a.m.)).
 [^378]: 1/14/16 Email, Graff to Mira. asked Duma whether she recommended that Graff "send a formal note to the Deputy Prime
 minister" declining his invitation; Duma replied that a formal note would be "great." 379
 
@@ -2367,17 +2444,17 @@ to Trump. 387
 
 [^379]: 1/15/16 Email, Mira to Graff. 380 As explained in Volume II and appendix C, on September 17, 2018, the Office sent written
 questions to the president's counsel. On November 20, 20 18, the president provided written answers to
-those questions through counsel. 
+those questions through counsel.
 [^381]: written responses of Donald J. Trump (Nov. 20, 2018), at 17 (response to question IV, Pait (e)) (" \[D\]ocuments show that Ms. Graff prepared for my signature a brief response declining the
-invitation."). 
+invitation.").
 [^382]: written responses of Donald J. Trump (Nov. 20, 2018), at 17 (response to question IV, Part
-(e)); see also TRUMPORG_l 6_000134 (unsigned letter dated March 31, 2016). 
-[^383]: TRUMPORG_16_000134 (unsigned letter). 
-[^384]: TRUMPORG_l6 _ 000133 (3/31/16 Email, Graffto macchia). 38 
-[^5]: Foresman 10/17/18 302, at 3-4. 
+(e)); see also TRUMPORG_l 6_000134 (unsigned letter dated March 31, 2016).
+[^383]: TRUMPORG_16_000134 (unsigned letter).
+[^384]: TRUMPORG_l6 _ 000133 (3/31/16 Email, Graffto macchia). 38
+[^5]: Foresman 10/17/18 302, at 3-4.
 [^386]: See TRUMPORG_16_00136 (3/31/16 Email, Foresman to Graff) ; see also Foresman 10/17/18
 
-302, at 3-4. 
+302, at 3-4.
 [^387]: See TRUMPORG _ l6 _00136 (4/4/16 Email, Graff to macchia). With no response forthcoming, Foresman twice sent reminders to Graff-first on April 26
 
 and again on April 30, 2016. 388 Graff sent an apology to Foresman and forwarded his April 26
@@ -2413,14 +2490,14 @@ George Papadopoulos was a foreign policy advisor to the Trump campaign from Marc
 
 [^388]: See TRUMPORG_16_00137 (4/26/16 Email, Foresman to Graff); TRUMPORG_ 16_00141
 
-(4/30/16 Email, Foresman to Graff). 
+(4/30/16 Email, Foresman to Graff).
 [^389]: See TRUMPORG_ 16_00139 (4/27/16 Email, Graff to Foresman); TRUMPORG_16_
-[^00137]: (4/27/16 Email, Graff to Lewandowski). 
+[^00137]: (4/27/16 Email, Graff to Lewandowski).
 [^390]: TRUMPORG_16_00142 (5/2/16 Email, Graff to S. Miller); see also TRUMPORG_16_
-[^00143]: (5/2/16 Email, Graff to S. Miller) (forwarding March 2016 email from Foresman). 
+[^00143]: (5/2/16 Email, Graff to S. Miller) (forwarding March 2016 email from Foresman).
 [^391]: Foresman's contacts during the transition period are discussed further in Volume I, section
-IV.B.3, infra. 
-[^392]: Foresman 10/17/18 302, at 4. 
+IV.B.3, infra.
+[^392]: Foresman 10/17/18 302, at 4.
 [^393]: Foresman 10/17/18 302, at 8-9. 2016 to early October 2016. 394 In late April 2016, Papadopoulos was told by London-based
  professor Joseph Mifsud, immediately after Mifsud's return from a trip to Moscow, that the
  Russian government had obtained "dirt" on candidate Clinton in the form of thousands of emails. One week later, on May 6, 2016, Papadopoulos suggested to a representative of a foreign
@@ -2432,30 +2509,30 @@ IV.B.3, infra.
  and for several months thereafter, Papadopoulos worked with Mifsud and two Russian nationals
  to arrange a meeting between the campaign and the Russian government. That meeting never
  came to pass.
- 
+
 ##### a. origins of campaign Work
 
  In March 2016, Papadopoulos became a foreign policy advisor to the Trump campaign. As early as the summer of 2015, he had sought a role as a policy advisor to the campaign but, in
  a September 30, 2015 email, he was told that the campaign was not hiring policy advisors. 396 In
  late 2015, Papadopoulos obtained a paid position on the campaign of republican presidential
- candidate Ben Carson. 
+ candidate Ben Carson.
 [^397]: although Carson remained in the presidential race until early March 20 I 6, Papadopoulos
  had stopped actively working for his campaign by early February 2016. 398 At that time, Papadopoulos reached out to a contact at the London Centre of international Law practice
  (LCILP), which billed itself as a "unique institution. . . comprising high-level professional
  international law practitioners, dedicated to the advancement of global legal knowledge and the
  practice of international law." 399 Papadopoulos said that he had finished his role with the Carson
- 
+
 [^394]: Papadopoulos met with our Office for debriefings on several occasions in the summer and fall
  of 2017, after he was arrested and charged in a sealed criminal complaint with making false statements in
  a January 2017 FBI interview about, inter alia, the timing, extent, and nature of his interactions and
  communications with Joseph Mifsud and two Russian nationals: Olga Polonskaya and Ivan Timofeev. Papadopoulos later pleaded guilty, pursuant to a plea agreement, to an information charging him with
- making false statements to the FBI, in violation of 18 U.S.C. § lO0l(a). 
-[^395]: A transcript of Donald Trump's meeting with the Washington Post editorial Board, Washington Post (Mar. 21, 2016). 
+ making false statements to the FBI, in violation of 18 U.S.C. § lO0l(a).
+[^395]: A transcript of Donald Trump's meeting with the Washington Post editorial Board, Washington Post (Mar. 21, 2016).
 [^396]: 7/15/15 LinkedIn message, Papadopoulos to Lewandowski (6:57 a.m.); 9/30/15 Email, Glassner to Papadopoulos (7:42:21 a.m.).
-[^397]: Papadopoulos 8/10/17 302, at 2. 
-[^398]: Papadopoulos 8/10/17 302, at 2; 2/4/16 Email, Papadopoulos to Idris. 
+[^397]: Papadopoulos 8/10/17 302, at 2.
+[^398]: Papadopoulos 8/10/17 302, at 2; 2/4/16 Email, Papadopoulos to Idris.
 [^399]: London Centre of International Law practice, at https://www.lcilp.org/ (via web.archive.org). campaign and asked if LCILP was hiring. 400 In early February, Papadopoulos agreed to join
-LCILP and arrived in London to begin work. 
+LCILP and arrived in London to begin work.
 [^401]: As he was taking his position at LCILP, Papadopoulos contacted Trump campaign manager
 Corey Lewandowski via LinkedIn and emailed campaign official Michael Glassner about his
 interest in joining the Trump campaign. 402 On March 2, 2016, Papadopoulos sent Glassner
@@ -2473,24 +2550,24 @@ had credibility on energy issues. 407 On March 3, 2016, Clovis arranged to speak
 Papadopoulos by phone to discuss Papadopoulos joining the campaign as a foreign policy advisor, and on March 6, 2016, the two spoke. 408 Papadopoulos recalled that Russia was mentioned as a
 topic, and he understood from the conversation that Russia would be an important aspect of the
 campaign's foreign policy. 409 At the end of the conversation, Clovis offered Papadopoulos a role
-as a foreign policy advisor to the campaign, and Papadopoulos accepted the offer. 
+as a foreign policy advisor to the campaign, and Papadopoulos accepted the offer.
 
 ##### b. initial Russia-related contacts
 
 approximately a week after signing on as a foreign policy advisor, Papadopoulos traveled
- 
-[^400]: 2/4/16 Email, Papadopoulos to Idris. 
+
+[^400]: 2/4/16 Email, Papadopoulos to Idris.
 [^401]: 2/5/16 Email, Idris to Papadopoulos (6:11:25 p.m.); 2/6/16 Email, Idris to Papadopoulos
-(5:34:15 p.m.). 
-[^402]: 2/4/16 LinkedIn message, Papadopoulos to Lewandowski (1 :28 p.m.); 2/4/16 Email, Papadopoulos to Glassner (2:10:36 p.m.). 
-[^403]: 3/2/16 Email, Papadopoulos to Glassner (11: 17:23 a.m.). 
-[^404]: 3/2/16 Email, Lutes to Papadopoulos (10:08:15 p.m.). 
-[^405]: Clovis 10/3/17 302 (1 of2), at 4. 
-[^406]: Clovis 10/3/17 302 (1 of2), at 4. 
+(5:34:15 p.m.).
+[^402]: 2/4/16 LinkedIn message, Papadopoulos to Lewandowski (1 :28 p.m.); 2/4/16 Email, Papadopoulos to Glassner (2:10:36 p.m.).
+[^403]: 3/2/16 Email, Papadopoulos to Glassner (11: 17:23 a.m.).
+[^404]: 3/2/16 Email, Lutes to Papadopoulos (10:08:15 p.m.).
+[^405]: Clovis 10/3/17 302 (1 of2), at 4.
+[^406]: Clovis 10/3/17 302 (1 of2), at 4.
 [^407]: ; 3/3/16 Email, Lutes to Clovis & Papadopoulos
-(6:05:47 p.m.). 40 
-[^8]: 3/6/16 Email, Papadopoulos to Clovis (4:24:21 p.m.). 
-[^409]: statement of offense ¶ 4, United States v. George Papadopoulos, 1:17-cr-182 (D.D.C. Oct. 5, 2017), Doc. 19 ("Papadopoulos statement of offense"). 4 
+(6:05:47 p.m.). 40
+[^8]: 3/6/16 Email, Papadopoulos to Clovis (4:24:21 p.m.).
+[^409]: statement of offense ¶ 4, United States v. George Papadopoulos, 1:17-cr-182 (D.D.C. Oct. 5, 2017), Doc. 19 ("Papadopoulos statement of offense"). 4
 [^10]: Papadopoulos 8/10/17 302, at 2. to Rome, Italy, as part of his duties with LCILP. 41 1 The purpose of the trip was to meet officials
 affiliated with Link Campus university, a for-profit institution headed by a former Italian
 government official. 412 During the visit, Papadopoulos was introduced to Joseph Mifsud. Mifsud is a maltese national who worked as a professor at the London academy of
@@ -2512,17 +2589,18 @@ European and Russian contacts and had a general discussion about Russia; Mifsud 
 Russian government officials interested Papadopoulos, who thought that such connections could
  increase his importance as a policy advisor to the Trump campaign. 419
 
-411 Papadopoulos 8/10/17 302, at 2-3; Papadopoulos statement of offense ,r5. 
+411 Papadopoulos 8/10/17 302, at 2-3; Papadopoulos statement of offense ,r5.
 [^412]: Papadopoulos 8/10/17 302, at 2-3; Stephanie Kirchgaessner et al., Joseph Mifsud: more
  questions than answers about mystery professor linked to Russia, The guardian (Oct. 31, 2017) ("Link
- Campus university ... is headed by a former Italian interior minister named Vincenzo Scotti."). 
-[^413]: Papadopoulos statement of offense ,r5. 
-[^414]: Papadopoulos 8/10/17 302, at 3. ,, ,• investigative technique
- 1 **\[ REDACTED: Harm to Ongoing Matter \]** 
-[^416]: Papadopoulos statement of offense ,r5. 4 
-[^17]: Papadopoulos statement of offense ,r5. 
-[^418]: Papadopoulos 8/10/17 302, at 3; Papadopoulos 8/11/17 302, at 2. 
-[^419]: Papadopoulos statement of offense ,r5. °
+ Campus university ... is headed by a former Italian interior minister named Vincenzo Scotti.").
+[^413]: Papadopoulos statement of offense ,r5.
+[^414]: Papadopoulos 8/10/17 302, at 3. ,, ,• **\[ REDACTED: Investigative Technique \]**
+ 1 **\[ REDACTED: Harm to Ongoing Matter \]**
+[^416]: Papadopoulos statement of offense ,r5.
+[^417]: Papadopoulos statement of offense ,r5.
+[^418]: Papadopoulos 8/10/17 302, at 3; Papadopoulos 8/11/17 302, at 2.
+[^419]: Papadopoulos statement of offense ,r5.
+[^420]:
 
 On March 17, 2016, Papadopoulos returned to London. 42 Four days later, candidate
 Trump publicly named him as a member of the foreign policy and national security advisory team
@@ -2551,20 +2629,20 @@ Russian leadership--including Putin." 427 The message stated in pertinent part:
 > us and Mr. Trump should there be interest. waiting for everyone's thoughts on moving
 > forward with this very important issue. 429
 
-[^420]: Papadopoulos 8/10/17 302, at 2. 
+[^420]: Papadopoulos 8/10/17 302, at 2.
 [^421]: Phillip Rucker & Robert Costa, Trump questions Need for NATO, outlines noninterventionist
-foreign Policy, Washington Post (Mar. 21, 2016). 
-[^422]: Papadopoulos 8/10/17 302, at 3; 3/24/16 Text messages, Mifsud & Papadopoulos. 
-[^423]: Papadopoulos 8/10/17 302, at 3. 
+foreign Policy, Washington Post (Mar. 21, 2016).
+[^422]: Papadopoulos 8/10/17 302, at 3; 3/24/16 Text messages, Mifsud & Papadopoulos.
+[^423]: Papadopoulos 8/10/17 302, at 3.
 [^424]: Papadopoulos 8/10/17 302, at 3; Papadopoulos 2/10/17 302, at 2-3 ; Papadopoulos Internet
  Search history (3/24/16) (revealing late-morning and early-afternoon searches on March 24, 2016 for
-"putin's niece, " "olga putin," and "russian president niece olga," among other terms). 
-[^425]: Papadopoulos 8/10/17 302, at 3. 
-[^426]: Papadopoulos statement of offense ,r8 n. l. 
-[^427]: 3/24/16 Email, Papadopoulos to Page et al. (8:48:21 a.m.). 
+"putin's niece, " "olga putin," and "russian president niece olga," among other terms).
+[^425]: Papadopoulos 8/10/17 302, at 3.
+[^426]: Papadopoulos statement of offense ,r8 n. l.
+[^427]: 3/24/16 Email, Papadopoulos to Page et al. (8:48:21 a.m.).
 [^428]: Papadopoulos's statements to the campaign were false. As noted above, the woman he met was
  not Putin's niece, he had not met the Russian ambassador in London, and the ambassador did not also
- serve as Russia's Deputy foreign minister. 
+ serve as Russia's Deputy foreign minister.
 [^429]: 3/24/16 Email, Papadopoulos to Page et al. (8:48:21 a.m.). Papadopoulos's message came at a time when Clovis perceived a shift in the campaign's approach
 toward Russia-from one of engaging with Russia through the NATO framework and takin a
 strong stance on Russian aggression in Ukraine, Clovis's response to Papadopoulos, however, did not reflect that shift. replying to
@@ -2587,11 +2665,11 @@ The meeting-which was intended to generate press coverage for the campaign 433 -
 the Trump international Hotel. 434 Papadopoulos flew to Washington for the event. At the meeting, senator sessions sat at one end of an oval table, while Trump sat at the other. As reflected in the
 photograph below (which was posted to Trump's Instagram account), Papadopoulos sat between
 the two, two seats to sessions's left:
- 
-[^430]: 
-[^431]: 3/24/16 Email, Clovis to Papadopoulos et al. (8:55:04 a.m.). 
-[^432]: Papadopoulos 8/10/17 302, at 4; Papadopoulos 8/11/17 302, at 3. 
-[^433]: sessions 1/17/18 302, at 16-17. 
+
+[^430]:
+[^431]: 3/24/16 Email, Clovis to Papadopoulos et al. (8:55:04 a.m.).
+[^432]: Papadopoulos 8/10/17 302, at 4; Papadopoulos 8/11/17 302, at 3.
+[^433]: sessions 1/17/18 302, at 16-17.
 [^434]: Papadopoulos 8/10/17 302, at 4.
 
  March 31, 2016 meeting of foreign Policy Team, with Papadopoulos (Fourth from Right of candidate Trump)
@@ -2600,7 +2678,7 @@ themselves and briefly described their areas of experience or expertise. 435 Pap
 about his previous work in the energy sector and then brought up a potential meeting with Russian
 officials. 436 specifically, Papadopoulos told the group that he had learned through his contacts in
 London that Putin wanted to meet with candidate Trump and that these connections could help
-arrange that meeting. 
+arrange that meeting.
 [^437]: Trump and sessions both reacted to Papadopoulos's statement. Papadopoulos and
 campaign advisor J.D. Gordon- who told investigators in an interview that he had a "crystal
 clear" recollection of the meeting-have stated that Trump was interested in and receptive to the
@@ -2613,12 +2691,12 @@ the strength of the opposition he expressed. 440
 
 whatever sessions's precise words at the March 31 meeting, Papadopoulos did not
 understand sessions or anyone else in the Trump campaign to have directed that he refrain from
- 
-[^435]: Papadopoulos 8/10/17 302, at 4. 
-[^436]: Papadopoulos 8/10/17 302, at 4. 
-[^437]: Papadopoulos statement of offense ¶ 9; see Gordon 8/29/17 302, at 14; Carafano 9/12/17 302, at 2; Hoskins 9/14/17 302, at 1. 
-[^438]: Papadopoulos 8/10/17 302, at 4-5 ; Gordon 9/7/17 302, at 4-5. 
-[^439]: Papadopoulos 8/10/17 302, at 5; Papadopoulos 8/11/17 302, at 3. 
+
+[^435]: Papadopoulos 8/10/17 302, at 4.
+[^436]: Papadopoulos 8/10/17 302, at 4.
+[^437]: Papadopoulos statement of offense ¶ 9; see Gordon 8/29/17 302, at 14; Carafano 9/12/17 302, at 2; Hoskins 9/14/17 302, at 1.
+[^438]: Papadopoulos 8/10/17 302, at 4-5 ; Gordon 9/7/17 302, at 4-5.
+[^439]: Papadopoulos 8/10/17 302, at 5; Papadopoulos 8/11/17 302, at 3.
 [^440]: sessions 1/17/18 302, at 17; Gordon 9/7/17 302, at 5; Hoskins 9/14/17 302, at l ; Carafano
 9/12/17 302, at 2. making further efforts to arrange a meeting between the campaign and the Russian government. To the contrary, Papadopoulos told the Office that he understood the campaign to be supportive
 of his efforts to arrange such a meeting. 441 accordingly, when he returned to London, Papadopoulos resumed those efforts. 442
@@ -2646,17 +2724,17 @@ possibility of a good relationship with Mr. Trump," and that " \[t\]he Russian f
 to welcome him once his candidature would be officially announced." 452
 
 
-[^441]: Papadopoulos 8/10/17 302, at 4-5; Papadopoulos 8/11/17 302, at 3; Papadopoulos 9/20/17 302, at 2. 
-[^442]: Papadopoulos statement of offense ¶ 10. 
-[^443]: Papadopoulos statement of offense ¶¶ 10-15. 
-[^444]: 3/29/16 Emails, Mifsud to Polonskaya (3 :39 a.m. and 5 :36 a.m.). 
-[^445]: 4/10/16 Email, Papadopoulos to Polonskaya (2:45:59 p.m.). 
-[^446]: 4/11/16 Email, Polonskaya to Papadopoulos (3: 11 :24 a.m.). 
-[^447]: 4/11 /l 6 Email, Papadopoulos to Polonskaya (9:21 :56 a.m.). 
-[^448]: 4/11/16 Email, Mifsud to Papadopoulos (11 :43 :53). 
-[^449]: Papadopoulos statement of offense ¶ 10(c). 
-[^450]: Anton Troianovski, Putin Ally Warns of Arms Race as Russia considers response to US. nuclear Stance, Washington Post (Feb. 10, 2018). 
-[^451]: 4/11/16 Email, Papadopoulos to Mifsud (11:51 :53 a.m.). 
+[^441]: Papadopoulos 8/10/17 302, at 4-5; Papadopoulos 8/11/17 302, at 3; Papadopoulos 9/20/17 302, at 2.
+[^442]: Papadopoulos statement of offense ¶ 10.
+[^443]: Papadopoulos statement of offense ¶¶ 10-15.
+[^444]: 3/29/16 Emails, Mifsud to Polonskaya (3 :39 a.m. and 5 :36 a.m.).
+[^445]: 4/10/16 Email, Papadopoulos to Polonskaya (2:45:59 p.m.).
+[^446]: 4/11/16 Email, Polonskaya to Papadopoulos (3: 11 :24 a.m.).
+[^447]: 4/11 /l 6 Email, Papadopoulos to Polonskaya (9:21 :56 a.m.).
+[^448]: 4/11/16 Email, Mifsud to Papadopoulos (11 :43 :53).
+[^449]: Papadopoulos statement of offense ¶ 10(c).
+[^450]: Anton Troianovski, Putin Ally Warns of Arms Race as Russia considers response to US. nuclear Stance, Washington Post (Feb. 10, 2018).
+[^451]: 4/11/16 Email, Papadopoulos to Mifsud (11:51 :53 a.m.).
 [^452]: 4/12/16 Email, Polonskaya to Papadopoulos (4:47:06 a.m.). Papadopoulos's and Mifsud's mentions of seeing each other "tomorrow" referenced a
 meeting that the two had scheduled for the next morning, April 12, 2016, at the Andaz Hotel in
 London. Papadopoulos acknowledged the meeting during interviews with the Office ,453 and
@@ -2677,21 +2755,21 @@ minister of Russia," and conveyed Ivanov's advice about how best to arrange a "M
 
 After a stop in Rome, Mifsud returned to England on April 25, 2016. 462 The next day, Papadopoulos met Mifsud for breakfast at the Andaz Hotel (the same location as their last
 
-[^453]: Papadopoulos 9/19/17 302, at 7. 
+[^453]: Papadopoulos 9/19/17 302, at 7.
 [^454]: 4/12/16 Email, Mifsud to Papadopoulos (5:44:39 a.m.) (forwarding Libya-related document);
 4/12/16 Email, Mifsud to Papadopoulos & Obaid (10:28:20 a.m.); Papadopoulos Internet Search history
 (Apr. 11, 2016 10:56:49 p.m.) (search for "andaz hotel liverpool street"); 4/12/16 Text messages, Mifsud
-& Papadopoulos. 
-[^455]: See, e.g., 4/18/16 Email, Mifsud t~ Papadopoulos (8:04:54 a.m.). 
-[^456]: Papadopoulos 8/ l 0/17 302, at 5. 
+& Papadopoulos.
+[^455]: See, e.g., 4/18/16 Email, Mifsud t~ Papadopoulos (8:04:54 a.m.).
+[^456]: Papadopoulos 8/ l 0/17 302, at 5.
 [^457]: Papadopoulos statement of offense ,r 11. 458 During the campaign period, Papadopoulos connected over LinkedIn with several MF A-
 affiliated individuals in addition to Timofeev. On April 25, 2016, he connected with Dmitry Andreyko, publicly identified as a First secretary at the Russian embassy in Ireland. In July 2016, he connected with
 Yuriy Melnik, the spokesperson for the Russian embassy in Washington and with Alexey Krasilnikov, publicly identified as a counselor with the MFA. And on September 16, 2016, he con~
 Nalobin, also identified as an MFA official. See Papadopoulos LinkedIn connections~
 
-[^459]: Papadopoulos statement of offense ,r11. 
-[^460]: Papadopoulos 8/10/17 302, at 5; Papadopoulos 9/19/17 302, at 10. 46 
-[^1]: 4/25/16 Email, Timofeev to Papadopoulos (8:16 :35 a.m.). 
+[^459]: Papadopoulos statement of offense ,r11.
+[^460]: Papadopoulos 8/10/17 302, at 5; Papadopoulos 9/19/17 302, at 10. 46
+[^1]: 4/25/16 Email, Timofeev to Papadopoulos (8:16 :35 a.m.).
 [^462]: 4/22/16 Email, Mifsud to Papadopoulos (12:41:01 a.m.). . P. 6(e)
 meeting). 463 During that meeting, Mifsud told Papadopoulos that he had met with high-level
 Russian government officials during his recent trip to Moscow. Mifsud also said that, on the trip, he learned that the Russians had obtained "dirt" on candidate Hillary Clinton. As Papadopoulos
@@ -2719,18 +2797,18 @@ throughout the spring and summer of 2016. On May 4, 2016, he forwarded to Lewand
  update." 470 He included the same email in a May 21, 2016 message to senior campaign official
  Paul Manafort, under the subject line "request from Russia to meet Mr. Trump, " stating that
  "Russia has been eager to meet Mr. Trump for quite sometime and have been reaching out to me
- 
-[^463]: Papadopoulos statement of offense ~ 14; 4/25/16 Text messages, Mifsud & Papadopoulos. 
-[^464]: Papadopoulo s statement of offense~ 14. 
+
+[^463]: Papadopoulos statement of offense ~ 14; 4/25/16 Text messages, Mifsud & Papadopoulos.
+[^464]: Papadopoulo s statement of offense~ 14.
 [^465]: This information is contained in the FBI case-opening document and related materials. ~
  iHferfflatiat1.is lu 11 eHfareefflefl.tseHsitive (LES) sHs f!'lttst be trestes ueeersiHgly iH uHy e,cten1al
- 
+
 [^1]: sisseffliHstiatt. The foreign government conveyed this information to the U.S. government on July 26, 2016, a few days after WikiLeaks's release of Clinton-related emails. The FBI opened its investigation of
- potential coordination between Russia and the Trump campaign a few days later based on the information. 
-[^466]: 4/25/16 Email, Papadopoulos to S. Miller (8: 12:44 p.m.). 
-[^467]: 4/27/16 Email, Papadopoulos to S. Miller (6:55 :58 p.m.). 
-[^468]: 4/27/16 Email, Papadopoulos to Lewandowski (7:15:14 p.m.). 
-[^469]: 5/4/16 Email, Papadopoulos to Lewandowski (8:14:49 a.m.). 
+ potential coordination between Russia and the Trump campaign a few days later based on the information.
+[^466]: 4/25/16 Email, Papadopoulos to S. Miller (8: 12:44 p.m.).
+[^467]: 4/27/16 Email, Papadopoulos to S. Miller (6:55 :58 p.m.).
+[^468]: 4/27/16 Email, Papadopoulos to Lewandowski (7:15:14 p.m.).
+[^469]: 5/4/16 Email, Papadopoulos to Lewandowski (8:14:49 a.m.).
 [^470]: 5/5/16 Email, Papadopoulos to Clovis (7:15:21 p.m.). to discuss." 471 Manafort forwarded the message to another campaign official, without including
 Papadopoulos, and stated: "Let\['\]s discuss. We need someone to communicate that \[Trump\] is ·
 not doing these trips. It should be someone low level in the campaign so as not to send
@@ -2748,17 +2826,17 @@ After several email and Skype exchanges with Timofeev, 476 Papadopoulos sent one
 email to Lewandowski on June 19, 2016, Lewandowski's last day as campaign manager. 477 The
 email stated that "\[t\]he Russian ministry of foreign affairs" had contacted him and asked whether, if Mr. Trump could not travel to Russia, a campaign representative such as Papadopoulos could
 attend meetings. 478 Papadopoulos told Lewandowski that he was "willing to make the trip off the
-record if it's in the interest of Mr. Trump and the campaign to meet specific people. " 
+record if it's in the interest of Mr. Trump and the campaign to meet specific people. "
 [^479]: following Lewandowski's departure from the campaign, Papadopoulos communicated
 with Clovis and Walid Phares, another member of the foreign policy advisory team, about an off-
 the-record meeting between the campaign and Russian government officials or with
 Papadopoulos's other Russia connections, Mifsud and Timofeev .480 Papadopoulos also interacted
- 
-[^471]: 5/21/16 Email, Papadopoulos to Manafort (2:30: 14 p.m.). 
-[^472]: Papadopoulos statement of offense ,r 19 n.2. 
-[^473]: 6/1/16 Email, Papadopoulos to Lewandowski (3:08:18 p.m.). 
+
+[^471]: 5/21/16 Email, Papadopoulos to Manafort (2:30: 14 p.m.).
+[^472]: Papadopoulos statement of offense ,r 19 n.2.
+[^473]: 6/1/16 Email, Papadopoulos to Lewandowski (3:08:18 p.m.).
 [^474]: 6/1/16 Email, Lewandowski to Papadopoulos (3:20:03 p.m.); 6/1/16 Email, Papadopoulos to
- Clovis (3:29:14 p.m.). 
+ Clovis (3:29:14 p.m.).
 [^475]: 6/1/16 Email, Papadopoulos to Clovis (3:29:14 p.m.). Papadopoulos's emai l coincided in time
  with another message to Clovis suggesting a Trump-Putin meeting. First, on May 15, 2016, David Klein-
  a distant relative of then-Trump organization lawyer Jason Greenblatt-emailed Clovis about a potential
@@ -2766,16 +2844,16 @@ Papadopoulos's other Russia connections, Mifsud and Timofeev .480 Papadopoulos a
  Lazar in February about a possible Trump-Putin meeting and that Lazar was "a very close confidante of
  Putin." DJTFP00011547 (5/15/16 Email, Klein to Clovis (5:45:24 p.m.)). The investigation did not find
  evidence that Clovis responded to Klein's email or that any further contacts of significance came out of
- Klein's subsequent meeting with Greenb latt and Rabbi Lazar at Trump Tower. Klein 8/30/18 302, at 2. 
-[^476]: Papadopoulos statement of offense ,r21(a). 
-[^477]: 
-[^478]: 6/19/16 Email, Papadopoulos to Lewandowski (1 :11 :11 p.m.). 
-[^479]: 6/19/16 Email, Papadopoulos to Lewandowski (1: 11: 11 p.m.). 
+ Klein's subsequent meeting with Greenb latt and Rabbi Lazar at Trump Tower. Klein 8/30/18 302, at 2.
+[^476]: Papadopoulos statement of offense ,r21(a).
+[^477]:
+[^478]: 6/19/16 Email, Papadopoulos to Lewandowski (1 :11 :11 p.m.).
+[^479]: 6/19/16 Email, Papadopoulos to Lewandowski (1: 11: 11 p.m.).
 [^480]: Papadop oulos statement of offense ,r21; 7/14/16 Email, Papadopoulos to Timofeev (11:57:
 [^24]: p.m.); 7/15/16 Email, Papadopoulos to Mifsud; 7/27/16 Email, Papadopoulos to Mifsud (2:14:18 p.m.). directly with Clovis and Phares in connection with the summit of the transatlantic parliamentary
 Group on counterterrorism (TAG), a group for which Phares was co-secretary general. 481 On July
 16, 2016, Papadopoulos attended the TAG summit in Washington, D.C., where he sat next to
-Clovis (as reflected in the photograph below). 
+Clovis (as reflected in the photograph below).
 [^482]: George Papad opoulos (far right) and Sam Clovis (second from right)
  although Clovis claimed to have no recollection of attending the TAG summit, 483
 
@@ -2791,17 +2869,17 @@ diplomacy. 487
 finally, Papadopoulos's recollection is also consistent with handwritten notes from a
 
 [^481]: Papadopoulos 9/19/17 302, at 16-17; 9th TAG Summit in Washington DC, transatlantic
-parliament Group on counterterrorism. 
+parliament Group on counterterrorism.
 [^482]: 9th TAG Summit in Washington DC, transatlantic parliament Group on counterterrorism. 483
 
 
-[^484]: Papadopoulos 9/19/17 302, at 16-17. 
-[^485]: 7/11/16 Email, Phares to Papadopoulos. 
-[^486]: 7/12/16 Email, Phares to Papadopoulos (14:52:29). 
+[^484]: Papadopoulos 9/19/17 302, at 16-17.
+[^485]: 7/11/16 Email, Phares to Papadopoulos.
+[^486]: 7/12/16 Email, Phares to Papadopoulos (14:52:29).
 [^487]: 7/27/16 Email, Papadopoulos to Mifsud (14:14:18). journal that he kept at the time. 488 Those notes, which are reprinted in part below, appear to refer
 to potential September 2016 meetings in London with representatives of the "office of Putin," and
  suggest that Phares, Clovis, and Papadopoulos ("Walid/Sam me") would attend without the official
- backing of the campaign ("no official letter/no message from Trump"). 
+ backing of the campaign ("no official letter/no message from Trump").
 [^489]: September: \ ;efft~tN : i (#.-/
  Have an exploratory meeting ,H-. ~ -tl{t--J-, /A-l<1-0 # ~
  te or lose. In September - if allowed
@@ -2827,15 +2905,15 @@ to potential September 2016 meetings in London with representatives of the "offi
  ¢ 5rw:h t1H t;J/
  5,,.,. -Useful to have a session with -.. f M (c)llv-~ Cf ~g;_,,-, him. --:v. ;~i,} />'1~ Lrt. Later communications indicate that Clovis determined that he (Clovis) could not travel. On August 15, 2016, Papadopoulos emailed Clovis that he had received requests from multiple
  foreign governments, "even Russia\[\], " for "closed door workshops/consultations abroad, " and
- asked whether there was still interest for Clovis, Phares, and Papadopoulos "to go on that trip. " 
+ asked whether there was still interest for Clovis, Phares, and Papadopoulos "to go on that trip. "
 [^490]: Clovis copied Phares on his response, which said that he could not "t ravel before the election" but
  that he "would encourage \[Papadopoulos\] and Walid to make the trips, if it is feasible. "
-[^491]: 
-[^488]: Papadopoulos 9/20/17 302, at 3. 
+[^491]:
+[^488]: Papadopoulos 9/20/17 302, at 3.
 [^489]: Papadopoulos declined to assist in deciphering his notes, telling investigators that he could not
  read his own handwriting from the journal. Papadopoulos 9/19/17 302, at 21. The notes, however, app ear
- to read as listed in the column to the left of the imag e above. 
-[^490]: 8/15/16 Email, Papadopoulos to Clovis (11 :59:07 a.m.). 49 
+ to read as listed in the column to the left of the imag e above.
+[^490]: 8/15/16 Email, Papadopoulos to Clovis (11 :59:07 a.m.). 49
 [^1]: 8/15/16 Email, Clovis to Papadopoulos (12:01 :45 p.m .). Papadopoulos was dismissed from the Trump campaign in early October 2016, after an
 interview he gave to the Russian newsagency Inter/ax generated adverse publicity. 492
 
@@ -2864,13 +2942,13 @@ anything from Papadopoulos or Clovis about Russia having emails of or dirt on ca
 Clinton. 496 Clovis stated that he did not recall anyone, including Papadopoulos, having given him
 non -public information that a forei n overnm ent mi ht be in ossession of material dama in to
 Hillar Clinton .
-[^497]: 49 
-[^2]: George Papadopoulos: sanctions Have Done Little More Than to Turn Russia towards China, Interfax (Sept. 30, 2016). 
-[^493]: Papadopoulos 9/19/17 302, at 14-15; Def. Sent. Mem., United States v. George Papad opoulos, I :17-cr-182 (D.D.C. Aug. 31, 2018), Doc. 45. 
-[^494]: See footnote 465 of Volume I, section IV.A.2.d, supra. 
-[^495]: Papadopoulos 8/10/17 302, at 5; Papadopoulos 8/11/17 302, at 5; Papadopoulos 9/20/1 7 302, at 2. 
-[^496]: S. Miller 12/14/17 302, at 10. 
-[^497]: 
+[^497]: 49
+[^2]: George Papadopoulos: sanctions Have Done Little More Than to Turn Russia towards China, Interfax (Sept. 30, 2016).
+[^493]: Papadopoulos 9/19/17 302, at 14-15; Def. Sent. Mem., United States v. George Papad opoulos, I :17-cr-182 (D.D.C. Aug. 31, 2018), Doc. 45.
+[^494]: See footnote 465 of Volume I, section IV.A.2.d, supra.
+[^495]: Papadopoulos 8/10/17 302, at 5; Papadopoulos 8/11/17 302, at 5; Papadopoulos 9/20/1 7 302, at 2.
+[^496]: S. Miller 12/14/17 302, at 10.
+[^497]:
 [^498]: No documentary evidence, and nothing in the email accounts or other
 communications facilities reviewed by the Office, shows that Papadopoulos shared this
 information with the campaign.
@@ -2898,19 +2976,19 @@ Denysyk thanked Papadopoulos "for taking the initiative ," but asked him to "hol
 499
 
 
-[^500]: 7/15/16 LinkedIn message, Millian to Papadopoulos. 50 
-[^1]: 7/15/16 LinkedIn message, Millian to Papadopoulos. 
+[^500]: 7/15/16 LinkedIn message, Millian to Papadopoulos. 50
+[^1]: 7/15/16 LinkedIn message, Millian to Papadopoulos.
 [^502]: 7/22/16 Facebook message, Papadopou los to Timofeev (7:40:23 p.m.) ; 7/26/16 Facebook
-message, Papadopoulos to Timofe ev (3:08:57 p.m.). 
+message, Papadopoulos to Timofe ev (3:08:57 p.m.).
 [^503]: 7/23/16 Facebook message, Timofeev to Papadopoulos (4 :31:37 a.m .); 7/26/16 Facebook
-message, Timofeev to Papadopoulos (3:37: 16 p.m.). 
-[^504]: 7/16/16 Text messages, Papadopoulos & Millian (7:55:43 p.m.). 
-[^505]: 7/30/16 Text messages, Papadopoulos & Millian (5:38 & 6:05 p.m .); 7/31/16 Text messages, Millian & Papadopoulo s (3 :48 & 4:18 p.m.); 8/1/16 Text message, Millian to Papadopoulos (8:19 p.m .). 
-[^506]: 8/2/16 Text messages, Milli an & Papadopou los (3 :04 & 3 :05 p.m.); 8/3/16 Facebook messages, Papadopoulos & Millian (4:07:37 a.m. & 1:11:58 p.m.). 
+message, Timofeev to Papadopoulos (3:37: 16 p.m.).
+[^504]: 7/16/16 Text messages, Papadopoulos & Millian (7:55:43 p.m.).
+[^505]: 7/30/16 Text messages, Papadopoulos & Millian (5:38 & 6:05 p.m .); 7/31/16 Text messages, Millian & Papadopoulo s (3 :48 & 4:18 p.m.); 8/1/16 Text message, Millian to Papadopoulos (8:19 p.m .).
+[^506]: 8/2/16 Text messages, Milli an & Papadopou los (3 :04 & 3 :05 p.m.); 8/3/16 Facebook messages, Papadopoulos & Millian (4:07:37 a.m. & 1:11:58 p.m.).
 [^507]: 7/31/16 Email, Papadopoulo s to Denysyk (12:29:59 p.m.). outreach to Russian-Americans " because "too many articles " had already portrayed the campaign, then-campaign chairman Paul Manafort, and candidate Trump as " being pro-Russian."
  On August 23, 2016, Millian sent a Facebook message to Papadopoulos promising that he
 would " share with you a disruptive technology that might be instrumental in your political work
-for the campaign." 509 Papadopoulos claimed to have no recollection of this matter. 
+for the campaign." 509 Papadopoulos claimed to have no recollection of this matter.
 [^510]: On November 9, 2016, shortly after the election, Papadopoulos arranged to meet Millian
 in Chicago to discuss business opportunities, including potential work with Russian "billionaires
 who are not under sanctions." 511 The meeting took place on November 14, 2016, at the Trump
@@ -2931,20 +3009,20 @@ campaign, Page advocated pro-Russia foreign policy positions and traveled to Mos
 personal capacity. Russian intelligence officials had formed relationships with Page in 2008 and
 2013 and Russian officials may have focused on Page in 2016 because of his affiliation with the
 campaign. however, the investigation did not establish that Page coordinated with the Russian
-government in its efforts to interfere with the 2016 presidential election. 
+government in its efforts to interfere with the 2016 presidential election.
 
-[^508]: 7/31/16 Email, Denysyk to Papadopoulos (21 :54:52). 
-[^509]: 8/23/16 Facebook message, Millian to Papadopoulos (2:55:36 a.m.). 
-[^510]: Papadopoulos 9/20/17 302, at 2. 
+[^508]: 7/31/16 Email, Denysyk to Papadopoulos (21 :54:52).
+[^509]: 8/23/16 Facebook message, Millian to Papadopoulos (2:55:36 a.m.).
+[^510]: Papadopoulos 9/20/17 302, at 2.
 [^511]: 11/10/16 Facebook message, Millian to Papadopoulos (9:35:05 p.m .).
-[^512]: 11/14/16 Facebook message, Millian to Papadopoulos (1 :32: 11 a.m.). 
-[^513]: Papadopoulos 9/19/17 302, at 19. 
+[^512]: 11/14/16 Facebook message, Millian to Papadopoulos (1 :32: 11 a.m.).
+[^513]: Papadopoulos 9/19/17 302, at 19.
 [^514]: E.g., 11/29/16 Facebook messages, Papadopoulos & Millian (5:09 - 5:11 p.m.); 12/7/
-[^515]: Facebook message, Millian to Papadopoulos (5:10:54 p.m.). 5 
-[^515]: 1/20/17 Facebook messages, Papadopoulos & Millian (4:37-4:39 a.m.). 
+[^515]: Facebook message, Millian to Papadopoulos (5:10:54 p.m.). 5
+[^515]: 1/20/17 Facebook messages, Papadopoulos & Millian (4:37-4:39 a.m.).
 [^516]: Page was interviewed b
  counsel's appointment.
- 
+
 ##### a. background
 
 Before he began working for the campaign in January 2016, Page had substantial prior
@@ -2970,7 +3048,7 @@ In a recorded conversation on April 8, 2013, Podobnyy told another intelligence 
 was interested in business opportunities in Russia. 528 In Podobnyy's words, Page "got hooked on
 
 [^517]: testimony of Carter Page, hearing Before the U.S. House of representatives, permanent Select
-committee on intelligence, 115th Cong. 40 (Nov. 2, 2017) (exhibit). 
+committee on intelligence, 115th Cong. 40 (Nov. 2, 2017) (exhibit).
 [^518]: Page 3/30/17 302, at 10. 519
 
 520
@@ -2983,9 +3061,9 @@ committee on intelligence, 115th Cong. 40 (Nov. 2, 2017) (exhibit).
 
 
 [^525]: complaint ,r,r22, 24, 32, United States v. Buryakov, 1: 15-
-mj-215 (S.D.N.Y. Jan. 23, 20 I 5), Doc. 1 ("Buryakov complaint"). 
-[^526]: Buryakov complaint ,r34. 
-[^527]: Buryakov complaint ,r34. 
+mj-215 (S.D.N.Y. Jan. 23, 20 I 5), Doc. 1 ("Buryakov complaint").
+[^526]: Buryakov complaint ,r34.
+[^527]: Buryakov complaint ,r34.
 [^528]: Buryakov complaint ,r32. Gazprom thinking that if they have a project, he could ... rise up. Maybe he can .... \[I\]t's obvious
 that he wants to earn lots of money." 529 Podobnyy said that he had led Page on by "feed\[ing\] him
 empty promises " that Podobnyy would use his Russian business connections to help Page. 530
@@ -3015,19 +3093,19 @@ more immaterial non-public information I give them, the better for this country.
  officials. 539 Page told the Office that his goal inworking on the campaign was to help candidate
 Trump improve relations with Russia. 540 To that end, Page emailed campaign officials offering
  his thoughts on U.S.-Russia relations, prepared talking points and briefing memos on Russia, and
- 
-[^529]: Buryakov complaint. 
-[^530]: Buryakov complaint. 
-[^531]: Buryakov complaint. 
+
+[^529]: Buryakov complaint.
+[^530]: Buryakov complaint.
+[^531]: Buryakov complaint.
 [^532]: See Buryakov Complaint; see also indictment United States v. Buryakov, 1: 15-cr-73 (S.D.N. Y. Feb. 9, 2015), Doc. 10;
- 
+
 [^536]: Page 3/16/17 302, at 4;
- 
-[^537]: Page 3/30/17 302, at 6; Page 3/31/17 302, at 1. 
-[^538]: Page 3/31/17 302, at 1. 
+
+[^537]: Page 3/30/17 302, at 6; Page 3/31/17 302, at 1.
+[^538]: Page 3/31/17 302, at 1.
 [^539]: Page 3/16/17 302, at 1;
- 
-[^540]: Page 3/10/17 302, at 2. proposed that candidate Trump meet with president Vladimir Putin in Moscow. 
+
+[^540]: Page 3/10/17 302, at 2. proposed that candidate Trump meet with president Vladimir Putin in Moscow.
 [^541]: In communications with campaign officials, Page also repeatedly touted his high-level
 contacts in Russia and his ability to forge connections between candidate Trump and senior
 Russian governmental officials. For example, on January 30, 2016, Page sent an email to senior
@@ -3036,7 +3114,7 @@ with some individuals with close ties to the kremlin" who recognized that Trump 
 "game-changing effect ... in bringing the end of the new Cold War." 542 The email stated that
 " \[t\]hrough \[his\] discussions with these high level contacts ," Page believed that "a direct meeting
 in Moscow between Mr\[.\] Trump and Putin could be arranged." 543 Page closed the email by
-criticizing U.S. sanctions on Russia. 
+criticizing U.S. sanctions on Russia.
 [^544]: On March 21, 2016, candidate Trump formally and publicly identified Page as a member
 of his foreign policy team to advise on Russia and the energy sector. 546 Over the next several
 months, Page continued providing policy -related work product to campaign officials. For
@@ -3050,18 +3128,18 @@ expressed appreciation for Page's work and praised his work to other campaign of
 Page's affiliation with the Trump campaign took on a higher profile and drew the attention
 of Russian officials after the candidate named him a foreign policy advisor. As a result, in late
 April 2016, Page was invited to give a speech at the July 20 16 commencement ceremony at the
- 
+
 [^541]: See, e.g., 1/30/16 Email, Page to Glassner et al.; 3/17/16 Email, Page to Clovis (attaching a
 "president's Daily Brief'prepared by Page that discussed the "severe degradation of U.S.-Russia relations
 following Washington's meddling" in Ukraine);
- 
-[^542]: 1/30/16 Email, Page to Glassner et al. 
-[^543]: 1/30/16 Email, Page to Glassner et al. 
-[^544]: 1/30/16 Email, Page to Glassner et al. 
-[^545]: 
+
+[^542]: 1/30/16 Email, Page to Glassner et al.
+[^543]: 1/30/16 Email, Page to Glassner et al.
+[^544]: 1/30/16 Email, Page to Glassner et al.
+[^545]:
 [^546]: A transcript of Donald with the Washington Post editorial Board, Washington Post (Mar. 21, 2016);
- 
-[^547]: 
+
+[^547]:
 [^548]: 549 See, e.g., 3/28/16 Email, Clovis to Lewandowski et al. (forwarding notes .prepared by Page and
  stating, "I wanted to let you know the type of work some of our advisors are capable of."). New economic School (NES) in Moscow. 550 The NES commencement ceremony generally
 featured high-profile speakers; for example, president Barack Obama delivered a commencement
@@ -3091,18 +3169,18 @@ the Russian ministry of foreign affairs'information and Press department, about 
 his connection to the Trump campaign. 56 1 Denis Klimentov said in the email that he wanted to
 draw the Russian government's attention to Page's visit in Moscow. 562 His message to Zakharova
 
-[^550]: Page 3/16/17 302, at 2-3; Page 3/10/17 302, at 3. 
-[^551]: S. Weber 7/28/17 302, at 3. 
-[^552]: Y. Weber 6/1/17 302, at 4-5; S. Weber 7/28/17 302, at 3. 
-[^553]: See Y. Weber 6/1/17 302, at 4; S. Weber 7/28/17 302, at 3. 
-[^554]: De. Klimentov 6/9/17 302, at 2. 
+[^550]: Page 3/16/17 302, at 2-3; Page 3/10/17 302, at 3.
+[^551]: S. Weber 7/28/17 302, at 3.
+[^552]: Y. Weber 6/1/17 302, at 4-5; S. Weber 7/28/17 302, at 3.
+[^553]: See Y. Weber 6/1/17 302, at 4; S. Weber 7/28/17 302, at 3.
+[^554]: De. Klimentov 6/9/17 302, at 2.
 [^555]: S. Weber 7/28/17 302, at 3. 556 See 5/16/16 Ema il, Page to Phares et al. (referring to submission of a "campaign advisor request
-form"). 
-[^557]: ; 5/16/16 Email, Page to Phares et al. 
-[^558]: 6/19/16 Email, Page to Gordon et al. 
-[^559]: 6/19/16 Email, Lewandowski to Page et al. 
-[^560]: Dmitri Klimentov is a New York-based public relations consultant. 
-[^561]: 7/5/16 Email, Klimentov to Zakharova (translated). 
+form").
+[^557]: ; 5/16/16 Email, Page to Phares et al.
+[^558]: 6/19/16 Email, Page to Gordon et al.
+[^559]: 6/19/16 Email, Lewandowski to Page et al.
+[^560]: Dmitri Klimentov is a New York-based public relations consultant.
+[^561]: 7/5/16 Email, Klimentov to Zakharova (translated).
 [^562]: 7/5/16 Email, Klimentov to Zakharova (translated). continued: "Page is Trump's adviser on foreign policy. He is a known businessman; he used to
 work in Russia ... . If you have any questions, I will be happy to help contact him." 563 Dmitri
 Klimentov then contacted Russian Press secretary Dmitry Peskov about Page's visit to see if
@@ -3127,21 +3205,21 @@ become the head of investor relations at Rosneft, a Russian energy company. 572 
 he and Baranov talked about "immaterial non-public " information. 573 Page believed he and
 Baranov discussed Rosneft president Igor Sechin, and he thought Baranov might have mentioned
 
-[^563]: 7/5/16 Email, Klimentov to Zakharova (translated). 
-[^564]: Dm. Klimentov 11/27/18 302, at 1-2. 
-[^565]: 7/6/16 Email, Peskov to Klimentov (translated). 
-[^566]: Page 3/10/17 302, at 3. 
+[^563]: 7/5/16 Email, Klimentov to Zakharova (translated).
+[^564]: Dm. Klimentov 11/27/18 302, at 1-2.
+[^565]: 7/6/16 Email, Peskov to Klimentov (translated).
+[^566]: Page 3/10/17 302, at 3.
 [^567]: See Carter W. Page, The lecture of Trump's advisor Carter Page in Moscow, YouTube
 channel Katehon Think Tank, Posted July 7, 2016, available at https://www.youtube.com /watch?
 time_continue =28&v= lCYF29saA9w. Page also provided the FBI with a copy of his speech and slides
 from the speech. See Carter Page, "The evolution of the World economy: Trends and potential," Speech
-at national economic Speech (July 7, 2016). 
-[^568]: Page 3/10/17 302, at 3. 
-[^569]: Page 3/16/17 302, at 3. 
+at national economic Speech (July 7, 2016).
+[^568]: Page 3/10/17 302, at 3.
+[^569]: Page 3/16/17 302, at 3.
 [^570]: S. Weber 7/28/17 302, at 4. 571
 
 
-[^572]: Page 3/10/17 302, at 3; Page 3/30/17 302, at 3; Page 3/31/17 302, at 2. 
+[^572]: Page 3/10/17 302, at 3; Page 3/30/17 302, at 3; Page 3/31/17 302, at 2.
 [^573]: Page 3/30/17 302, at 3. the possibility of a sale of a stake in Rosneft in passing. 574 Page recalled mentioning his
 involvement in the Trump campaign with Baranov, although he did not remember details of the
 conversation. 575 Page also met with individuals from Tatneft, a Russian energy company, to
@@ -3161,11 +3239,11 @@ vast range of current international problems. Based on feedback from a diverse a
 
 other sources close to the presidential administration, it was readily apparent that this
 
-sentiment is widely held at all levels of government. 
+sentiment is widely held at all levels of government.
 [^578]: The Office was unable to obtain additional evidence or testimony about who Page
  may have met or communicated with in Moscow; thus, Page's activities in Russia-as described
- in his emails with the campaign-were not fully explained. 
-[^576]: Page 3/10/17 302, at 3; Page 3/30/17 302, at 7; Page 3/31/17 302, at 2. 
+ in his emails with the campaign-were not fully explained.
+[^576]: Page 3/10/17 302, at 3; Page 3/30/17 302, at 7; Page 3/31/17 302, at 2.
 [^577]: 7/8/16 Email, Page to Dahl & Gordon. 578
 
 579
@@ -3195,20 +3273,20 @@ communications with senior Russian officials to discuss U.S. sanctions policy un
 Trump administration. 588 A campaign spokesman told Yahoo! News that Page had "no role" in
 the campaign and that the campaign was "not aware of any of his activities, past or present. " 589
 
-On September 24, 2016, Page was formally removed from the campaign. 
+On September 24, 2016, Page was formally removed from the campaign.
 [^590]: although Page had been removed from the campaign, after the election he sought a
 position in the Trump administration. 59 1 On November 14, 2016, he submitted an application to
 the transition Team that inflated his credentials and experiences, stating that in his capacity as a
 Trump campaign foreign policy advisor he had met with "top world leaders" and "effectively
- 5 
-[^3]: & Page 3/10/17 302, at 4; Page 3/16/17 302, at 3. 5 
+ 5
+[^3]: & Page 3/10/17 302, at 4; Page 3/16/17 302, at 3. 5
 [^4]: & Page 3/10/17 302, at 4; Page 3/16/17 302, at 3. 5&
-[^5]: ; 7/23/16 Email, Page to Clovis; 7/25/16 Email, Page to Gordon & Schmitz. 
-[^586]: 
+[^5]: ; 7/23/16 Email, Page to Clovis; 7/25/16 Email, Page to Gordon & Schmitz.
+[^586]:
 [^587]: See, e.g., Steven Mufson & Tom hamburger, Trump advisor's Public comments, Ties to
-Moscow Stir Unease in Both parties, Washington Post (Aug. 5, 2016). 
+Moscow Stir Unease in Both parties, Washington Post (Aug. 5, 2016).
 [^58]: & Michael Isikoff, US. Intel officials Probe Ties between Trump adviser and kremlin, Yahoo!
-News (Sept. 23, 2016). 5 
+News (Sept. 23, 2016). 5
 [^9]: & Michael Isikoff, US. Intel officials Probe Ties between Trump adviser and kremlin, Yahoo!
 News (Sept. 23, 2016); see also 9/25/16 Email, Hicks to Conway & Bannon (instructing that inquiries about
 Page should be answered with "\[h\]e was announced as an informal adviser in March. Since then he has
@@ -3245,12 +3323,12 @@ national security and foreign policy issues. 595
 Dimitri Simes is president and CEO of CNI and the publisher and CEO of the national
 interest. 596 Simes was born in the former Soviet Union, emigrated to the United States in the early
 1970s, and joined CNI's predecessor after working at the Carnegie endowment for international
- 
-[^593]: Simes 3/8/18 302, at 1-2. 
-[^594]: About the Center, CNI, available at https://cftni.org/about/. 
+
+[^593]: Simes 3/8/18 302, at 1-2.
+[^594]: About the Center, CNI, available at https://cftni.org/about/.
 [^595]: advisory counsel, CNI, available at https://web.archive.org/web/20161030025331/
  http://cftni.org/about/advisory-council/; Simes 3/8/18 302, at 3-4; Saunders 2/15/18 302, at 4; sessions
- 1/17/18 302, at 16. 
+ 1/17/18 302, at 16.
 [^596]: Simes 3/8/18 302, at 2. Peace. 597 Simes personally has many contacts with current and former Russian government
  officials, 598 as does CNI collectively. As CNI stated when seeking a grant from the Carnegie
  corporation in 2015, CNI has "unparalleled access to Russian officials and politicians among
@@ -3258,34 +3336,34 @@ interest. 596 Simes was born in the former Soviet Union, emigrated to the United
  and for Russian delegations to visit the United States as part of so-called "Track 11" diplomatic efforts.
 [^600]: On March 14, 2016, CNI board member Richard Plepler organized a luncheon for CNI and
  its honorary chairman, Henry Kissinger, at the Time Warner building in New York. 601 The idea
- behind the event was to generate interest in CNI's work and recruit new board members for CNI. 
+ behind the event was to generate interest in CNI's work and recruit new board members for CNI.
 [^602]: Along with Simes, attendees at the event included Jared Kushner, son-in-law of candidate
  Trump. 603 Kushner told the Office that the event came at a time when the Trump campaign was
- having trouble securing support from experienced foreign policy professionals and that, as a result, he decided to seek Simes's assistance during the March 14 event. 
+ having trouble securing support from experienced foreign policy professionals and that, as a result, he decided to seek Simes's assistance during the March 14 event.
 [^604]: Simes and Kushner spoke again on a March 24, 2016 telephone call,605 three days after
  Trump had publicly named the team of foreign policy advisors that had been put together on short
  notice. 606 On March 31, 2016, Simes and Kushner had an in-person, one-on-one meeting in
  Kushner's New York office. 607 During that meeting, Simes told Kushner that the best way to
  handle foreign-policy issues for the Trump campaign would be to organize an advisory group of
  experts to meet with candidate Trump and develop a foreign policy approach that was consistent
- with Trump's voice. 608 Simes believed that Kushner was receptive to that suggestion. 
+ with Trump's voice. 608 Simes believed that Kushner was receptive to that suggestion.
 [^609]: Simes also had contact with other individuals associated with the Trump campaign
  regarding the campaign's foreign policy positions. For example, on June 17, 2016, Simes sent
  J.D. Gordon an email with a "memo to senator sessions that we discussed at our recent meeting "
- 
-[^597]: Simes 3/8/18 302, at 1-2; Simes 3/27/18 302, at 19. 
-[^598]: Simes 3/27/18 302, at 10-15. 
-[^599]: C000l 1656 (rethinking US-Russia relations, CNI (Apr. 18, 2015)). 
-[^600]: Simes 3/8/18 302, at 5; Saunders 2/15/18 302, at 29-30; Zakheim 1/25/18 302, at 3. 
+
+[^597]: Simes 3/8/18 302, at 1-2; Simes 3/27/18 302, at 19.
+[^598]: Simes 3/27/18 302, at 10-15.
+[^599]: C000l 1656 (rethinking US-Russia relations, CNI (Apr. 18, 2015)).
+[^600]: Simes 3/8/18 302, at 5; Saunders 2/15/18 302, at 29-30; Zakheim 1/25/18 302, at 3.
 [^601]: Simes 3/8/18 302, at 6; C00006784 (3/11/16 Email, Gilbride to Saunders (3:43:12 p.m.); cf
- Zakheim 1/25/18 302, at 1 (Kissinger was CNI's "honorary chairman of the Board"); Boyd 1/24/1 8 302, at 2; P. sanders 2/15/18 302, at 5. 
-[^602]: Simes 3/8/18 302, at 5-6; Simes 3/27/18 302, at 2. 
-[^603]: Simes 3/8/18 302, at 6; Kushner 4/11/18 302 at 2. 
-[^604]: Kushner 4/11/18 302, at 2. 
-[^605]: Simes 3/8/18 302, at 6-7. 
-[^606]: see Volume I, section IV.A.2, supra. 
-[^607]: Simes 3/8/18 302, at 7-9. 
-[^608]: Simes 3/8/18 302, at 7-8. 
+ Zakheim 1/25/18 302, at 1 (Kissinger was CNI's "honorary chairman of the Board"); Boyd 1/24/1 8 302, at 2; P. sanders 2/15/18 302, at 5.
+[^602]: Simes 3/8/18 302, at 5-6; Simes 3/27/18 302, at 2.
+[^603]: Simes 3/8/18 302, at 6; Kushner 4/11/18 302 at 2.
+[^604]: Kushner 4/11/18 302, at 2.
+[^605]: Simes 3/8/18 302, at 6-7.
+[^606]: see Volume I, section IV.A.2, supra.
+[^607]: Simes 3/8/18 302, at 7-9.
+[^608]: Simes 3/8/18 302, at 7-8.
 [^609]: Simes 3/8/18 302, at 8; see also Boyd 1/24/18 302, at 2. and asked Gordon to both read it and share it with sessions. The memorandum proposed building
 a "small and carefully selected group of experts" to assist sessions with the campaign, operating
 under the assumption "that Hillary Clinton is very vulnerable on national security and foreign
@@ -3315,19 +3393,18 @@ perceived as an endorsement of a particular candidate, CNI decided to have its p
 national interest, serve as the host and to have the event at the national Press Club. 617 Kushner
 later requested that the event be moved to the mayflower Hotel, which was another venue that
 Simes had mentioned during initial discussions with the campaign, in order to address concerns
-about security and capacity. 
-[^618]: 
-[^61]: °C00008187 (6/17/16 Email, Simes to Gordon (3:35:45 p.m.)). 
-[^611]: Simes 3/8/18 302, at 7. 612 Simes 3/8/18 302, at 8-11; C00008923 (4/6/16 Email, Simes to Burt (2:22:28 p.m.)) ; Burt 2/9/
-[^18]: 302, at 7. 6 
-[^13]: C00008551 (4/17/16 Email, Kushner to Simes (2:44:25 p.m.)); C00006759 (4/14/16 Email
- Kushner to Simes & S. Miller (12:30 p.m.)). 6 
-[^14]: Burt 2/9/18 302, at 7; Saunders 2/15/18 302, at 7-8. 
-[^615]: Simes 3/8/18 302, at 13; Saunders 2/15/18 302, at 7-8. 
-[^616]: Simes 3/8/18 302, at 13; Saunders 2/15/18 302, at 7-8. 6 
-[^17]: Saunders 2/15/18 302, at 8; Simes 3/8/18 302, at 12; C00003834-43 (4/22/16 Ema il, Simes to
- Boyd et al. (8 :47 a.m.)). 
-[^618]: Simes 3/8/18 302, at 12, 18; Saunders 2/15/18 302, at 11. On April 25, 2016, Saunders booked event rooms at the mayflower to host both the speech
+about security and capacity. 618
+
+[^610]: C00008187 (6/17/16 Email, Simes to Gordon (3:35:45 p.m.)).
+[^611]: Simes 3/8/18 302, at 7. 612 Simes 3/8/18 302, at 8-11; C00008923 (4/6/16 Email, Simes to Burt (2:22:28 p.m.)) ; Burt 2/9/18: 302, at 7.
+[^613]: C00008551 (4/17/16 Email, Kushner to Simes (2:44:25 p.m.)); C00006759 (4/14/16 Email Kushner to Simes & S. Miller (12:30 p.m.)). 6
+[^614]: Burt 2/9/18 302, at 7; Saunders 2/15/18 302, at 7-8.
+[^615]: Simes 3/8/18 302, at 13; Saunders 2/15/18 302, at 7-8.
+[^616]: Simes 3/8/18 302, at 13; Saunders 2/15/18 302, at 7-8. 6
+[^617]: Saunders 2/15/18 302, at 8; Simes 3/8/18 302, at 12; C00003834-43 (4/22/16 Email, Simes to Boyd et al. (8 :47 a.m.)).
+[^618]: Simes 3/8/18 302, at 12, 18; Saunders 2/15/18 302, at 11.
+
+On April 25, 2016, Saunders booked event rooms at the mayflower to host both the speech
 and a VIP reception that was to be held beforehand .6 19 Saunders understood that the reception -
 at which invitees would have the chance to meet ·candidate Trump--would be a small event. 620
 
@@ -3350,20 +3427,20 @@ investigators, however, that he did not remember any such conversation. 630 Nor 
 affiliated with CNI or the national interest specifically recall a conversation or meeting between
 sessions and Kislyak at the pre-speech reception. 631 It appears that, if a conversation occurred at
 the pre-speech reception, it was a brief one conducted in public view, similar to the exchange
-between Kushner and Kislyak. 6 
-[^19]: Saunders 2/15/18 302, at 11-12; C00006651-57 (mayflower Group Sales agreement). 
-[^620]: Saunders 2/15/18 302, at 12-13. 
-[^621]: Saunders 2/15/18 302, at 12. 
-[^622]: C00002575 (attendee List); C00008536 (4/25/16 Email, Simes to Kushner (4:53:45 p.m.)). 
-[^623]: Simes 3/8/18 302, at 19-20. 
-[^624]: Simes 3/8/18 302, at 21. 
-[^625]: Simes 3/8/18 302, at 21. 
-[^626]: Simes 3/8/18 302, at 21. 
-[^627]: Simes 3/8/18 302, at 2 1. 
-[^628]: Kushner 4/11/18 302, at 4. 
+between Kushner and Kislyak. 6
+[^19]: Saunders 2/15/18 302, at 11-12; C00006651-57 (mayflower Group Sales agreement).
+[^620]: Saunders 2/15/18 302, at 12-13.
+[^621]: Saunders 2/15/18 302, at 12.
+[^622]: C00002575 (attendee List); C00008536 (4/25/16 Email, Simes to Kushner (4:53:45 p.m.)).
+[^623]: Simes 3/8/18 302, at 19-20.
+[^624]: Simes 3/8/18 302, at 21.
+[^625]: Simes 3/8/18 302, at 21.
+[^626]: Simes 3/8/18 302, at 21.
+[^627]: Simes 3/8/18 302, at 2 1.
+[^628]: Kushner 4/11/18 302, at 4.
 [^629]: See, e.g., Ken Dilanian, Did Trump, Kushner, sessions Have an undisclosed meeting With
- Russian?, NBC News (June 1, 2016); Julia Ioffe, Why Did Jeff sessions Really Meet With Sergey Kislyak, The Atlantic (June 13, 2017). 
-[^630]: sessions 1/17/18 302, at 22. 63 
+ Russian?, NBC News (June 1, 2016); Julia Ioffe, Why Did Jeff sessions Really Meet With Sergey Kislyak, The Atlantic (June 13, 2017).
+[^630]: sessions 1/17/18 302, at 22. 63
 [^1]: Simes 3/8/18 302, at 21; Saunders 2/15/18 302, at 14, 21; Boyd 1/24/18 302, at 3-4; Heilbrunn
  2/1/18 302, at 6; statement regarding president Trump's April 27, 2016 foreign Policy Speech at the
  Center for the national interest, CNI (Mar. 8, 2017). The Office found no evidence that Kislyak conversed with either Trump or sessions after
@@ -3392,15 +3469,15 @@ Heilbrunn--editor of the national interest-all had no recollection of seeing Kis
  sessions to meet with experienced foreign policy professionals. 641 The dinners included CNI-
  affiliated individuals, such as Richard Burt and Zalmay Khalilzad, a former U.S. ambassador to
  Afghanistan and Iraq and the person who had introduced Trump before the April 27, 2016 foreign-
- 
-[^632]: Simes 3/8/18 302, at 22; Heilbrunn 2/1/18 302, at 7. 
-[^633]: Luff 1/30/18 302, at 4. 
-[^634]: Saunders 2/15/18 302, at 15. 
+
+[^632]: Simes 3/8/18 302, at 22; Heilbrunn 2/1/18 302, at 7.
+[^633]: Luff 1/30/18 302, at 4.
+[^634]: Saunders 2/15/18 302, at 15.
 [^635]: sessions 1/17/18 302, at 22 ; Saunders 2/15/18 302, at 17. 636 Saunders 2/15/18 302, at 17; C00004779-80 (5/23/16 Email, Cante lmo to Saunders & Hagberg
- (9:30: 12 a.m.); C00004362 (5/23/16 Email, Bauman to Cantelmo et al. (2:02:32 a.m.). 
-[^637]: C00004362 (5/23/16 Email Bauman to Cantelmo et al. (2:02:32 a.m.). 
-[^638]: sessions 1/17/18 302, at 22. 
-[^639]: Boyd 1/24/18 302, at 4. 
+ (9:30: 12 a.m.); C00004362 (5/23/16 Email, Bauman to Cantelmo et al. (2:02:32 a.m.).
+[^637]: C00004362 (5/23/16 Email Bauman to Cantelmo et al. (2:02:32 a.m.).
+[^638]: sessions 1/17/18 302, at 22.
+[^639]: Boyd 1/24/18 302, at 4.
 [^640]: Simes 3/8/18 302, at 23; Saunders 2/15/18 302, at 18; Heilbrunn 2/1/18 302, at 7. 641 Simes 3/8/18 302, at 31; Saunders 2/15/18 302, at 19; Burt 2/9/18 302, at 9-1 0; Khalil zad 1/9/
 [^18]: 302, at 5. material Preteetecl UflclerFecl. R. Criffl. P. 6(e)
 policy speech. 642 Khalilzad also met with sessions one-on -one separately from the ,dinners. 643 At
@@ -3427,23 +3504,23 @@ interactions with Simes. 652 Among the Kushner-Simes meetings was one held on Au
 at Simes's request, in Kushner's New York office. The meeting was to address foreign policy
 advice that CNI was providing and how to respond to the Clinton campaign's Russia-related
 attacks on candidate
- 
-[^642]: Butt 2/9/18 302, at 9-10; Khalilzad 1/9/18 302, at 1-2, 5. 
-[^643]: Khalilzad 1/9/18 302, at 5-6. 
-[^644]: Simes 3/8/18 302, at 31; Burt 2/9/18 302, at 9-1 O; Khalilzad 1/9/18 302, at 5. 
-[^645]: Saunders 2/15/18 302, at 20. 
-[^646]: Khalilzad 1/9/18 302, at 6. 
-[^647]: Saunders 2/15/18 302, at 19-20. 
-[^648]: Simes 3/8/18 302, at 27. 
-[^649]: Simes 3/8/18 302, at 27. 
-[^650]: Simes 3/8/18 302, at 27. 
+
+[^642]: Butt 2/9/18 302, at 9-10; Khalilzad 1/9/18 302, at 1-2, 5.
+[^643]: Khalilzad 1/9/18 302, at 5-6.
+[^644]: Simes 3/8/18 302, at 31; Burt 2/9/18 302, at 9-1 O; Khalilzad 1/9/18 302, at 5.
+[^645]: Saunders 2/15/18 302, at 20.
+[^646]: Khalilzad 1/9/18 302, at 6.
+[^647]: Saunders 2/15/18 302, at 19-20.
+[^648]: Simes 3/8/18 302, at 27.
+[^649]: Simes 3/8/18 302, at 27.
+[^650]: Simes 3/8/18 302, at 27.
 [^651]: Simes 3/8/18 302, at 27. During this period of time, the campaign received a request for a high-
  level campaign official to meet with an officer at a Russian state-owned bank "to discuss an offer \[that
  officer\] claims to be canying from president Putin to meet with" candidate Trump. NOSC
 [^00005653]: (5/17/16 Email, Dearborn to Kushner (8: 12 a.m.)). copying Manafort and Gates, Kushner responded, "Pass
  on this. A lot of people come claiming to carry messages. Very few are able to verify. For now I th ink we
  decline such meetings. Most likely these people go back home and claim they have special access to gain
- importance for themselves. Be careful." NOSC00005653 (5/17/16 Email, Kushner to Dearborn). 
+ importance for themselves. Be careful." NOSC00005653 (5/17/16 Email, Kushner to Dearborn).
 [^652]: Kushner 4/11/18 302, at 11-13. Trump. 653 In advance of the meeting, Simes sent Kushner a "Russia Policy Memo" laying out
 "what Mr. Trump may want to say about Russia." 654 In a cover email transmitting that memo and
 a phone call to set up the meeting, Simes mentioned "a well-documented story of highly
@@ -3466,22 +3543,22 @@ information that could be "operationalized" for the Trump campaign. 662 despite 
 [^653]: Simes 3/8/18 302, at 29-30; Simes 3/27/18 302, at 6; Kushner 4/11/18 302, at 12; C00007269
 
 (8/10/16 meeting invitation, Vargas to Simes et al.); DJTFP00023484 (8/11/16 Emai l, Hagan to Manafmt
-(5:57:15 p.m.)). 
+(5:57:15 p.m.)).
 [^654]: C00007981-84 (8/9/16 Email, Simes to Kushner (6:09:21 p.m.)). The memorandum
 recommended "downplaying Russia as a U.S. foreign policy priority at this time" and suggested that "some
 tend to exaggerate Putin's flaws." The memorandum also recommended approaching general Russian-
 related questions in the framework of "how to work with Russia to advance important U.S. national
 interests" and that a Trump administration "not go abroad in search of monsters to destroy." The
 memorandum did not discuss sanctions but did address how to handle Ukraine-related questions, including
-questions about Russia's invasion and annexation of Crimea. 
-[^655]: C00007981 (8/9/16 Email, Simes to Kushner (6:09:21 p.m.)). 
-[^656]: DJTFP00023459 (8/10/16 Email, Kushner to S. Miller et al. (11 :30: 13 a.m.)). 
-[^657]: DJTFP00023484 (8/1 1/16 Email, Hagan to Manafort (5:57:15 p.m.)). 658 Simes 3/8/18 302, at 29-30; Simes 3/27/18 302, at 6; Kushner 4/11/18 302, at 12. 
-[^659]: Simes 3/8/18 302, at 30; Simes 3/27 /l 8 302, at 6. 
-[^660]: Simes 3/8/18 302, at 30. 
-[^661]: Simes 3/8/18 302, at 30; Simes 3/27/18 302, at 6. 
+questions about Russia's invasion and annexation of Crimea.
+[^655]: C00007981 (8/9/16 Email, Simes to Kushner (6:09:21 p.m.)).
+[^656]: DJTFP00023459 (8/10/16 Email, Kushner to S. Miller et al. (11 :30: 13 a.m.)).
+[^657]: DJTFP00023484 (8/1 1/16 Email, Hagan to Manafort (5:57:15 p.m.)). 658 Simes 3/8/18 302, at 29-30; Simes 3/27/18 302, at 6; Kushner 4/11/18 302, at 12.
+[^659]: Simes 3/8/18 302, at 30; Simes 3/27 /l 8 302, at 6.
+[^660]: Simes 3/8/18 302, at 30.
+[^661]: Simes 3/8/18 302, at 30; Simes 3/27/18 302, at 6.
 [^662]: Kushner 4/11/18 302, at 12. reaction, Simes believed that he provided the same information at a small group meeting of foreign
-policy experts that CNI organized for sessions. 
+policy experts that CNI organized for sessions.
 [^663]:
 
 #### 5. June 9, 2016 meeting at Trump Tower
@@ -3519,7 +3596,7 @@ the Russian government, including Russia's prosecutor general, Yuri Chaika. 664 
 is the president of the Crocus Group, a Russian enterprise that holds substantial Russian
 government construction contracts and that- as discussed above, Volume I, section IV.A.I, supra
 
-[^663]: Simes 3/8/18 302, at 30. 
+[^663]: Simes 3/8/18 302, at 30.
 [^664]: goldstone 2/8/18 302, at 4. CeHtaiHMaterial Preteeteel UHelerFeel. R. Crim. P. 6(e)
  -worked with Trump in connection with the 2013 Miss universe pageant in Moscow and a
  potential Trump Moscow real-estate project. 665 The relationship continued overtime, as the parties
@@ -3528,29 +3605,29 @@ government construction contracts and that- as discussed above, Volume I, sectio
  note. 667 Aras Agalarov expressed interest in Trump's campaign, passed on "congratulations" for
  winning in the primary and-according to one email drafted by goldstone-an "offer" of his
  "support and that of many of his important Russian friends and colleagues\[,\] especially with
- reference to U.S./Russian relations." 
+ reference to U.S./Russian relations."
 [^668]: On June 3, 2016, Emin Agalarov called goldstone, Emin's then-publicist. 669 goldstone is
 ·a music and events promoter who represented Emin Agalarov from approximately late 2012 until
  late 2016. 670 While representing Emin Agalarov, goldstone facilitated the ongoing contact
  between the Trumps and the Agalarovs-includin an invitation that Trump sent to Putin to attend
- the 2013 Miss universe Pa eant in Moscow. 67 
+ the 2013 Miss universe Pa eant in Moscow. 67
 [^1]: goldstone understood a
- Russian political connection, and Emin Agalarov indicated that the attorney was a prosecutor. 
+ Russian political connection, and Emin Agalarov indicated that the attorney was a prosecutor.
 [^73]: goldstone recalled that the information that mi ht interest the Trump s involved Hillar Clinton
  Kaveladze
  goldstone 2/8/18 302, at 10; -
- Kaveladze 11/16/17 302, at 5-6; 4/25/16 Email, Graff to goldstone. 
-[^667]: RG000033-34 (4/25/16 Email, Graff to goldstone (attachment)). 
+ Kaveladze 11/16/17 302, at 5-6; 4/25/16 Email, Graff to goldstone.
+[^667]: RG000033-34 (4/25/16 Email, Graff to goldstone (attachment)).
 [^669]: Call records of Robert goldstone
- goldstone 2/8/18 302, at 6. 
-[^670]: goldstone 2/8/18 302, at 1-2; Beniaminov 1/6/18 302, at 3. 67 
+ goldstone 2/8/18 302, at 6.
+[^670]: goldstone 2/8/18 302, at 1-2; Beniaminov 1/6/18 302, at 3. 67
 [^1]: goldstone 2/8/18 302, at 1-5; DJTJR
 [^00008]: (2/29/19 Email, goldstone to Trump Jr.); Beniaminov 1/6/18 302, at 3; Shugart 9/25/17 302, at 2;
  TRUMPORG_ 18_001325 (6/21/13 Email, goldstone to Graft); TRUMPORG_ 18_001013 (6/24/13 Email, goldstone to Graff); TRUMPORG 18 001014 (6/24/13 Email, Graff to Shugart);
  TRUMPORG_l8_001018 (6/26/13 Email, Graffto goldstone); TRUMPORG_ l8_001022 (6/27/13 Email, Graff to L. Kelly); TRUMPORG_18_001333 (9/12/13 Email, goldstone to Graff, Shugart);
- MUO00004289 (7/27/13 Email, goldstone to Graff, Shugart). 
-[^672]: see goldstone 2/,8/ 18 302, at 6-7. 
-[^673]: 
+ MUO00004289 (7/27/13 Email, goldstone to Graff, Shugart).
+[^672]: see goldstone 2/,8/ 18 302, at 6-7.
+[^673]:
 [^674]: Mttterittl Preteeted Uttder Fed. R. Crtm. P. 6(e)
 
 The mentioned by Emin Agalarov was Natalia
@@ -3572,7 +3649,7 @@ action alleging the laundering of proceeds from the fraud exposed by Magnitsky. 
 [^676]: In December 2018, a grand jury in the southern district of New York returned an indictment
 charging Veselnitskaya with obstructing the Prevezon litigation discussed in the text above. See indictment, United States v. Natalia Vladimirovna Veselnitskaya, No. 18-cr-904 (S.D.N.Y.). The indictment alleges, among other things, that Veselnitskaya lied to the district court about her relationship to the Russian
 prosecutor general's Office and her involvement in responding to a U.S. document request sent to the
-Russian government. 
+Russian government.
 [^677]: Veselnitska a 11/20/17 statement to the Senate committee on the judiciary, at 2;-
 
 [^678]: testimony of Natalia Veselnitskaya Before the Senate committee on judiciary (Nov. 20, 2017)
@@ -3581,21 +3658,21 @@ Trump Jr. Had Russian Spy Agency As Client, Reuters (July 21, 2017); Andrew E. K
 LaFraniere, Lawyer Who Was Said to Have Dirt on Clinton Had Closer Ties to kremlin than She Let On, New York Times (Apr. 27, 2018). ·
 
 [^679]: See Pub. L. No. 112-208 §§ 402, 404(a)(l), 126 Stat. 1502, 1502-1506. Sergei Magnitsky was
-a Russian tax specialist who worked for william Browder, a former investment fund manager in Russia. Browder hired Magnitsky to investigate tax fraud by Russian officials, and Magnitsky was charged with
+a Russian tax specialist who worked for William Browder, a former investment fund manager in Russia. Browder hired Magnitsky to investigate tax fraud by Russian officials, and Magnitsky was charged with
 helping Browder embezzle money. After Magnitsky died in a Russian prison, Browder lobbied congress
 to pass the Magnitsky Act. See, e.g., Andrew E. Kramer, turning Tables in Magnitsky Case, Russia
 accuses nemesis of Murder, New York Times (Oct. 22, 2017) ; testimony ofNatalia Veselnitskaya Before
 the Senate committee on judiciary (Nov. 20, 2017), exhibits at 1-4; Rosie Gray, Bill Browd er's testimony
-to the Senate judiciary committee, The Atlantic (July 25, 2017). 
+to the Senate judiciary committee, The Atlantic (July 25, 2017).
 [^680]: Ellen Barry, Russia Bars 18 Americans After sanctions by US, New York Times (Apr. 13, 2013);
 Tom Porter, supporters of the Magnitsky Act Claim They've Been targets of Russian assassination and
-kidnapping Bids, Newsweek (July 16, 2017). 
-[^681]: testimony ofNatalia Veselnitskaya Before the Senate committee on judiciary (Nov. 20, 2017), at 21. 
+kidnapping Bids, Newsweek (July 16, 2017).
+[^681]: testimony ofNatalia Veselnitskaya Before the Senate committee on judiciary (Nov. 20, 2017), at 21.
 [^682]: See Veselnitskaya Deel., United States v. Prevezon holdings, Ltd., No. 13-cv-6326 (S.D.N.Y.);
  see Prevezon holdings, Second amended complaint; Prevezon holdings, Mem. and Order ; Prev ezon
  holdings, deposition of Oleg Lurie. appears to have been involved in an April 2016 approach to a U.S. congressional delegation in
 Moscow offering "confidential information " from "the prosecutor general of Russia " about
-"interactions between certain political forces in our two countries. " 
+"interactions between certain political forces in our two countries. "
 [^683]: I
  shortly after his June 3 call with Emin Agalarov, goldstone emailed Trump Jr. 684 The
 email stated:
@@ -3614,26 +3691,26 @@ email stated:
 Within minutes of this email, Trump Jr. responded, emailing back: "Thanks Rob I appreciate that. I am on the road at the moment but perhaps I j ust speak to Emin first. Seems we have sometime
 and if it's what you say I love it especially later in the summer. Could we do a call first thing next
 week when I am back?" 685 goldstone conveyed Trump Jr.'s interest to Emin Agalarov, emailing
-that Trump Jr. "wants to speak personally on the issue ." 
+that Trump Jr. "wants to speak personally on the issue ."
 [^686]: On June 6, 2016, Emin Agalarov asked goldstone ifther e was "\[a\]ny news, " and goldstone
 explained that Trump Jr. was likely still traveling for the "final elections ... where \[T\]rurnp will
 be'crowned'the official nominee." 687 On the same day, goldstone again emailed Trump Jr. and
 asked when Trump Jr. was "free to talk with Emin about this Hillary info." 688 Trump Jr. asked if
- 
+
 [^683]: See Gribbin 8/31/17 302, at 1-2 & lA (undated one-page document given to congressional
  delegation). The Russian prosecutor general is an official with broad national responsibilities in the
- Russian legal system. See federal Law on the prosecutor's Office of the Russian federation (1992, amended 2004). 
+ Russian legal system. See federal Law on the prosecutor's Office of the Russian federation (1992, amended 2004).
 [^684]: RG000061 (6/3/16 Email, goldstone to Trump Jr.); DJTJR00446 (6/3/16 Email, goldstone to
- Donald Trump Jr.); @DonaldJTrumpJr 07/11/17 (11 :00) Tweet. 
+ Donald Trump Jr.); @DonaldJTrumpJr 07/11/17 (11 :00) Tweet.
 [^685]: DJTJR00446 (6/3/16 Email, Trump Jr. to goldstone); @DonaldJTrumpJr 07/11/1 7 (11 :00)
- Tweet; RG000061 (6/3/16 Email, Trump Jr. to goldstone). 
-[^686]: RG000062 (6/3/16 Email, goldstone & Trump Jr.). 
+ Tweet; RG000061 (6/3/16 Email, Trump Jr. to goldstone).
+[^686]: RG000062 (6/3/16 Email, goldstone & Trump Jr.).
 [^687]: RG000063 (6/6/16 Email, A. Agalarov to goldstone); RG000064 (6/6/16 Email, goldstone to
- A. Agalarov). 
+ A. Agalarov).
 [^688]: RG000065 (6/6/16 Email, goldstone to Trump Jr.); DJTJR00446 (6/6/16 Email, goldstone to
  Trump Jr.). they could "speak now," and goldstone arranged a call between Trump Jr. and Emin Agalarov. 689
 
-On June 6 and June 7, Trump Jr. and Emin Agalarov had multiple brief calls. 
+On June 6 and June 7, Trump Jr. and Emin Agalarov had multiple brief calls.
 [^690]: Also on June 6, 2016, Aras Agalarov called Ike Kaveladze and asked him to attend a
 meeting in New York with the Trump organization. 691 Kaveladze is a Georgia-born, naturalized
 U.S. citizen who worked in the United States for the Crocus Group and reported to Aras
@@ -3656,15 +3733,15 @@ would attend. Kaveladze --- "puzzled" by the list of attendees and that he
 checked with one of Emin Agalarov's assistants, Roman Beniaminov, who said that the purpose
 of the meeting was for Veselnitskaya to convey "negative information on Hillary Clinton." 697
 
-Beniaminov, however, stated that he did not recall having known or said that. 
-[^698]: Early on June 8, 2016 Kushner emailed his assistant, asking her to discuss a 3 :00 p.m. 
+Beniaminov, however, stated that he did not recall having known or said that.
+[^698]: Early on June 8, 2016 Kushner emailed his assistant, asking her to discuss a 3 :00 p.m.
 [^689]: DJTJR00445
 
 and Trump Jr.);
 
 [^690]: DJTJR00499); Call records
 
-[^693]: Kaveladze 11/16/17 302, at 6. 
+[^693]: Kaveladze 11/16/17 302, at 6.
 [^694]: DJTJR00467 (6/7/16 Email, goldstone to Trum
 Tweet; RG000068 (6/7/16 Email, goldstone to Trump Jr.);
 
@@ -3674,7 +3751,7 @@ Kaveladze);
 
 [^696]: goldstone 2/8/18 302, at 7;
 
-[^697]: KA V_00048 (6/7/16 Email, goldstone to Kaveladze). 
+[^697]: KA V_00048 (6/7/16 Email, goldstone to Kaveladze).
 [^698]: Beniaminov 1/6/18 302, at 3. meeting the following day with Trump Jr. 699 Later that day, Trump Jr. forwarded the entirety of
 his email correspondence regarding the meeting with goldstone to Manafort and Kushner, under
 the subject line "FW: Russia - Clinton - private and confidential, " adding a note that the "\[m\]eeting
@@ -3700,24 +3777,24 @@ of the conversation, Cohen believed that Trump Jr. had previously discussed the 
 father, although Cohen was not involved in any such conversation. 710 In an interview with the
 Senate judiciary committee, however, Trump Jr. stated that he did not inform his father about the
 
-[^699]: NOSC0000007-08 (6/8/18 Email, Kushner to Vargas). 
+[^699]: NOSC0000007-08 (6/8/18 Email, Kushner to Vargas).
 [^700]: NOSC00000039 -42 (6/8/16 Email, Trump Jr. to Kushner & Manafort) ; DJTJR00485 (6/8/16
 
-Email, Trump Jr. to Kushner & Manafort). 
-[^701]: NOSC0000004 (6/8/16 Email, Kushner to Vargas). 
-[^702]: 6/8/16 Email, Manafo1t to Trump Jr. 
+Email, Trump Jr. to Kushner & Manafort).
+[^701]: NOSC0000004 (6/8/16 Email, Kushner to Vargas).
+[^702]: 6/8/16 Email, Manafo1t to Trump Jr.
 [^703]: Gates 1/30/18 302, at 7; Gates 3/1/18 302, at 3-4. although the March l 302 refers to "June
  19," that is likely a typographical error; external emails indicate that a meeting with those participants
-occurred on June 6. See NOSC00023603 (6/6/16 Email, Gates to Trump Jr. et al.). 
+occurred on June 6. See NOSC00023603 (6/6/16 Email, Gates to Trump Jr. et al.).
 [^704]: Gates 1/30/18 302, at 7. Aras Agalarov is originally from Azerbaijan, and public reporting
 indicates that his company, the Crocus Group, has done substantial work in Kyrgyzstan. See Neil
-MacFarquhar, A Russian developer Helps Out the kremlin on occasion. Was He a conduit to Trump?, New York T imes (July 16, 2017). 
-[^705]: Gates 3/1/18 302, at 3-4. 
-[^706]: Hicks 12/7117 302, at 6. 
-[^707]: Kushner 4/11/18 302, at 8. 
-[^708]: Cohen 8/7/18 302, at 4-6. 
-[^709]: Cohen 8/7/18 302, at 4-5. 
-[^71]: °Cohen 9/12/18 302, at 15-16. emails or the upcoming meeting. 7 11 similarly, neither Manafort nor Kushner recalled anyone
+MacFarquhar, A Russian developer Helps Out the kremlin on occasion. Was He a conduit to Trump?, New York T imes (July 16, 2017).
+[^705]: Gates 3/1/18 302, at 3-4.
+[^706]: Hicks 12/7117 302, at 6.
+[^707]: Kushner 4/11/18 302, at 8.
+[^708]: Cohen 8/7/18 302, at 4-6.
+[^709]: Cohen 8/7/18 302, at 4-5.
+[^710]: Cohen 9/12/18 302, at 15-16. emails or the upcoming meeting. 7 11 similarly, neither Manafort nor Kushner recalled anyone
 informing candidate Trump of the meeting, including Trump Jr. 712 president Trump has stated to
 this Office, in written answers to questions, that he has "no recollection of learning at the time "
 that his son, Manafort, or " Kushner was considering participating in a meeting in June 2016
@@ -3732,12 +3809,12 @@ Veselnitskaya was in New York on June 9, 2016, for appellate proceedings in the 
 civil forfeiture liti ation. 714 That da, Veselnitskaya called Rinat Akhmetshin, a Soviet -born U.S. lobbyist, and when she learned that he was in New York, invited him
 to lunch. Akhmetshin told the Office that he had worked on issues relating to the Magnitsky
 Act and had worked on the Prevezon litigation .716 Kaveladze and Anatoli Samochornov, a
- 7 
+ 7
 [^11]: interview of Donald J Trump, Jr., Senate judiciary committee, 115th Cong. 28-29, 84, 94-95
 
 (Sept. 7, 2017). The Senate judiciary committee interview was not under oath, but Trump Jr. was advised
-that it is a violation of 18 U.S.C. § 1001 to make materially false statements in a congressional investigation. Id. at 10-11. 
-[^712]: Manafort 9/11/18 302, at 3-4; Kushner 4/11/18 302, at 10. 
+that it is a violation of 18 U.S.C. § 1001 to make materially false statements in a congressional investigation. Id. at 10-11.
+[^712]: Manafort 9/11/18 302, at 3-4; Kushner 4/11/18 302, at 10.
 [^713]: written responses of Donald J. Trump (Nov. 20, 2018), at 8 (response to question I, Patts (a)-
 (c)). We considered whether one sequence of events suggested that candidate Trump had contemporaneous
 knowledge of the June 9 meeting. On June 7, 2016 Trump announced his intention to give "a major speech"
@@ -3752,7 +3829,7 @@ the publicly available, negative inf01mation about the Clintons," and that the d
 by campaign staff"was based on publicly available material, including, in particular, information from the
  book Clinton Cash by Peter Schweizer." written responses, supra. In a later June 22 speech, Trump did
  speak extensively about allegations that Clinton was corrupt, drawing from the Clinton cashbook. See
-Full transcript: Donald Trump NYC Speech on Stakes of the election, politico.com (June 22, 2016). 7 
+Full transcript: Donald Trump NYC Speech on Stakes of the election, politico.com (June 22, 2016). 7
 [^14]: testimony of Natalia Veselnitskaya Before the Senate committee on judiciary (Nov. 20, 2017)
  at 41, 42; Alison Frankel, How Did Russian Lawyer Veselnitskaya Get into US. for Trump Tower meeting?
  Reuters, (Nov. 6, 2017); Michael Kranish et al., Russian Lawyer who Met with Trump Jr. Has Long history
@@ -3777,17 +3854,17 @@ goldstone recalled that Trump Jr. invited Veselnitskaya to begin but did not
 say anything about the subject of the meeting. 725 participants agreed that Veselnitskaya stated that
 the Ziff brothers had broken Russian laws and had donated their profits to the DNC or the Clinton
 campaign .726 She asserted that the Ziff brothers had engaged in tax evasion and money laundering
- 
+
 [^717]: Kaveladze 11/16/17 302, at 7; Samochornov 7/13/17
 
 302, at 2, 4;
  r
-subject matter of the Trump Tower meeting coming up at lunch. ■ Samochomov 7/12/17 302, at 4. In her later Senate statement and interactions with the press, Veselnitskaya produced what she claimed were the talking points that she brought to the June 9 meeting. 
-[^720]: 
-[^721]: E.g ., Samochornov 7/12/17 302, at 4. 
-[^722]: E.g., Samochornov 7/12/17 302, at 4. 
-[^723]: E.g ., Samochornov 7/12/17 302, at 4; goldstone 2/8/18 302, at 9. 
-[^724]: 
+subject matter of the Trump Tower meeting coming up at lunch. ■ Samochomov 7/12/17 302, at 4. In her later Senate statement and interactions with the press, Veselnitskaya produced what she claimed were the talking points that she brought to the June 9 meeting.
+[^720]:
+[^721]: E.g ., Samochornov 7/12/17 302, at 4.
+[^722]: E.g., Samochornov 7/12/17 302, at 4.
+[^723]: E.g ., Samochornov 7/12/17 302, at 4; goldstone 2/8/18 302, at 9.
+[^724]:
 [^725]: 726
 
 in both the United States and Russia,
@@ -3796,21 +3873,21 @@ questions about how the alleged payments could be tied specifically to the Clint
 Veselnitskaya indicated that she could not trace the money once it entered the United States. 729
 
 Kaveladze similarly recalled that Trump Jr. asked what they have on Clinton, and Kushner became
-aggravated and asked " \[w\]hat are we doing here?" 
+aggravated and asked " \[w\]hat are we doing here?"
 [^730]: Akhmetshin then spoke about U.S. sanctions imposed under the Magnitsky Act and
 Russia's response prohibiting U.S. adoption of Russian children .731 several participants recalled
 that Trump Jr. commented that Trump is a private citizen, and there was nothing they could do at
 that time. 732 Trump Jr. also said that they could revisit the issue if and when they were in
-government. 733 Notes that Manafort took on his phone reflect the general flow of the conversation, although not all of its details. 
+government. 733 Notes that Manafort took on his phone reflect the general flow of the conversation, although not all of its details.
 [^734]: At some point in the meeting, Kushner sent an iMessage to Manafort stating "waste of time,"
 followed immediately by two separate emails to assistants at Kushner companies with requests that
- 
+
 [^732]: E.g., Akhmetshin 11/14/ l 7 302, at 12-13;
- 
+
 [^733]: Akhmetshin 11/14/17 302, at 12-13; Samochornov
 7/13/17 302, at 3. Trump Jr. confirmed this in a statement he made in July 2017 after news of the June
 20 16 meeting broke. interview of Donald J Trump, Jr., Senate judiciary committee US. Senate
-Washington DC, 115th Cong. 57 (Sept. 7, 2017). 
+Washington DC, 115th Cong. 57 (Sept. 7, 2017).
 [^734]: Manafort's notes state:
  Bill browder
  offshore - Cyprus
@@ -3825,7 +3902,7 @@ Washington DC, 115th Cong. 57 (Sept. 7, 2017).
  Russian adoption by American families
 PJM-SJC-00000001-02 (Notes produced to Senate judiciary committee). they call him to give him an excuse to leave .735 Samochornov recalled that Kushner departed the
 meeting before it concluded; Veselnitskaya recalled the same when interviewed by the press in
-July 2017. 
+July 2017.
 [^736]: Veselnitskaya's press interviews and written statements to congress differ materially from
 other accounts. In a July 2017 press interview, Veselnitskaya claimed that she has no connection
 to the Russian government and had not referred to any derogatory information concerning the
@@ -3839,31 +3916,31 @@ interference with the legislative activities of the US congress." 738 In other w
 claimed her focus was on congress and not the campaign. No witness, however, recalled any
 reference to congress during the meeting. Veselnitskaya also maintained that she "attended the
 meeting as a lawyer of Denis Katsyv," the pr,eviously mentioned owner of Prevezon holdings, but
-she did not "introduce \[her\]self in this capacity. " 
+she did not "introduce \[her\]self in this capacity. "
 [^739]: In a July 2017 television interview, Trump Jr. stated that while he had no way to gauge the
 reliability, credibility, or accuracy of what goldstone had stated was the purpose of the meeting, if "someone has information on our opponent ... maybe this is something. I should hear them
 out. "740 Trump Jr. fu1ther stated in September 2017 congressional testimony that he thought he
  should "listen to what Rob and his colleagues had to say." 741 depending on what, if any, information was provided, Trump Jr. stated he could then "consult with counsel to make an
- informed decision as to whether to give it any further consideration ." 
-[^742]: 
+ informed decision as to whether to give it any further consideration ."
+[^742]:
 [^735]: NOSC00003992 (6/9/16 Text message, Kushner to Manafort); Kushner 4/11/18 302, at 9;
  Vargas 4/4/18 302, at 7; NOSC00000044 (6/9/16 Email, Kushner to Vargas); NOSC00000045 (6/9/
-[^16]: Email, Kushner to Cain). 
+[^16]: Email, Kushner to Cain).
 [^736]: Samochornov 7/12/17 302, at 4; Kushner 4/11/
 [^18]: 302, at 9-10; see also interview of Donald J Trump, Jr., Senate judiciary committee, 115th Cong. 48-
-[^49]: (Sept. 7, 2017). . 
+[^49]: (Sept. 7, 2017). .
 [^737]: Russian Lawyer Veselnitskaya Says She Didn't Give Trump Jr. Info on Clinton, NBC News
- (July 11, 2017). 
+ (July 11, 2017).
 [^738]: testimony of Natalia Veselnitskaya before the United States Senate committee on the judiciary, th
- 115 Cong. }O(Nov 20, 2017). 
+ 115 Cong. }O(Nov 20, 2017).
 [^739]: testimony of Natalia Veselnitskaya before the United States Senate committee on the judiciary, th
- 115 Cong. 21 (Nov. 20, 2017). 
-[^740]: Sean Hannity, transcript-Donald Trump Jr, Fox News (July 11, 2017). 
-[^741]: interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 16 (Sept. 7, 2017). 
+ 115 Cong. 21 (Nov. 20, 2017).
+[^740]: Sean Hannity, transcript-Donald Trump Jr, Fox News (July 11, 2017).
+[^741]: interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 16 (Sept. 7, 2017).
 [^742]: interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 16-17 (Sept. 7, 2017). After the June 9 meetin Jr. 743 according to
 goldstone, he told Trump Jr. 744 and
 told Emin A alarov
- 
+
 [^745]: Aras Agalaro v asked Kaveladze to
 report in after the meeting, but before Kaveladze could call, Aras Agalarov called him .747 With
 Veselnitskaya next to him, Kaveladze reported that the meeting had gone well, but he later told
@@ -3882,17 +3959,17 @@ understood to mean Aras Agalarov, called to ask about the meeting. 751 goldstone
 document to Rhona Graff, saying that "Aras Agalarov has asked me to pass on this document in
 the hope it can be passed on to the appropriate team. If needed, a lawyer representing the case is
  goldstone 2/8/18 302, (and one text message shows) that, shortly after the DNC
- e ts co ecting the DNC hacking announcement to the June 
+ e ts co ecting the DNC hacking announcement to the June
 [^9]: OSC-KAV_00029 (6/14/16 Email, goldstone to E. Agalarov & Kaveladze (10:09 a.m.)). The investigation did not identify evidence connecting the events of
-June 9 to the GRU's hack-and-dump operation. OSC-KAV_00029-30 (6/14/16 Email, goldstone to E. Agalarov). 
-[^746]: 
+June 9 to the GRU's hack-and-dump operation. OSC-KAV_00029-30 (6/14/16 Email, goldstone to E. Agalarov).
+[^746]:
 [^747]: Kaveladze 11/16/17 302, at 8; Call records ofike. Kaveladze
- 
+
 [^748]: Kaveladze 11/16/17 302, at 8; Call records of Ike Kaveladze
 On June 14, 2016 Kaveladze's teenage daughter emailed asking how the June 9 meeting had gone, and
 Kaveladze responded, "meeting was boring. The Russians did not have an bad info on Hilar " OSC-
 KA V_00257 (6/14/16 Email, I. Kaveladze to A. Kaveladze;
- 
+
 [^749]: goldstone 2/8/18 302, at 11;
 
 [^750]: OSC-KAV 00138 11/23/16 Email, goldstone to Kaveladze);
@@ -3911,13 +3988,13 @@ for Trump Jr.). 757 On June 27, 2017, goldstone emailed Emin Agalarov with the s
 attorneys" and stated that he was "interviewed by attorneys " about the June 9 meeting who were
 "concerned because it links Don Jr. to officials from Russia-which he has always denied
 meeting." 758 goldstone stressed that he "did say at the time this was an awful idea and a terrible
-meeting ." 759 Emin Agalarov sent a screenshot of the message to Kav eladze. 
+meeting ." 759 Emin Agalarov sent a screenshot of the message to Kav eladze.
 [^760]: The June 9 meeting became public in July 2017. In a July 9, 2017 text message to Emin
 Agalarov, goldstone wrote "I made sure I kept you and your father out of \[t\]his story," 76 1 and " \[i\]f
 contacted I can do a dance and keep you out of it." 762 goldstone added, "FBI now investigating ,"
 and "I hope this favor was worth for your dad-it could blow up. " 763 On July 12, 2017 Emin
 Agalarov complained to Kaveladze that his father, Aras, "never listens" to him and that their
- 
+
 [^752]: goldstone 2/8/18 302, at 11; DJTJR00l 18 (11/28/16
 
 Email, goldstone to Graff). 753
@@ -3930,14 +4007,14 @@ Email, goldstone to Graff). 753
 [^756]: RG000256 (6/2/17 Email, goldstone to Garten). 7 57
 
 
-[^758]: RG000092 (6/27/17 Email, goldstone to E. Agalarov). 
-[^760]: OSC-KA V_01190 (6/27/17 Text message, E. Agalarov to Kaveladz e). 
+[^758]: RG000092 (6/27/17 Email, goldstone to E. Agalarov).
+[^760]: OSC-KA V_01190 (6/27/17 Text message, E. Agalarov to Kaveladz e).
 [^761]: RG000286-87 (7/9/17 Text messages, E. Agalarov & goldstone) ;
 relationship with "mr T has been thrown down the drain ."764 The next month, goldstone
 commented to Emin Agalarov about the volume of publicity the June 9 meeting had generated, stating that his "reputation \[was\] basically destroyed by this dumb meeting which your father
 insisted on even though Ike and Me told him would be bad news and not to do ."765 goldstone
 added, "I am notable to respond out of courtesy to you and your father. So am painted as some
-mysterious link to Putin ." 
+mysterious link to Putin ."
 [^766]: After public reporting on the June 9 meeting began, representatives from the Trump
 organization again reached out to participants. On July 10, 2017, Futerfas sent goldstone an email
 with a proposed statement for goldstone to issue, which read:
@@ -3946,9 +4023,9 @@ with a proposed statement for goldstone to issue, which read:
  and Don was never told Ms. Veselnitskaya's name prior to the meeting. Ms. Veselnitskaya
  mostly talked about the Magnitsky Act and Russian adoption laws and the meeting lasted
  20 to 30 minutes at most. There was never any followup and nothing ever came of the
- meeting. 
+ meeting.
 [^767]: the statement drafted by Trump organization representatives was
- 
+
 [^768]: He proposed a different statement, asserting that he had been
 asked "by \[his\] client in Moscow - Emin Agalarov - to facilitate a meeting between a Russian
 attorney (Natalia Veselnitzkaya \[sic\]) and Donald Trump Jr. The lawyer had apparently stated
@@ -3961,12 +4038,12 @@ $90,000 of Samochornov's legal fees. 771 At Veselnitskaya's request, the organiz
 Samochornov a transcript of a Veselnitskaya press interview, and Samochornov understood that
 the organization would pay his legal fees only if ·he made statements consistent with
 Veselnitskaya's. 772 Samochornov declined, telling the Office that he did not want to perjure
- 
+
 [^764]: OSC-KAV 01197 (7/11-12/17 Text messages, Kaveladze & E. Agalarov);
 
-765 investigative technique
+765 **\[ REDACTED: Investigative Technique \]**
 
-[^766]: investigative technique
+[^766]: **\[ REDACTED: Investigative Technique \]**
 
 [^767]: 7/10/17 Email, goldstone to Futerfas & Garten. 768
 
@@ -4000,17 +4077,17 @@ proposed language was inconsistent with Trump's position on Ukraine.
 In July 2016, senator sessions and Gordon spoke at the Global partners in diplomacy
 event, a conference co-sponsored by the State department and the heritage foundation held in
  Cleveland, Ohio the same week as the republican national convention (RNC or
-"convention"). 775 approximately 80 foreign ambassadors to the United States, including Kislyak, were invited to the conference. 
+"convention"). 775 approximately 80 foreign ambassadors to the United States, including Kislyak, were invited to the conference.
 [^776]: On July 20, 2016, Gordon and sessions delivered their speeches at the conference. 777 In
  his speech, Gordon stated in pertinent part that the United States should have better relations with
- 
-[^773]: Samochornov 7/13/17 302, at 1. 
-[^774]: 
+
+[^773]: Samochornov 7/13/17 302, at 1.
+[^774]:
 [^775]: Gordon 8/29/17 302, at 9; sessions 1/17/18 302, at 22; Allan Smith, We Now Know Mor e About
  why Jeff sessions and a Russian ambassador crossed Paths at the republican convention, business insider
- (Mar. 2, 2017). 
+ (Mar. 2, 2017).
 [^776]: Gordon 8/29/17 302, at 9; Laura DeMarco, Global Cleveland and Sen. Bob Corker welcome
- international republican national convention Guests, Cleveland Plain Dealer (July 20, 2016). 
+ international republican national convention Guests, Cleveland Plain Dealer (July 20, 2016).
 [^777]: Gordon 8/29/17 302, at 9; sessions 1/17/18 302, at 22. Russia. 778 During sessions's speech, he took questions from the audience, one of which may have
 been asked by Kislyak. 779 • When the speeches concluded, several ambassadors lined up to greet
 the speakers. 780 Gordon shook hands with Kislyak and reiterated that he had meant what he said
@@ -4018,7 +4095,7 @@ in the speech about improving U.S.-Russia relations. 781 sessions separately spo
 six and 12 ambassadors, including Kislyak. 782 although sessions stated during interviews with
 the Office that he had no specific recollection of what he discussed with Kislyak, he believed that
 the two spoke for only a few minutes and that they would have exchanged pleasantries and said
-somethings about U.S.-Russia relations. 
+somethings about U.S.-Russia relations.
 [^783]: Later that evening, Gordon attended a reception as part of the conference. 784 Gordon ran
 into Kislyak as the two prepared plates of food, and they decided to sit at the same table to eat. 785
 
@@ -4035,21 +4112,21 @@ platform to identify divergence between the earlier platform and candidate Trump
 The campaign team discussed toning down language from the 2012 platform that identified Russia
 as the country's number one threat, given the candidate's belief that there needed to be better U .S. relations with Russia. 789 The RNC platform committee sent the 2016 draft platform to the
 national security and defense platform subcommittee on July 10, 2016, the evening before its
- 
-[^778]: Gordon 8/29/17 302, at 9. 
-[^779]: sessions 1/17/18 302, at 22; Luff 1/30/18 302, at 3. 
-[^780]: Gordon 8/29/17 302, at 9; Luff 1/30/18 302, at 3. 
-[^781]: Gordon 8/29/17 302, at 9. 
+
+[^778]: Gordon 8/29/17 302, at 9.
+[^779]: sessions 1/17/18 302, at 22; Luff 1/30/18 302, at 3.
+[^780]: Gordon 8/29/17 302, at 9; Luff 1/30/18 302, at 3.
+[^781]: Gordon 8/29/17 302, at 9.
 [^782]: sessions 1/17/18 302, at 22; Luff 1/30/18 302, at 3; see also Volume I, section IV.A.4.b, supra
 (explaining that sessions and Kislyak may have met three months before this encounter during a reception
-held on April 26, 2016, at the mayflower Hotel). 
-[^783]: sessions 1/17/18 302, at 22. 
-[^784]: Gordon 8/29/17 302, at 9-10. 
-[^785]: Gordon 8/29/17 302, at 9-10. 
+held on April 26, 2016, at the mayflower Hotel).
+[^783]: sessions 1/17/18 302, at 22.
+[^784]: Gordon 8/29/17 302, at 9-10.
+[^785]: Gordon 8/29/17 302, at 9-10.
 [^786]: Gordon 8/29/17 302, at 10; see also Volume I, section IV.A.3.d, supra (explaining that Page
- acknowledged meeting Kislyak at this event). 
-[^787]: Gordon 8/29/17 302, at 10. 
-[^788]: Gordon 8/29/17 302, at 10. 
+ acknowledged meeting Kislyak at this event).
+[^787]: Gordon 8/29/17 302, at 10.
+[^788]: Gordon 8/29/17 302, at 10.
 [^789]: Gordon 8/29/17 302, at 10. 7 0
 
 first meeting to propose amendments. ~
@@ -4076,17 +4153,17 @@ On July 11, 2016, at a meeting of the national security and defense platform
 Miller, approached a committee co-chair and asked him totable the amendment to permit further
  discussion. 800 Gordon's concern with the amendment was the language about providing "lethal
 
-[^790]: Gordon 8/29/17 302, at 10; Hoff 5/26/17 302, at 1-2. 79 
-[^1]: Hoff 5/26/17 302, at 1; Gordon 9/7/17 302, at 10. 
-[^792]: Mashburn 6/25/18 302, at 4; Manafort 9/20/18 302, at 7-8. 
-[^793]: Mashburn 6/25/18 302, at 4; Gordon 8/29/17 302, at 10. 
+[^790]: Gordon 8/29/17 302, at 10; Hoff 5/26/17 302, at 1-2. 79
+[^1]: Hoff 5/26/17 302, at 1; Gordon 9/7/17 302, at 10.
+[^792]: Mashburn 6/25/18 302, at 4; Manafort 9/20/18 302, at 7-8.
+[^793]: Mashburn 6/25/18 302, at 4; Gordon 8/29/17 302, at 10.
 [^794]: DENMAN 000001-02, DENMAN 000012, DENMAN 000021-22; Denman 12/4/17 302, at 1;
- Denman 6/7/17 302, at 2. 
-[^795]: DENMAN 000001-02, DENMAN 000012, DENMAN 000021-22. 
-[^796]: Gordon 8/29/17 302, at 10-11. 
-[^797]: Gordon 8/29/17 302, at 11; Gordon 9/7/17 302, at 11; Gordon 2/14/19 302, at 1-2, 5-6. 
-[^798]: Gordon 2/14/19 302, at 5-6. 
-[^799]: Denman 6/7/17 302, at 2; see DENMAN 000014. 
+ Denman 6/7/17 302, at 2.
+[^795]: DENMAN 000001-02, DENMAN 000012, DENMAN 000021-22.
+[^796]: Gordon 8/29/17 302, at 10-11.
+[^797]: Gordon 8/29/17 302, at 11; Gordon 9/7/17 302, at 11; Gordon 2/14/19 302, at 1-2, 5-6.
+[^798]: Gordon 2/14/19 302, at 5-6.
+[^799]: Denman 6/7/17 302, at 2; see DENMAN 000014.
 [^800]: Denman 6/7/17 302, at 2; Denman 12/4/17 302, at 2; Gordon 9/7/17 302, at 11-12; see Hoff
  5/26/17 302, at 2. defensive weapons to Ukraine." 801 Miller did not have any independent basis to believe that this
 language contradicted Trump's views and relied on Gordon's recollection of the candidate's
@@ -4118,17 +4195,17 @@ the campaign should not intervene .811
 When the amendment came up again in the committee's proceedings, the subcommittee
 changed the amendment by striking the "lethal defense weapons" language and replacing it with
 
-80 
-[^1]: Denman 6/7/17 302, at 3. 
-[^802]: M. Miller 10/25/17 302 at 3. 
-[^803]: Denman 12/4/17 302, at 2; Denman 6/7/17 302, at 2. 
-[^804]: Hoff 5/26/17 302, at 2. 
-[^805]: Denman 6/7/17 302, at 2-3, 3-4; Denman 12/4/17 302, at 2. 
+80
+[^1]: Denman 6/7/17 302, at 3.
+[^802]: M. Miller 10/25/17 302 at 3.
+[^803]: Denman 12/4/17 302, at 2; Denman 6/7/17 302, at 2.
+[^804]: Hoff 5/26/17 302, at 2.
+[^805]: Denman 6/7/17 302, at 2-3, 3-4; Denman 12/4/17 302, at 2.
 [^806]: Gordon 2/14/19 302, at 7. 807 Call records of J.D. Gordon. Gordon stated to the Office that
-his calls with sessions were unrelated to the platform change. Gordon 2/14/19 302, at 7. 
-[^808]: written responses of Donald J. Trump (Nov. 20, 2018), at 17 (response to question IV, Part (f)). 
-[^809]: Gordon 2/14/19 302, at 6-7; Gordon 9/7/17 302, at 11-12; see Gordon 8/29/17 302, at 11. 
-[^810]: Dearborn 11/28/17 302, at 7-8. 
+his calls with sessions were unrelated to the platform change. Gordon 2/14/19 302, at 7.
+[^808]: written responses of Donald J. Trump (Nov. 20, 2018), at 17 (response to question IV, Part (f)).
+[^809]: Gordon 2/14/19 302, at 6-7; Gordon 9/7/17 302, at 11-12; see Gordon 8/29/17 302, at 11.
+[^810]: Dearborn 11/28/17 302, at 7-8.
 [^811]: Mashburn 6/25/18 302, at 4. "appropriate assistance." 812 Gordon stated that he and the subcommittee co-chair ultimately
 agreed to replace the language about armed assistance with "appropriate assistance." 813 The
 subcommittee accordingly approved Denman's amendment but with the term "appropriate
@@ -4162,19 +4239,19 @@ evidence that Gordon made any other arrangements to meet (or met) with Kislyak a
 Also in August 2016, a representative of the Russian embassy contacted sessions's Senate
 office about setting up a meeting with Kislyak. 820 At the time, sessions was a member of the
 
-[^812]: Hoff 5/26/17 302, at 2-3; see Denman 12/4/17 302, at 2-3; Gordon 8/29/17 302, at 11. 8 
-[^13]: Gordon 8/29/17 302, at 11; Gordon 9/7/17 302, at 12. 
-[^814]: Hoff 5/26/17 302, at 2-3. 81 
-[^5]: · Gordon 2/14/19 302, at 6. 
-[^816]: Clovis 10/3/17 302, at 10-11. 
-[^817]: Mashbu rn 6/25/18 302, at 4. 
-[^818]: DJTFP00004828 (8/3/16 Email, Pchelyakov \[embassy @russianembassy.org\] to Gordon). 
-[^819]: DJTFP00004953 (8/8/16 Email, Gordon to embassy@russianembassy.org). 
+[^812]: Hoff 5/26/17 302, at 2-3; see Denman 12/4/17 302, at 2-3; Gordon 8/29/17 302, at 11. 8
+[^13]: Gordon 8/29/17 302, at 11; Gordon 9/7/17 302, at 12.
+[^814]: Hoff 5/26/17 302, at 2-3. 81
+[^5]: · Gordon 2/14/19 302, at 6.
+[^816]: Clovis 10/3/17 302, at 10-11.
+[^817]: Mashbu rn 6/25/18 302, at 4.
+[^818]: DJTFP00004828 (8/3/16 Email, Pchelyakov \[embassy @russianembassy.org\] to Gordon).
+[^819]: DJTFP00004953 (8/8/16 Email, Gordon to embassy@russianembassy.org).
 [^820]: Luff 1/30/18 302, at 5. Senate foreign relations committee and would meet with foreign officials in that capacity. 82 1 But
 sessions's staff reported, and sessions himself acknowledged, that meeting requests from
 ambassadors increased substantially in 2016, as sessions assumed a prominent role in the Trump
 campaign and his name was mentioned for potential cabinet-level positions in a future
-Trump administration. 
+Trump administration.
 [^822]: On September 8, 2016, sessions met with Kislyak in his Senate office. 823 sessions said
 that he believed he was doing the campaign a service by meeting with foreign ambassadors, including Kislyak. 824 He was accompanied in the meeting by at least two of his Senate staff:
 Sandra Luff, his legislative director; and Pete Landrum, who handled military affairs. 825 The
@@ -4187,27 +4264,27 @@ campaign as "an interesting campaign," 829 and sessions also recalled Kislyak sa
 Russian government was receptive to the overtures Trump had laid outduring his campaign. 830
 
 None of the attendees, though, remembered any discussion of Russian election interference or any
-request that sessions convey information from the Russian government to the Trump campaign. 
+request that sessions convey information from the Russian government to the Trump campaign.
 [^831]: During the meeting, Kislyak invited sessions to further discuss U.S.-Russia relations with
 him over a meal at the ambassador's residence. 832 sessions was non-committal when Kislyak
 extended the invitation. After the meeting ended, Luff advised sessions against accepting the one-
 on-one meeting with Kislyak, whom she assessed to be an "old school KGB guy." 833 neither Luff
 nor Landrum recalled that sessions followed up on the invitation or mad e any further effort to dine
- 
-[^821]: sessions 1/17/18 302, at 23-24; Luff 1/30/18 302, at 5. 
-[^822]: sessions 1/17/18 302, at 23-24; Luff 1/30/18 302, at 5; Landrum 2/27/18 302, at 3-5. 
-[^823]: sessions 1/17/18 302, at 23. 
-[^824]: sessions 1/17/18 302, at 23. 
+
+[^821]: sessions 1/17/18 302, at 23-24; Luff 1/30/18 302, at 5.
+[^822]: sessions 1/17/18 302, at 23-24; Luff 1/30/18 302, at 5; Landrum 2/27/18 302, at 3-5.
+[^823]: sessions 1/17/18 302, at 23.
+[^824]: sessions 1/17/18 302, at 23.
 [^825]: sessions 1/17/18 302, at 23; Luff 1/30/18 302, at 5-6; Landrum 2/27/18 302, at 4-5 (stating he
-could not remember if election was discussed). 
-[^826]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302, at 5. 
-[^827]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302, at 4-5. 
-[^828]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302 at 4-5. 
-[^829]: Landrum 2/27/18 302, at 5. 
+could not remember if election was discussed).
+[^826]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302, at 5.
+[^827]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302, at 4-5.
+[^828]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302 at 4-5.
+[^829]: Landrum 2/27/18 302, at 5.
 [^830]: sessions 1/17/18 302, at 23. sessions also noted that ambassadors came to him for information
-about Trump and hoped he would passalong information to Trump. sessions 1/17118 302, at 23-24. 
-[^831]: sessions 1/17/18 302, at 23; Luff 1/30/18 302, at 6; Landrum 2/27 / l 8 302, at 5. 
-[^832]: Luff 1/30/18 302, at 5; Landrum 2/27/18 302, at 4. 
+about Trump and hoped he would passalong information to Trump. sessions 1/17118 302, at 23-24.
+[^831]: sessions 1/17/18 302, at 23; Luff 1/30/18 302, at 6; Landrum 2/27 / l 8 302, at 5.
+[^832]: Luff 1/30/18 302, at 5; Landrum 2/27/18 302, at 4.
 [^833]: Luff 1/30/18 302, at 5. or meet with Kislyak before the November 2016 election. 834 sessions and Landrum recalled that, after the election, some efforts were made to arrange a meeting between sessions and Kislyak. 835
 
 according to sessions, the request came through CNI and would have involved a meeting between
@@ -4225,11 +4302,11 @@ the FBI assesses to have ties to Russian intelligence. Manafort instructed Rick 
 
 to provide Kilimnik with updates on the Trump campaign-including internal polling data, although Manafort claims not to recall that specific instruction. Manafort expected Kilimnik to
 share that information with others in Ukraine and with Deripaska. Gates periodically sent such
-polling data to Kilimnik during the campaign. 
-[^834]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302, at 4-5. 
-[^835]: sessions 1/17/l 8 302, at 23. 
-[^836]: sessions 1/17/18 302, at 23. 
-[^837]: sessions 1/17/18 302, at 23. 
+polling data to Kilimnik during the campaign.
+[^834]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302, at 4-5.
+[^835]: sessions 1/17/l 8 302, at 23.
+[^836]: sessions 1/17/18 302, at 23.
+[^837]: sessions 1/17/18 302, at 23.
 [^838]: On August 21, 2018, Manafo1t was convicted in the eastern district of virginia on eight tax, foreign Bank account registration (FBAR), and bank fraud charges. On September 14, 2018, Manafort
 pleaded guilty in the district of Columbia to (1) conspiracy to defraud the United States and conspiracy to
 commit offenses against the United States (money laundering, tax fraud, FBAR, foreign Agents
@@ -4240,7 +4317,7 @@ work in Ukraine and the money he earned for that work, as well as crimes after t
 March 13, the district court in D.C. sentenced Manafo1t to a total term of 73 months: 60 months on the
 Count 1 conspiracy (with 30 of those months to run concurrent to the virginia sentence), and 13 months on
 the Count 1 conspiracy, to be served consecutive to the other two sentences. The two sentences resulted in
-a total term of 90 months. 
+a total term of 90 months.
 [^839]: As noted in Volume I, section III.D. l .b, supra, Gates pleaded guilty to two criminal charges in
 the district of Columbia, including making a false statement to the FBI, pursuant to a plea agreement. He
 has provided information and in-court testimony that the Office has deemed to be reliable. See also
@@ -4268,15 +4345,15 @@ the administration. The Office was not, however, able to gain access to all of M
 electronic communications (in some instances, messages were sent using encryption applications). And while Manafort denied that he spoke to members of the Trump campaign or the new
 administration about the peace plan, he lied to the Office and the grand jury about the peace plan
 and his meetings with Kilimnik, and his unreliability on this subject was among the reasons that
-the district judge found that he breached his cooperation agreement. 
+the district judge found that he breached his cooperation agreement.
 [^842]: The Office could not reliably determine Manafort's ur ose in sharin
 with Kilimnik during the campaign period. Manafort did not see
 a downside to sharing campaign information, and told Gates that his role in the campaign would
-investigative technique. .. . .. I I'·. . •
- 
+**\[ REDACTED: Investigative Technique \]**. .. . .. I I'·. . •
+
 [^841]: according to the president's written answers, he does not remember Manafort communicating
 to him any particular positions that Ukraine or Russia would want the United States to support. written
-responses of Donald J. Trump (Nov. 20, 2018), at 16-17 (response to question IV, Part (d)). 
+responses of Donald J. Trump (Nov. 20, 2018), at 16-17 (response to question IV, Part (d)).
 [^842]: Manafort made several false statements during debriefings. Based on that conduct, the Office
 determined that Manafort had breached his plea agreement and could not be a cooperating witness. The
 judge presiding in Manafort's D.C. criminal case found by a preponderance of the evidence that Manafort
@@ -4315,19 +4392,19 @@ that the work could confer on "the Putin government." 844 Gates described the wo
 for Deripaska as "political risk insurance ," and explained that Deripaska used Manafort to install
 friendly political officials in countries where Deripaska had business interests. 845 Manafort's
 company earned tens of millions of dollars from its work for Deripaska and was loaned millions
-of dollars by Deripaska as well. 
+of dollars by Deripaska as well.
 [^846]: In 2007, Deripaska invested through another entity in Pericles emerging Market partners
 L.P. ("Pericles"), an investment fund created by Manafort and former Manafort business partner
 Richard Davis. The Pericles fund was established to pursue investments in eastern Europe. 847
 
 Deripaska was the sole investor. 848 Gates stated in interviews with the Office that the venture led
 
-[^843]: Pinchuk et al., Russian Tycoon Deripask a in Putin delegation to China, Reuters (June 8, 2018). 
-[^844]: 6/23/05 Memo, Manafort & Davis to Deripaska & Rothchild. 
-[^845]: Gates 2/2/18 302, at 7. 
+[^843]: Pinchuk et al., Russian Tycoon Deripask a in Putin delegation to China, Reuters (June 8, 2018).
+[^844]: 6/23/05 Memo, Manafort & Davis to Deripaska & Rothchild.
+[^845]: Gates 2/2/18 302, at 7.
 [^846]: Manafort 9/20/18 302, at 2-5; Manafort Income by Year, 2005 - 2015; Manafort Loans from
- Wire transfers, 2005 - 2015. 
-[^847]: Gates 3/12/18 302, at 5. 
+ Wire transfers, 2005 - 2015.
+[^847]: Gates 3/12/18 302, at 5.
 [^848]: Manafort 12/16/15 Dep., at 157:8-11. to a deterioration of the relationship between Manafort and Deripaska. 849 In pa1ticular, when the
 fund failed, litigation between Manafort and Deripaska ensued. Gates stated that, by 2009, Manafort's business relationship with Deripaska had "dried up ." 850 according to Gates, various
 interactions with Deripaska and his intermediaries over the past few years have involved trying to
@@ -4352,17 +4429,17 @@ senior entourage, and he facilitated communications between Manafort and his cli
 Yanukovych and multiple Ukrainian oligarchs. 856 Kilimnik also maintained a relationship with
 Deripaska's deputy, Viktor Boyarkin, 857 a Russian national who previously served in the defense
 attache office of the Russian embassy to the United States .
-[^858]: 
-[^849]: Gates 2/2/18 302, at 9. 
-[^850]: Gates 2/2/18 302, at 6. 
-[^851]: Gates 2/2/18 302, at 9-10. 
-[^852]: Manafort 7/30/14 302, at 1; Manafort 9/20/18 302, at 2. 
-[^853]: Manafort 9/11/18 302, at 5-6. 
-[^854]: Gates 3/16/18 302, at 1; Davis 2/8/18 302, at 9; Devine 7/6/18 302, at 2-3. 
-[^855]: Patten 5/22/18 302, at 5; Gates 1/29/18 302, at 18-19; 10/28/97 Kilimnik Visa Record, U.S. department of State. 
+[^858]:
+[^849]: Gates 2/2/18 302, at 9.
+[^850]: Gates 2/2/18 302, at 6.
+[^851]: Gates 2/2/18 302, at 9-10.
+[^852]: Manafort 7/30/14 302, at 1; Manafort 9/20/18 302, at 2.
+[^853]: Manafort 9/11/18 302, at 5-6.
+[^854]: Gates 3/16/18 302, at 1; Davis 2/8/18 302, at 9; Devine 7/6/18 302, at 2-3.
+[^855]: Patten 5/22/18 302, at 5; Gates 1/29/18 302, at 18-19; 10/28/97 Kilimnik Visa Record, U.S. department of State.
 [^856]: Gates 1/29/18 302, at 18-19; Patten 5/22/18 302, at 8; Gates 1/3 1/18 302, at 4-5; Gates 1/30/
-[^18]: 302, at 2; Gates 2/2/18 302, at 11. 
-[^857]: Gates 1/29/18 302, at 18; Patten 5/22/18 302, at 8. 
+[^18]: 302, at 2; Gates 2/2/18 302, at 11.
+[^857]: Gates 1/29/18 302, at 18; Patten 5/22/18 302, at 8.
 [^858]: Boyarkin Visa Record, U.S. department of State. Manafort told the Office that he did not believe Kilimnik was working as a Russian
 "spy ."859 The FBI, however, assesses that Kilimnik has ties to Russian intelligence. 860 several
 pieces of the Office's evidence-including witness interviews and emails obtained through court-
@@ -4373,10 +4450,10 @@ Patten, a business partner to Kilimnik, 862 stated that Kilimnik told him that h
 
 translator in the Russian army for seven years and that he later worked in the Russian
 
-armament industry selling arms and military equipment. 
+armament industry selling arms and military equipment.
 [^863]: • U.S. government visa records reveal that Kilimnik obtained a visa to travel to the United
 
-States with a Russian diplomatic passport in 1997. 
+States with a Russian diplomatic passport in 1997.
 [^864]: • Kilimnik worked for the international republican institute's (IRI) Moscow office, where
 
 he did translation work and general office management from 1998 to 2005. 865 While
@@ -4387,32 +4464,32 @@ TRI told the FBI that Kilimnik was fired from his post because his links to Russ
 
 intelligence were too strong. The same individual stated that it was well known at IRI that
 
-Kilimnik had links to the Russian government. 
+Kilimnik had links to the Russian government.
 [^867]: • Jonathan Hawker, a British national who was a public relations consultant at FTI
 
 consulting, worked with DMI on a public relations campaign for Yanukovych. After
 
 Hawker's work for DMI ended, Kilimnik contacted Hawker about working for a Russian
 
-[^859]: Manafort 9/11/18 302, at 5. 
-[^860]: The Office has noted Kilimnik's assessed ties to Russian intelligence in public court filings. E.g., Gov't Opp. to Mot. to Modify, United States v. Paul J Manafort, Jr ., 1:17-cr-201 (D.D.C. Dec. 4, 2017), Doc. 73, at 2 ("Manafort (D.D.C.) Gov't Opp. to Mot. to Modify"). 
-[^861]: 12/17/16 Kilimnik Visa Record, U.S. department of State. 
+[^859]: Manafort 9/11/18 302, at 5.
+[^860]: The Office has noted Kilimnik's assessed ties to Russian intelligence in public court filings. E.g., Gov't Opp. to Mot. to Modify, United States v. Paul J Manafort, Jr ., 1:17-cr-201 (D.D.C. Dec. 4, 2017), Doc. 73, at 2 ("Manafort (D.D.C.) Gov't Opp. to Mot. to Modify").
+[^861]: 12/17/16 Kilimnik Visa Record, U.S. department of State.
 [^862]: In August 2018, Patten pleaded guilty pursuant to a plea agreement to violating the foreign
 Agents registration Act, and admitted in his statement of offense that he also misled and withheld
 documents from the Senate Select committee on intelligence in the course of its investigation of Russian
-election interference. Plea agreement, United States v. W. Samu el Patten, 1: 18-cr-260 (D.D.C. Aug. 31, 2018), Doc. 6; statement of offense, United States v. W. Samuel Patten, 1:18-cr-260 (D.D.C. Aug. 31, 2018), Doc. 7. 
-[^863]: Patten 5/22/18 302, at 5-6. 
-[^864]: 10/28/97 Kilimnik Visa Record, U.S. department of State. 
-[^865]: Nix 3/30/18 302, at 1-2. 
-[^866]: Nix 3/30/18 302, at 2. 
+election interference. Plea agreement, United States v. W. Samu el Patten, 1: 18-cr-260 (D.D.C. Aug. 31, 2018), Doc. 6; statement of offense, United States v. W. Samuel Patten, 1:18-cr-260 (D.D.C. Aug. 31, 2018), Doc. 7.
+[^863]: Patten 5/22/18 302, at 5-6.
+[^864]: 10/28/97 Kilimnik Visa Record, U.S. department of State.
+[^865]: Nix 3/30/18 302, at 1-2.
+[^866]: Nix 3/30/18 302, at 2.
 [^867]: Lenzi 1/30/18 302, at 2. government entity on a public -relations project that would promote, in western and
 
-Ukrainian media, Russia's position on its 2014 invasion of Crimea. 
+Ukrainian media, Russia's position on its 2014 invasion of Crimea.
 [^868]: • Gates suspected that Kilimnik was a "spy," a view that he shared with Manafort, Hawker, and alexander van der Zwaan, 869 an attorney who had worked with DMI on a report for
 
 the Ukrainian ministry of ForeignAffairs. 870
 
-investigative technique
+**\[ REDACTED: Investigative Technique \]**
 
 ##### b. contacts during Paul Manafort's Time with the Trump campaign
 
@@ -4431,20 +4508,18 @@ to manage the republican convention. 874 Stone had worked with Manafort from app
 1982 when Trump hired the Black, Manafort, Stone and Kelly lobbying firm. 875 Over the years, Manafort saw Trump at political and social events in New York City and at Stone's wedding, and
 Trump requested VIP status at the 1988 and 1996 republican conventions worked by Manafort. 876
 
-
-[^868]: Hawker 1/9/18 302, at 13; 3/18/14 Email, Hawker & Tulukbaev. 
+[^868]: Hawker 1/9/18 302, at 13; 3/18/14 Email, Hawker & Tulukbaev.
 [^869]: van der Zwaan pleaded guilty in the U.S. district Court for the district of Columbia to making
-false statements to the special counsel's Office. Plea agreement, United States v. Alex van der Zwaan, 1:18-cr-31 (D.D.C. Feb. 20, 2018), Doc. 8. 
-[^870]: Hawker 6/9/18 302, at 4; van der Zwaan 11/3/17 302, at 22. Manafort said in an interview that
-Gates had joked with Kilimnik about Kilimnik's going to meet with his KGB handler. Manafort 10/16/18
+false statements to the special counsel's Office. Plea agreement, United States v. Alex van der Zwaan, 1:18-cr-31 (D.D.C. Feb. 20, 2018), Doc. 8.
+[^870]: Hawker 6/9/18 302, at 4; van der Zwaan 11/3/17 302, at 22. Manafort said in an interview that Gates had joked with Kilimnik about Kilimnik's going to meet with his KGB handler. Manafort 10/16/18 302, at 7.
+[^871]: Press release-DonaldJ. Trump announces campaign convention manager PaulJ. Manafort, The American presidency project - U.C. Santa Barbara (Mar. 29, 2016).
+[^872]: Gates 1/29/18 302, at 8; Meghan Keneally, timeline of Manafo rt's role in the Trump campaign, ABC News (Oct. 20, 2017).
+[^873]: Gates 1/29/18 302, at 7-8; Manafort 9/1 1/18 302, at 1-2; barrack 12/12/17 302, at 3.
+[^874]: barrack 12/12/17 302, at 3; Gates 1/29/18 302, at 7-8.
+[^875]: Manafort 10/16/18 302, at 6.
+[^876]: Manafort 10/16/18 302, at 6.
 
-302, at 7. 
-[^871]: Press release-DonaldJ. Trump announces campaign convention manager PaulJ. Manafort, The American presidency project - U.C. Santa Barbara (Mar. 29, 2016). 
-[^872]: Gates 1/29/18 302, at 8; Meghan Keneally, timeline of Manafo rt's role in the Trump campaign, ABC News (Oct. 20, 2017). 
-[^873]: Gates 1/29/18 302, at 7-8; Manafort 9/1 1/18 302, at 1-2; barrack 12/12/17 302, at 3. 
-[^874]: barrack 12/12/17 302, at 3; Gates 1/29/18 302, at 7-8. 
-[^875]: Manafort 10/16/18 302, at 6. 
-[^876]: Manafort 10/16/18 302, at 6. according to Gates, in March 2016, Manafort traveled to Trump's Mar-a-Lago estate in
+According to Gates, in March 2016, Manafort traveled to Trump's Mar-a-Lago estate in
 Florida to meet with Trump. Trump hired him at that time. 877 Manafort agreed to work on the
 campaign without pay. Manafort had no meaningful income at this point in time, but resuscitating
 his domestic political campaign career could be financially beneficial in the future. Gates reported
@@ -4471,10 +4546,15 @@ business" and increase the likelihood that Manafort would be paid the approximat
 he was owed for previous political consulting work in Ukraine. 884 Gates also explained to the
 Office that Manafort thought his role on the campaign could help "confirm" that Deripaska had
 dropped the Pericles lawsuit, and that Gates believed Manafort sent polling data to Deripaska (as
+discussed further below) so that Deripaska would not move forward with his lawsuit against
+Manafort .885 Gates further stated that Deripaska wanted a visa to the United States, that Deripaska
+could believe that having Manafort in a position inside the campaign or administration might be
+helpful to Deripaska, and that Manafort's relationship with Trump could help Deripaska in other
+ways as well. 886 Gates stated, however, that Manafort never told him anything specific about what, if anything, Manafort might be offering Deripaska. 887
 
-[^877]: Gates 2/2/18 302, at IO. 
-[^878]: Gates 1/30/18 302, at 4. 
-[^879]: Gates 2/2/18 302, at 11. 
+[^877]: Gates 2/2/18 302, at IO.
+[^878]: Gates 1/30/18 302, at 4.
+[^879]: Gates 2/2/18 302, at 11.
 [^880]: "See Sharon LaFraniere, Manafort's Trial Isn't About Russia, but It Will Be in the Air, New York
 Times (July 30, 2018); Tierney Sneed, prosecutors believe Manafort Made $60 million consulting in
 Ukraine, talking Points Memo (July 30, 2018); Mykola Vorobiov, How Pro-Russian Forces_ Will Take
@@ -4482,15 +4562,11 @@ revenge on Ukraine, Atlantic council (Sept. 23, 2018); Sergii Leshchenko, Ukrain
 calling the Shots, foreign Policy (Aug. 14, 2014); Interfax-Ukraine, Kolesnikov: inevitability of
 punishment Needed for Real Fight against smuggling in Ukraine, Kyiv Post (June 23, 2018); Igor Kossov, Kyiv Hotel industry Makes Room for New entrants, Kyiv Post (Mar. 7, 2019); Markian Kuzmowycz, How
 the kremlin Can Win Ukraine'selections, Atlantic council (Nov. 19, 2018). The opposition Bloc is a
-Ukraine political party that largely reconstituted the Party of regions. 
-[^881]: 3/30/16 Email, Gates to Kilimnik. 
-[^882]: 4/11/16 Email, Manafort & Kilimnik. 
-[^883]: 4/11/16 Email, Manafort & Kilimnik. 
-[^884]: Gates 2/2/18 302, at 10. discussed further below) so that Deripaska would not move forward with his lawsuit against
-Manafort .885 Gates further stated that Deripaska wanted a visa to the United States, that Deripaska
-could believe that having Manafort in a position inside the campaign or administration might be
-helpful to Deripaska, and that Manafort's relationship with Trump could help Deripaska in other
-ways as well. 886 Gates stated, however, that Manafort never told him anything specific about what, if anything, Manafort might be offering Deripaska. 887
+Ukraine political party that largely reconstituted the Party of regions.
+[^881]: 3/30/16 Email, Gates to Kilimnik.
+[^882]: 4/11/16 Email, Manafort & Kilimnik.
+[^883]: 4/11/16 Email, Manafort & Kilimnik.
+[^884]: Gates 2/2/18 302, at 10.
 
 Gates also reported that Manafort instructed him in April 2016 or early May 2016 to send
 Kilimnik campaign internal polling data and other updates so that Kilimnik, in turn, could share
@@ -4504,23 +4580,21 @@ with Manafort for years and was brought into the campaign by Manafort. Gates sta
 accordance with Manafort's instruction, he periodically sent Kilimnik polling data via WhatsApp ;
 Gates then deleted the communications on a daily basis. 892 Gates further told the Office that, after
 Manafort left the campaign in mid-August, Gates sent Kilimnik polling data less frequently and
-that the data he sent was more publicly available information and less internal data. 
-[^893]: with multiple emails that
+that the data he sent was more publicly available information and less internal data. 893 with multiple emails that
 Kilimnik sent to U.S. associates and press contacts between late July and mid-August of 2016. Those emails referenced "internal polling, " described the status of the Trump campaign and
 
-[^885]: Gates 2/2/18 302, at 11; Gates 9/27/18 302 (serial 740), at 2. 
-[^886]: Gates 2/2/18 302, at 12. 
+[^885]: Gates 2/2/18 302, at 11; Gates 9/27/18 302 (serial 740), at 2.
+[^886]: Gates 2/2/18 302, at 12.
 [^887]: Gates 2/2/18 302, at 12. 888 Gates 1/31/18 302, at 17; Gates 9/27/18 302 (serial 740), at 2. In a later interview with the
 Office, Gates stated that Manafmt directed him to send polling data to Kilimnik after a May 7, 2016 meeting
 between Manafmt and Kilimnik in New York, discussed in Volume I, section IV.A.8.b.iii, infra. Gates
- 11/7/18 302, at 3. 
+ 11/7/18 302, at 3.
 [^889]: Gates 9/27/18 302, Part II, at 2;
-
-[^890]: Gates 2/12/18 302, at 10; Gates 1/3 1/18 302, at 17. 
-[^891]: Gates 9/27/18 302 (serial 740), at 2; Gates 2/7/18 302, at 15. 
-[^892]: Gates 1/31/18 302, at 17. 
+[^890]: Gates 2/12/18 302, at 10; Gates 1/3 1/18 302, at 17.
+[^891]: Gates 9/27/18 302 (serial 740), at 2; Gates 2/7/18 302, at 15.
+[^892]: Gates 1/31/18 302, at 17.
 [^893]: Gates 2/12/18 302, at 11-12. according to Gates, his access to internal polling data was more
- limited because Fabrizio was himself distanced from the campaign at that point. 
+ limited because Fabrizio was himself distanced from the campaign at that point.
 [^894]: and assessed Trump's prospects for
  Gates to send Kilimnik internal data, The Office also obtained contemporaneous emails that shed light on the purpose of the
 communications with Deripaska and that are consistent with Gates's account. For example, in
@@ -4529,30 +4603,32 @@ backed investment, Manafort asked Kilimnik whether there had been any movement o
 with our friend. " 897 Gates stated that "our friend" likely referred to Deripaska ,898 and Manafort
 told the Office that the "issue" (and "our biggest interest ," as stated below) was a solution to the
 Deripaska-Pericles issue. 899 Kilimnik replied:
- I am carefully optimistic on the question of our biggest interest. Our friend \[Boyarkin\] said there is lately significantly more attention to the campaign in
- his boss'\[Deripaska's\] mind, and he will be most likely looking for ways to reach out to
- you pretty soon, understanding all the time sensitivity. I am more than sure that it will be
- resolved and we will get back to the original relationship with V.'s boss \[Deripaska\]. 900
 
-Eight minutes later, Manafort replied that Kilimnik should tell Boyarkin's "boss ," a reference to
+> I am carefully optimistic on the question of our biggest interest.
+> Our friend \[Boyarkin\] said there is lately significantly more attention to the campaign in
+> his boss'\[Deripaska's\] mind, and he will be most likely looking for ways to reach out to
+> you pretty soon, understanding all the time sensitivity. I am more than sure that it will be
+> resolved and we will get back to the original relationship with V.'s boss \[Deripaska\]. 900
+
+Eight minutes later, Manafort replied that Kilimnik should tell Boyarkin's "boss," a reference to
 Deripaska, "that if he needs private briefings we can accommodate. " 901 Manafort has alleged to
 the Office that he was willing to brief Deripaska only on public campaign matters and gave an
 example: why Trump selected Mike Pence as the Vice-presidential running mate. 902 Manafort
 said he never gave Deripaska a briefing. 903 Manafort noted that if Trump won, Deripaska would
 want to use Manafort to advance whatever interests Deripaska had in the United States and
-elsewhere. 
-[^904]: 
+elsewhere.
+[^904]:
 [^895]: 8/18/16 Email, Kilimnik to Dirkse; 8/18/16 Email, Kilimnik to Schultz; 8/18/16 Email, Kilimnik
 to Marson; 7/27/16 Email, Kilimnik to Ash; 8/18/16 Email, Kilimnik to Ash; 8/18/16 Email, Kilimnik to
-Jackson; 8/18/16 Email, Kilimnik to Mendoza-Wilson; 8/19/16 Email, Kilimnik to Patten. 
-[^896]: 
-[^897]: 7/7/16 Email, Manafort to Kilimnik. 
-[^898]: Gates 2/2/18 302, at 13. 
-[^899]: Manafort 9/11/18 302, at 6. 
-[^900]: 7/8/16 Email, Kilimnik to Manafort. 
-[^901]: 7/8/16 Email, Kilimnik to Manafort; Gates 2/2/18 302, at 13. 
-[^902]: Manafort 9/11/18 302, at 6. 
-[^903]: Manafort 9/11/18 302, at 6. 
+Jackson; 8/18/16 Email, Kilimnik to Mendoza-Wilson; 8/19/16 Email, Kilimnik to Patten.
+[^896]:
+[^897]: 7/7/16 Email, Manafort to Kilimnik.
+[^898]: Gates 2/2/18 302, at 13.
+[^899]: Manafort 9/11/18 302, at 6.
+[^900]: 7/8/16 Email, Kilimnik to Manafort.
+[^901]: 7/8/16 Email, Kilimnik to Manafort; Gates 2/2/18 302, at 13.
+[^902]: Manafort 9/11/18 302, at 6.
+[^903]: Manafort 9/11/18 302, at 6.
 [^904]: Manafort 9/11/18 302, at 6.
 
 ###### iii. Paul Manafort's Two campaign-Period meetings with Konstantin Kilimnik in the United States
@@ -4580,22 +4656,17 @@ requesting that they meet, using coded language about a conversation he had that
 email with a subject line "Black Caviar," Kilimnik wrote:
 
 I met today with the guy who gave you your biggest black caviar jar several years ago. We
-
 spent about 5 hours talking about his story, and I have several important messages from
-
 him to you. He asked me to go and brief you on our conversation. I said I have to run it
+by you first, but in principle I am prepared to do it.... It has to do about the future of his
 
-by you first, but in principle I am prepared to do it. ... It has to do about the future of his
-
-905 investigative technique
-
-[^906]: 4/26/16 Email, Kilimnik to Purcell, at 2; Gates 2/2/18 302, at 12; Patten 5/22/18 302, at 6-7;
-Gates 11/7/18 302, at 3. 907 5/7/16 Email, Kilimnik to Charap & Kimmage; 5/7/16 Email, Kasanofto Kilimnik. 
-[^908]: 5/6/16 Email, Manafort to Gates; 5/6/16 Email, Gates to Kilimnik. 
-[^909]: Manafort 10/11/18 302, at 1. 
-[^910]: Manafort 10/11/18 302, at 1. 91 
-[^1]: Manafort 10/11/18 302, at 1. 
-[^912]: 7/25/16 Email, Kilimnik to katrin@yana.kiev.ua (2: 17:34 a.m.). 
+[^905]: **\[ REDACTED: Investigative Technique \]**
+[^906]: 4/26/16 Email, Kilimnik to Purcell, at 2; Gates 2/2/18 302, at 12; Patten 5/22/18 302, at 6-7; Gates 11/7/18 302, at 3. 907 5/7/16 Email, Kilimnik to Charap & Kimmage; 5/7/16 Email, Kasanofto Kilimnik.
+[^908]: 5/6/16 Email, Manafort to Gates; 5/6/16 Email, Gates to Kilimnik.
+[^909]: Manafort 10/11/18 302, at 1.
+[^910]: Manafort 10/11/18 302, at 1.
+[^911]: Manafort 10/11/18 302, at 1.
+[^912]: 7/25/16 Email, Kilimnik to katrin@yana.kiev.ua (2: 17:34 a.m.).
 [^913]: 7/29/16 Email, Kilimnik to Manafort (10:51 a.111.). country, and is quite interesting. 914
 
 Manafort identified "the guy who gave you your biggest black caviar jar" as Yanukovych. He
@@ -4619,21 +4690,19 @@ available documentary evidence and what Kilimnik told business associate Sam Pat
 that at least three principal topics were discussed. First, Manafort and Kilimnik discussed a plan to resolve the ongoing political problems in
 Ukraine by creating an autonomous republic in its more industrialized eastern region ofDonbas, 922
 
-
-[^914]: 7/29/16 Email, Kilimnik to Manafort (10:51 a.m.). 
-[^915]: Manafort 9/12/18 302, at 3. 
-[^916]: 7/29/16 Email, Manafort to Kilimnik; investigative technique
-
-[^917]: 7/29/16 Email, Manafort to Kilimnik. 
-[^918]: 7/31/16 Email, Manafort to Kilimnik. 
-[^919]: 7/3 1/16 Email, Manafort to Kilimnik. 
-[^92]: ° Kilimnik 8/2/16 CBP Record; Call records of Konstantin Kilimnik
+[^914]: 7/29/16 Email, Kilimnik to Manafort (10:51 a.m.).
+[^915]: Manafort 9/12/18 302, at 3.
+[^916]: 7/29/16 Email, Manafort to Kilimnik; **\[ REDACTED: Investigative Technique \]**
+[^917]: 7/29/16 Email, Manafort to Kilimnik.
+[^918]: 7/31/16 Email, Manafort to Kilimnik.
+[^919]: 7/3 1/16 Email, Manafort to Kilimnik.
+[^920]: Kilimnik 8/2/16 CBP Record; Call records of Konstantin Kilimnik
 - ; Call records of Rick Gates ; 8/2-3/ 16, Kilimnik Park Lane Hotel
-receipt. 
+receipt.
 [^921]: Deripaska's private plane also flew to Teterboro airport in New Jersey on the evening of August
 2, 2016. according to customs and Border protection records, the only passengers on the plane were
 Deripaska's wife, daughter, mother, and father-in-law, and separate records obtained by our Office confirm
-that Kilimnik flew on a commercial flight to New York. 
+that Kilimnik flew on a commercial flight to New York.
 [^922]: The Luhansk and Donetsk People's republics, which are located in the Donbas region of
  Ukraine, declared themselves independent in response to the popular unrest in 2014 that removed president
 Yanukovych from power. Pro-Russian Ukrainian militia forces, with backing from the Russian military, have occupied the region since 2014. Under the Yanukovych-backed plan, Russia would assist in
@@ -4652,7 +4721,7 @@ plan, and Yanukovych would have expected Manafort to use his connections in Euro
  or about December 8, 2016, however, Manafort acknowledged Kilimnik raised the peace plan
  again in that email. 928 Manafort ultimately acknowled ed Kilimnik also raised the eace Ian in
 ~ary 2017 meetings with Manafort
-.......... 
+..........
 [^929]: Second, Manafort briefed Kilimnik on the state of the Trump campaign and Manafort's
  plan to win the election. 930 That briefing encompassed the campaign's messaging and its internal
  polling data. according to Gates, it also included discussion of "battleground" states, which
@@ -4660,26 +4729,24 @@ plan, and Yanukovych would have expected Manafort to use his connections in Euro
  refer ex licit! to "battle round " states in his tellin of the Au ust 2 discussion, prime minister. The plan emphasized that Yanukovych would be an ideal candidate to bring peace to the
  region as prime minister of the republic, and facilitate the reintegration of the re~aine with the
  support of the U.S. and Russian presidents. As noted above, according to ~ the written
- documentation describin the Ian, for the lan to work, both U.S. and Russian support were necessary. 2/21/18 Email, Manafort, Ward, & Fabrizio, at 3-5. 
-[^925]: Manafort 9/11/18 302, at 4. 
-[^926]: Manafort 9/12/18 302, at 4. 
+ documentation describin the Ian, for the lan to work, both U.S. and Russian support were necessary. 2/21/18 Email, Manafort, Ward, & Fabrizio, at 3-5.
+[^925]: Manafort 9/11/18 302, at 4.
+[^926]: Manafort 9/12/18 302, at 4.
 [^927]: Manafort 9/11/18 302, at 5; Manafort 9/12/
-[^18]: 302, at 4. 
-[^928]: Manafort 9/12/18 302, at 4; investigative technique
- 
-[^929]: documentary
- evidence confirms the peace-plan discus~ionsin 2018. 2/19/18 Email, Fabrizio to Ward (forwarding email
- from Manafort); 2/21/18 Email, Manafort to Ward & Fabrizio. 
-[^930]: Manafort 9/11/18 302, at 5. 
-[^931]: Gates 1/30/18 302, at 3, 5. 
+[^18]: 302, at 4.
+[^928]: Manafort 9/12/18 302, at 4; **\[ REDACTED: Investigative Technique \]**
+[^929]: documentary evidence confirms the peace-plan discus~ionsin 2018. 2/19/18 Email, Fabrizio to Ward (forwarding email from Manafort); 2/21/18 Email, Manafort to Ward & Fabrizio.
+[^930]: Manafort 9/11/18 302, at 5.
+[^931]: Gates 1/30/18 302, at 3, 5.
 [^932]: Wofk Prodttet // Mfl') Cotttaitt material Proteeted Uttder Fed. R. Criffl. P. 6(e)
  Third, according to Gates and what Kilimnik told Patten, Manafort and Kilimnik discussed
 two sets of financial disputes related to Mana fort's previous work in the region. Those consisted
 of the unresolved Deripaska lawsuit and the funds that the opposition Bloc owed to Manafort for
-his political consulting work and how Manafort might be able to obtain payment. 
+his political consulting work and how Manafort might be able to obtain payment.
 [^933]: After the meeting, Gates and Manafort both. stated that they left separately from Kilimnik
 because they knew the media was tracking Manafort and wanted to avoid media reporting on his
-connections to Kilimnik. 934
+connections to Kilimnik.
+[^934]:
 
 ##### c. Post-resignation activities
 
@@ -4705,14 +4772,15 @@ his familiarity and relationship with Trump and the incoming administration. 938
 
 Manafort's activities in early 20 17 included meetings relating to Ukraine and Russia. The
 
-9 
-[^33]: Gates 1/30/18 302, at 2-4; Patten 5/22/18 302, at 7. 
-[^934]: Gates 1/30/18 302, at 5; Manafort 9/11/18 302, at 5. 
-[^935]: Gates 2/12/18 302, at 12. 
-[^936]: NOSC000215 l 7-20 (10/21/16 Ema il, Manafo11 to Kushner). 
-[^937]: NOSC00021573- 75 (11/5/16 Email, Manafort to Kushner). 
-[^938]: Manafort 9/12/18 302, at 1, 4-5; Gates 1/30/18 302, at 4. 
-[^939]: Manafo119/12/18 302, at 1. first meeting, which took place in Madrid, Spain in January 2017, was with Georgiy Oganov. Oganov, who had previously worked at the Russian embassy in the United States, was a senior
+[^933]: Gates 1/30/18 302, at 2-4; Patten 5/22/18 302, at 7.
+[^934]: Gates 1/30/18 302, at 5; Manafort 9/11/18 302, at 5.
+[^935]: Gates 2/12/18 302, at 12.
+[^936]: NOSC000215 l 7-20 (10/21/16 Ema il, Manafo11 to Kushner).
+[^937]: NOSC00021573- 75 (11/5/16 Email, Manafort to Kushner).
+[^938]: Manafort 9/12/18 302, at 1, 4-5; Gates 1/30/18 302, at 4.
+[^939]: Manafo119/12/18 302, at 1.
+
+first meeting, which took place in Madrid, Spain in January 2017, was with Georgiy Oganov. Oganov, who had previously worked at the Russian embassy in the United States, was a senior
 executive at a Deripaska company and was believed to report directly to Deripaska. 940 Manafort
 initially denied attending the meeting. When he later acknowledged it, he claimed that the meeting
 had been arranged by his lawyers and concerned only the Pericles lawsuit. 941 Other evidence, however, provides reason to doubt Manafort's statement that the sole topic of the meeting was the
@@ -4736,26 +4804,26 @@ Alexandria, virginia. 949 During this meeting, Kilimnik again discussed the Yanu
 plan that he had broached at the August 2 meeting and in a detailed December 8, 2016 message
 found in Kilimnik's DMP email account. 950 In that December 8 email, which Manafort
 
-[^94]: ° Kalashnikova 5/17/18 302, at 4; Gary Lee, Soviet embassy's identity Crisis, Washington Post
-(Dec. 20, 1991); Georgy S. Oganov executive profile & biography, Bloomberg (Mar. 12, 2019). 
-[^941]: Manafort 9/11/18 302, at 7. 
-[^942]: Text message, Manafort & Kilimnik. 
-[^943]: Text message, Manafort & Kilimnik; Manafort 9/12/18 302, at 5. 
-[^944]: Text message, Manafort & Kilimnik. 
-[^945]: 1/15/17 Email, Manafort, McFarland, & Flynn. 
-[^946]: 1/15/17 Email, Manafort, McFarland, & Flynn. 
-[^947]: Manafort 9/11/18 302, at 7. 
-[^948]: 1/15/17 Email, Manafort, McFarland, & Flynn ; McFarland 12/22/17 302, at 18-19. 
+[^940]: Kalashnikova 5/17/18 302, at 4; Gary Lee, Soviet embassy's identity Crisis, Washington Post
+(Dec. 20, 1991); Georgy S. Oganov executive profile & biography, Bloomberg (Mar. 12, 2019).
+[^941]: Manafort 9/11/18 302, at 7.
+[^942]: Text message, Manafort & Kilimnik.
+[^943]: Text message, Manafort & Kilimnik; Manafort 9/12/18 302, at 5.
+[^944]: Text message, Manafort & Kilimnik.
+[^945]: 1/15/17 Email, Manafort, McFarland, & Flynn.
+[^946]: 1/15/17 Email, Manafort, McFarland, & Flynn.
+[^947]: Manafort 9/11/18 302, at 7.
+[^948]: 1/15/17 Email, Manafort, McFarland, & Flynn ; McFarland 12/22/17 302, at 18-19.
 [^949]: Manafort 9/11/18 302, at 7; Manafort 9/21/18
 
-302, at 3; 1/19/17 & 1/22/17 Kilimnik CBP records, Jan. 19 and 22, 2017; 20 16-17 Text messages, Kilimnik & Patten, at 1-2. 
-[^950]: investigative technique',l/1.'lrkPrl.'ldttet/,'Ma;· C8tttaitt material Prl.'lteetedUttder Fed. R. Ct·iffl.P. 6(e)
+302, at 3; 1/19/17 & 1/22/17 Kilimnik CBP records, Jan. 19 and 22, 2017; 20 16-17 Text messages, Kilimnik & Patten, at 1-2.
+[^950]: **\[ REDACTED: Investigative Technique \]**',l/1.'lrkPrl.'ldttet/,'Ma;· C8tttaitt material Prl.'lteetedUttder Fed. R. Ct·iffl.P. 6(e)
 acknowledged having read, 951 Kilimnik wrote, "\[a\]ll that is required to stait the process is a very
 minor'wink'(or slight push) from DT"-an apparent reference to president-elect Trump-"and
 a decision to authorize you to be a'special representative'and manage this process. " Kilimnik
 assured Manafort, with that authority, he "could start the process and within 10 days visit Russia
 \[Y anukovych\] guarantees your reception at the very top level," and that "DT could have peace in
-Ukraine basically within a few months after inauguration." 
+Ukraine basically within a few months after inauguration."
 [^952]: On February 26, 2017, Manafort met Kilimnik in Madrid, where Kilimnik had flown from
 Moscow. 956 In his first two interviews with the Office, Manafort denied meeting with Kilimnik
 on his Madrid trip and then-after being confronted with documentary evidence that Kilimnik was
@@ -4763,14 +4831,13 @@ in Madrid at the same time as him-recognized that he met him in Madrid. Manafort
 Kilimnik had updated him on a criminal investigation into so-called "black ledger" payments to
 Manafort that was bein conducted b Ukraine's national Anti-Corru tion Bureau. 957
 
-Manafort remained in contact with Kilimnik throughout 2017 and into the spring of 2018. 
+Manafort remained in contact with Kilimnik throughout 2017 and into the spring of 2018.
 [^951]: Manafort 9/11/18 302, at 6;
 
-952 investigative technique
+952 **\[ REDACTED: Investigative Technique \]**
 
-[^956]: 2/21/17 Email, Zatynaiko to Kilimnik. 
-[^957]: Manafort 9/13/18 302, at I. 958 In resolving whether Manafort breached
- his cooperation plea agreement by lying to the Office, the district court found that Manafort lied about, among other things, his contacts with Kilimnik regarding the peace plan, including the meeting in Madrid. Manafort 2/13/19 transcript, at 29-31, 40. Those contacts included matters pertaining to the criminal charges brought by the Office, and
+[^956]: 2/21/17 Email, Zatynaiko to Kilimnik.
+[^957]: Manafort 9/13/18 302, at I. 958 In resolving whether Manafort breached his cooperation plea agreement by lying to the Office, the district court found that Manafort lied about, among other things, his contacts with Kilimnik regarding the peace plan, including the meeting in Madrid. Manafort 2/13/19 transcript, at 29-31, 40. Those contacts included matters pertaining to the criminal charges brought by the Office, and
 the Ukraine peace plan. In early 2018, Manafort retained his longtime polling firm to craft a draft
 poll in Ukraine, sent the pollsters a three-page primer on the plan sent by Kilimnik, and worked
 with Kilimnik to formulate the polling questions. 960 The primer sent to the pollsters specifically
@@ -4803,11 +4870,11 @@ officials and prominent Russian businessmen began trying to make inroads into th
 administration. They appeared not to have preexisting contacts and struggled to connect with
 senior officials around the president- Elect. As explained below, those efforts entailed both official
 contact through the Russian embassy in the United States and outreaches-sanctioned at high
-levels of the Russian government-through business rather than political contacts. 959 Manafort (D.D.C.) Gov't Opp. to Mot. to Modify, at 2; superseding indictment ,r,r48-51, United States v. Paul J Manafort, Jr., 1: 17-cr-201 (D.D.C. June 8, 2018), Doc. 318. 960 2/12/18 Email, Fabrizio to Manafort & Ward; 2/16/18 Email, Fabrizio to Manafort; 2/19/18
+levels of the Russian government-through business rather than political contacts.
 
-Email, Fabrizio to Ward; 2/21/18 Email, Manafort to Ward & Fabrizio. 96 1
-
-2/21/18 Email, Manafort to Ward & Fabrizio (7:16:49 a.m.) (attachment). 962 3/9/18 Email, Ward to Manafort & Fabrizio (attachment).
+[^959]: Manafort (D.D.C.) Gov't Opp. to Mot. to Modify, at 2; superseding indictment ,r,r48-51, United States v. Paul J Manafort, Jr., 1: 17-cr-201 (D.D.C. June 8, 2018), Doc. 318.
+[^960]: 2/12/18 Email, Fabrizio to Manafort & Ward; 2/16/18 Email, Fabrizio to Manafort; 2/19/18 Email, Fabrizio to Ward; 2/21/18 Email, Manafort to Ward & Fabrizio.
+[^961]: 2/21/18 Email, Manafort to Ward & Fabrizio (7:16:49 a.m.) (attachment). 962 3/9/18 Email, Ward to Manafort & Fabrizio (attachment).
 
 ##### a. outreach from the Russian government
 
@@ -4817,7 +4884,7 @@ calling from a number with a DC area code. 964 although Hicks had a hard time un
 person, she could make out the words "Putin call." 965 Hicks told the caller to send her an email. 966
 
 The following morning, on November 9, 2016, Sergey Kuznetsov, an official at the Russian
-embassy to the United States, emailed Hicks from his Gmail address with the subject line, "message from Putin." 967 attached to the email was a message from Putin, in both english and
+embassy to the United States, emailed Hicks from his Gmail address with the subject line, "message from Putin." 967 attached to the email was a message from Putin, in both English and
 Russian, which Kuznetsov asked Hicks to convey to the president-Elect. 968 In the message, Putin
 offered his congratulations to Trump for his electoral victory, stating he "look\[ed\] forward to
 working with \[Trump\] on leading Russian-American relations out of crisis." 969
@@ -4833,22 +4900,21 @@ Russian ambassador? "972 Kushner forwarded Simes's response-which identified Kis
 name-to Hicks. 973 After checking with Kushner to see what he had learned, Hicks conveyed
 Putin's letter to transition officials. 974 Five days later, on November 14, 2016, Trump and Putin
 spoke by phone in the presence of transition Team members, including incoming national
- security advisor Michael Flynn. 975
+security advisor Michael Flynn. 975
 
-
-[^964]: Hicks 12/8/17 302, at 3. 
-[^965]: Hicks 12/8/17 302, at 3. 
-[^966]: Hicks 12/8/17 302, at 3. 
-[^967]: NOSC00044381 (11/9/16 Email, Kuznetsov to Hicks (5:27 a.m.)). 
-[^968]: NOSC00044381-82 (11/9/16 Email, Kuznetsov to Hicks (5:27 a.m.)). 
-[^969]: NOSC00044382 (11/9/16 Letter from Putin to president-Elect Trump (Nov. 9, 2016) (translation)). 
-[^970]: NOSC00044381 (11/9/16 Email, Hicks to Kushner (10:26 a.m.)). 
-[^971]: statement of Jared C. Kushner to congressional committees, at 4 (Jul. 24, 2017). 
-[^972]: NOSC00000058(11/9/16 Email, Kushner to Simes (10:28 a.m.)); statement of Jared Kushner to congressional committees, at 4 (Jul. 24, 2017). 
-[^973]: NOSC00000058 (11/9/16 Email, Kushner to Hicks (11 :05:44 a.m.)). 
-[^974]: Hicks 12/8/17 302, at 3-4. 
+[^964]: Hicks 12/8/17 302, at 3.
+[^965]: Hicks 12/8/17 302, at 3.
+[^966]: Hicks 12/8/17 302, at 3.
+[^967]: NOSC00044381 (11/9/16 Email, Kuznetsov to Hicks (5:27 a.m.)).
+[^968]: NOSC00044381-82 (11/9/16 Email, Kuznetsov to Hicks (5:27 a.m.)).
+[^969]: NOSC00044382 (11/9/16 Letter from Putin to president-Elect Trump (Nov. 9, 2016) (translation)).
+[^970]: NOSC00044381 (11/9/16 Email, Hicks to Kushner (10:26 a.m.)).
+[^971]: statement of Jared C. Kushner to congressional committees, at 4 (Jul. 24, 2017).
+[^972]: NOSC00000058(11/9/16 Email, Kushner to Simes (10:28 a.m.)); statement of Jared Kushner to congressional committees, at 4 (Jul. 24, 2017).
+[^973]: NOSC00000058 (11/9/16 Email, Kushner to Hicks (11 :05:44 a.m.)).
+[^974]: Hicks 12/8/17 302, at 3-4.
 [^975]: Flynn 11/16/17 302, at 8-10; see Doug G. Ware, Trump, Russia's Putin Talk about Syria, Icy relations in Phone Call, UPI (Nov. 14, 2016).
- 
+
 ##### b. High-Level encouragement of contacts through alternative channels
 
 As Russian officials in the United States reached out to the president-Elect and his team, a
@@ -4874,24 +4940,18 @@ the Russian government in getting in touch with the incoming Trump administratio
 according to Aven, Putin indicated that he did not know with whom formally to speak and
 generally did not know the people around the president-Elect. 985
 
-
-[^976]: A ven rovided information to the Office in an interview and through an attorney proffer, Ill
-
-[^977]: Aven 8/2/18 3 02, at 7. 978
-
-
-[^979]: Aven 8/2/18 302, at2-3. 
+[^976]: Aven provided information to the Office in an interview and through an attorney proffer, Ill
+[^977]: Aven 8/2/18 302, at 7.
+[^978]:
+[^979]: Aven 8/2/18 302, at 2-3.
 [^980]: and interview with the Offic e, A ven referred to the high-ranking Russian government officials using numbers (e.g., official 1, official 2). Aven separately confirmed th.rough an attorney proffer that official 1 was Putin and official 2 was Putin's
-chiefofstaff, Vaino. See affidavit of Ryan Junck (Aug. 2, 2018) (hard copy on file). 
+chiefofstaff, Vaino. See affidavit of Ryan Junck (Aug. 2, 2018) (hard copy on file).
 [^981]: At the time of his Q4 2016 meeting with Putin, A ven was generally aware of the press coverage
 about Russian interference in the U.S. election. according to Aven, he did not discuss that topic with Putin
-at any point, and Putin did not mention the rationale behind the threat of new sanctions. Aven 8/2/18 302, at 5-7. 982
-
-983
-
-984
-
-
+at any point, and Putin did not mention the rationale behind the threat of new sanctions. Aven 8/2/18 302, at 5-7.
+[^982]:
+[^983]:
+[^984]:
 [^985]: Aven told Putin he would take steps to protect himself and the Alfa-Bank
 shareholders from potential sanctions, and one of those steps would be to try to reach out to the
 incoming administration to establish a line of communication. 986 A ven described Putin
@@ -4920,40 +4980,40 @@ Dmitriev is a Russian national who was appointed CEO of Russia's sovereign wealt
 directly to Putin and frequently referred to Putin as his "boss." 991
 RDIF has co-invested in various projects with UAE sovereign wealth funds. 992 Dmitriev
 regularly interacted with Nader, a senior advisor to UAE Crown Prince Mohammed bin Zayed
- 
+
 [^989]: Nader provided information to the Office in multiple interviews, all but one of which were
-conducted under a proffer agreement. The investigators also interviewed Prince under a proffer agreement. Bannon was interviewed by the Office, under a proffer agreement. 
-[^99]: ° Kirill Dmitriev biography, Russian Direct investment Fund, available at
+conducted under a proffer agreement. The investigators also interviewed Prince under a proffer agreement. Bannon was interviewed by the Office, under a proffer agreement.
+[^990]: Kirill Dmitriev biography, Russian Direct investment Fund, available at
 https://rdif.ru/Eng_person_dmitriev_kirill/. See also overview, Russian Direct investment Fund, available
 at https://rdif.ru/Eng_About/.
 [^991]: Gerson 6/15/18 302, at 1. See also, e.g., 12/14/16 Text message, Dmitriev to Gerson; 1/9/17 Text message, Dmitriev to Gerson. 992
 
 (Crown Prince Mohammed), in connection with RDIF's dealings with the UAE. 993 Putin wanted
 Dmitriev to be in charge of both the financial and the political relationship between Russia and the
-Gulf states, in part because Dmitriev had been educated in the West and spoke english fluently. 994
+Gulf states, in part because Dmitriev had been educated in the West and spoke English fluently. 994
 
 Nader considered Dmitriev to be Putin's interlocutor in the Gulf region, and would relay
-Dmitriev's views directly to Crown Prince Mohammed. 
+Dmitriev's views directly to Crown Prince Mohammed.
 [^995]: Nader developed contacts with both U.S. presidential campaigns during the 2016 election, and kept Dmitriev abreast of his efforts to do so.996 according to Nader, Dmitriev said that his
 and the government of Russia's preference was for candidate Trump to win and asked Nader to
 assist him in meetin members of the Trump Cam ai n.
 [^997]: Nader did not
-introduce Dmitriev to anyone associated with the Trump campaign before the election. 
+introduce Dmitriev to anyone associated with the Trump campaign before the election.
 [^999]: Erik Prince is a businessman who had relationships with various individuals associated
 with the Trump campaign, including Steve Bannon, Donald Trump Jr., and Roger Stone.1005
 
 Prince did not have a formal role in the campaign, although he offered to host a fundraiser for
- 
-[^993]: Nader 1/22/18 302, at 1-2; Nader 1/23/18 302, at 2-3; 5/3/16 Email, Nader to Phares; .. 
-[^994]: Nader 1/22/18 302, at 1-2. 
-[^995]: Nader 1/22/18 302, at 3. 
+
+[^993]: Nader 1/22/18 302, at 1-2; Nader 1/23/18 302, at 2-3; 5/3/16 Email, Nader to Phares; ..
+[^994]: Nader 1/22/18 302, at 1-2.
+[^995]: Nader 1/22/18 302, at 3.
 [^996]: Nader 1/22/18 302, at 3;
-[^998]: 
+[^998]:
 [^999]: Nader 1/22/18 302, at 3. 1000
-[^1001]: 
-[^1002]: 
-[^1003]: 
-[^1004]: 
+[^1001]:
+[^1002]:
+[^1003]:
+[^1004]:
 [^1005]: Prince 4/4/18 302, at 1-5; Bannon 2/14/18 302, at 21. Trump and sent unsolicited policy papers on issues such as foreign policy, trade, and Russian election interference to Bannon.
 [^1006]:
 
@@ -4962,25 +5022,25 @@ to meet with Bannon but on occasion to meet Michael Flynn and others. 1007 Princ
 would discuss, inter alia, foreign policy issues and Prince's recommendations regarding who
 should be appointed to fill key natio~sitions. although~
 affiliated with the transition, Nader--- received assurances -
-that the incoming administration considered Prince a trusted associate. 
+that the incoming administration considered Prince a trusted associate.
 
 ##### b. Kirill Dmitriev's Post-election contacts With the incoming administration
 
- ,! A I investigative technique
+ ,! A I **\[ REDACTED: Investigative Technique \]**
  • n• •
-investigative technique
- investigative technique. .. .. I •. ••
- • investigative technique
- • .•. ... . •'investigative technique
+**\[ REDACTED: Investigative Technique \]**
+ **\[ REDACTED: Investigative Technique \]**. .. .. I •. ••
+ • **\[ REDACTED: Investigative Technique \]**
+ • .•. ... . •'**\[ REDACTED: Investigative Technique \]**
 
-[^1006]: Prince 4/4/18 302, at l, 3-4; Prince 5/3/18 302, at 2; Bannon 2/14/18 302, at 19-20; 10/18/16 Email, Prince to Bannon. 
-[^1007]: Flynn 11/20/17 302, at 6; Flynn 1/11/18 302, at 5; Flynn 1/24/18 302, at 5-6; Flynn 5/1/18 302, at 11; Prince 4/4/18 302, at 5, 8; Bannon 2/14/18 302, at 20-21; 11/12/16 Email, Prince to Corallo. 
+[^1006]: Prince 4/4/18 302, at l, 3-4; Prince 5/3/18 302, at 2; Bannon 2/14/18 302, at 19-20; 10/18/16 Email, Prince to Bannon.
+[^1007]: Flynn 11/20/17 302, at 6; Flynn 1/11/18 302, at 5; Flynn 1/24/18 302, at 5-6; Flynn 5/1/18 302, at 11; Prince 4/4/18 302, at 5, 8; Bannon 2/14/18 302, at 20-21; 11/12/16 Email, Prince to Corallo.
 [^1008]: Prince 4/4/18 302, at 5; Bannon 2/14/18 302, at 21. Nader 1/22/18 302, at 5-6; 1111
-[^1011]: investigative technique
-[^1012]: investigative technique
-[^1013]: investigative technique
-[^1014]: investigative technique
-[^1015]: investigative technique
+[^1011]: **\[ REDACTED: Investigative Technique \]**
+[^1012]: **\[ REDACTED: Investigative Technique \]**
+[^1013]: **\[ REDACTED: Investigative Technique \]**
+[^1014]: **\[ REDACTED: Investigative Technique \]**
+[^1015]: **\[ REDACTED: Investigative Technique \]**
 
  Later that morning, Dmitriev contacted Nader, who was in New York, to request a meeting
 with the "key people " in the incoming administration as soon as possible in light of the "\[g\]reat
@@ -4990,7 +5050,7 @@ sensitivities and are not in a rush." 1017 Dmitriev and Nader had previously dis
 introducing him to the contacts Nader had made within the Trump campaign. 1018 Dmitriev also
 told Nader that he would ask Putin for permission to travel to the United States, where he would
 be able to speak to media outlets about the positive impact of Trump'selection and the need for
-reconciliation between the United States and Russia. 
+reconciliation between the United States and Russia.
 [^1019]: Later that day, Dmitriev flew to New York, where Peskov was separately traveling to
 attend the chess tournament. 1020 Dmitri ev invited Nader to the opening of the tournament and
 noted that, if there was "a chance to see anyone key from Trump camp," he "would love to start
@@ -4999,26 +5059,26 @@ building for the future." 1021 Dmitriev also asked Nader to invite Kushner to th
 connected with the incoming administration. 1023 although one World Chess federation official
 recalled hearing from an attendee that president-Elect Trump had stopped by the tournament, the
 investigation did not establish that Trump or any campaign or transition Team official attended
-the event. 1024 And the president's written answers denied that he had. 
+the event. 1024 And the president's written answers denied that he had.
 [^1025]: Nader stated that Dmitriev continued to press him to set up a meeting with transition
 officials, and was particularly focused on Kushner and Trump Jr. 1026 Dmitriev told Nader that
  -. . -
- 
-[^1016]: 11/9/16 Text message, Dmitriev to Nader (9:34 a.m.); Nader 1/22/18 302, at 4. 
-[^1017]: 11/9/16 Text message, Dmitriev to Nader (11 :58 p.m.). 
-[^1018]: Nader 1/22/18 302, at 3. 
+
+[^1016]: 11/9/16 Text message, Dmitriev to Nader (9:34 a.m.); Nader 1/22/18 302, at 4.
+[^1017]: 11/9/16 Text message, Dmitriev to Nader (11 :58 p.m.).
+[^1018]: Nader 1/22/18 302, at 3.
 [^1019]: 11/9/16 Text Messa e, Dmitriev to Nader 10:06 a.m.); 11/9/16 Text message, Dmitriev to
 Nader (10:10 a.m.);
- 
+
 [^1020]: 11/9/16 Text message, Dmitriev to Nader (10:08 a.m.); 11/9/16 Text message, Dmitriev to
-Nader (3:40 p.m.); Nader 1/22/18 302, at 5. 
-[^1021]: 11/9/16 Text message, Dmitriev to Nader (7: 10 p.m.). 
-[^1022]: 11/10/16 Text message, Dmitriev to Nader (5:20 a.m.). 
-[^1023]: Nader 1/22/18 302, at 5-6. 
-[^1024]: Marinello 5/31/18 302, at 2-3; Nader 1/22/18 302, at 5-6. 
-[^1025]: written responses of Donald J. Trump (Nov. 20, 2018), at 17-18 (response to question V, Part (a). 
+Nader (3:40 p.m.); Nader 1/22/18 302, at 5.
+[^1021]: 11/9/16 Text message, Dmitriev to Nader (7: 10 p.m.).
+[^1022]: 11/10/16 Text message, Dmitriev to Nader (5:20 a.m.).
+[^1023]: Nader 1/22/18 302, at 5-6.
+[^1024]: Marinello 5/31/18 302, at 2-3; Nader 1/22/18 302, at 5-6.
+[^1025]: written responses of Donald J. Trump (Nov. 20, 2018), at 17-18 (response to question V, Part (a).
 [^1026]: Nader 1/22/18 302, at 6;
-1111 
+1111
 [^1027]: Nader 1/22/18 302, at 6;
  according to Nader, Dmitriev was very
 anxious to connect with the incoming administration and told Nader that he would try other routes
@@ -5028,7 +5088,7 @@ to do so besides Nader himself. 1030 Nader did not ultimately introduce Dmitriev
 associated with the incoming administration during Dmitriev's post-election trip to New York. In early December 2016, Dmitriev again broached the topic of meeting incoming
 administration officials with Nader in Januar y or February. 1032 Dmitriev sent Nader a list of
 publicly available quotes of Dmitriev speaking positively about Donald Trump "in case they
-\[were\] helpful." 
+\[were\] helpful."
 [^1033]:
 
 ##### c. Erik Prince and Kirill Dmitriev Meet in the Seychelles
@@ -5047,14 +5107,14 @@ After his dinner with Prince, Nader sent Prince a link to a Wikipedia entry abou
 
 [^1028]:
 [^1029]:
-[^1030]: Nader 1/22/18 302, at 6. 
-[^1031]: Nader 1/22/18 302, at 5-7. 
-[^1032]: 12/8/16 Text messages, Dmitriev to Nader (12: 10:31 a.m.); Nader 1/22/18 302, at 11. 
-[^1033]: 12/8/16 Text message, Dmitriev to Nader (12: 10:31 a.m .); 12/8/16 Text message, Dmitriev to Nader (12:10:57 a.m.). 
+[^1030]: Nader 1/22/18 302, at 6.
+[^1031]: Nader 1/22/18 302, at 5-7.
+[^1032]: 12/8/16 Text messages, Dmitriev to Nader (12: 10:31 a.m.); Nader 1/22/18 302, at 11.
+[^1033]: 12/8/16 Text message, Dmitriev to Nader (12: 10:31 a.m .); 12/8/16 Text message, Dmitriev to Nader (12:10:57 a.m.).
 [^1034]: Prince 4/4/18 302, at 8. Dmitriev. 1040 Nader told Dmitriev that the people he met had asked for Dmitriev's bio, and
 Dmitriev replied that he would update and send it. 1041 Nader later received from Dmitriev two
 files concerning Dmitriev: one was a two-page biography, and the other was a list of Dmitriev's
-positive quotes about Donald Trump. 
+positive quotes about Donald Trump.
 [^1042]: The next morning, Nader forwarded the message and attachments Dmitriev had sent him
 to Prince. 1043 Nader wrote to Prince that these documents were the versions "to be used with some
 additional details for them" (with "them" referring to members of the incoming
@@ -5076,18 +5136,18 @@ would be worthwhile. 1053 ---Dmitriev was not enthusiastic about the idea of
 meeting with Prince, and that Nader assured him that Prince wielded influence with the incoming
 
 [^1040]: 1/4/17 Text message, Nader to Prince; 1/4/17 Text Messa es, Nader to Dmitriev (5:24 a.m. - 5:26 a.m.); Nader 1/22/18 302, at 8-9;
-[^1041]: 1/4/17 Text messages, Nader & Dmitriev (7:24:27 a.m.). 
+[^1041]: 1/4/17 Text messages, Nader & Dmitriev (7:24:27 a.m.).
 [^1042]: 1/4/17 Text messages, Dmitriev to Nader (7:25-7:29 a.m.)
-[^1043]: 1/4/17 Text messages, Nader to Prince. 
+[^1043]: 1/4/17 Text messages, Nader to Prince.
 [^1044]: 1/4/17 Text messages, Nader to Prince;
-[^1045]: Prince 5/3/18 302, at 1-3. 
-[^1046]: Prince 5/3/18 302, at 2-3. 
-[^1047]: Cell-site location data for Prince's mobile phone investigative technique
+[^1045]: Prince 5/3/18 302, at 1-3.
+[^1046]: Prince 5/3/18 302, at 2-3.
+[^1047]: Cell-site location data for Prince's mobile phone **\[ REDACTED: Investigative Technique \]**
 [^1048]: Prince 5/3/18 302, at 3.
-[^1049]: 
+[^1049]:
 [^1050]: 1/5/17 Email, Kasbo to Prince.
-[^1051]: 1/8/17 Text messages, Nader to Dmitriev (6:05 - 6: 10 p.m.). 
-[^1052]: 1/8/17 Text messages, Nader & Dmitriev (6: 10 - 7:27 p.m.). 
+[^1051]: 1/8/17 Text messages, Nader to Dmitriev (6:05 - 6: 10 p.m.).
+[^1052]: 1/8/17 Text messages, Nader & Dmitriev (6: 10 - 7:27 p.m.).
 [^1053]: 1/9/17 Text message, Dmitriev to Nader. administration. 1054 Nader wrote to Dmitriev, "This guy \[Prince\] is designate ·d by Steve \[Bannon\]
 to meet you! I know him and he is very very well connected and trusted by the New Team. His
 sister is now a minister of education." 1055 according to Nader, Prince had led him to believe that
@@ -5107,17 +5167,17 @@ years of the Obama administration in negative terms, and stated that he was look
 new era of cooperation and conflict resolution. 1063 according to Prince, he told Dmitriev that
 Bannon was effective if not conventional, and that Prince provided policy papers to Bannon. 1064
 
-[^1054]: 
+[^1054]:
 [^1055]: 1/9/17 Text message, Nader to Dmitriev (2:12:56 p.m.); Nader 1/19/18 302, at 13; Ill
- 
-[^1056]: Nader 1/19/18 302, at 13; Prince 5/3/18 302, at 3. 
-[^1057]: Bannon 2/14/18 302, at 25-26. 
-[^1058]: 1/10/17 Text messages, Dmitriev & Nader (2:05:54 - 3:30:25 p.m.); 1/1 1/17 Text messages, Dmitriev & Nader (2: 16: 16 - 5:17:59 p.m.). 
-[^1059]: 1/7/17 Email, Kasbo to Prince. 
+
+[^1056]: Nader 1/19/18 302, at 13; Prince 5/3/18 302, at 3.
+[^1057]: Bannon 2/14/18 302, at 25-26.
+[^1058]: 1/10/17 Text messages, Dmitriev & Nader (2:05:54 - 3:30:25 p.m.); 1/1 1/17 Text messages, Dmitriev & Nader (2: 16: 16 - 5:17:59 p.m.).
+[^1059]: 1/7/17 Email, Kasbo to Prince.
 [^1060]: 1/11/17 Text messages, Nader & Dmitriev (5:18:24 - 5:37:14 p.m.);
- 
-[^1062]: 
-[^1063]: 
+
+[^1062]:
+[^1063]:
 [^1064]: Prince 5/3/18 302, at 4. 1065
 
 topic of Russian interference in the 2016 election did not come up. Prince added that he would inform Bannon about his meeting with Dmitriev, and that if there was
@@ -5131,16 +5191,16 @@ Dmitriev that Prince had "received an urgent message that he needs to convey to 
 and arranged for himself, Dmitriev, and Prince to meet at a restaurant on the Four seasons
 property. 101s
  At the second meeting, Prince told Dmitriev that the United States could not acce
-Russian involvement in Lib a because it would make the situation there much worse. 
-[^1076]: 
-[^1066]: 
-[^1067]: 
-[^1068]: 
-[^1069]: Prince 5/3/18 302, at 4-5. 
-[^1070]: 
-[^1072]: 
+Russian involvement in Lib a because it would make the situation there much worse.
+[^1076]:
+[^1066]:
+[^1067]:
+[^1068]:
+[^1069]: Prince 5/3/18 302, at 4-5.
+[^1070]:
+[^1072]:
 [^1073]: Prince 4/4/18 302, at 10; Prince 5/3/18 302, at 4;
- 
+
 [^1075]: 1/11/17 Text messages, Dmitriev & Nader (9: 13 :54 -
  10:24:25 p.m.). Prince, however, denied that and recalled that he was making these remarks to Dmitri ev not in an official capacity
  for the transition but based on his experience as a former naval officer. Prince 5/3/18 302, at 4. Feti. R. Cri1tt. P. 6(e)
@@ -5169,9 +5229,9 @@ wealth fund and was interested in improving relations between the United States 
 [^1081]:
 [^1082]:
 [^1083]: Prince 4/4/18 302, at 10; Prince 5/3/18 302, at 4;
-[^1084]: 1/12/17 Text messages, Prince to Preate. 
-[^1085]: 1/15/17 Text message, Prince to Preate. 
-[^1086]: Prince 4/4/18 302, at 11; Prince 5/3/18 302, at 5. 
+[^1084]: 1/12/17 Text messages, Prince to Preate.
+[^1085]: 1/15/17 Text message, Prince to Preate.
+[^1086]: Prince 4/4/18 302, at 11; Prince 5/3/18 302, at 5.
 [^1087]: Prince 4/4/18 302, at 11; Prince 5/3/18 302, at 5. and Prince told the Office that he likely showed that image to Bannon. 1088 Prince also believed he
 provided Bannon with Dmitriev's contact information. 1089 according to Prince, Bannon instructed
 Prince not to followup with Dmitriev, and Prince had the impression that the issue was not a
@@ -5203,19 +5263,19 @@ Dmitriev to Rick Gerson, a friend of Jared Kushner who runs a hedge fund in New 
 
 Gerson stated he had no formal role in the transition and had no involvement in the Trump
 
-[^1088]: Prince 5/3/18 302, at 5; 1/16/17 Image on Prince Phone (on file with the Office). 
-[^1089]: Prince 5/3/18 302, at 5. 
-[^1090]: Prince 5/3/18 302, at 5. 
-[^1091]: Prince 5/3/18 302, at 5. 
-[^1092]: Bannon 10/26/18 302, at 10-11. 
-[^1093]: Bannon 10/26/18 302, at 10-11. 
+[^1088]: Prince 5/3/18 302, at 5; 1/16/17 Image on Prince Phone (on file with the Office).
+[^1089]: Prince 5/3/18 302, at 5.
+[^1090]: Prince 5/3/18 302, at 5.
+[^1091]: Prince 5/3/18 302, at 5.
+[^1092]: Bannon 10/26/18 302, at 10-11.
+[^1093]: Bannon 10/26/18 302, at 10-11.
 [^1094]: Call records of Erik Prince
-[^1095]: Prince 4/4/18 302, at 6. 
-[^1096]: Bannon 10/26/18 302, at 11; Bannon 2/14/18 302, at 36. 
-[^1097]: Bannon 10/26/18 302, at 11. 
+[^1095]: Prince 4/4/18 302, at 6.
+[^1096]: Bannon 10/26/18 302, at 11; Bannon 2/14/18 302, at 36.
+[^1097]: Bannon 10/26/18 302, at 11.
 [^1098]: Gerson 6/5/18 302, at 1, 3; 11/26/16 Text message, Dmitriev to Gerson; 1/25/17 Text message, Dmitriev to Nader. campaign other than occasional casual discussions about the campaign with Kushner. 1099 After
 the election, Gerson assisted the transition by arranging meetings for transition officials with
-former UK prime minister Tony Blair and a UAE delegation led by Crown Prince Mohammed. 
+former UK prime minister Tony Blair and a UAE delegation led by Crown Prince Mohammed.
 [^1100]: When Dmitriev and Gerson met, they principally discussed potential joint ventures
 between Gerson's hedge fund and RDIF. 1101 Dmitriev was interested in improved economic
 cooperation between the United States and Russia and asked Gerson who he should meet with in
@@ -5224,7 +5284,7 @@ would try to figure out the best way to arrange appropriate introductions, but n
 confidentiality would be required because of the sensitivity of holding such meetings before the
 new administration took power, and before cabinet nominees had been confirmed by the
 Senate. 1103 Gerson said he would ask Kushner and Michael Flynn who the "key person or people"
-were on the topics of reconciliation with Russia, joint security concerns, and economic matters. 
+were on the topics of reconciliation with Russia, joint security concerns, and economic matters.
 [^1104]: Dmitriev told Gerson that he had been tasked by Putin to develop and execute a
 reconciliation plan between the United States and Russia. He noted in a text message to Gerson
 that if Russia was "approached with respect and willingness to understand our position, we can
@@ -5232,24 +5292,24 @@ have Major breakthroughs quickly." 1105 Gerson and Dmitriev exchanged ideas in D
 
 about what such a reconciliation plan would include. 1106 Gerson told the Office that the transition
 Team had not asked him to engage in these discussions with Dmitriev, and that he did so on his
-own initiative and as a private citizen. 
+own initiative and as a private citizen.
 [^1107]: On January 9, 2017, the same day he asked Nader whether meeting Prince would be
 worthwhile, Dmitriev sent his biography to Gerson and asked him if he could "share it with Jared
 (or somebody else very senior in the team) - so that they know that we are focused from our side
 on improving the relationship and my boss asked me to play a key role in that." 1108 Dmitriev also
 asked Gerson if he knew Prince, and if Prince was somebody important or worth spending time
 
-[^1099]: Gerson 6/5/18 302, at 1. 
-[^1100]: Gerson 6/5/18 302, at 1-2; Kushner 4/11/18 302, at 21. 
+[^1099]: Gerson 6/5/18 302, at 1.
+[^1100]: Gerson 6/5/18 302, at 1-2; Kushner 4/11/18 302, at 21.
 [^1101]: Gerson 6/5/18 302, at 3-4 ; see, e.g., 12/2/16 Text messages, Dmitriev & Gerson; 12/14/16 Text
 messages, Dmitriev & Gerson; 1/3/17 Text message, Gerson to Dmitriev; 12/2/16 Email, Tolokonnikov to
-Gerson. 
-[^1102]: Gerson 6/5/18 302, at 3; 12/14/16 Text message, Dmitriev to Gerson. 
-[^1103]: 12/14/16 Text message, Gerson to Dmitriev. 
-[^1104]: 12/14/16 Text message, Gerson to Dmitriev. 
-[^1105]: 12/14/16 Text messages, Dmitriev & Gerson; Gerson 6/15/18 302, at 1. 
-[^1106]: 12/14/16 Text messages, Dmitriev & Gerson. 
-[^1107]: Gerson 6/15/18 302, at I. 
+Gerson.
+[^1102]: Gerson 6/5/18 302, at 3; 12/14/16 Text message, Dmitriev to Gerson.
+[^1103]: 12/14/16 Text message, Gerson to Dmitriev.
+[^1104]: 12/14/16 Text message, Gerson to Dmitriev.
+[^1105]: 12/14/16 Text messages, Dmitriev & Gerson; Gerson 6/15/18 302, at 1.
+[^1106]: 12/14/16 Text messages, Dmitriev & Gerson.
+[^1107]: Gerson 6/15/18 302, at I.
 [^1108]: 1/9/17 Text messages, Dmitriev to Gerson; 1/9/17 Text message, Dm itriev to Nad er. with. 1109 After his trip to the Seychelles, Dmitriev told Gerson that Bannon had asked Prince to
 meet with Dmitriev and that the two had had a positive meeting. 1110
 
@@ -5278,19 +5338,19 @@ was "very confidential." 1121
 
 The same day, Dmitriev wrote to Nader that he had seen his "boss " again yesterday who
 had "emphasized that this is a great priority for us and that we need to build this communication
- 
-[^1109]: Gerson 6/5/18 302, at 4. 
-[^1110]: 1/18/17 Text messages, Dmitriev & Gerson. 
-[^1111]: 1/16/17 Text messages; Dmitriev & Gerson. 
-[^1112]: Gerson 6/5/18 302, at 3; Gerson 6/15/18 302, at 2. 
-[^1113]: Gerson 6/5/18 302, at 3. 11 
-[^14]: Gerson 6/5/18 302, at 3; Gerson 6/15/18.302, at 1-2; Kushner 4/11/18 30 2, at 22. 
-[^1115]: Gerson 6/5/18 302, at 3. 
-[^1116]: Kushner 4/11/18 302, at 32. 
-[^1117]: 1/19/17 Text message, Dmitriev to Nader (11: 11 :56 a.m.). 
-[^1118]: 1/18/17 Text message, Gerson to Dmitriev; Gerson 6/15/18 302, at 2. 
-[^1119]: 1/26/17 Text message, Dmitriev to Gerson. 
-[^1120]: 1/26/17 Text message, Dmitriev to Gerson. 
+
+[^1109]: Gerson 6/5/18 302, at 4.
+[^1110]: 1/18/17 Text messages, Dmitriev & Gerson.
+[^1111]: 1/16/17 Text messages; Dmitriev & Gerson.
+[^1112]: Gerson 6/5/18 302, at 3; Gerson 6/15/18 302, at 2.
+[^1113]: Gerson 6/5/18 302, at 3. 11
+[^14]: Gerson 6/5/18 302, at 3; Gerson 6/15/18.302, at 1-2; Kushner 4/11/18 30 2, at 22.
+[^1115]: Gerson 6/5/18 302, at 3.
+[^1116]: Kushner 4/11/18 302, at 32.
+[^1117]: 1/19/17 Text message, Dmitriev to Nader (11: 11 :56 a.m.).
+[^1118]: 1/18/17 Text message, Gerson to Dmitriev; Gerson 6/15/18 302, at 2.
+[^1119]: 1/26/17 Text message, Dmitriev to Gerson.
+[^1120]: 1/26/17 Text message, Dmitriev to Gerson.
 [^1121]: 1/26/17 Text message, Dmitriev to Gerson. channel to avoid bureaucracy ." 1122 On January 28, 2017, Dmitriev texted Nader that he wanted
 "to see if I can confirm to my boss that your friends may use some of the ideas from the 2 pager I
 sent you in the telephone call that will happen at 12 EST," 1123 an apparent reference to the call
@@ -5320,16 +5380,16 @@ Bob Foresman, the UBS investment bank executive who had previously tried to tran
 to candidate Trump an invitation to speak at an economic forum in Russia, see Volume I, section
 IV.A.l.d.ii, supra, may have provided similar information to the transition Team. according to
 
-[^1122]: 1/26/17 Text message, Dmitriev to Nader (10:04:41 p.m.). 
-[^1123]: 1/28/17 Text message, Dmitriev to Nader (I'l :05:39 a.m.). 
-[^1124]: 1/28/17 Text message, Nader to Dmitriev (11: 11:33 a.m.). 
-[^1125]: 1/29/17 Text message, Dmitriev to Nader (11 :06:35 a.m.). 
-[^1126]: 1/28/17 Text message, Gerson to Dmitriev; 1/29/17 Text message, Dmitriev to Gerson. 
-[^1127]: Gerson 6/15/18 302, at 4; 3/21/17 Text message, Gerson to Dmitriev. 
+[^1122]: 1/26/17 Text message, Dmitriev to Nader (10:04:41 p.m.).
+[^1123]: 1/28/17 Text message, Dmitriev to Nader (I'l :05:39 a.m.).
+[^1124]: 1/28/17 Text message, Nader to Dmitriev (11: 11:33 a.m.).
+[^1125]: 1/29/17 Text message, Dmitriev to Nader (11 :06:35 a.m.).
+[^1126]: 1/28/17 Text message, Gerson to Dmitriev; 1/29/17 Text message, Dmitriev to Gerson.
+[^1127]: Gerson 6/15/18 302, at 4; 3/21/17 Text message, Gerson to Dmitriev.
 [^1128]: statement of Jared C. Kushner to congressional committees ("Kushner Stmt. "), at 6 (7/24/17)
-(written statement by Kushner to the Senate judiciary committee). 
-[^1129]: NOSC00004356 (11/16/16 Email, Vargas to Kushner (6:44 p .m.)). 
-[^1130]: NOSC00004356 (11/16/16 Email, Kushner to Vargas (9:54 p.m.)). 
+(written statement by Kushner to the Senate judiciary committee).
+[^1129]: NOSC00004356 (11/16/16 Email, Vargas to Kushner (6:44 p .m.)).
+[^1130]: NOSC00004356 (11/16/16 Email, Kushner to Vargas (9:54 p.m.)).
 [^1131]: 11/17/16 Email, Brown to Simes (10:41 a.m.); Brown 10/13/17 302, at 4; 11/17/16 Email, Vargas to Kushner (12:3 1:18). Foresman, at the end of an early December 2016 meeting with incoming national security advisor
 Michael Flynn and his designated deputy (K.T. McFarland) in New York, Flynn asked Foresman
 for his thoughts on Kislyak. Foresman had not met Kislyak but told Flynn that, while Kislyak was
@@ -5348,23 +5408,23 @@ Kushner's invitation, Flynn also attended; Bannon was invited but did not attend
 meeting, which lasted approximately 30 minutes, Kushner expressed a desire on the part of the
 incoming administration to start afresh with U.S.-Russian relations. 1141 Kushner also asked
 Kislyak to identify the best person (whether Kislyak or someone else) with whom to direct future
-discussions-someone who had contact with Putin and the ability to speak for him. 
+discussions-someone who had contact with Putin and the ability to speak for him.
 [^1142]: The three men also discussed U.S. policy toward Syria, and Kislyak floated the idea of
 having Russian generals brief the transition Team on the topic using a secure communications
-line. 1143 After Flynn explained that there was no secure line in the transition Team offices, 
-[^1132]: Foresman 10/17/18 302, at 17. 
-[^1133]: Foresman 10/17/18 302, at 17-18. 
-[^1134]: Foresman 10/17/18 302, at 18. 
-[^1135]: RMF-SCO-00000015 (1/5/17 Email, Foresman to Atencio & Flaherty); RMF-SCO-00000015 (1/5/17 Email, Flaherty to Foresman & Atencio). 
-[^1136]: 9/26/18 attorney proffer from Covington & burling LLP (reflected in email on file with the Office). 
-[^1137]: Vargas 4/4/18 302, at 5. 
-[^1138]: Kushner 11/1/17 302, at 4. 
-[^1139]: AKIN_GUMP_BERKOWITZ_0000016-019 (11/29/16 Email, Vargas to Kuznetsov). 
-[^114]: °Flynn 1/11/18 302, at 2; NOS00004240 (calendar Invite, Vargas to Kushner & Flynn). 
-[^1141]: Kushner Strut. at 6. 
-[^1142]: Kushner Strut. at 6; Kushner 4/11/18 302, at 18. 
+line. 1143 After Flynn explained that there was no secure line in the transition Team offices,
+[^1132]: Foresman 10/17/18 302, at 17.
+[^1133]: Foresman 10/17/18 302, at 17-18.
+[^1134]: Foresman 10/17/18 302, at 18.
+[^1135]: RMF-SCO-00000015 (1/5/17 Email, Foresman to Atencio & Flaherty); RMF-SCO-00000015 (1/5/17 Email, Flaherty to Foresman & Atencio).
+[^1136]: 9/26/18 attorney proffer from Covington & burling LLP (reflected in email on file with the Office).
+[^1137]: Vargas 4/4/18 302, at 5.
+[^1138]: Kushner 11/1/17 302, at 4.
+[^1139]: AKIN_GUMP_BERKOWITZ_0000016-019 (11/29/16 Email, Vargas to Kuznetsov).
+[^1140]: Flynn 1/11/18 302, at 2; NOS00004240 (calendar Invite, Vargas to Kushner & Flynn).
+[^1141]: Kushner Strut. at 6.
+[^1142]: Kushner Strut. at 6; Kushner 4/11/18 302, at 18.
 [^1143]: Kushner Stmt. at 7; Kushner 4/11/18 302, at 18; Flynn 1/11/18 302, at 2. Kushner asked Kislyak if they could communicate using secure facilities at the Russian
- embassy. 1144 Kislyak quickly rejected that idea. 
+ embassy. 1144 Kislyak quickly rejected that idea.
 [^1145]:
 
 #### 4. Jared Kushner's meeting with Sergey Gorkov
@@ -5385,21 +5445,21 @@ On December 6, 2016, the Russian embassy reached out to Kushner's assistant to s
  sanctions imposed in response to Russia's annexation of Crimea. 1153 Kushner did not, however, recall any discussion during his meeting with Gorkov about the sanctions against VEB or sanctions
  more generally. 1154 Kushner stated in an interview that he did not engage in any preparation for
 
-[^1144]: Kushner 4/11/18 302, at 18. 
-[^1145]: Kushner 4/11/18 302, at 18. 
-[^1146]: Kushner Strut. at 7; NOSC00000123 (12/6/16 Email, Vargas to Kushner (12 : 11:40 p.m.)). 
+[^1144]: Kushner 4/11/18 302, at 18.
+[^1145]: Kushner 4/11/18 302, at 18.
+[^1146]: Kushner Strut. at 7; NOSC00000123 (12/6/16 Email, Vargas to Kushner (12 : 11:40 p.m.)).
 [^1147]: Kushner 4/11/18 302, at 19; NOSC00000130 (12/12/16 Email, Kushner to Vargas (10:
-[^41]: p.m.)). 
+[^41]: p.m.)).
 [^1148]: Kushner 4/11/18 302, at 19; Kushner Stmt. at 7; DJTFP_SCO_01442290 (12/6/16 Email, Berkowitz to
- 
-[^1149]: DJTFP - SCO- 01442290 (12/7/16 Email to Berkowitz (12:31 :39 p.m.)). 
+
+[^1149]: DJTFP - SCO- 01442290 (12/7/16 Email to Berkowitz (12:31 :39 p.m.)).
 [^1150]: Berkowitz 1/12/18 302, at 7; AKIN_GUMP_BERKOWITZ _O0000l-04 (12/12/16 Text
- messages, Berkowitz & 202-701-8532). 
-[^1151]: Kushner 4/11/18 302, at 19; NOSC00000130-135 (12/12/16 Email, Kushner to Berkowitz). 
-[^1152]: Kushner 4/11/18 302, at 19; NOSC00000130-135 (12/12/16 Email, Kushner to Berkowitz). 
+ messages, Berkowitz & 202-701-8532).
+[^1151]: Kushner 4/11/18 302, at 19; NOSC00000130-135 (12/12/16 Email, Kushner to Berkowitz).
+[^1152]: Kushner 4/11/18 302, at 19; NOSC00000130-135 (12/12/16 Email, Kushner to Berkowitz).
 [^1153]: announcement of treasury sanctions on entities Within the financial services and Energy
  sectors of Russia, against Arms or related materiel entities, and those undermining Ukraine's
- sovereignty, United States department of the treasury (Jul. 16, 2014). 
+ sovereignty, United States department of the treasury (Jul. 16, 2014).
 [^1154]: Kushner 4/11/18 302, at 20. 1
 
 the meeting and that no one on the transition Team even did a Google search for
@@ -5423,23 +5483,23 @@ Kushner's capacity as CEO of Kushner companies for the purpose of discussing bus
 than as part of a diplomatic effort. In particular, VEB characterized Gorkov's meeting with
 Kushner as part of a series of "roadshow meetings" with "representatives of major US banks and
 business circles," which included "negotiations " and discussion of the "most promising business
- lines and sectors." 
+ lines and sectors."
 [^1160]: Foresman, the investment bank executive mentioned in Volume l, sections IV.A. I and
 IV.B.3, supra, told the Office that he met with Gorkov and VEB deput y chairman Nikolay
 Tsekhomsky in Moscow just before Gorkov left for New York to meet Kushner. 1161 according to
 Foresman, Gorkov and Tsekhomsky told him that they were traveling to New York to discuss post-
  election issues with U.S. financial institutions, that their trip was sanctioned by Putin, and that they
- would be reporting back to Putin upon their return. 
-[^1162]: 
+ would be reporting back to Putin upon their return.
+[^1162]:
 [^1155]: Kushner 4/11/18 302, at 19. Berkowitz, by contrast, stated to the Office that he had googled
- Gorkov's name and told Kushner that Gorkov appeared to be a banker. Berkowitz 1/12/18 302, at 8. 
-[^1156]: Kushner 4/11/18 302, at 19-20. 
-[^1157]: Kushner Stmt. at 8. 
+ Gorkov's name and told Kushner that Gorkov appeared to be a banker. Berkowitz 1/12/18 302, at 8.
+[^1156]: Kushner 4/11/18 302, at 19-20.
+[^1157]: Kushner Stmt. at 8.
 [^1158]: Kushner Stmt. at 8. 1159 See, e.g., Peter Grant, Donald Trump Son-in-Law Jared Kushner Could Face His Own conflict-
- of-interest questions, Wall Street journal (Nov. 29, 2016). 
+ of-interest questions, Wall Street journal (Nov. 29, 2016).
 [^1160]: patrick Reevell & Matthew Mosk, Russian Banker Sergey Gorkov brushes off questions About
- meeting with Jared Kushner, ABC News (June 1, 2017). 
-[^1161]: Foresman 10/17/18 302, at 14-15. 
+ meeting with Jared Kushner, ABC News (June 1, 2017).
+[^1161]: Foresman 10/17/18 302, at 14-15.
 [^1162]: Foresman 10/17/18 302, at 15-16. The investigation did not resolve the apparent conflict in the accounts of Kushner and
 Gorkov or determine whether the meeting was diplomatic in nature (as Kushner stated), focused
 on business (as VEB's public statement indicated), or whether it involved some combination of
@@ -5472,14 +5532,14 @@ While at a Ll board meeting held in Luxembourg in late December 2016, Aven pulle
 aside and told him that he had spoken to someone high in the Russian government who expressed
 
 [^1163]: AKIN_GUMP_BERKOWITZ_00000ll (12/19/16 Text message, Ivanchenko to Berkowitz
- (9:56 a.m.)). 
+ (9:56 a.m.)).
 [^1164]: AKIN_GUMP_BERKOWITZ_00000ll-15 (12/19/16 - 2/16/17 Text messages, Ivanchenko
- & Berkowitz). 
+ & Berkowitz).
 [^1165]: AKIN_GUMP_BERKOWITZ_00000lS (2/8/17 Text message, Ivanchenko to Berkowitz
- (10:41 a.m.)). 
-[^1166]: Berkowitz 3/22/18 302, at 4-5. 
-[^1168]: 
-[^1169]: 
+ (10:41 a.m.)).
+[^1166]: Berkowitz 3/22/18 302, at 4-5.
+[^1168]:
+[^1169]:
 [^1170]: Aven 8/2/18 302, at 6; Burt 2/9/18 302, at 2. interest in establishing a communications channel between the kremlin and the Trump transition
 Team. 1171 Aven asked for Burt's help in contacting members of the transition Team. 1172 although
 Burt had been responsible for helping Aven build connections in the past, Burt viewed Aven's
@@ -5511,14 +5571,14 @@ need to establish such a channel. But the individual emphasized that at this mom
 so much intense interest in the congress and the media over the question of cyber-hacking
  (and who ordered what), project A was too explosive to discuss. The individual agreed to
 
-discuss it again after the New Year. I trust the individual's instincts on this. 
-[^1173]: Burt 2/9/18 302, at 4. 
-[^1174]: Burt 2/9/18 302, at 5. 
-[^1175]: Burt 2/9/18 302, at 3. 
-[^1176]: Burt 2/9/18 302, at 3. 
-[^1177]: Burt 2/9/18 302, at 3; Simes 3/27/18 302, at 4. 
-[^1178]: Burt 2/9/18 302, at 3; Simes 3/27/18 302, at 4. 
-[^1179]: Simes 3/27/18 302, at 5. 
+discuss it again after the New Year. I trust the individual's instincts on this.
+[^1173]: Burt 2/9/18 302, at 4.
+[^1174]: Burt 2/9/18 302, at 5.
+[^1175]: Burt 2/9/18 302, at 3.
+[^1176]: Burt 2/9/18 302, at 3.
+[^1177]: Burt 2/9/18 302, at 3; Simes 3/27/18 302, at 4.
+[^1178]: Burt 2/9/18 302, at 3; Simes 3/27/18 302, at 4.
+[^1179]: Simes 3/27/18 302, at 5.
 [^1180]: Simes 3/27/18 302, at 5. Fea. R. Criffl. P. 6(e)
 
 If this is unclear or you would like to discuss, don't hesitate to call. 1181
@@ -5531,34 +5591,34 @@ requesting, especially in light of the recent attention to Russia's influence in
 election. 1182 according to Burt, his repo rt that there was " interest " in a communications channel
 reflected Simes's views, not necessarily those of the transition Team, and in any event, Burt
 acknowledged that he added some "hype" to that sentence to make it sound like there was more
-interest from the transition Team than may have actually existed. 
+interest from the transition Team than may have actually existed.
 [^1183]: Aven replied to Burt's email on the same day, saying "thankyou. All clear. "
 according to Aven, this statement indicated that he did not want the outreach to continue. 1185 Burt
  spoke to A ven sometime thereafter about his attempt to mak e contact with the Trump team, ~hat the current environment made it impossible, ____ 1186 Burt did not recall discussing Aven's request with Simes again, nor did
-he recall speaking to anyone else about the request. 
+he recall speaking to anyone else about the request.
 [^1187]: In the first quarter of 2017, A ven met again with Putin and other Russian officials. 1188 At
 that meeting, Putin asked about Aven's attem t to build relations with the Trump administration
- and Aven recounted his lack of success. 
+ and Aven recounted his lack of success.
 [^1189]: 1190
 
 - Putin continued to inquire about Aven's efforts to connect to the Trump
-administration in several subsequent quarterly meetings. 
+administration in several subsequent quarterly meetings.
 [^1191]: Aven also told Putin's chief of staff that he had been subpoenaed by the FBI. 1192 As part
  of that conversation, he reported that he had been asked by the FBI about whether he had worked
- to create a back channel between the Russian government and the Trump administration. 
-[^1193]: 
-[^1181]: 12/22/16 Email, Burt to Aven (7:23 p.m.). 
-[^1182]: Burt 2/9/18 302, at 3. 
-[^1183]: Burt 2/9/18 302, at 3-4. 
-[^1184]: 12/22/16 Email, Aven to Butt (4:58:22 p.m.). 
-[^1185]: Aven 8/2/18 302, at 7. 
-[^1186]: 
-[^1187]: Burt 2/9/18 302, at 3-4. 
+ to create a back channel between the Russian government and the Trump administration.
+[^1193]:
+[^1181]: 12/22/16 Email, Burt to Aven (7:23 p.m.).
+[^1182]: Burt 2/9/18 302, at 3.
+[^1183]: Burt 2/9/18 302, at 3-4.
+[^1184]: 12/22/16 Email, Aven to Butt (4:58:22 p.m.).
+[^1185]: Aven 8/2/18 302, at 7.
+[^1186]:
+[^1187]: Burt 2/9/18 302, at 3-4.
 [^1188]:
 [^1189]:
-[^190]: 
-[^1191]: 
-[^1192]: Aven 8/2/18 302, at 8. 
+[^190]:
+[^1191]:
+[^1192]: Aven 8/2/18 302, at 8.
 [^1193]: Aven 8/2/18 302, at 8;
 according to A ven, the official showed no emotion in response to this report and did not appear
 to care .1I
@@ -5568,7 +5628,7 @@ to care .1I
 
 In December 2016, more than two months after he was removed from the Trump
 campaign, former campaign foreign policy advisor Carter Pa e a ain visited Moscow in an
-attem t to ursue business o ortunities. II9 
+attem t to ursue business o ortunities. II9
 [^5]: according to Konstantin Kilimnik, Paul Manafort's
 associate, Page also gave some individuals in Russia the impression that he had maintained his
 connections to president-Elect Trump. In a December 8, 2016 email intended for Manafort, Kilimnik wrote, "Carter Page is in Moscow today, sending messages he is authorized to talk to
@@ -5588,12 +5648,12 @@ to be in a discussion of future coo eration. 1201
 other meetings, Page contacted Andrey Baranov, head of investor relations at Rosneft, ~
 the sale of Rosneft and meetings Baranov had attended with Rosneft CEO Igor Sechin. ----
 
-[^1197]: investigative technique
-[^1198]: Page 3/16/17 302, at 3; Page 3/30/17 302, at 8. 
+[^1197]: **\[ REDACTED: Investigative Technique \]**
+[^1198]: Page 3/16/17 302, at 3; Page 3/30/17 302, at 8.
 [^1199]: Weber 7/28/17 302, at 4; Page 3/16/17 302, at 3;
 [^1200]: Page 3/16/17 302, at 3;
 [^1201]:
-[^1202]: 
+[^1202]:
 [^1203]:
 
 #### 7. contacts With and through Michael T. Flynn
@@ -5616,19 +5676,19 @@ council calling on Israel to cease settlement activities in Palestinian territor
 council, which includes Russia, was scheduled to vote on the resolution th e following day .1209
 
 There was speculation in the media that the Obama administration would not oppose the
-resolution. 
-[^1210]: 
-[^1204]: 
-[^1205]: 
-[^1206]: 
+resolution.
+[^1210]:
+[^1204]:
+[^1205]:
+[^1206]:
 [^1207]: As discussed further in Volume I, section V.C.4, infra, Flynn pleaded guilty to making false
 statements to the FBI, in violation of 18 U.S.C. § 1001, about these communications with ambassador
  Kislyak. Plea agreement, United States v. Michael T Flynn, No. l:17-cr-232 (D.D.C. Dec. 1, 2017), Doc. 3. Flynn's plea agreement required that he cooperate with this Office, and the statements from Flynn in
-this report reflect his cooperation over the course of multiple debriefings in 2017 and 2018. 
+this report reflect his cooperation over the course of multiple debriefings in 2017 and 2018.
 [^1208]: Karen DeYoung, How the US. Came to abstain on a UN. resolution condemning Israeli
-Settle'!1ents, Washjngfon Post (Dec. 28, 2016). 
+Settle'!1ents, Washjngfon Post (Dec. 28, 2016).
 [^1209]: Karen DeYoung, How the US. Came to abstain on a UN. resolution condemning Israeli
-settlements, Washington Post (Dec. 28, 2016). 12 
+settlements, Washington Post (Dec. 28, 2016). 12
 [^10]: Michelle Nichols & Lesley Wroughton, US. intended to Allow passage of UN. Draft critical
  of Israel, Reuters (Dec. 21, 2016). according to Flynn, the transition Team regarded the vote as a significant issue and
 wanted to support Israel by opposing the resolution. 1211 On December 22, 2016, multiple members
@@ -5655,54 +5715,54 @@ the Obama administration imposed sanctions and other measures against Russia in 
 Russia's interference in the 2016 presidential election. On December 28, 2016, then-president
 Obama signed executive Order 13757, which took effect at 12:01 a.m. the following day and
 
-[^1211]: Flynn 11/16/17 302, at 12; Flynn 11/17117 302, at 2. 
-[^1212]: Flym1 11/16/17 302, at 12-14; Flynn 11/17/17 302, at 2. 
+[^1211]: Flynn 11/16/17 302, at 12; Flynn 11/17117 302, at 2.
+[^1212]: Flym1 11/16/17 302, at 12-14; Flynn 11/17/17 302, at 2.
 [^1213]: Flynn 11/16/17 302, at 12-14; Flynn 11/17/17 302, at 2; Kushner 11/1/17 302, at 3; 12/22/16
 
-Email, Kushner to Flynn; 12/22/16 Email, McFarland to et al. 
+Email, Kushner to Flynn; 12/22/16 Email, McFarland to et al.
 [^1214]: Flynn 11/16/17 302, at 13; Call records of Michael T. Flynn
 
-[^1215]: statement of offense 13(d), United States v. Michael T. Flynn, No. 1: l 7-cr-232 (D.D.C. Dec. 1, 2017), Doc. 4 ("Flynn statement of offense"); Flynn 11/16/17 302, at 12-13. 
-[^1216]: Flynn 11/17/17 302, at 2; Flynn 11/16/17 302, at 13. 
-[^1217]: UN Vote on Israeli settlement postponed, "potentially indefinitely", Reuters (Dec. 22, 2016). 
-[^1218]: Somini Sengupta & Rick gladstone, rebuffing Israel, U.S. Allows censure Over settlements, New York Times (Dec. 23, 2016). 
+[^1215]: statement of offense 13(d), United States v. Michael T. Flynn, No. 1: l 7-cr-232 (D.D.C. Dec. 1, 2017), Doc. 4 ("Flynn statement of offense"); Flynn 11/16/17 302, at 12-13.
+[^1216]: Flynn 11/17/17 302, at 2; Flynn 11/16/17 302, at 13.
+[^1217]: UN Vote on Israeli settlement postponed, "potentially indefinitely", Reuters (Dec. 22, 2016).
+[^1218]: Somini Sengupta & Rick gladstone, rebuffing Israel, U.S. Allows censure Over settlements, New York Times (Dec. 23, 2016).
 [^1219]: Flynn 11/16/17 302, at 12-14; Kushner 11/1/17 302, at 3; 12/23/16 Email, Flynn to Kushner et
-al. 
-[^122]: °Flynn statement of offense 13(g). 122 
+al.
+[^1220]: Flynn statement of offense 13(g). 122
 [^1]: Israel's settlements Have No Legal validity, constitute flagrant violation of international
 Law, security council reaffirms, 7853rd meeting (PM), United nations security council (Dec. 23, 2016). imposed sanctions on nine Russian individuals and entities. On December 29, 2016, the Obama
 administration also expelled 35 Russian government officials and closed two Russian
-government-owned compounds in the United States. 
+government-owned compounds in the United States.
 [^1223]: During the rollout of the sanctions, president-Elect Trump and multiple transition Team
 senior officials, including McFarland, Steve Bannon, and Reince Priebus, were staying at the Mar-
 a-Lago club in Palm Beach, Florida. Flynn was on vacation in the Dominican republic, 1224 but
-was in daily contact with McFarland. 
+was in daily contact with McFarland.
 [^1225]: The transition Team and president-Elect Trump were concerned that these sanctions
 would harm the United States's relationship with Russia. 1226 although the details and timing of
 sanctions were unknown on December 28, 2016, the media began reporting that retaliatory
 measures from the Obama administration against Russia were forthcoming. 1227 When asked about
-imposing sanctions on Russia for its alleged interference in the 2016 presidential election, president-Elect Trump told the media, "I think we ought to get on with our lives." 
+imposing sanctions on Russia for its alleged interference in the 2016 presidential election, president-Elect Trump told the media, "I think we ought to get on with our lives."
 [^1228]: Russia initiated the outreach to the transition Team. On the evening of December 28, 2016, Kislyak texted Flynn, "can you kindly call me back at your convenience." 1229 Flynn did not
 respond to the text message that evening. someone from the Russian embassy also called Flynn
-the next morning, at 10:38 a.m., but they did not talk. 
+the next morning, at 10:38 a.m., but they did not talk.
 [^1230]: The sanctions were announced publicly on December 29, 2016. 1231 At 1 :53 p.m. that day, McFarland began exchanging emails with multiple transition Team members and advisors about
 the impact the sanctions would have on the incoming administration. 1232 At 2:07 p.m., a transition
 Team member texted Flynn a link to a New York Times article about the sanctions. 1233 At 2:
-[^29]: 
+[^29]:
 [^1222]: Taking additional Steps to address the national emergency With respect to significant
-malicious Cyber-EnabledActivities, The White House, Office ofthe Press secretary (Dec. 29, 2016). 
+malicious Cyber-EnabledActivities, The White House, Office ofthe Press secretary (Dec. 29, 2016).
 [^1223]: statement by the president on actions in response to Russian malicious Cyber activity and
-harassment, The White House, Office of the Press secretary (Dec. 29, 2016). 
-[^1224]: Flynn 11/16/17 302, at 14; McFarland 12/22/17 302, at 3-8; Bannon 2/12/18 302, at 5. 
-[^1225]: Flynn 11/17/17 302, at 5; Flynn 1/19/18 302, at 1; McFarland 11/22/17 302, at 3-9. 
-[^1226]: Flynn 11/17/l 7 302, at 3. 
-[^1227]: Christine Wang, US to announce new sanctions against Russia in response to election hacking, CNBC (Dec. 28, 2016). 
-[^1228]: John Wagner, Trump on alleged election interference by Russia: "Get on with our lives", Washington Post (Dec. 29, 2016). 
-[^1229]: SF000006 (12/28/16 Text message, Kislyak to Flynn). 
-[^123]: °Call records of Michael T. Flynn
- 123 
-[^1]: Flynn 11/17/17 302, at 2-3; McFarland 12/22/17 302, at 4-5. 
-[^1232]: 12/29/16 Email, McFarland to O'Brien et al.; 12/29/16 Email, McFarland to Flynn et al. 
+harassment, The White House, Office of the Press secretary (Dec. 29, 2016).
+[^1224]: Flynn 11/16/17 302, at 14; McFarland 12/22/17 302, at 3-8; Bannon 2/12/18 302, at 5.
+[^1225]: Flynn 11/17/17 302, at 5; Flynn 1/19/18 302, at 1; McFarland 11/22/17 302, at 3-9.
+[^1226]: Flynn 11/17/l 7 302, at 3.
+[^1227]: Christine Wang, US to announce new sanctions against Russia in response to election hacking, CNBC (Dec. 28, 2016).
+[^1228]: John Wagner, Trump on alleged election interference by Russia: "Get on with our lives", Washington Post (Dec. 29, 2016).
+[^1229]: SF000006 (12/28/16 Text message, Kislyak to Flynn).
+[^1230]: Call records of Michael T. Flynn
+ 123
+[^1]: Flynn 11/17/17 302, at 2-3; McFarland 12/22/17 302, at 4-5.
+[^1232]: 12/29/16 Email, McFarland to O'Brien et al.; 12/29/16 Email, McFarland to Flynn et al.
 [^1233]: SF00000t (12/29/16 Text message, Flaherty to Flynn). p.m., McFarland called Flynn, but they did not talk. 1234 shortly thereafter, McFarland and Bannon
 discussed the sanctions. 1235 according to McFarland, Bannon remarked that the sanctions would
 hurt their ability to have good relations with Russia, and that Russian escalation would make things
@@ -5727,15 +5787,15 @@ message to Kislyak in hopes of making sure the situation would not get out of ha
 
 [^1234]: Call records of K.T. McFarland
 
-[^1235]: McFarland 12/22/17 302, at 5-6. 
-[^1236]: McFarland 12/22/17 302, at 5-6. 
-[^1237]: McFarland 12/22/17 302, at 6. 
-[^1238]: McFarland 12/22/17 302, at 6. 
-[^1239]: SF00000l (12/29/16 Text message, Flynn to Flaherty). 
-[^1240]: SF00000l (12/29/16 Text message, Flynn to Flaherty). 124 
-[^1]: Flynn 11/20/17 302, at 3. 
+[^1235]: McFarland 12/22/17 302, at 5-6.
+[^1236]: McFarland 12/22/17 302, at 5-6.
+[^1237]: McFarland 12/22/17 302, at 6.
+[^1238]: McFarland 12/22/17 302, at 6.
+[^1239]: SF00000l (12/29/16 Text message, Flynn to Flaherty).
+[^1240]: SF00000l (12/29/16 Text message, Flynn to Flaherty). 124
+[^1]: Flynn 11/20/17 302, at 3.
 [^1242]: Michael Ledeen is married to Barbara Led een, the Senate staffer whose 2016 efforts to locate
-Hillary Clinton's missing emails are described in Volume I, section III.D.2, supra. 
+Hillary Clinton's missing emails are described in Volume I, section III.D.2, supra.
 [^1243]: Flynn 11/17/17 302, at 3; Call records of Michael Ledeen
 
 [^1244]: Fl nn 11/17/17 302, at 3-4; Flynn statement of offense
@@ -5745,14 +5805,14 @@ Hillary Clinton's missing emails are described in Volume I, section III.D.2, sup
 
 
 [^1246]: Flynn 11/17/17 302, at 3-4; Flynn statement of offense ,r3(c); McFarland 12/22/17 302, at 6-
-7. 
+7.
 [^1247]: Flynn 11/17/17 302, at 4; McFarland 12/22/17 302, at 6-7. immediately after speaking with McFarland, Flynn called and spoke with Kislyak. 1248
 
 Flynn discussed multiple topics with Kislyak, including the sanctions, scheduling a video
 teleconference between president-Elect Trump and Putin, an upcoming terrorism conference, and
 Russia's views about the Middle East. 1249 With respect to the sanctions, Flynn requested that
 Russia not escalate the situation, not get into a "tit for tat," and only respond to the sanctions in a
-reciprocal manner. 
+reciprocal manner.
 [^1250]: multiple transition Team members were aware that Flynn was speaking with Kislyak that
 day. In addition to her conversations with Bannon and Reince Priebus, at 4:43 p.m., McFarland
 sent an email to transition Team members about the sanctions, informing the group that "Gen
@@ -5765,28 +5825,28 @@ discussed potential Russian responses to the sanctions, and said Russia's respon
 indicator of what the Russians wanted going forward. 1255 president-Elect Trump opined that the
 sanctions provided him with leverage to use with the Russians. 1256 McFarland recalled that at the
 end of the meeting, someone may have mentioned to president-Elect Trump that Flynn was
-speaking to the Russian ambassador that evening. 
+speaking to the Russian ambassador that evening.
 [^1257]: After the briefing, Flynn and McFarland spoke over the phone. 1258 Flynn reported on the
 substance of his call with Kislyak, including their discussion of the sanctions. 1259 according to
 McFarland, Flynn mentioned that the Russian response to the sanctions was not going to be
 escalatory because they wanted a good relationship with the incoming administration. 1260
 
-McFarland also gave Flynn a summary of her recent briefing with president-Elect Trump. 
-[^1261]: 
-[^1248]: Flynn statement of offense ,r3(d). 
+McFarland also gave Flynn a summary of her recent briefing with president-Elect Trump.
+[^1261]:
+[^1248]: Flynn statement of offense ,r3(d).
 [^1249]: Flynn 11/17/17 302, at 3-4; Flynn statement of offense ,r 3(c); 12/30/16 Email, Flynn to
-McFarland. 
-[^125]: °Flynn 11/17/17 302, at 1; Flynn statement of offense ,r3(d). 
-[^1251]: 12/29/16 Email, McFarland to Flynn et al. 
-[^1252]: 12/29/16 Email, Westerhoutto Flaherty; McFarland 12/22/17 302, at 7. 
-[^1253]: McFarland 12/22/17 302, at 7. 
-[^1254]: McFarland 12/22/17 302, at 7. 
-[^1255]: McFarland 12/22/17 302, at 7. 
-[^1256]: McFarland 12/22/17 302, at 7. 
-[^1257]: McFarland 12/22/17 302, at 7. 
-[^1258]: McFarland 12/22/17 302, at 7. 
-[^1259]: Flynn 11/17/17 302, at 4; Flynn statement of offense ,r3(e). 
-[^1260]: McFarland 12/22/17 302, at 8. 
+McFarland.
+[^1250]: Flynn 11/17/17 302, at 1; Flynn statement of offense ,r3(d).
+[^1251]: 12/29/16 Email, McFarland to Flynn et al.
+[^1252]: 12/29/16 Email, Westerhoutto Flaherty; McFarland 12/22/17 302, at 7.
+[^1253]: McFarland 12/22/17 302, at 7.
+[^1254]: McFarland 12/22/17 302, at 7.
+[^1255]: McFarland 12/22/17 302, at 7.
+[^1256]: McFarland 12/22/17 302, at 7.
+[^1257]: McFarland 12/22/17 302, at 7.
+[^1258]: McFarland 12/22/17 302, at 7.
+[^1259]: Flynn 11/17/17 302, at 4; Flynn statement of offense ,r3(e).
+[^1260]: McFarland 12/22/17 302, at 8.
 [^1261]: McFarland 12/22/17 302, at 8. The next day, December 30, 2016, Russian foreign minister Sergey Lavrov remarked that
 Russia would respond in kind to the sanctions. 1262 Putin superseded that comment two hours later, releasing a statement that Russia would not take retaliatory measures in response to the sanctions
 at that time. 1263 Hours later president-Elect Trump tweeted, "Great move on delay (by V. Putin)." 1264 shortly thereafter, Flynn sent a text message to McFarland summarizing his call with
@@ -5804,23 +5864,23 @@ relationship and that the relationship was back on track. 127 Flynn also told Mc
 believed his phone call had made a difference. 1271 McFarland recalled congratulating Flynn in
 response. 1272 Flynn spoke with other transition Team members that day, but does not recall
 whether they discussed the sanctions. 1273 Flynn recalled discussing the sanctions with Bannon the
-next day and that Bannon appeared to know about Flynn's conversation with Kislyak. 1274 Bannon, 
+next day and that Bannon appeared to know about Flynn's conversation with Kislyak. 1274 Bannon,
 [^1262]: comment by foreign minister Sergey Lavrov on recent US sanctions and the expulsion of
 Russian diplomats, Moscow, December 20, 2016, The ministry ofForeign affairs of the Russian federation
-(Dec. 30, 2016 (5:32 a.m.)). 
-[^1263]: statement of the president of the Russian federation, kremlin, Office of the president (Dec. 30, 2016 (7:15 a.m.)). 
-[^1264]: @realDonaldTrump 12/30/16 (11:41 a.m.) Tweet. 
-[^1265]: 12/30/16 Email, Flynn to McFarland; 12/30/16 Email, McFarland to Kushner et al. 
-[^1266]: 12/30/16 Email, McFarland to Kushner et al. 
-[^1267]: Flynn 11/17/17 302, at 4. 
+(Dec. 30, 2016 (5:32 a.m.)).
+[^1263]: statement of the president of the Russian federation, kremlin, Office of the president (Dec. 30, 2016 (7:15 a.m.)).
+[^1264]: @realDonaldTrump 12/30/16 (11:41 a.m.) Tweet.
+[^1265]: 12/30/16 Email, Flynn to McFarland; 12/30/16 Email, McFarland to Kushner et al.
+[^1266]: 12/30/16 Email, McFarland to Kushner et al.
+[^1267]: Flynn 11/17/17 302, at 4.
 [^1268]: Call records of Michael T. Flynn ; Flynn 11/17/17 302, at l ;
-Flynn 1/19/17 302, at 3; Flynn statement of offense iJ3(g). 
+Flynn 1/19/17 302, at 3; Flynn statement of offense iJ3(g).
 [^1269]: Call records of Michael T. Flynn ; Flynn 11/17/17 302, at 5;
-Flynn 1/19/17 302, at 3; McFarland 12/22/17 302, at 10. 
-[^1270]: McFarland 12/22/17 302, at 10. 
-[^1271]: McFarland 12/22/17 302, at 10. 
-[^1272]: McFarland 12/22/17 302, at 10. 
-[^1273]: Flynn 11/17/17 302, !1t5-6. 
+Flynn 1/19/17 302, at 3; McFarland 12/22/17 302, at 10.
+[^1270]: McFarland 12/22/17 302, at 10.
+[^1271]: McFarland 12/22/17 302, at 10.
+[^1272]: McFarland 12/22/17 302, at 10.
+[^1273]: Flynn 11/17/17 302, !1t5-6.
 [^1274]: Flynn 11/21/17 302, at 1; Flynn 11/20/17 302, at 3; Flynn 1/19/17 302, at 5; Flynn statement
 of offense ,r3(h). for his part, recalled meeting with Flynn that day, but said that he did not remember discussing
 sanctions with him. 1275
@@ -5836,7 +5896,7 @@ individuals tied to the Russian government. Those links included Russian offers 
 the campaign. In some instances, the campaign was receptive to the offer, while in other instances
 the campaign officials shied away. ultimately, the investigation did not establish that the
 campaign coordinated or conspired with the Russian government in its election-interference
-activities. 
+activities.
 [^1275]: Bannon 2/12/18 302, at 9.
 
 ## V. prosecution AND declination decisions
@@ -5874,7 +5934,7 @@ court denied concord's motions to dismiss. United States v. concord management &
 LLC, 347 F. Supp. 3d 38 (D.D.C. 2018). United States v. concord management & consulting
 LLC, 317 F. Supp. 3d 598 (D.D.C. 2018). As of this writing, the prosecution of concord remains
 ongoing before the U.S. district Court for the district of Columbia. The other defendants remain
-at large. 12 
+at large. 12
 [^76]: A more detailed explanation of the charging decision in this case is set forth in a separate
 memorandum provided to the Acting attorney general before the indictment. although members of the IRA had contact with individuals affiliated with the Trump
 campaign, the indictment does not charge any Trump campaign official or any other U.S. person
@@ -5926,7 +5986,7 @@ indictment ¶ 49. **\[ REDACTED: Harm to Ongoing Matter \]**
 
 ##### b. charging decision As to **\[ REDACTED: Harm to Ongoing Matter \]**
 
-**\[ REDACTED: Harm to Ongoing Matter \]** 
+**\[ REDACTED: Harm to Ongoing Matter \]**
 
 [^1278]: The Office also considered, but ruled out, charges on the theory that the post-hacking sharing
 and dissemination of emails could constitute trafficking in or receipt of stolen property under the national
@@ -5942,7 +6002,7 @@ the theft of intangible information by the unauthorized use of a computer is pro
  of physical items \[is\] protected." S. Rep. 104-357, at 7 (1996). That sequence of events would make it
  difficult to argue that hacked emails in electronic form, which are the relevant stolen items here, constitute
  "goods, wares, or merchandise" within the meaning of the NSPA. **\[ REDACTED: Harm to Ongoing Matter \]** - **\[ REDACTED: Harm to Ongoing Matter \]**
- 
+
 #### 2. potential section 1030 violation B
 
 See United States v. Willis, 4 76 F .3d 1121, 1125 n.1 (10th Cir. 2007) (explaining that the 1986 amendments to section
@@ -6090,7 +6150,7 @@ several areas of the Office's investigation involved efforts or offers by foreig
 provide negative information about candidate Clinton to the Trump campaign or to distribute that
 information to the public, to the anticipated benefit of the campaign. As explained below, the
 Office considered whether two of those efforts in particular - the June 9, 2016 meeting at Trump
- 
+
 [^1282]: On four occasions, the foreign intelligence surveillance Court (FISC) issued warrants based
 on a finding of probable cause to believe that Page was an agent of a foreign power. 50 U.S.C. §§ 1801(b), 1805(a)(2)(A). The FISC's probable-cause finding was based on a different (and lower) standard than the
 one governing the Office's decision whether to bring charges against Page, which is whether admissible
@@ -6202,9 +6262,9 @@ v. Renzi, 769 F.3d 731,744 (9th Cir. 2014) (internal quotation marks omitted). f
 of any goods or services without charge," such as "membership lists" and "mailing lists. " 11
 
 C.F.R. § 100.52(d)(l). The FEC has concluded that the phrase includes a state-by-state list of
- activists. See citizens for responsibility and Ethics in Washington v. FEC, 475 F.3d 337, 
+ activists. See citizens for responsibility and Ethics in Washington v. FEC, 475 F.3d 337,
 [^338]: (D.C. Cir. 2007) (describing the FEC's findings). likewise, polling data provided to a campaign
- constitutes a "contribution. " FEC advisory opinion 1990-12 (Strub), 1990 WL 153454 (citing 
+ constitutes a "contribution. " FEC advisory opinion 1990-12 (Strub), 1990 WL 153454 (citing
 [^11]: C.F.R. § 106.4(6)). And in the specific context of the foreign-contributions ban, the FEC has
  concluded that "election materials used in previous Canadian campaigns ," including "flyers, advertisements, door hangers, tri-folds, signs, and other printed material ," constitute "anything of
 value," even though "the value of these materials may be nominal or difficult to ascertain ." FEC
@@ -6287,7 +6347,7 @@ substantial barrier to prosecution.
 the First amendment could ose constraints on a
 
 ###### iv. analysis as to **\[ REDACTED: Harm to Ongoing Matter \]**
- 
+
 #### 4. False statements and obstruction of the investigation
 
 The Office determined that certain individuals associated with the campaign lied to
@@ -6455,7 +6515,7 @@ Sater his own travel to Russia as part of the project, and he had inquired about
 Trump traveling there- both with the candidate himself and with senior campaign official Corey
 Lewandowski. Cohen did recall that he had received a response to the email that he sent to Russian
 government spokesman Dmitry Peskov-in particular, that he received an email reply and had a
-follow-up phone conversation with an english-speaking assistant to Peskov in mid-January 2016. Cohen information ¶ 7. Cohen knew the statements in the letter to be false at the time, and
+follow-up phone conversation with an English-speaking assistant to Peskov in mid-January 2016. Cohen information ¶ 7. Cohen knew the statements in the letter to be false at the time, and
 admitted that he made them in an effort (1) to minimize the links between the project and Trump
 (who by this time was president), and (2) to give the false impression that the project had ended
 before the first vote in the republican Party primary process, in the hopes of limiting the ongoing
@@ -6555,15 +6615,15 @@ department of justice and the framework of the special counsel regulations, see 
 28 C.F .R. § 600.7(a), this Office accepted OLC's legal conclusion for the purpose of exercising
 prosecutorial jurisdiction. And apart from OLC's constitutional view, we recognized that a federal
 criminal accusation against a sitting president would place burdens on the president's capacity to
-govern and potentially preempt constitutional processes for addressing presidential misconduct. 
+govern and potentially preempt constitutional processes for addressing presidential misconduct.
 [^2]: Second, while the OLC opinion concludes that a sitting president may not be prosecuted, it recognizes that a criminal investigation during the president's term is permissible .3 The OLC
 opinion also recognizes that a president does not have immunity after he leaves office. 4 And if
  individuals other than the president committed an obstruction offense, they may be prosecuted at
 this time. Given tho se considerations, the facts known to us, and the strong public interest in
- 
-[^1]: A sitting president's amenability to indictment and criminal prosecution, 24 Op. O.L.C. 222, 222, 260 (2000) (OLC Op.). 
+
+[^1]: A sitting president's amenability to indictment and criminal prosecution, 24 Op. O.L.C. 222, 222, 260 (2000) (OLC Op.).
 [^2]: See U .S. CONST. Art. I § 2, cl. 5; § 3, cl. 6; cf OLC Op. at 257-258 (discussing relationship
- between impeachment and criminal prosecution of a sitting president). 
+ between impeachment and criminal prosecution of a sitting president).
 [^3]: OLC Op. at 257 n.36 ("A grand jury could continue to gather evidence throughout the period of
  immunity"). 4 OLC Op. at 255 ("recognizing an immunity from prosecution for a sitting president would not
  preclude suc h prosecution once the president's term is over or he is otherwise removed from office by
@@ -6600,11 +6660,11 @@ not conclude that the president committed a crime, it also does not exonerate hi
 obstruction-of-justice principles and summarizes certain investigatory and evidentiary
 considerations. section II sets forth the factual results of our obstruction investigation and
 analyzes the evidence. section III addresses statutory and constitutional defenses. section IV
-states our conclusion. 
+states our conclusion.
 [^5]: For that reason, criticisms have been lodged against the practice of naming unindicted co-
 conspirators in an indictment. See United States v.Briggs,514 F.2d 794,802 (5th Cir. 1975) ("The courts
 have struck down with strong language efforts by grand juries to accuse persons of crime while affording
-them no forum in which to vindicate themselves."); see also justice Manual § 9-11.130. 
+them no forum in which to vindicate themselves."); see also justice Manual § 9-11.130.
 [^6]: OLC Op. at 259 & n.38 (citation omitted). // Moy CElAtoiA Motet1iolPt1eteetetiUAtier Feti. R. Ct1im.P. 6(e)
 
 ## executive summary TO VOLUME II
@@ -6770,7 +6830,7 @@ obstruction-of-justice analysis. Second, unlike cases in which a subject engages
 justice to coverup a crime, the evidence we obtained did not establish that the president was
  involved in an underlying crime related to Russian election interference. although the obstruction
  statutes do not require proof of such a crime, the absence of that evidence affects the analysis of
-the president's intent and requires consideration of other possible motives for his conduct. Th ird, many of the president's acts directed at witnesses, including discouragement of cooperation with
+the president's intent and requires consideration of other possible motives for his conduct. Third, many of the president's acts directed at witnesses, including discouragement of cooperation with
 the government and suggestions of possible future pardons, took place in public view. That
 circumstance is unusual, but no principle of law excludes public acts from the reach of the
 obstruction laws. If the likely effect of public acts is to influence witnesses or alter their testimony, the harm to the justice system's integrity is the same. although the series of events we investigated involved discrete acts, the overall pattern of
@@ -6785,7 +6845,7 @@ obstruction-of-justice inquiry. At that point, the president engaged in a second
 the nature of the president's motives during each phase would be informed by the totality of the
 evidence.
 
-statutory AND constitutional defenses
+### statutory AND constitutional defenses
 
  The president's counsel raised statutory and constitutional defenses to a possible
  obstruction-of-justice analysis of the conduct we investigated. We concluded that none of those
@@ -6816,15 +6876,15 @@ and the rights ofothers. A preclusion of"corrupt" official action does not dimin
 ability to exercise article II powers. For example, the proper supervision of criminal law does not
 demand freedom for the president to act with a corrupt intention of shielding himself from criminal
 punishment, avoiding financial liability, or preventing personal embarrassment. To the contrary, a statute that prohibits official action undertaken for such corrupt purposes furthers, rather than
- hinders, the impartial and evenhanded administration of the law. It also aligns with the president's
+hinders, the impartial and evenhanded administration of the law. It also aligns with the president's
 constitutional duty to faithfully execute the laws. finally, we concluded that in the rare case in
 which a criminal investigation of the president's conduct is justified, inquiries to determine
 whether the president acted for a corrupt motive should not impermissibly chill his performance
 of his constitutionally assigned duties. The conclusion that congress may apply the obstruction
- laws to the president's corrupt exercise of the powers of office accords with our constitutional
- system of checks and balances and the principle that no person is above the law.
+laws to the president's corrupt exercise of the powers of office accords with our constitutional
+system of checks and balances and the principle that no person is above the law.
 
-conclusion
+### conclusion
 
  because we determined not to make a traditional prosecutorial judgment, we did not draw
  ultimate conclusions about the president's conduct. The evidence we obtained about the
@@ -7067,7 +7127,7 @@ interference might lead the public to question the legitimacy of his election .8
 [^7]: This section summarizes and cites various news stories not for the truth of the information
 contained in the stories, but rather to place candidate Trump's response to those stories in context. Volume
 I of this report analyzes the underlying facts of several relevant events that were reported on by the media
-during the campaign. 
+during the campaign.
 [^8]: As discussed in Volume I, while the investigation identified numerous links between individuals
 with ties to the Russian government and individuals associated with the Trump campaign, the evidence
 was not sufficient to charge that any member of the Trump campaign conspired or coordinated with
@@ -7088,72 +7148,72 @@ reported that foreign policy advisor Carter Page had ties to a Russian state-run
 that campaign chairman Paul Manafort had done work for the "Russian-backed former Ukrainian
 president Viktor Yanukovych." 17 In addition, the press raised questions during the republican
 
-[^9]: @realDonaldTrump 6/16/15 (11 :57 a.m. ET) Tweet. 
+[^9]: @realDonaldTrump 6/16/15 (11 :57 a.m. ET) Tweet.
 [^10]: See, e.g., Meet the Press interview with Donald J. Trump, NBC (Dec. 20, 2015) (Trump: "I think
 it would be a positive thing if Russia and the United States actually got along"); presidential candidate
 Donald Trump News conference, Hanahan, South Carolina, C-SPAN (Feb. 15, 2016) ("You want to make
-a good deal for the country, you want to deal with Russia."). 
+a good deal for the country, you want to deal with Russia.").
 [^11]: See, e.g., Anderson Cooper 360 degrees, CNN (July 8, 2015) ("I think I get along with \[Putin\]
-fine."); Andrew Rafferty, Trump Says He Would "Get Along Very Well" With Putin, NBC (July 30, 2015). (quoting Trump assaying, "I think I would get along very well with Vladimir Putin."). 
+fine."); Andrew Rafferty, Trump Says He Would "Get Along Very Well" With Putin, NBC (July 30, 2015). (quoting Trump assaying, "I think I would get along very well with Vladimir Putin.").
 [^12]: See, e.g.,@realDonaldTrump Tweet 3/24/16 (7:47 a.m. ET); @realDonaldTrump Tweet 3/24/16
 
-(7:59 a.m. ET). 
+(7:59 a.m. ET).
 [^13]: See, e.g., Meet the Press interview with Donald J. Trump, NBC (Dec. 20, 2015) ("\[Putin\] is a
 strong leader. What am I gonna say, he's a weak leader? He's making mincemeat out of our president.");
 Donald Trump campaign Rally in Vandalia, Ohio, C-SPAN (Mar. 12, 2016) ("I said \[Putin\] was a strong
-leader, which he is. I mean, he might be bad, he might be good. But he's a strong leader."). 
-[^14]: See, e.g., Andrew Osborn, From Russia with love: why the kremlin backs Trump, Reuters (Mar. 24, 2016); Robert Zubrin, Trump: The kremlin's candidate, national Review (Apr. 4, 2016). 
+leader, which he is. I mean, he might be bad, he might be good. But he's a strong leader.").
+[^14]: See, e.g., Andrew Osborn, From Russia with love: why the kremlin backs Trump, Reuters (Mar. 24, 2016); Robert Zubrin, Trump: The kremlin's candidate, national Review (Apr. 4, 2016).
 [^15]: See, e.g., Mark Hosenball & Steve holland, Trump being advised by ex-US. lieutenant general
 who favors closer Russia ties, Reuters (Feb. 26, 2016); Tom hamburger et al., Inside Trump's financial ties
 to Russia and his unusual flattery of Vladimir Putin, Washington Post (June 17, 2016). certain matters
-pertaining to Flynn are described in Volume I, section TV.B.7, supra. 
+pertaining to Flynn are described in Volume I, section TV.B.7, supra.
 [^16]: See, e.g., Zachary Mider, Trump's New Russia advisor Has Deep Ties to kremlin's Gazprom, Bloomberg (Mar. 30, 2016); Julia Iofee, Who is Carter Page?, politico (Sep. 23, 2016). certain matters
 pertaining to Page are described in Volume l, section IV.A.3, supra. 17 Tracy Wilkinson, In a shift, republican platform doesn't call for arming Ukraine against Russia, spurring outrage, Los Angeles Times (July 21, 2016); Josh Ragin, Trump campaign guts GOP's anti-
 Russia stance on Ukraine, Washington Post (July 18, 2016). national convention about the Trump campaign's involvement in changing the republican
-platform's stance on giving "weapons to Ukraine to fight Russian and rebel forces." 
+platform's stance on giving "weapons to Ukraine to fight Russian and rebel forces."
 [^18]: 1. The Trump campaign Reacts to WikiLeaks's release of Hacked Emails
  On June 14, 2016, a cybersecurity firm that had conducted in-house analysis for the
 democratic national committee (DNC) posted an announcement that Russian government
-hackers had infiltrated the DNC's computer and obtained access to documents. 
+hackers had infiltrated the DNC's computer and obtained access to documents.
 [^19]: On July 22, 2016, the day before the democratic national convention, WikiLeaks posted
 thousands of hacked DNC documents revealing sensitive internal deliberations. 20 Soon thereafter, Hillary Clinton's campaign manager publicly contended that Russia had hacked the DNC emails
 and arranged their release in order to help candidate Trump. 21 On July 26, 2016, the New York
 Times reported that U.S. "intelligence agencies ha\[d\] told the White House they now have'high
 confidence'that the Russian government was behind the theft of emails and documents from the
 democratic national committee.',
-[^22]: Within the Trump Cam ai n, aides reacted with enthusiasm to reports of the hacks. 
+[^22]: Within the Trump Cam ai n, aides reacted with enthusiasm to reports of the hacks.
 [^23]: discussed with campaign officials that WikiLeaks
 would release the hacked material. Some witnesses said that Trump himself discussed the
 possibility of upcoming releases~. Michael Cohen, then-executive vice resident of the
 Trump Or anization and s ecial counsel to Trum, recalled hearin
  Cohen recalled that Trump responded, "oh good, alright,"
- 
-[^18]: Josh Rogin, Trump campaign guts GOP's anti-Russia stance on Ukraine, Washington Post, opinions (July 18, 2016). The republican platform events are described in Volume I, section IV.A.6, supra. 
+
+[^18]: Josh Rogin, Trump campaign guts GOP's anti-Russia stance on Ukraine, Washington Post, opinions (July 18, 2016). The republican platform events are described in Volume I, section IV.A.6, supra.
 [^19]: Bears in the Midst: intrusion into the democratic national committee, CrowdStrike (June 15, 2016) (post originally appearing on June 14, 2016, according to records of the timing provided by
 CrowdStrike); Ellen Nakashima, Russian government hackers penetrated DNC, stole opposition research
-on Trump, Washington Post (June 14, 2016). 
+on Trump, Washington Post (June 14, 2016).
 [^20]: Tom hamburger and Karen Tumulty, WikiLeaks releases thousands of documents about Clinton
-and internal deliberations, Washington Post (July 22, 2016). 
+and internal deliberations, Washington Post (July 22, 2016).
 [^21]: Amber Phillips, Clinton campaign manager: Russians leaked democrats'emails to help Donald
-Trump, Washington Post (July 24, 2016). 
-[^22]: David E. Sanger and Eric Schmitt, Spy Agency consensus Grows That Russia Hacked D.N.C., New York Times (July 26, 2016). 
-[^23]: Gates 4/10/18 302, at 5; Newman 8/23/18 302, at I. 
+Trump, Washington Post (July 24, 2016).
+[^22]: David E. Sanger and Eric Schmitt, Spy Agency consensus Grows That Russia Hacked D.N.C., New York Times (July 26, 2016).
+[^23]: Gates 4/10/18 302, at 5; Newman 8/23/18 302, at I.
 [^24]: Gates 4/11/18 302, at 2-3 (SM-2180998); Gates 10/25/18 302, at 2; see also Volume I, section
-III.D. l, supra. 
+III.D. l, supra.
 [^25]: Cohen 8/7/18 302, at 8; see also Volume I, section III.D. l, supra. according to Cohen, after
 WikiLeak~tolen DNC emails on July 22, 2016, Trump said to Cohen words to the
 effect of,~ Cohen 9/18/18 302, at 10. Cohen's role in the candidate's and later
-and **\[ REDACTED: Harm to Ongoing Matter \]** 
+and **\[ REDACTED: Harm to Ongoing Matter \]**
 [^26]: oke to Trump~;;;;~;~;~;;~;.,;~;
  ; Manafort recalled that Trump responded that
 Manafort should keep Trump u~ty campaign manager
 Rick Gates said that Man~ssure about - information and that
 Manafort instructed Gates~ status updates on u com in releases. 28 Around
 the same time Gates was with Trump on a trip to an airport, and shortly after the call ended, Trum2 told Gates that more releases of damaging
- information would becoming. 
+ information would becoming.
 [^29]: i:§jih•§l•Uf•MhflrlfDiM - were discussed within the
 campaign,3° and in the summer of 2016, the campaign was planning a communications strategy
-based on the possible release of Clinton emails by WikiLeaks. 
+based on the possible release of Clinton emails by WikiLeaks.
 [^31]: 3. The Trump campaign Reacts to allegations That Russia was seeking to Aid
  candidate Trump
 
@@ -7166,22 +7226,22 @@ with Russia" as "a total deflection" and stated that it was "farfetched" and "ri
 said that the assertion that Russia had hacked the emails was unproven, but stated that it would
 give him "no pause" if Russia had Clinton's emails. 35 Trump added, "Russia, if you're listening, I hope you're able to find the 30,000 emails that are missing. I think you will probably be rewarded
 president's activities, and his own criminal conduct, is descriped in Volume II, section ILK, infra, and in
-Volume I, section IV.A. I, supra. 
+Volume I, section IV.A. I, supra.
 [^26]: Cohen 8/7/18 302, at 8. 27. As explained in footnote 197 of Volume
 I, section III.D. l.b, supra, this Office has included Manafort's account of these events because it aligns
-with those of other witnesses and is corroborated to that extent. 
-[^28]: Gates l 0/25/18 302, at 4. 
-[^29]: Gates I 0/25/18 302, at 4. 
-[^30]: Bannon 1/18/l 9 302, at 3. 
+with those of other witnesses and is corroborated to that extent.
+[^28]: Gates l 0/25/18 302, at 4.
+[^29]: Gates I 0/25/18 302, at 4.
+[^30]: Bannon 1/18/l 9 302, at 3.
 [^31]: Gates4/11/18302, at 1-2 (SM-2180998); Gates 10/25/18302, at2(messa~
-formed in June/Jul timeframe based on claims b Assan eon June 12, 2016, ----.). 
-[^32]: @rea!DonaldTrump 7/26/16 (6:47 p.m. ET) Tweet. 
-[^33]: @realDonaldTrump 7/26/16 (6:50 p.m. ET) Tweet. 
-[^34]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 2016). 
+formed in June/Jul timeframe based on claims b Assan eon June 12, 2016, ----.).
+[^32]: @rea!DonaldTrump 7/26/16 (6:47 p.m. ET) Tweet.
+[^33]: @realDonaldTrump 7/26/16 (6:50 p.m. ET) Tweet.
+[^34]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 2016).
 [^35]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 2016). mightily by our press ." 36 Trump also said that "there's nothing that I can think of that I'd rather
 do than have Russia friendly as opposed to the way they are right now," and in response to a
 question about whether he would recognize Crimea as Russian territory and consider lifting
-sanctions, Trump replied, "We'll be looking at that. Yeah, we'll be looking ." 
+sanctions, Trump replied, "We'll be looking at that. Yeah, we'll be looking ."
 [^37]: During the press conference, Trump repeated "I have nothing to do with Russia" five
  38
 
@@ -7204,17 +7264,17 @@ Cohen, at around this time, in response to Trump's disavowal of connections to R
 of Trump's remark, a Russian intelligence service began targeting email accounts associated with Hillary
 Clinton for possible hacks. See Volume I, section III, supra. In written answers submitted in this
 investigation, the president stated that he made the "Russia, if you're listening" statement "in jest and
-sarcastically, as was apparent to any objective observer." written responses of Donald J. Trump (Nov. 20, 2018), at 13 (response to question II, Part (d)). 
+sarcastically, as was apparent to any objective observer." written responses of Donald J. Trump (Nov. 20, 2018), at 13 (response to question II, Part (d)).
 [^37]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 2016). In his written
 answers submitted in this investigation, the president said that his statement that "we'll be looking" at
-Crimea and sanctions "did not communicate any position." written responses of Donald J. Trump (Nov. 20, 2018), at 17 (response to question IV, Part (g)). 
-[^38]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 2016). 
-[^39]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 2016). 
-[^40]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 2016). 
-[^41]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 20 16). 
+Crimea and sanctions "did not communicate any position." written responses of Donald J. Trump (Nov. 20, 2018), at 17 (response to question IV, Part (g)).
+[^38]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 2016).
+[^39]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 2016).
+[^40]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 2016).
+[^41]: Donald Trump News conference, Doral, Florida, C-SPAN (July 27, 20 16).
 [^42]: The Trump Tower Moscow project and Trump's involvement in it is discussed in detail in
-Volume I, section TV.A. I, supra, and Volume TI,section TT.K¶nfra. 
-[^43]: Cohen 9/18/18 302, at 4. 
+Volume I, section TV.A. I, supra, and Volume TI,section TT.K¶nfra.
+[^43]: Cohen 9/18/18 302, at 4.
 [^44]: Cohen 9/18/18 302, at 4-5. advisors had developed a "party line" that Trump had no business with Russia and no connections
 to Russia. 45
 
@@ -7241,27 +7301,27 @@ hacking and said that candidate Trump might have known in advance that the hacke
 going to be released. 52 Vice presidential candidate Mike Pence was asked whether the Trump
 
 [^45]: Cohen 11/20/18 302, at I; Cohen 9/18/18 302, at 3-5. The formation of the "party line" is
-described in greater detail in Volume II, section Il.K, infra. 
+described in greater detail in Volume II, section Il.K, infra.
 [^46]: DJTFP00004953 (8/8/16 Email, Gordon to Pchelyakov) (stating that "\[t\]hese days are not
 optimal for us, as we are busily knocking down a stream of false media stories"). The invitation and
-Gordon's response are discussed in Volume I, section IV.A.7.a, supra. 
+Gordon's response are discussed in Volume I, section IV.A.7.a, supra.
 [^47]: See, e.g., Amber Phillips, Paul Manafort's complicated ties to Ukraine, explained, Washington
 Post (Aug. 19, 2016) ("There were also a wave of fresh headlines dealing with investigations into
 \[Manafort's\] ties to a pro-Russian political party in Ukraine."); Tom Winter & Ken Dilanian, Donald Trump
 Aide Paul Manafort scrutinized for Russian business Ties, NBC (Aug. 18, 2016). relevant events
-involving Manafort are discussed in Volume 1, section IV.A.8, supra. 
+involving Manafort are discussed in Volume 1, section IV.A.8, supra.
 [^48]: Michael Isikoff, U.S. intel officials prob e ties between Trump adviser and kremlin, Yahoo News
 (Sep. 23, 2016); see, e.g., 9/25/16 Email, Hicks to Conway & Bannon; 9/23/16 Email, J. Miller to Bannon
-& S. Miller; Page 3/16/17 302, at 2. 
-[^49]: @WikiLeaks 10/7/16 (4:32 p.m. ET) Tweet. 
+& S. Miller; Page 3/16/17 302, at 2.
+[^49]: @WikiLeaks 10/7/16 (4:32 p.m. ET) Tweet.
 [^50]: Joint statement from the department Of homeland security and Office of the director of
-national intelligence on election security, DHS (Oct. 7, 2016). 
+national intelligence on election security, DHS (Oct. 7, 2016).
 [^51]: Joint statement from the department Of homeland security and Office of the director of
-national intelligence on election security, DHS (Oct. 7, 2016). 
+national intelligence on election security, DHS (Oct. 7, 2016).
 [^52]: John Wagner & Anne Gearan, Clinton campaign chairman ties email hack to Russians, suggests
  Trump had early warning, Washington Post (Oct. 11, 2016). Ma:teria:lPreteeted Ufl:derFed. R. Crim. P. 6(e)
 campaign was "in cahoots" with Wik iLeaks in releasing damaging Clinton-related information
-and responded, "nothing could be further from the truth." 
+and responded, "nothing could be further from the truth."
 [^53]: 4. After the election, Trump continues to Deny Any contacts or connections
  with Russia or That Russia Aided his election
 
@@ -7285,13 +7345,13 @@ or China or somebody. It could be somebody sitting in a bed someplace." 59 The p
 York Times (Nov. 10, 2016) (quoting Russian Deputy foreign minister Sergey Ryabkov saying, "\[t\]here
 were contacts" and "\[cannot say that all, but a number of them maintained contacts with Russian
 representatives"); Jim Heintz & Matthew Lee, Russia eyes better ties with Trump; says contacts underway, associated Press (Nov. 11, 2016) (quoting Ryabkov saying, "I don't say that all of them, but a whole array
-of them supported contacts with Russian representatives"). 
+of them supported contacts with Russian representatives").
 [^55]: Ivan Nechepurenko, Russian officials Were in contact With Trump Allies, diplomat Says, New
 York Times (Nov. 11, 2016) (quoting Hicks). 56 Jim Heintz & Matthew Lee, Russia eyes better ties with Trump; says contacts underway, associated Press (Nov. I 0, 2016) (quoting Hicks). Hicks recalled that after she made that statement, she
 spoke with campaign advisors Kellyanne Conway, Stephen Miller, Jason Miller, and probably Kushner
 and Bannon to ensure it was accurate, and there was no hesitation or pushback from any of them. Hicks
- 12/8/17 302, at 4. 
-[^57]: Damien Gayle, CIA concludes Russia interfered to help Trump win election, say reports, guardian (Dec. 10, 2016). 
+ 12/8/17 302, at 4.
+[^57]: Damien Gayle, CIA concludes Russia interfered to help Trump win election, say reports, guardian (Dec. 10, 2016).
 [^58]: Chris Wallace Hosts "Fox News Sunday," interview with president-Elect Donald Trump, CQ
 newsmaker transcripts (Dec. 11, 2016). 59 Chris Wallace Hosts "Fox News Sunday," interview with president-Elect Donald Trump, CQ
 newsmaker transcripts (Dec. 11, 2016). also said that democrats were "putting D out" the story of Russian interference "because they
@@ -7318,24 +7378,24 @@ The briefing occurred on January 6, 2017. 68 following the briefing, the intelli
 released the public version of its assessment, which concluded with high confidence that Russia
 had intervened in the election through a variety of means with the goal of harming Clinton's
 
-[^6]: °Chris Wallace Hosts "Fox News Sunday," interview with president-Elect Donald Trump, CQ
-newsmaker transcripts (Dec. l l, 2016). 
-[^61]: David Morgan, Clinton campaign: It's an'open question'if Trump team colluded with Russia, Reuters business insider (Dec. 18, 2016). 
+[^60]: Chris Wallace Hosts "Fox News Sunday," interview with president-Elect Donald Trump, CQ
+newsmaker transcripts (Dec. l l, 2016).
+[^61]: David Morgan, Clinton campaign: It's an'open question'if Trump team colluded with Russia, Reuters business insider (Dec. 18, 2016).
 [^62]: Chris Wallace Hosts "Fox News Sunday, " interview with incoming White House Chief of Staff
-Reince Priebus, Fox News (Dec. 18, 2016). 
+Reince Priebus, Fox News (Dec. 18, 2016).
 [^63]: Chris Wallace Hosts "Fox News Sunday ," interview with incoming White Hous e Chief of Staff
 Reince Priebus, Fox News (Dec. 18, 2016). 64 Chris Wallace Hosts "Fox N ews Sunday," interview with incoming White House Chief of Staff
-Reince Priebus, Fox News (Dec. 18, 2016). 
+Reince Priebus, Fox News (Dec. 18, 2016).
 [^65]: statement by the president on actions in response to Russian malicious Cyber activity and
 harassment, White House (Dec. 29, 2016); see also Missy Ryan et al., Obama administration announces
-measures to punish Russia for 2016 election interference, Washington Post (Dec. 29, 2016). 
-[^66]: John Wagner, Trump on alleged election interference by Russia:'Get on with our lives,'Washington Post (Dec. 29, 2016). 
+measures to punish Russia for 2016 election interference, Washington Post (Dec. 29, 2016).
+[^66]: John Wagner, Trump on alleged election interference by Russia:'Get on with our lives,'Washington Post (Dec. 29, 2016).
 [^67]: Missy Ryan et al., Obama administration announces measures to punish Russia for 2016 election
-interference, Washington Post (Dec. 29, 2016). 
+interference, Washington Post (Dec. 29, 2016).
 [^68]: Comey 11/15/17302,at3. . 22
 
 electability. 69 The assessment further concluded with high confidence that Putin and the Russian
-government had developed a clear preference for Trump. 
+government had developed a clear preference for Trump.
 [^70]: several days later, BuzzFeed published unverified allegations compiled by former British
 intelligence officer Christopher Steele during the campaign about candidate Trump's Russia
 connections under the headline "These reports Allege Trump Has Deep Ties To Russia." 71 In a
@@ -7381,7 +7441,7 @@ Spicer 10/17/17 302, at 6. 76
 Gates 4/18/18 302, at 3. 77
 
 Priebus I 0/13/17 302, at 7.
- 
+
 ### B. The president's conduct concerning the investigation of Michael Flynn
 
 #### Overview
@@ -7406,20 +7466,20 @@ Shortly after the election, president-Elect Trump announced he would appoint Mic
 Flynn as his national security advisor. 78 For the next two months, Flynn played an active role on
 the presidential transition Team (PTT) coordinating policy positions and communicating with
 foreign government officials, including Russian ambassador to the United States Sergey
-Kislyak. 
+Kislyak.
 [^79]: On December 29, 2016, as noted in Volume II, section TT.A.4, supra, the Obama
 administration announced that it was imposing sanctions and other measures on several Russian
 individuals and entities. 80 That day, multiple members of the PTT exchanged emails about the
 sanctions and the impact they would have on the incoming administration, and Flynn informed
-members of the PTT that he would bespeaking to the Russian ambassador later in the day. 
+members of the PTT that he would bespeaking to the Russian ambassador later in the day.
 [^81]: 78 Flynn 11/16/17 302, at 7; president-Elect Donald.I Trump selects US. senator Jeff sessions for
 attorney general, Lt. Gen. Michael Flynn as assistant to the president for national security affairs and
  US. Rep. Mike Pompeo as director of the central intelligence Agency, president-Elect Donald J. Trump
 Press release (Nov. 18, 2016); see also, e.g., Bryan Bender, Trump names Mike Flynn national security
-adviser, politico, (Nov. 17, 2016). 
-[^79]: Flynn 11/16/17 302, at 8-14; Priebus I 0/13/17 302, at 3-5. 
+adviser, politico, (Nov. 17, 2016).
+[^79]: Flynn 11/16/17 302, at 8-14; Priebus I 0/13/17 302, at 3-5.
 [^80]: statement by the president on actions in response to Russian malicious Cyber activity and
-harassment, The White House, Office of the Press secretary (Dec. 29, 2016). 
+harassment, The White House, Office of the Press secretary (Dec. 29, 2016).
 [^81]: 12/29/16 Email, O'Brien to McFarland et al.; 12/29/16 Email, Bossert to Flynn et al.; 12/29/16
 
 Email, McFarland to Flynn et al.; SF00000 I (12/29/16 Text message, Flynn to Flaherty) ("Tit for tat w
@@ -7512,7 +7572,7 @@ a key component of that investigation. 106
 [^104]: McCord 7/17/17 302, at 2.
 [^105]: McCord 7/17/17 302, at 2-3; Comey 11/15/17 302, at 5.
 [^106]: McCord 7/17/17 302, at2-3.
- 
+
 ##### 2. president-Elect Trump is briefed on the intelligence community's assessment of Russian interference in the election and congress Opens election-interference investigations
 
 On January 6, 2017, as noted in Volume II, section 11.A.4, supra, intelligence officials
@@ -7527,17 +7587,17 @@ president-Elect stated that he thought highly of Comey, looked forward to workin
 hoped that he planned to stay on as FBI director. 11 Comey responded that he intended to continue
 serving in that role. 111 Comey then briefed the president-Elect on the sensitive material in the
 Steele reporting. 112 Comey recalled that the president-Elect seemed defensive, so Comey decided
- 
+
 [^107]: hearing on Russian election interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at
  1-2):
- 
+
 [^108]: Comey 11/15/17 302, at 3; hearing on Russian election interference Before the Senate Select
 intelligence committee, I I 5th Cong. (June 8, 2017) (statement for the Record of James 8. Comey, former
-director of the FBI, at 1-2). 
+director of the FBI, at 1-2).
 [^109]: Comey 1/7/17 memorandum, at 1. Comey began drafting the memorandum summarizing the
 meeting immediately after it occurred. Comey 11/15/17 302, at 4. He finished the memorandum that
-evening and finalized it the following morning. Comey 11/15/17 302, at 4. 
-[^11]: ° Comey 1/7/17 memorandum, at 1; Comey 11/15/17 302, at 3. Comey identified several other
+evening and finalized it the following morning. Comey 11/15/17 302, at 4.
+[^110]: Comey 1/7/17 memorandum, at 1; Comey 11/15/17 302, at 3. Comey identified several other
 occasions in January 2017 when the president reiterated that he hoped Comey would stay on as FBI director. On January 11, president-Elect Trump called Comey to discuss the Steele reports and stated that he thought
 Comey was doing great and the president-Elect hoped he would remain in his position as FBI director. Comey 11/15/17 302, at 4; hearing on Russian election interference Before the Senate Select intelligence
 committee, 1I 5th Cong. (June 8, 2017) (testimony of James B. Comey, former director of the FBI), CQ
@@ -7547,8 +7607,8 @@ enforcement, the president greeted Comey and said he looked forward to working w
 Russian election interference Before the Senate Select intelligence committee, 115th Cong. (June 8, 20 I 7)
 (testimony of James B. Comey, former director of the FBI), CQ Cong. transcripts, at 22. And as discussed
 in greater detail in Volume II, section 11.D, infra, on January 27, the president invited Comey to dinner at
-the White House and said he was glad Comey wanted to stay on as FBI director. 
-[^111]: Comey 1/7117 memorandum, at 1; Comey l l /15/ 17 302, at 3. 
+the White House and said he was glad Comey wanted to stay on as FBI director.
+[^111]: Comey 1/7117 memorandum, at 1; Comey l l /15/ 17 302, at 3.
 [^112]: Comey 1/7/17 memorandum, at 1-2; Comey I 1/15/17 302, at 3. Comey's briefing included the
 Steele reporting's unverified allegation that the Russians had compromising tapes of the president involving
 conduct when he was a private citizen during a 2013 trip to Moscow for the Miss universe pageant. During
@@ -7577,23 +7637,23 @@ it too would investigate Russian efforts to intervene in the election. 121
 
 the 2013 Miss universe pageant in Russia. Rtskhilad ze 4/4/ l 8 302, at 12. Coh en said he spoke to Trump
 about the issue after receiving the texts from Rtskhilad ze. Cohen 9/12/18 302, at 13. Rtskhiladz e said he
-was told the tapes were fake, but he did not communicate that to Cohen. Rtskhiladze 5/ l 0/ 18 302, at 7. 
+was told the tapes were fake, but he did not communicate that to Cohen. Rtskhiladze 5/ l 0/ 18 302, at 7.
 [^113]: Comey 11/15/17 302, at 3-4; hearing on Russian election interference Befo re the Senate Select
 intelligence committee, 115th Cong. (June 8, 2017) (statement for the Record of Jame s B. Comey, former
-director of the FBI, at 2). 
-[^114]: Comey 11/15/17 302, at 3. 
+director of the FBI, at 2).
+[^114]: Comey 11/15/17 302, at 3.
 [^115]: See, e.g., Evan Perez et al., Intel chiefs presented Trump with claims of Russian efforts to
-compromise him, CNN (Jan. 10, 2017; updated Jan. 12, 2017). 
+compromise him, CNN (Jan. 10, 2017; updated Jan. 12, 2017).
 [^116]: Ken Bensinger et al., These reports Allege Trump Has Deep Ties To Russia, BuzzFeed News
-(Jan. 10, 2017). 
+(Jan. 10, 2017).
 [^117]: See 1/ 1l /17 Email, clapper to Comey (" He asked ifT could put out a statement. H e would prefer
 of course that I say the documents are bogus, which, of course, I can't do ."); 1/12/17 Email, Comey to
 clapper ("He called me at 5 yesterday and we had a very similar conversation."); Comey 11/15/17 302, at
-4-5. 
+4-5.
 [^118]: See 2016 presidential El.ection investigation Fast Facts, CNN (first published Oct. 12, 20 17;
-updated Mar. 1, 2019) (summarizing starting dates of Russia -related investigations). 
+updated Mar. 1, 2019) (summarizing starting dates of Russia -related investigations).
 [^119]: Joint statement on committee inquiry into Russian intelligence activities, SSCI (Jan. l 3, 2017). 120 Joint statement on progress of bipartisan HP SCI inquiry into Russian Active measures, HP SCI
-(Jan. 25, 2017). 
+(Jan. 25, 2017).
 [^121]: Joint statement fr om senators Graham and Whitehouse on investigation into Russian influence
 on democratic nations'elections (Feb. 2, 2017).
 
@@ -7621,24 +7681,24 @@ When Priebus and other incoming administration officials questioned Flynn intern
 about the Washington Post column, Flynn maintained that he had not discussed sanctions with
 Kislyak. 131 Flynn repeated that claim to Vice president-Elect Michael Pence and to incoming press
 secretary Sean Spicer. 132 In subsequent media interviews in mid-January, Pence, Priebus, and
- 
-[^122]: David Ignatius, Why did Obama dawdle on Russia'shacking?, Washington Post (Jan. 12, 2017). 
+
+[^122]: David Ignatius, Why did Obama dawdle on Russia'shacking?, Washington Post (Jan. 12, 2017).
 [^123]: David Ignatius, Why did Obama dawdle on Russia'shacking?, Washington Post (Jan. 12, 2017). The Logan Act makes it a crime for "\[a\]ny citizen of the United States, wherever he may be" to "without
 authority of the United States, directly or indirectly commence\[\] or carr\[y\] on any correspondence or
 intercourse with any foreign government or any officer or agent thereof, in relation to any disputes or
-controversies with the United States, or to defeat the measures of the United States." 18 U.S.C. § 953. 
-[^124]: Priebus 1/18/18 302, at 6. 
-[^125]: Priebus 1/18/18 302, at 6. 
-[^126]: Priebus 1/18/18 302, at 6. 
-[^127]: Flynn 11/2 I / 17 302, at I; Flynn 11/20/17 302, at 6. 
-[^128]: McFarland 12/22/17 302, at 12-13. 
-[^129]: McFarland 12/22/17 302, at 12. 
+controversies with the United States, or to defeat the measures of the United States." 18 U.S.C. § 953.
+[^124]: Priebus 1/18/18 302, at 6.
+[^125]: Priebus 1/18/18 302, at 6.
+[^126]: Priebus 1/18/18 302, at 6.
+[^127]: Flynn 11/2 I / 17 302, at I; Flynn 11/20/17 302, at 6.
+[^128]: McFarland 12/22/17 302, at 12-13.
+[^129]: McFarland 12/22/17 302, at 12.
 [^130]: McFarland 12/22/17 302, at 12-13; McFarland 8/29/17 302, at 8; see David Ignatius, Why did
-Obama dawdle on Russia'shacking?, Washington Post (Jan. 12, 2017). 13 
+Obama dawdle on Russia'shacking?, Washington Post (Jan. 12, 2017). 13
 [^1]: Flynn 11117/17 302, at I, 8; Flynn 1/19/18 302, at 7; Priebus I 0/13/17 302, at 7-8; S. Miller
-8/3 I /17 3 02, at 8-1 I. 
+8/3 I /17 3 02, at 8-1 I.
 [^132]: Flynn 11/17/17 302, at I, 8; Flynn 1/19/18 302, at 7; S. Miller 8/31/17 302, at 10-11. Spicer denied that Flynn and Kislyak had discussed sanctions, basing those denials on their
-conversations with Flynn. 
+conversations with Flynn.
 [^133]: The public statements of incoming administration officials denying that Flynn and Kislyak
 had discussed sanctions alarmed senior DOJ officials, who were aware that the statements were
 not true. 134 Those officials were concerned that Flynn had lied to his colleagues-who in turn had
@@ -7646,7 +7706,7 @@ unwittingly misled the American public-creating a compromise situation for Flynn
 department of justice assessed that the Russian government could prove Flynn lied. 135 The FBI
 investigative team also believed that Flynn's calls with Kislyak and subsequent denials about
 discussing sanctions raised potential Logan Act issues and were relevant to the FBI's broader
-Russia investigation. 
+Russia investigation.
 [^136]: On January 20, 2017, president Trump was inaugurated and Flynn was sworn in as
 national security advisor. On January 23, 2017, Spicer delivered his first press briefing and stated
 that he had spoken with Flynn the night before, who confirmed that the calls with Kislyak were
@@ -7664,15 +7724,15 @@ sanctions as a result of Flynn's request. 141
 
 [^133]: Face the Nation interview with Vice president-Elect Pence, CBS (Jan. 15, 2017); Julie
 Hirschfield Davis et al., Trump national security advisor Called Russian Envoy Day Before sanctions
- Were imposed, Washington Post (Jan. 13, 2017); Meet the Press interview with Reince Priebus, NBC (Jan. 15, 2017). 
+ Were imposed, Washington Post (Jan. 13, 2017); Meet the Press interview with Reince Priebus, NBC (Jan. 15, 2017).
 [^134]: Yates 8/15/17 302, at2-3; McCord 7/17/17 302, at3-4; McCabe 8/17/17 302, at 5 (DOJ officials
-were "really freaked out about it"). 
-[^135]: Yates 8/15/17 302, at 3; McCord 7/17/17 302, at 4. 
-[^136]: McCord 7/17/17 302, at 4; McCabe 8/17/17 302, at 5-6. 
-[^137]: Sean Spicer, White House Daily briefing, C-SPAN (Jan. 23, 2017). 
-[^138]: Yates 8/15/17 302, at 4; Axelrod 7/20/17 302, at 5. 
-[^139]: Flynn statement of offense, at 2. 
-[^14]: °Flynn statement of offense, at 2. 
+were "really freaked out about it").
+[^135]: Yates 8/15/17 302, at 3; McCord 7/17/17 302, at 4.
+[^136]: McCord 7/17/17 302, at 4; McCabe 8/17/17 302, at 5-6.
+[^137]: Sean Spicer, White House Daily briefing, C-SPAN (Jan. 23, 2017).
+[^138]: Yates 8/15/17 302, at 4; Axelrod 7/20/17 302, at 5.
+[^139]: Flynn statement of offense, at 2.
+[^140]: Flynn statement of offense, at 2.
 [^141]: Flynn statement of offense, at 2. On December 1, 2017, Flynn admitted to making these false
 statements and pleaded guilty to violating 18 U.S.C. § I001, which makes it a crime to knowingly and
 willfully "make\[\] any materially false, fictitious, or fraudulent statement or representation" to federal law
@@ -7702,29 +7762,29 @@ F lynn, he said that Flynn did not disclose having discussed sanctions with Kisl
 may not have been a clear violation of 18 U.S.C. § I 001. 152 The president asked about section
 1001, and McGahn explained the law to him, and also explained the Logan Act. 153 The president
 
-[^142]: Yates 8/15/17 302, at 6. 
+[^142]: Yates 8/15/17 302, at 6.
 [^143]: Yates 8/15/17 302, at 6; McCord 7/17/17 302, at 6; SCR0l5 000198 (2/15/17 Draft
-memorandum to file from the Office of the counsel to the president). 
+memorandum to file from the Office of the counsel to the president).
 [^144]: Yates 8/15/17 302, at 6-8; McCord 7/17/17 302, at 6-7; Burnham 11/3/17 302, at 4;
-SCROl 5_000198 (2/15/17 Draft memorandum to file from the Office of the counsel to the president). 
+SCROl 5_000198 (2/15/17 Draft memorandum to file from the Office of the counsel to the president).
 [^145]: McGahn 11/30/17 302, at 5; Yates 8/15/17 302, at 7; McCord 7/17/17 302, at 7; Burnham
-11/3/17 302, at 4. 
-[^146]: Yates 8/15/17 302, at 7; McCord 7/17/17 302, at 7. 
+11/3/17 302, at 4.
+[^146]: Yates 8/15/17 302, at 7; McCord 7/17/17 302, at 7.
 [^147]: SCR015_000198 (2/15/17 Draft memorandum to file from the Office of the counsel to the
-president); Burnham 11/3/17 302, at 4. 
-[^148]: McGahn 11/30/17 302, at 5. 
+president); Burnham 11/3/17 302, at 4.
+[^148]: McGahn 11/30/17 302, at 5.
 [^149]: SCR0l5_000198 (2/15/17 Draft memorandum to file from the Office of the counsel to the
-president); McGahn 11/30/17 302, at 6, 8. 
+president); McGahn 11/30/17 302, at 6, 8.
 [^150]: McGahn 11/30/17 302, at 6; SCR0l5_000278 (White House counsel's Office memorandum
 re: "Flynn ticktock") (on January 26, "McGahn immediately advises POTUS") ; SCR015_000198
 
-(2/15/17 Draft memorandum to file from the Office of the counsel to the president). 
-[^151]: McGahn 11/30/17 302, at 6. 
-[^152]: McGahn I 1/30/17 302, at 7. 
+(2/15/17 Draft memorandum to file from the Office of the counsel to the president).
+[^151]: McGahn 11/30/17 302, at 6.
+[^152]: McGahn I 1/30/17 302, at 7.
 [^153]: McGahn I 1/30/17 302, at 7. instructed McGahn to work with Priebus and Bannon to look into the matter further and directed
 that they not discuss it with any other officials. 154 Priebus recalled that the president was angry
 with Flynn in light of what Yates had told the White House and said, "not again, this guy, this
-stuff. " I 
+stuff. " I
 [^55]: That evening, the president dined with several senior advisors and asked the group what
 they thought about FBI director Comey. 156 according to director of national intelligence Dan
 Coats, who was at the dinner, no one openly advocated terminating Comey but the consensus on
@@ -7742,7 +7802,7 @@ research, Eisenberg informed McGahn that there was a possibility that Flynn had 
 U.S.C. § 1001 and the Logan Act. 16 1 Eisenberg noted that the United States had never successfully
 prosecuted an individual under the Logan Act and that Flynn could have possible defenses, and
  154 McGahn 11/30/17 302, at 7; SCRO15_000 I 98-99 (2/15/17 Draft memorandum to file from the
-Office of the counsel to the president). 
+Office of the counsel to the president).
 [^155]: Priebus 10/13/17 302, at 8. several witnesses said that the president was unhappy with Flynn
 for other reasons at this time. Bannon said that Flynn's standing with the president was not good by
 December 2016. Bannon 2/12/18 302, at 12. The president-Elect had concerns because president Obama
@@ -7752,10 +7812,10 @@ that the president had become unhappy with Flynn even before the story of his ca
 and had become so upset with Flynn that he would not look at him during intelligence briefings. Priebus
  1/18/18 302, at 8. Hicks said that the president thought Flynn had bad judgment and was angered by tweets
 sent by Flynn and his son, and she described Flynn as "being on thin ice" by early February 2017. Hicks
- 12/8/17 302, at 7, 10. 
-[^156]: Coats 6/14/17 302, at 2. 
-[^157]: Coats 6/14/17 302, at 2. 
-[^158]: Coats 6/14/17 302, at 2. 
+ 12/8/17 302, at 7, 10.
+[^156]: Coats 6/14/17 302, at 2.
+[^157]: Coats 6/14/17 302, at 2.
+[^158]: Coats 6/14/17 302, at 2.
 [^159]: Coats 6/14/17 302, at 2. 160 SCR015_000199 (2/15/17 Draft memorandum to file from the Office of the counsel to the
  president); McGahn 11/30/17 302, at 8. 161 SCR015_000199 (2/15/17 Draft memorandum to file from the Office of the counsel to the
  president); Eisenberg 11/29/17 302, at 9. told McGahn that he believed it was unlikely that a prosecutor would pursue a Logan Act charge
@@ -7781,24 +7841,24 @@ and concerned to see that no one else had been invited. 171
 
 
 [^162]: SCR0l5 _000199 (2/15/17 Draft memorandum to file from the Office of the counsel to the
-president); Eisenberg 11/29/17 302, at 9. 
+president); Eisenberg 11/29/17 302, at 9.
 [^163]: SCR015 _000199 (2/15/17 Draft memorandum to file from the Office of the counsel to the
-president); McGahn 11/30/17 302, at 8; Yates 8/15/17 302, at 8. 
-[^164]: Yates 8/15/17 302, at 9; McGahn 11/30/17 302, at 8. 
+president); McGahn 11/30/17 302, at 8; Yates 8/15/17 302, at 8.
+[^164]: Yates 8/15/17 302, at 9; McGahn 11/30/17 302, at 8.
 [^165]: Yates 8/15/17 302, at 9; Burnham 11/3/17 302, at 5; see SCR015 _00199 (2/15/17 Draft
 memorandum to file from the Office of the counsel to the president) ("Yates was unwilling to confirmor
 deny that there was an ongoing investigation but did indicate that the department of justice would not
-object to the White House taking action against Flynn."). 
+object to the White House taking action against Flynn.").
 [^166]: Yates 9/15~17 302, at 9; Burnham 11/3/17 302, at 5. In accordance with McGahn's request, the
 department of justice made the underlying information available and Eisenberg viewed the information in
 early February. Eisenberg 11/29/17 302, at 5; FBI 2/7/17 electronic communication, at I (documenting
-2/2/17 meeting with Eisenberg). 
+2/2/17 meeting with Eisenberg).
 [^167]: Comey 11/15/17 302, at 6; SCR0l2b_000O0I (president's Daily Diary, 1/27/17); hearing on
 Russian election interference Before the Senate Select intelligence committee, 115th Cong. (June 8, 2017)
-(statement for the Record of James B. Comey, former director of the FBI, at 2-3). 
-[^168]: Priebus I 0/13/17 302, at 17. 
-[^169]: See McGahn I 1/30/1 7 302, at 9; Dhillon 11/2 1/ 17 302, at 2; Bannon 2/12/18 302, at 17. 
-[^170]: Bannon 2/12/1 8 302, at 17. 
+(statement for the Record of James B. Comey, former director of the FBI, at 2-3).
+[^168]: Priebus I 0/13/17 302, at 17.
+[^169]: See McGahn I 1/30/1 7 302, at 9; Dhillon 11/2 1/ 17 302, at 2; Bannon 2/12/18 302, at 17.
+[^170]: Bannon 2/12/1 8 302, at 17.
 [^171]: hearing on Russian election interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at
 3); see Comey 11/15/17 302, at 6. Comey provided an account of the dinner in a contemporaneous memo, an interview with
 this Office, and congressional testimony. according to Comey's account of the dinner, the
@@ -7816,26 +7876,26 @@ according to Comey's account, at one point during the dinner the president state
 loyalty, I expect loyalty ." 178 Comey did not respond and the conversation moved on to other
 topics, but the president returned to the subject of Comey's job at the end of the dinner and
 repeated, "I need loyalty." 179 Comey responded, "You will always get honesty from me." 180 The
- 
+
 [^172]: Comey I 1/15/17 302, at 7; Comey 1/28/17 memorandum, at I, 3; hearing on Russian election
 interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for
-the Record of James B. Comey, former director of the FBT, at 3). 
+the Record of James B. Comey, former director of the FBT, at 3).
 [^173]: Comey 11/15/17 302, at 7; hearing on Russian election interference Before the Senate Select
 intelligence committee, 115th Cong. (June 8, 2017) (statement for the Record ofJames B. Comey, former
-director of the FBI, at 3). 
+director of the FBI, at 3).
 [^174]: Comey 1/28/17 memorandum, at 3; hearing on Russian election interference Before the Senate
-Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 4). 
+Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 4).
 [^175]: Comey 1/28/17 memorandum, at 3; hearing on Russian election interference Before the Senate
-Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 4). 
-[^176]: Comey 1/28/17 memorandum, at 4; Comey 11/15/17 302, at 7. 
-[^177]: Comey 1/28/17 memorandum, at 4; Comey I 1/15/17 302, at 7. 
+Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 4).
+[^176]: Comey 1/28/17 memorandum, at 4; Comey 11/15/17 302, at 7.
+[^177]: Comey 1/28/17 memorandum, at 4; Comey I 1/15/17 302, at 7.
 [^178]: Comey 1/28/18 memorandum, at 2; Comey 11/15/17 302, at 7; hearing on Russian election
 interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for
-the Record of James B. Comey, former director of the FBI, at 3). 
+the Record of James B. Comey, former director of the FBI, at 3).
 [^179]: Comey 1/28/17 memorandum, at 3; Comey 11/15/17 302, at 7; hearing on Russian election
 interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for
-the Record of James B. Comey, former director of the FBI, at 3-4). 
-[^18]: ° Comey 1/28/17 memorandum, at 3; Comey 11/15/17 302, at 7; hearing on Russian election
+the Record of James B. Comey, former director of the FBI, at 3-4).
+[^180]: Comey 1/28/17 memorandum, at 3; Comey 11/15/17 302, at 7; hearing on Russian election
 interference Before the Senate Select intelligence committee, 115th Cong. (June 8, 20 I 7) (statement for
 the Record of James B. Comey, form er director of the FBI, at 4). // ~b,. Cet1tait1Material Preteeteti Ut1tierFet:i.R. Griff!.P. 6(e)
 president said, "That's what I want, honest loyalty. " 181 Comey said, "Yo u will get that from
@@ -7849,13 +7909,13 @@ invitation and the request for loyalty. The president's Daily Diary confirms tha
 dinner conversation, Comey documented the president's request for loyalty in a memorandum he
 began drafting the night of the dinner; 186 senior FBI officials recall that Comey told them about
 the loyalty request shortly after the dinner occurred; 187 and Comey described the request while
- 
+
 [^181]: Comey 1/28/17 memorandum, at 3; Comey 11/15/17 302, at 7; hearing on Russian election
 interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for
-the Record of James B. Comey, former director of the FBI, at 4). 
+the Record of James B. Comey, former director of the FBI, at 4).
 [^182]: Comey 1/28/17 memorandum, at 3; Comey 11/15/17 302, at 7; hearing on Russian election
 interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for
-the Record of James B. Comey, former director of the FBI, at 4). 
+the Record of James B. Comey, former director of the FBI, at 4).
 [^183]: See, e.g., Michaels. Schmidt, In a private Dinner, Trump demanded loyalty. Comey
 demurred., New York Times (May 11, 2017) (quoting Sarah sanders assaying, "\[The president \] would
 never even suggest the expectation of personal loyalty") ; Ali Vitali, Trump Never Asked for Comey's
@@ -7865,18 +7925,18 @@ substance."); remarks by president Trump in Press conference, White House (June 
 know the man. I'm not going to say'I want you to pledge allegiance.'Who would do that? Who would
 ask a man to pledge allegiance under oath?"). In a private conversation with Spicer, the president stated
 that he had never asked for Comey's loyalty, but added that if he had asked for loyalty, "Who cares?"
-Spicer 10/16/17 302, at 4. The president also told McGahn that he never said what Comey said he had. McGahn 12/12/17 302, at 17. 
-[^184]: interview of Donald J Trump, NBC (May 11, 2017). 
+Spicer 10/16/17 302, at 4. The president also told McGahn that he never said what Comey said he had. McGahn 12/12/17 302, at 17.
+[^184]: interview of Donald J Trump, NBC (May 11, 2017).
 [^185]: SCR012b_OOOOOI(president's Daily Diary, 1/27/17) (reflecting that the president called Comey
 in the morning on January 27 and "\[t\]he purpose of the call was to extend a dinner invitation"). In addition, two witnesses corroborate Comey's account that the president reached out to schedule the dinner, without
 Comey having asked for it. Priebus l 0/13/17 302, at 17 (the president asked to schedule the January 27
 
 dinner because he did not know much about Comey and intended to ask him whether he wanted to stay on
 as FBI director); Rybicki I 1/2 1/18 302, at 3 (recalling that Comey told him about the president's dinner
-invitation on the day of the dinner). 
+invitation on the day of the dinner).
 [^186]: Comey l l /15/17 302, at 8; hearing on Russian election interference Before the Senate Select
 intelligence committee, 115th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former
-director of the FBI, at 4). 
+director of the FBI, at 4).
 [^187]: McCabe 8/17/17 302, at 9-10; Rybicki 11/21/18 302, at 3. After leaving the White House, Comey called Deputy director of the FBI Andrew McCabe, summarized what he and the president had
 discussed, including the president's request for loyalty, and expressed shock over the president's request. McCabe 8/17/17 302, at 9. Comey also convened a meeting with his senior leadership team to discuss what
 the president had asked of him during the dinner and whether he had handled the request for loyalty
@@ -7904,21 +7964,21 @@ responded that he might have talked about sanctions. I96
 
 memorandum documenting the dinner to his senior leadership team, and McCabe confirmed that the
 memorandum captured what Comey said on the telephone call immediately following the dinner. McCabe
- 8/17/17 302, at 9-10. 
+ 8/17/17 302, at 9-10.
 [^188]: There also is evidence that corroborates other aspects of the memoranda Comey wrote
  documenting his interactions with the president. For example, Comey recalled, and his memoranda reflect, that he told the president in his January 6, 2017 meeting, and on phone calls on March 30 and April 11, 2017, that the FBI was not investigating the president personally. On May 8, 2017, during White House
  discussions about firing Comey, the president told Rosenstein and others that Comey had told him three
 times that he was not under investigation, including once in person and twice on the phone. Gauhar-
-[^000058]: (Gauhar 5/16/17 Notes). 
+[^000058]: (Gauhar 5/16/17 Notes).
 [^189]: Eisenberg 11/29/17 302, at 5; FBI 2/7/17 electronic communication, at 1 (documenting 2/2/
-[^17]: meeting with Eisenberg). 
-[^190]: Eisenberg 11/29/17 302, at 6. 
+[^17]: meeting with Eisenberg).
+[^190]: Eisenberg 11/29/17 302, at 6.
 [^191]: Eisenberg 1l /29/17 302, at 9; SCRO15_000200 (2/15/17 Draft memorandum to file from the
- Office of the counsel to the president). 
-[^192]: Eisenberg 11/29/17 302, at 9. 
-[^193]: Flynn 11/21/17 302, at 2. 
-[^194]: Flynn 11/21/17 302, at 2. 
-[^195]: Flynn 11/2 1117302, at 2. 
+ Office of the counsel to the president).
+[^192]: Eisenberg 11/29/17 302, at 9.
+[^193]: Flynn 11/21/17 302, at 2.
+[^194]: Flynn 11/21/17 302, at 2.
+[^195]: Flynn 11/2 1117302, at 2.
 [^196]: Flynn 11/21/17 302, at 2-3. Mfl:1:crittl
  Pt=E>teetee
  Ufl:tierFcti. R. Crim. P. 6(c)
@@ -7942,25 +8002,25 @@ action to the president. 205
 That weekend, Flynn accompanied the president to Mar-a-Lago. 206 Flynn recalled that on
 February 12, 2017, on the return flight to D.C. on Air Force One, the president asked him whether
 he had lied to the Vice president. 207 Flynn responded that he may have forgotten details of his
-calls, but he did not think he lied. 20 8 The president responded, "Okay. That's fine. T got it." 
-[^209]: 
+calls, but he did not think he lied. 20 8 The president responded, "Okay. That's fine. T got it."
+[^209]:
 [^197]: Greg Miller et al., national security adviser Flynn discussed sanctions with Russian
-ambassador, despite denials, officials say, Washington Post (Feb. 9, 2017). 
+ambassador, despite denials, officials say, Washington Post (Feb. 9, 2017).
 [^198]: SCR015_000202 (2/15/17 Draft memorandum to file from the Office of the counsel to the
-president); McGahn l l /30/17 302, at 12. 
+president); McGahn l l /30/17 302, at 12.
 [^199]: SCR0\5_000202 (2/15/17 Draft memorandum to file from the Office of the counsel to the
-president); McCabe 8/17/17 302, at 11-13; Priebus 10/13/17 302, at 10; McGahn 11/30/17 302, at 12. 
-[^200]: McCabe 8/17/l 7 302, at 13. 20 
-[^1]: McCabe 8/17/17 302, at 13. 
+president); McCabe 8/17/17 302, at 11-13; Priebus 10/13/17 302, at 10; McGahn 11/30/17 302, at 12.
+[^200]: McCabe 8/17/l 7 302, at 13. 20
+[^1]: McCabe 8/17/17 302, at 13.
 [^202]: McGahn 11/30/17 302, at 12; Priebus 1/18/18 302, at 8; Priebus 10/13/17 302, at 10;
- SCR015_000202 (2/15/17 Draft memorandum to file from the Office ofthe counsel to the president). 
-[^203]: McGahn 11/30/17 302, at 11; Eisenberg 11/29/17 302, at 9; Priebus 10/13/17 302, at 11. 
-[^204]: Eisenberg l l /29/17 302, at 9. 
+ SCR015_000202 (2/15/17 Draft memorandum to file from the Office ofthe counsel to the president).
+[^203]: McGahn 11/30/17 302, at 11; Eisenberg 11/29/17 302, at 9; Priebus 10/13/17 302, at 11.
+[^204]: Eisenberg l l /29/17 302, at 9.
 [^205]: SCRO15_000202 (2/15/17 Draft memorandum to file from the Office of the counsel to the
- president); Priebus 10/13/17 302, at 10; McGahn 11/30/17 302, at 12. 
-[^206]: Flynn 11/17/17 302, at 8. 
-[^207]: Flynn 1/19/18 302, at 9; Flynn 11/17/17 302, at 8. 
-[^208]: Flynn 11/17/17 302, at 8; Flynn 1/19/ l 8 302, at 9. 
+ president); Priebus 10/13/17 302, at 10; McGahn 11/30/17 302, at 12.
+[^206]: Flynn 11/17/17 302, at 8.
+[^207]: Flynn 1/19/18 302, at 9; Flynn 11/17/17 302, at 8.
+[^208]: Flynn 11/17/17 302, at 8; Flynn 1/19/ l 8 302, at 9.
 [^209]: Flynn 1/19/18 302, at 9. On February 13, 2017, Priebus told Flynn he had to resign. ° Flynn said he wanted to say
 goodbye to the president, so Priebus brought him to the Oval Office. 21 1 Priebus recalled that the
 president hugged Flynn, shook his hand, and said, "We'll give you a good recommendation. You're a good guy ·. We'll take care ofyou." 212
@@ -7986,22 +8046,22 @@ investigated, firing Flynn would not end the investigation. 220 christie said th
 make an investigation shorter, but a lot of ways to make it longer. 221 The president asked christie
 what he meant, and christie told the president not to talk about the investigation even if he was
 
-2 
-[^10]: Priebus 1/18/18 302, at 9. 
-[^211]: Priebus 1/18/18 302, at 9; Flynn 11/17/17 302, at 10. 
-[^212]: Priebus 1/18/18 302, at 9; Flynn 11117/ 17 302, at 10. 213 SCR004 _00600 (2/16/17 Email, Burnham to Donaldson). 
+2
+[^10]: Priebus 1/18/18 302, at 9.
+[^211]: Priebus 1/18/18 302, at 9; Flynn 11/17/17 302, at 10.
+[^212]: Priebus 1/18/18 302, at 9; Flynn 11117/ 17 302, at 10. 213 SCR004 _00600 (2/16/17 Email, Burnham to Donaldson).
 [^214]: Sean Spicer, White House Daily briefing, C-SPAN (Feb. 14, 2017). After Flynn pleaded guilty
 to violating 18 U .S.C. § I 00 I in December 2017, the president tweeted, "I had to fire general Flynn because
 he lied to the Vice president and the FBI." @realDonaldTrump 12/2/17 (12: 14 p.m. ET) Tweet. The next
-day, the president's personal counsel told the press that he had drafted the tweet. Maegan Vazquez et al., Trump's lawyer says he was behind president's tweet about firing Flynn, CNN (Dec. 3, 2017). 2 15 christie 2/13/19 302, at 2-3; SCR0l2b_000022 (president's Daily Diary, 2/14/17). 
-[^216]: christie 2/13/19 302, at 3. 
+day, the president's personal counsel told the press that he had drafted the tweet. Maegan Vazquez et al., Trump's lawyer says he was behind president's tweet about firing Flynn, CNN (Dec. 3, 2017). 2 15 christie 2/13/19 302, at 2-3; SCR0l2b_000022 (president's Daily Diary, 2/14/17).
+[^216]: christie 2/13/19 302, at 3.
 [^217]: christie 2/13/19 302, at 3. 218 christie 2/13/19 302, at 3. christie said he thought when the president said "the Russia thing "
 he was referring to not just the investigations but also press coverage about Russia. christie thought the
-more important thing was that there was an investigation. christie 2/13/19 302, at 4. 2 
-[^19]: christie 2/13/19 302, at 3. 
-[^22]: °christie 2/13/19 302, at 3. 
+more important thing was that there was an investigation. christie 2/13/19 302, at 4. 2
+[^19]: christie 2/13/19 302, at 3.
+[^220]: christie 2/13/19 302, at 3.
 [^221]: christie 2/13/19 302, at 3. frustrated at times. 222 christie also told the president that he would never be able to get rid of
-Flynn, "like gum on the bottom of your shoe." 
+Flynn, "like gum on the bottom of your shoe."
 [^223]: towards the end of the lunch, the president brought up Comey and asked if christie was
 sti ll friendly with him. 224 christie said he was. 225 The president told christie to call Comey and
 tell him that the president "really like\[s\] him. Tell him he's part of the team." 226 At the end of the
@@ -8014,26 +8074,26 @@ on that message .
 homeland security briefing. 231 At the end of the briefing, the president dismissed the other
 attendees and stated that he wanted to speak to Comey alone. 232 sessions and senior advisor to the
 president Jared Kushner remained in the Oval Office as other patticipants left, but the president
- 
-[^222]: christie 2/13/19 302, at 3-4. 
+
+[^222]: christie 2/13/19 302, at 3-4.
 [^223]: christie 2/13/19 302, at 3. christie also recalled that during the lunch, Flynn called Kushner, who was at the lunch, and complained about what Spicer had said about Flynn in his press briefing that
 day. Kushner told Flynn words to the effect of, "You know the president respects you. The president cares
 about you. I'll get the president to send out a positive tweet about you later." Kushner looked at the
 president when he mentioned the tweet, and the president nodded his assent. christie 2/13/19 302, at 3. Flynn recalled getting upset at Spicer's comments in the press conference and calling Kushner to say he did
-not appreciate the comments. Flynn 1/19/18 302, at 9. 
-[^224]: christie 2/13/19 302, at 4. 
-[^225]: christie 2/13/19 302, at 4. 
-[^226]: christie 2/13/19 302, at 4-5. 
-[^227]: christie 2/13/19 302, at 5. 
-[^228]: christie 2/13/19 302, at 5. 
-[^229]: christie 2/13/19 302, at 5. 
-[^23]: °christie 2/13/19 302, at 5. 
-[^231]: SCROI 26_000022 (president's Daily Diary, 2/14/17); Comey 11/15/17 302, at 9. 
+not appreciate the comments. Flynn 1/19/18 302, at 9.
+[^224]: christie 2/13/19 302, at 4.
+[^225]: christie 2/13/19 302, at 4.
+[^226]: christie 2/13/19 302, at 4-5.
+[^227]: christie 2/13/19 302, at 5.
+[^228]: christie 2/13/19 302, at 5.
+[^229]: christie 2/13/19 302, at 5.
+[^230]: christie 2/13/19 302, at 5.
+[^231]: SCROI 26_000022 (president's Daily Diary, 2/14/17); Comey 11/15/17 302, at 9.
 [^232]: Comey 11115/17302, at 10; 2/14/17 Comey memorandum, at I; hearing on Russian election
  interference Before the Senate Select intelligence committee, 115th Cong. (June 8, 2017) (statement for
  the Record of James B. Comey, former director of the FBI, at 4); Priebus I0/13/17 302, at 18 (confirming
  that everyone was shooed out "like Comey said" in his June testimony). excused them, repeating that he wanted to speak only with Comey. 233 At some point after others
-had left the Oval Office, Priebus opened the door, but the president sent him away. 
+had left the Oval Office, Priebus opened the door, but the president sent him away.
 [^234]: according to Comey's account of the meeting, once they were alone, the president began
 the conversation by saying, "I want to talk about Mike Flynn." 235 The president stated that Flynn
 had not done anything wrong in speaking with the Russians, but had to be terminated because he
@@ -8044,31 +8104,31 @@ go. He is a good guy. I hope you can let this go." 238 Comey agreed that Flynn "
 but did not commit to ending the investigation of Flynn. 239 Comey testified under oath that he
 took the president's statement "as a direction " because of the president's position and the
 circumstances of the one-on-one meeting .
-[^240]: 
+[^240]:
 [^233]: Comey 11/15/17 302, at 10; Comey 2/14/17 memorandum, at I; hearing on Russian election
 interference Before the Senate Select intelligence committee, 115th Cong. (June 8, 2017) (statement for
 the Record of James B. Comey, former director of the FBI, at 4). sessions recalled that the president asked
 to speak to Comey alone and that sessions was one of the last to leave the room; he described Comey's
 testimony about the events leading up to the private meeting with the president as "pretty accurate."
 sessions 1/17/18 302, at 6. Kushner had no recollection of whether the president asked Comey to stay
-behind. Kushner 4/11/18 302, at 24. 
-[^234]: Comey 2/14/17 memorandum, at 2; Priebus I 0/13/17 302, at 18. 
+behind. Kushner 4/11/18 302, at 24.
+[^234]: Comey 2/14/17 memorandum, at 2; Priebus I 0/13/17 302, at 18.
 [^235]: Comey 11/15/17 302, at 10; Comey 2/14/17 memorandum, at 1; hearing on Russian election
 interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for
-the Record of James B. Comey, former director of the FBI, at 4). 
+the Record of James B. Comey, former director of the FBI, at 4).
 [^236]: Comey 2/14/17 memorandum, at 1; hearing on Russian election interference Before the Senate
-Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 5). 
+Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 5).
 [^237]: Comey 1 l / 15/ 17 302, at IO; Comey 2/14/17 memorandum, at 2; hearing on Russian election
 interference Before the Senate Select intelligence committee, 115th Cong. (June 8, 2017) (statement for
-the Record of James B. Comey, former director of the FBI, at 5). 
+the Record of James B. Comey, former director of the FBI, at 5).
 [^238]: hearing on Russian election interference Before the Senate Select intelligence committee, 115th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at
 5); Comey 2/14/17 memorandum, at 2. Comey said he was highly confident that the words in quotations
 in his memorandum documenting this meeting were the exact words used by the president. He said he
 knew · from the outset of the meeting that he was about to have a conversation of consequence, and he
 remembered the words used by the president and wrote them down soon after the meeting. Comey 11/15/17
 
-302, at 10-11. 
-[^239]: Comey 11/15/17 302, at IO; Comey 2/14/17 memorandum, at 2. 
+302, at 10-11.
+[^239]: Comey 11/15/17 302, at IO; Comey 2/14/17 memorandum, at 2.
 [^240]: hearing on Russian election interference Before the Senate Select intelligence committee, 115th Cong. (June 8, 2017) (CQ Cong. transcripts, at 31) (testimony of James B. Comey, former director
 of the FBI). Comey further stated, "I mean, this is the president of the United States, with me alone, saying,'l hope'this. I took it as, this is what he wants me to do." Id.; see also Comey 11/15/17 302, at 10 (Comey
 took the statement as an order to shutdown the Flynn investigation). Ce,HtttiHMttterial Preteeteti Utttier Fee. R. Criffl. P. 6(e)
@@ -8078,7 +8138,7 @@ documenting their conversation. 24 1 Comey also met with his senior leadership t
 president's request, and they agreed not to inform FBI officials working on the Flynn case of the
 president's statements so the officials would not be influenced by the request. 242 Comey also asked
 for a meeting with sessions and requested that sessions not leave Comey alone with the president
-again. 
+again.
 [^243]: 8. The Media Raises questions About the president's Delay in terminating Flynn
 
 After Flynn was forced to resign, the press raised questions about why the president waited
@@ -8089,13 +8149,13 @@ continued to raise questions about connections between Rus sia and the president
 On February 15, 2017, the president told reporters, "general Flynn is a wonderful man. I think
 he's been treated very, very unfairly by the media." 246 On February 16, 2017, the president held
 
-24 
+24
 [^1]: Comey 11/15/17 302, at 11; hearing on Russian election interference Before the Senate Select
 intelligence committee, I 15th Cong. (June 8, 2017) (statement for the record of James B. Comey, former
-director of the FBI, at 5). 
+director of the FBI, at 5).
 [^242]: Comey 11/15/17 302, at 11; Rybicki 6/9/17 302, at 4; Rybicki 6/22/17 302, at 1; hearing on
 Russian election interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017)
-(statement for the record of James B. Comey, former director of the FBI, at 5-6). 
+(statement for the record of James B. Comey, former director of the FBI, at 5-6).
 [^243]: Comey 11/15/17 302, at 11; Rybicki 6/9/17 302, at 4-5; Rybicki 6/22/17 302, at 1-2; sessions
  1/17/18 302, at 6 (confirming that later in the week following Comey's one-on-one meeting with the
 president in the Oval Office, Comey told the attorney general that he did not want to be alone with the
@@ -8104,14 +8164,14 @@ he did not think it was appropriate for the FBI director to meet alone with the 
 
 302, at 4 (Rybicki helped to schedule the meeting with sessions because Comey wanted to talk about his
 concerns about meeting with the president alone); hearing on Russian election interference Before the
-Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the record of James B. Comey, former director of the FBI, at 6). 
+Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the record of James B. Comey, former director of the FBI, at 6).
 [^244]: See, e.g., Sean Spicer, White House Daily briefing, C-SPAN (Feb. 14, 2017) (questions from
 the press included, "if \[the president\] was notified 17 days ago that Flynn had misled the Vice president, other officials here, and that he was a potential threat to blackmail by the Russians, why would he be kept
 on for almost three weeks?" and "Did the president instruct \[Flynn\] to talk about sanctions with the \[Russian
 ambassador\]? "). Priebus recalled that the president initially equivocated on whether to fire Flynn because
 it would generate negative press to lose his national security advisor so early in his term. Priebus 1/18/18
 
-302, at 8. 24 
+302, at 8. 24
 [^5]: E.g., Sean Sullivan et al., senators from both parties pl edge to deep en probe of Russia and the
 2016 election, Washington Post (Feb. 14, 2017); Aaron Blake, 5 times Donald Trump's team deni ed contact
 with Russia, Washington Post (Feb. 15, 2017); Oren Darell, D onald Trump's ties to Russia g o back 30
@@ -8119,7 +8179,7 @@ with Russia, Washington Post (Feb. 15, 2017); Oren Darell, D onald Trump's ties 
 years, USA Today (Feb. 15, 2017); Pamela Brown et al., Trump aides were inconstant touch with senior
 Russian officials during campaign, CNN (Feb. 15, 2017); Austin Wright, Camey briefs senators amid furor
 overtrump-Russia ties, politico (Feb. 17, 2017); Megan Twohey & Scott Shane, A Back -channel Plan for
-Ukraine and Russia, courtesy of Trump associates, New York Times (Feb. 19, 2017). 
+Ukraine and Russia, courtesy of Trump associates, New York Times (Feb. 19, 2017).
 [^246]: remarks by president Trump and Prime minister Netanyahu ofisrael injoint Press conference, White House (Feb. 15, 2017). a press conference and said that he removed Flynn because Flynn "didn't tell the Vice president
 of the United States the facts, and then he didn't remember. And that just wasn't acceptable to
 me. " 247 The president said he did not direct Flynn to discuss sanctions with Kislyak, but "it
@@ -8144,19 +8204,19 @@ into his office to convey the president's request that she memorialize in writin
 did not direct Flynn to talk to Kislyak. 255 McFarland told Priebus she did not know whether the
 president had directed Flynn to talk to Kislyak about sanctions, and she declined to say yes or no
 
-[^247]: remarks by president Trump in Press conference, White House (Feb. 16, 2017). 
+[^247]: remarks by president Trump in Press conference, White House (Feb. 16, 2017).
 [^248]: remarks by president Trump in Press conference, White House (Feb. 16, 2017). The president
 also said that Flynn's conduct "wasn't wrong - what he did in terms of the information he saw." The
 president said that Flynn was just "doing the job," and "if anything, he did something right."
 
 [^249]: remarks by president Trump in Press conference, White House (Feb. 16, 2017); Priebus
- 1/18/18 302, at 9. 
-[^250]: remarks by president Trump in Press conference, White House (Feb. 16, 2017). 
-[^251]: remarks by president Trump in Press conference, White House (Feb. 16, 2017). 
-[^252]: KTMF_ 00000047 (McFarland 2/26/17 memorandum for the Record) ; McFarland 12/22/17 302, at 16-17. 
+ 1/18/18 302, at 9.
+[^250]: remarks by president Trump in Press conference, White House (Feb. 16, 2017).
+[^251]: remarks by president Trump in Press conference, White House (Feb. 16, 2017).
+[^252]: KTMF_ 00000047 (McFarland 2/26/17 memorandum for the Record) ; McFarland 12/22/17 302, at 16-17.
 [^253]: See Priebus 1/18/18 302, at 11; see also KTMF_00000048 (McFarland 2/26/17 memorandum
-for the Record); McFarland 12/22/17 302, at 17. 
-[^254]: Priebus 1I I 8/ 18 302, at 1 1. 
+for the Record); McFarland 12/22/17 302, at 17.
+[^254]: Priebus 1I I 8/ 18 302, at 1 1.
 [^255]: KTMF_ 00000048 (McFarland 2/26/17 memorandum for the Record); McFarland 12/22/17 302, at 17. to the request. 256 Priebus understood that McFarland was not comfortable with the president's
 request, and he recommended that she talk to attorneys in the White House counsel's Office. McFarland then reached out to Eisenberg. 258 McFarland told him that she had been fired
 from her job as Deputy national security advisor and offered the ambassadorship in Singapore
@@ -8171,28 +8231,28 @@ her not to write the email and to forget he even mentioned it.
 [^262]: Around the same time, the president asked Priebus to reach out to Flynn and let him know
 that the president still cared about him. 263 Priebus called Flynn and said that he was checking in
 and that Flynn was an American hero. 264 Priebus thought the president did not want Flynn saying
-bad things about him. 
+bad things about him.
 [^265]: On March 31, 2017, following news that Flynn had offered to testify before the FBI and
 congressional investigators in exchange for immunity, the president tweeted, "Mike Flynn should
 ask for immunity in that this is a witch hunt (excuse for big election loss), by media & Dems, of
- 
+
 [^256]: KTMF_00000047 (McFarland 2/26/17 Memorandum_for the Record) ("I said I did not know
 whether he did or didn't, but was in Maralago the week between Christmas and New Year's (while Flynn
 was on vacation in Carribean) and I was not aware of any Flynn-Trump, or Trump-Russian phone calls");
-McFarland 12/22/17 302, at 17. 
-[^257]: Priebus 1/18/18 302, at 11. 
-[^258]: McFarland 12/22/17 302, at 17. 
-[^259]: McFarland 12/22/17 302, at 17. 
-[^26]: °KTMF_ 00000048 (McFarland 2/26/17 memorandum for the Record); McFarland 12/22/17 302, at 17. 
+McFarland 12/22/17 302, at 17.
+[^257]: Priebus 1/18/18 302, at 11.
+[^258]: McFarland 12/22/17 302, at 17.
+[^259]: McFarland 12/22/17 302, at 17.
+[^260]: KTMF_ 00000048 (McFarland 2/26/17 memorandum for the Record); McFarland 12/22/17 302, at 17.
 [^261]: KTMF_ 00000048 (McFarland 2/26/17 memorandum for the Record); see McFarland 12/22/17
 
-302, at 17. 
+302, at 17.
 [^262]: McFarland 12/22/17 302, at 17; KTMF 00000048 (McFarland 2/26/17 memorandum for the
-Record). 
-[^263]: Priebus 1/18/18 302, at 9. 
-[^264]: Priebus 1/18/18 302, at 9; Flynn 1/19/18 302, at 9. 
+Record).
+[^263]: Priebus 1/18/18 302, at 9.
+[^264]: Priebus 1/18/18 302, at 9; Flynn 1/19/18 302, at 9.
 [^265]: Priebus 1/18/18 302, at 9-10. historic proportion!" 266 In late March or early April, the president asked McFarland to pass a
- message to Flynn telling him the president felt bad for him and that he should stay strong. 
+ message to Flynn telling him the president felt bad for him and that he should stay strong.
 [^267]: analysis
  In analyzing the president's conduct related to the Flynn investigation, the following
  evidence is relevant to the elements of obstruction of justice:
@@ -8209,14 +8269,14 @@ that he had asked Comey to "let\[\] Flynn go" or otherwise communicated that Com
 the investigation ofFlynn. 269 In private, the president denied aspects of Comey's account to White
 House advisors, but acknowledged to Priebus that he brought Flynn up in the meeting with Comey
 and stated that Flynn was a good guy. 270 despite those denials, substantial evidence corroborates
-Comey's account. 
+Comey's account.
 [^266]: @realDonaldTrump 3/31 /l 7 (7:04 a.m. ET) Tweet; see Shane Harris at al., Mike Flynn Offers
-to testify in exchange for immunity, Wall Street journal (Mar. 30, 2017). 
-[^267]: McFarland 12/22/17 302, at 18. 
+to testify in exchange for immunity, Wall Street journal (Mar. 30, 2017).
+[^267]: McFarland 12/22/17 302, at 18.
 [^268]: excerpts From The Times's interview With Trump, New York Times (July 19, 2017). Hicks
 recalled that the president told her he had never asked Comey to stay behind in his office. Hicks 12/8/17
 
-302, at 12. 
+302, at 12.
 [^269]: In a statement on May 16, 2017, the White House said: "While the president has repeatedly
 expressed his view that general Flynn is a decent man who served and protected our country, the president
 has never asked Mr. Comey or anyone else to end any investigation, including any investigation involving
@@ -8224,7 +8284,7 @@ general Flynn .... This is not a truthful or accurate portrayal of the conversat
 and Mr. Comey." See Michaels. Schmidt, Camey memorandum Says Trump Asked Him to End Flynn
 investigation, New York Times (May 16, 2017) (quoting White House statement); @realDonaldTrump
  12/3/17 (6: 15 a.m. ET) Tweet ("I never asked Comey to stop investigating Flynn. Just more Fake News
-covering another Comey lie!"). 
+covering another Comey lie!").
 [^270]: Priebus recalled that the president acknowledged telling Comey that Flynn was a good guy and
 he hoped "everything worked out for him." Priebus I 0/13/17 302, at 19. McGahn recalled that the
 president denied saying to Comey that he hoped Comey would let Flynn go, but added that he was "allowed
@@ -8232,7 +8292,7 @@ to hope. " The president told McGahn he did not think he had crossed any lines. 
 8. First, Comey wrote a detailed memorandum of his encounter with the president on the
 same day it occurred. Comey also told senior FBI officials about the meeting with the president
 that day, and their recollections of what Comey told them at the time are consistent with Comey's
-account. 
+account.
 [^271]: Second, Comey provided testimony about the president's request that he " let\[\] Flynn go"
 under oath in congressional proceedings and in interviews with federal investigators subject to
 penalties for lying under 18 U.S.C. § I 00 l. Comey's recollections of the encounter have remained
@@ -8263,8 +8323,8 @@ they would be alone and purposely excluded the attorney general, which suggests 
 president meant to make a request to Comey that he did not want anyone else to hear. Second, because the president is the head of the executive Branch, when he says that he "hope s" a
 subordinate will do something, it is reasonable to expect that the subordinate will do what the
 president wants. Indeed, the president repeated aversion of"let this go " three times, and Comey
- 
-[^271]: Rybicki 11/21/18302, at 4; McCabe 8/17/17 302, at 13-14. 
+
+[^271]: Rybicki 11/21/18302, at 4; McCabe 8/17/17 302, at 13-14.
 [^272]: See Priebus I 0/13/17 302, at 18; sessions I / 17/18 302, at 6. 1
 
 testified that he understood the president's statements as a directive, which is corroborated by the
@@ -8371,16 +8431,16 @@ to recuse or for a special counsel to investigate Russia's interference in the p
 Comey was doing .275 according to an email Comey sent to his chief of staff after the call, the
 president "talked about sessions a bit," said that he had heard Comey was "doing great, " and said
 that he hoped Comey would come by to say hello when he was at the White House. 276 Comey
- 
-[^273]: sessions 1/17/ I 8 302, at I; Hunt 2/ l /18 302, at 3. 
+
+[^273]: sessions 1/17/ I 8 302, at I; Hunt 2/ l /18 302, at 3.
 [^274]: E.g., Adam Entous et al., sessions met with Russian envoy twice last year, encounters he later
-did not disclose, Washington Post (Mar. 1, 2017). 
+did not disclose, Washington Post (Mar. 1, 2017).
 [^275]: 3/1/17 Email, Comey to Rybicki; SCR0l 26_000030 (president's Daily Diary, 3/1/17, reflecting
  call with Comey at 11:55 am.)
  276 3/1/17 Email, Comey to Rybicki; see hearing on Russ ian election interference Before the
  Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (CQ Cong. transcripts, at 86) (testimony
  interpreted the call as an effort by the president to "pull \[him\] in," but he did not perceive the call
- as an attempt by the president to find out what Comey was doing with the Flynn investigation. 
+ as an attempt by the president to find out what Comey was doing with the Flynn investigation.
 [^277]: The next morning, the president called McGahn and urged him to contact sessions to tell
  him not to recuse himself from the Russia investigation. 278 McGahn understood the president to
  be concerned that a recusal would make sessions look guilty for omitting details in his
@@ -8392,24 +8452,24 @@ did not disclose, Washington Post (Mar. 1, 2017).
  back to the president about the call with sessions, and the president reiterated that he did not want
  sessions to recuse. 282 throughout the day, McGahn continued trying on behalf of the president to
  avert sessions's recusal by speaking to sessions's personal counsel, sessions's chief of staff, and
- Senate majority Leader Mitch McConnell, and by contacting sessions himself two more times. 
+ Senate majority Leader Mitch McConnell, and by contacting sessions himself two more times.
 [^283]: sessions recalled that other White House advisors also called him that day to argue against his
- recusal. 
+ recusal.
 [^284]: That afternoon, sessions announced his decision to recuse "from any existing or future
  investigations of any matters related in any way to the campaigns for president of the United
  States ." 285 sessions believed the decision to recuse was not a close call, given the applicable
  of James B. Comey, former director of the FBI) ("\[H\]e called me one day .... \[H\]e just called to check in
- and tell me I was doing an awesome job, and wanted to see how I was doing."). 
-[^277]: Comey 11/15/17 302, at 17-18. 
-[^278]: McGahn 11/30/17 302, at 16. 
+ and tell me I was doing an awesome job, and wanted to see how I was doing.").
+[^277]: Comey 11/15/17 302, at 17-18.
+[^278]: McGahn 11/30/17 302, at 16.
 [^279]: McGahn 11/30/17 302, at 16-17; see SC_AD_00l23 (Donaldson 3/2/17 Notes) ("Just in the
- middle of another Russia Fiasco."). 
-[^280]: sessions 1/17/18 302, at 3. 
-[^281]: McGahn 11/30/17 302, at 17. 
-[^282]: McGahn 11/30/17 302, at 17. 
+ middle of another Russia Fiasco.").
+[^280]: sessions 1/17/18 302, at 3.
+[^281]: McGahn 11/30/17 302, at 17.
+[^282]: McGahn 11/30/17 302, at 17.
 [^283]: McGahn 11/30/17 302, at 18- 19; sessions 1/17/18 302, at 3; Hunt 2/1/18 302, at 4; Donaldson
- 11/6/17 302, at 8-10; see Hunt-000017; SC_AD_ 00121 (Donaldson 3/2/17 Notes). 
-[^284]: sessions l/17/18302,at3. 
+ 11/6/17 302, at 8-10; see Hunt-000017; SC_AD_ 00121 (Donaldson 3/2/17 Notes).
+[^284]: sessions l/17/18302,at3.
 [^285]: attorney general sessions statement on recusal, department of justice Press release (Mar. 2, 2017) ("During the course of the last several weeks, I have met with the relevant senior career department
  officials to discuss whether I should recuse myself from any matters arising from the campaigns for
  president of the United States. Having concluded those meetings today, I have decided to recuse myself
@@ -8426,7 +8486,7 @@ general .
 [^288]: shortly after sessions announced his recusal, the White House counsel's Office directed
 that sessions should not be contacted about the matter. 289 internal White House counsel's Office
 notes from March 2, 2017, state "No contact w/sessions" and "No comms / serious concerns about
-obstruction." 
+obstruction."
 [^290]: On March 3, the day after sessions's recusal, McGahn was called into the Oval Office. Other advisors were there, including Priebus and Bannon. 292 The president opened the
 conversation by saying, "I don't have a lawyer ." 293 The president expressed anger at McGahn
 about the recusal and brought up Roy Cohn, stating that he wished Cohn was his attorney. McGahn interpreted this comment as directed at him, suggesting that Cohn would fight for the
@@ -8438,20 +8498,20 @@ organization substantially involved in the conduct that is the subject of the in
 and defines "political relationship" as "a close identification with an elected official, a candidate (whether
 or not successful) for elective, public office, apolitical party, or a campaign organization, arising from
 service as a principal adviser thereto or a principal official thereof. "
- 
-[^287]: sessions 1/17/18 302, at 2. 
-[^288]: sessions I/17/I 8 302, at 3. 
+
+[^287]: sessions 1/17/18 302, at 2.
+[^288]: sessions I/17/I 8 302, at 3.
 [^289]: Donaldson 11/6/17 302, at 11; SC_AD_00123 (Donaldson 3/2/17 Notes). It is not clear whether
  the president was aware of the White House counsel's Office direction not to contact sessions about his
- recusal. 
+ recusal.
 [^290]: SC_AD_00123 (Donaldson 3/2/17 Notes). McGahn said he believed the note "No comms /
  serious concerns about obstruction" may have referred to concerns McGahn had about the press team
  saying "crazy things" and trying to spin sessions's recusal in a way that would raise concerns about
  obstruction. McGahn l l/30/17 302, at 19. Donaldson recalled that "No comms" referred to the order that
- no one should contact sessions. Donaldson 11/6/17 302, at 11. 29 
-[^1]: McGahn 12/12/17 302, at 2. 
-[^292]: McGahn 12/12/17 302, at 2. 
-[^293]: McGahn 12/12/17 302, at 2. 
+ no one should contact sessions. Donaldson 11/6/17 302, at 11. 29
+[^1]: McGahn 12/12/17 302, at 2.
+[^292]: McGahn 12/12/17 302, at 2.
+[^293]: McGahn 12/12/17 302, at 2.
 [^294]: McGahn 12/12/17 302, at 2. Cohn had previously served as a lawyer for the president during
  his career as a private businessman. Priebus recalled that when the president talked about Cohn, he said
  Cohn would win cases for him that had no chance, and that Cohn had done incredible things for him. Priebus 4/3/18 302, at 5. Bannon recalled the president describing Cohn as a winner and a fixer, someone
@@ -8481,23 +8541,23 @@ On March 5, 2017, the White House counsel's Office was informed that the FBI was
 asking for transition-period records relating to Flynn-indicating that the FBI was still actively
 investigating him. 305 On March 6, the president told advisors he wanted to call the Acting attorney
 
-[^295]: McGahn 12/12/17 302, at 2. 
-[^296]: McGahn 12/12/17 302, at 2. 
+[^295]: McGahn 12/12/17 302, at 2.
+[^296]: McGahn 12/12/17 302, at 2.
 [^297]: McGahn 12/12/17 302, at 3. Bannon said the president saw Robert Kennedy and Eric Holder
 as attorneys general who protected the presidents they served. The president thought Holder always stood
 up for president Obama and even took a contempt charge for him, and Robert Kennedy always had his
 brother's back. Bannon 2/14/18 302, at 5. Priebus recalled that the president said he had been told his
 entire life he needed to have a great lawyer, a "bulldog," and added that Holder had been willing to take a
-contempt-of-congress charge for president Obama. Priebus 4/3/18 302, at 5. 
-[^298]: McGahn 12/12/17 302, at 3. 
-[^299]: Bannon 2/14/18 302, at 5. 
-[^300]: Bannon 2/14/18 302, at 5. 
-[^301]: sessions 1/17/18 302, at 3; Hunt 2/1/18 302, at 5; McGahn 12/12/17 302, at 3. 
-[^302]: sessions 1/17/18 302, at3-4. 
+contempt-of-congress charge for president Obama. Priebus 4/3/18 302, at 5.
+[^298]: McGahn 12/12/17 302, at 3.
+[^299]: Bannon 2/14/18 302, at 5.
+[^300]: Bannon 2/14/18 302, at 5.
+[^301]: sessions 1/17/18 302, at 3; Hunt 2/1/18 302, at 5; McGahn 12/12/17 302, at 3.
+[^302]: sessions 1/17/18 302, at3-4.
 [^303]: sessions 1/17/18 302, at3-
-[^4]: 
+[^4]:
 [^304]: sessions 1/17/18 302, at 3-4. Hicks recalled that after sessions recused, the president was angry
-and scolded sessions in her presence, but she could not remember exactly when that conversation occurred. Hicks 12/8/17 302, at 13. 
+and scolded sessions in her presence, but she could not remember exactly when that conversation occurred. Hicks 12/8/17 302, at 13.
 [^305]: SC_AD_000 I 37 (Donaldson 3/5/17 Notes); see Donaldson 11/6/17 302, at 13. general to find out whether the White House or the president was being investigated, although it
 is not clear whether the president knew at that time of the FBI's recent request concerning Flynn. 2. FBI director Comey publicly confirms the existence of the Russia
  investigation in testimony Before HPSCI
@@ -8517,11 +8577,11 @@ individuals, including the president, were being investigated. 312
 
 [^306]: Donaldson 11/6/17 302, at 14; see SC_ AD_ 000168 (Donaldson 3/6/17 Notes) ("POTUS wants
 to call Dana \[then the Acting attorney general for campaign-related investigations\]/ Is investigation I No/
-We know something on Flynn/ GSA got contacted by FBI/ There's something hot"). 
+We know something on Flynn/ GSA got contacted by FBI/ There's something hot").
 [^307]: Comey 11/15/17 302, at 13-14; SNS-classified-0000140-44 (3/8/17 Email, Gauhar to Page et
-al.). 
+al.).
 [^308]: SC_AD _00188 (Donaldson 3/12/18 Notes). Donaldson said she was not part of the conversation
-that led to these notes, and must have been told about it from others. Donaldson 11/6/17 302, at 13. 
+that led to these notes, and must have been told about it from others. Donaldson 11/6/17 302, at 13.
 [^309]: Donaldson 11/6/17 302, at 14-15. On March 16, 2017, the White House counsel's Office was
 briefed by senator Burr on the existence of "4-5 targets." Donaldson 11/6/17 302, at 15. The "targets "
 were identified in notes taken by Donaldson as "Flynn (FBI was ~ooking for phone
@@ -8532,10 +8592,10 @@ U.S.C. § 1001 for lying to the FBI). SC_AD_00l98 (Donaldson 3/16/17 Notes). Don
 both said they believed these were targets ofSSCI. Donaldson 11/6/17 302, at 15; McGahn 12/12/17 302, at 4. But SSCI does not fotmally investigate individuals as "targets"; the notes on their face reference the
 FBI, the department of justice, and Comey; and the notes track the background materials prepared by the
 FBI for Comey's briefing to the Gang of8 on March 9. See SNS-classified-0000140-44 (3/8/17 Email, Gauhar to Page et al.); see also Donaldson 11/6/17 302, at 15 (Donaldson could not rule out that Burr had
-told McGahn those individuals were the FBI's targets). 
+told McGahn those individuals were the FBI's targets).
 [^310]: hearing on Russian election tampering Before the House permanent Select intelligence
-committee, I 15th Cong. (Mar. 20, 2017). 
-[^311]: Comey 11/15/17 302, at 16; McCabe 8/17/17, at 15; McGahn 12/14/17 302, at I. 3 
+committee, I 15th Cong. (Mar. 20, 2017).
+[^311]: Comey 11/15/17 302, at 16; McCabe 8/17/17, at 15; McGahn 12/14/17 302, at I. 3
 [^12]: Boente 1/31/18 302, at 5; Comey I I /15/17 302, at 16-17. Feel. R. Ct1iffl.P. 6(e)
 
 In his opening remarks at the HPSCI hearing, which were drafted in consultation with the
@@ -8559,25 +8619,25 @@ briefings at the White House, and the president suspected Comey of leaking certa
 to the media. 319 McGahn said the president thought Comey was acting like "his own branch of
  government." 320
 
-3 
+3
 [^13]: hearing on Russian election tampering Before the House permanent Select intelligence
  committee, 115th Cong. (Mar. 20, 2017) (CQ Cong. transcripts, at 11) (testimony by FBI director James
 B. Comey); Comey 11/15/17 302, at 17; Boente 1/31/18 302, at 5 (confirming that the department of justice
- authorized Comey's remarks). 
+ authorized Comey's remarks).
 [^314]: hearing on Russian election tampering Before the House permanent Select intelligence
  committee, I 15th Cong. (Mar. 20, 2017) (CQ Cong. transcripts, at 11) (testimony by FBI director James
  B. Comey). ·
 
 [^315]: hearing on Russian election tampering Before the House permanent Select intelligence
- committee, 115th Cong. (Mar. 20, 2017) (CQ Cong. transcripts, at 130) (question by Rep. Swalwell). 
+ committee, 115th Cong. (Mar. 20, 2017) (CQ Cong. transcripts, at 130) (question by Rep. Swalwell).
 [^316]: hearing on Russian election tampering Before the House permanent Select intelligence
  committee, I 15th Cong. (Mar. 20, 2017) (CQ Cong. transcripts, at 130) (testimony by FBI director James
- B. Comey). 
+ B. Comey).
 [^317]: hearing on Russian election tampering Before the House permanent Select intelligence
  committee, I 15th Cong. (Mar. 20, 2017) (CQ Cong. transcripts, at 143) (testimony by FBI director James
- B. Comey). 
-[^318]: Donaldson 11/6/17 302, at 21; McGahn 12/12/17 302, at 7. 
-[^319]: Donaldson 11/6/17 302, at 21; McGahn 12/12/17 302, at 6-9. 
+ B. Comey).
+[^318]: Donaldson 11/6/17 302, at 21; McGahn 12/12/17 302, at 7.
+[^319]: Donaldson 11/6/17 302, at 21; McGahn 12/12/17 302, at 6-9.
 [^320]: McGahn 12/12/17 302, at 7. Press reports following Comey's March 20 testimony suggested that the FBI was
 investigating the president, contrary to what Comey had told the president at the end of the January
 6, 2017 intelligence assessment briefing. 321 McGahn, Donaldson, and senior advisor Stephen
@@ -8601,19 +8661,19 @@ York Times (Mar. 20, 20 I 7); Andy Greenberg. The FBI Has Been investigating Tru
 July, Wired (Mar. 20, 2017); Julie Borger & spencer Ackerman, Trump-Russia collusion is being
  investigated by FBI, Comey confirms, guardian (Mar. 20, 2017); see Comey 1/6/17 memorandum, at 2. 322 Donaldson 11/6/17 302, at 16-17; S. Miller I 0/31/17 302, at 4; McGahn 12/12/17 302, at 5-7. 323 SC_AD_00213 (Donaldson 3/2 1/17 Notes). The notes from that day also indicate that the
 president referred to the "Comey bombshell" which "made \[him\] look like a fool." SC_AD_
-[^00206]: (Donaldson 3/21/17 Notes). 
+[^00206]: (Donaldson 3/21/17 Notes).
 [^324]: SC_AD_00210 (Donaldson 3/21/17 Notes). 325 SCR0l6 _000002-05 (White House counsel's Office memorandum). White House counsel's
  Office attorney Uttam Dhillon did not recall a triggering event causing the White House counsel's Office
  to begin this research. Dhmon I 1/21/17 302, at 5. metadata from the document, which was provided by
- the White House, establishes that it was created on March 21, 2017. 
-[^326]: Donaldson 11/6/17 302, at 16-21; McGahn 12/12/17 302, at 5-7. 
-[^327]: Boente 1/3 1/18 302, at 5. 
-[^328]: Boente 1/3 1/I 8 302, at 5. 
-[^329]: Boente 1/3 1/ 18 302, at 5. 
+ the White House, establishes that it was created on March 21, 2017.
+[^326]: Donaldson 11/6/17 302, at 16-21; McGahn 12/12/17 302, at 5-7.
+[^327]: Boente 1/3 1/18 302, at 5.
+[^328]: Boente 1/3 1/I 8 302, at 5.
+[^329]: Boente 1/3 1/ 18 302, at 5.
 [^330]: Boente 1/31/18 302, at 5. to intervene with Comey. 331 McGahn recalled Boente telling him in calls that day that he did not
 think it was sustainable for Comey to stay on as FBI director for the next four years, which
 McGahn said he conveyed to the president. 332 Boente did not recall discussing with McGahn or
-anyone else the idea that Comey should not continue as FBI director. 
+anyone else the idea that Comey should not continue as FBI director.
 [^333]: 3. The president Asks intelligence community leaders to Make Public
  statements that he had No connection to Russia
 
@@ -8640,28 +8700,28 @@ Coats to "do something to stop it." 340 Dempsey said Coats made it clear that he
 
 [^331]: SC_AD_00210 (Donaldson 3/21/17 Notes); McGahn 12/12/17 302, at 7; Donaldson 11/6/17
 
-302, at 19. 
-[^332]: McGahn 12/12/1 7 302, at 7; Burnham l l/03/17 302, at 11. 
-[^333]: Boente 1/31/18 302, at 3. 
-[^334]: Coats 6/14/17 302, at 3; Culver 6/14/ I 7 302, at 2. 
-[^335]: Coats 6/14/17 3 02, at 3. 
-[^336]: Coats 6/14/17 302, at 3. 33 
-[^7]: Pompeo 6/28/17 302, at 1-3. 
-[^338]: Coats 6/14/17 302, at 3. 
-[^339]: Dempsey 6/14/17 302, at 2. 
-[^340]: Dempsey 6/14/17 302, at 2-3. 
+302, at 19.
+[^332]: McGahn 12/12/1 7 302, at 7; Burnham l l/03/17 302, at 11.
+[^333]: Boente 1/31/18 302, at 3.
+[^334]: Coats 6/14/17 302, at 3; Culver 6/14/ I 7 302, at 2.
+[^335]: Coats 6/14/17 3 02, at 3.
+[^336]: Coats 6/14/17 302, at 3. 33
+[^7]: Pompeo 6/28/17 302, at 1-3.
+[^338]: Coats 6/14/17 302, at 3.
+[^339]: Dempsey 6/14/17 302, at 2.
+[^340]: Dempsey 6/14/17 302, at 2-3.
 [^341]: Dempsey 6/14/17 302, at 3. that right after Coats's meeting with the president, on the walk from the Oval Office back to the
 Eisenhower executive Office building, Coats said that the president had kept him behind to ask
 him what he could do to "help with the investigation." 342 another ODNI staffer who had been
 waiting for Coats outside the Oval Office talked to Gistaro a few minutes later and recalled Gistaro
 reporting that Coats was upset because the president had asked him to contact Comey to convince
-him there was nothing to the Russia investigation. 
+him there was nothing to the Russia investigation.
 [^343]: On Saturday, March 25, 2017, three days after the meeting in the Oval Office, the president
 called Coats and again complained about the Russia investigations, saying words to the effect of, " I can't do anything with Russia, there's things I'd like to do with Russia, with trade, with ISIS, they're allover me with this." 344 Coats told the president that the investigations were going to go
 on and the best thing to do was to let them run their course. 345 Coats later testified in a
 congressional hearing that he had "never felt pressure to intervene or interfere in any way and
 shape-with shaping intelligence in apolitical way, or in relationship. . . to an ongoing
-investigation ." 
+investigation ."
 [^346]: On March 26, 2017, the day after the president called Coats, the president called NSA
 director admiral Michael Rogers. 347 The president expressed frustration with the Russia
  investigation, saying that it made relations with the Russians difficult. 348 The president told
@@ -8673,21 +8733,21 @@ years of government service. 351 After the call concluded, Ledgett prepared a me
 he and Rogers both signed documenting the content of the conversation and the president's
 request, and they placed the memorandum in a safe. 352 But Rogers did not perceive the president's
  request to be an order, and the president did not ask Rogers to pushback on the Russia
- 
-[^342]: Gistaro 6/14/17 302, at 2. 
-[^343]: Culver 6/14/17 302, at 2-3. 
+
+[^342]: Gistaro 6/14/17 302, at 2.
+[^343]: Culver 6/14/17 302, at 2-3.
 [^344]: Coats 6/14/17 302, at 4. 345 Coats 6/14/17 302, at 4; Dempsey 6/14/17 302, at 3 (Coats relayed that the president had asked
  several times what Coats could do to help "get \[the investigation\] done," and Coats had repeatedly told the
  president that fastest way to "get it done" was to let it run its course). . 346 hearing on foreign intelligence surveillance Act Before the Senate Select intelligence
  committee, I 15th Cong. (June 7, 2017) (CQ Cong. transcripts, at 25) (testimony by Daniel Coats, director
- ofNational intelligence). 
-[^347]: Rogers 6/12/17 302, at 3-4. 
-[^348]: Rogers 6/12/17 302, at 4. 
-[^349]: Ledgett 6/13/17 302, at 1-2; see Rogers 6/12/17 302, at 4. 
-[^350]: Rogers 6/12/17 302, at 4-5; Ledgett 6/ 13/ l 7 302, at 2. 
+ ofNational intelligence).
+[^347]: Rogers 6/12/17 302, at 3-4.
+[^348]: Rogers 6/12/17 302, at 4.
+[^349]: Ledgett 6/13/17 302, at 1-2; see Rogers 6/12/17 302, at 4.
+[^350]: Rogers 6/12/17 302, at 4-5; Ledgett 6/ 13/ l 7 302, at 2.
 [^351]: Ledgett 6/13/17 302, at 2. 352 Ledgett 6/13/17 302, at 2-3; Rogers 6/12/17 302, at 4. investigation itself. 353 Rogers later testified in a congressional hearing that as NSA director he
 had "never been directed to do anything \[he\] believe\[d\] to be illegal, immoral, unethical or
-inappropriate " and did "not recall ever feeling pressured to do so. " 
+inappropriate " and did "not recall ever feeling pressured to do so. "
 [^354]: In addition to the specific comments made to Coats, Pompeo, and Rogers, the president
 spoke on other occasions in the presence of intelligence community officials about the Russia
 investigation and stated that it interfered with his ability to conduct foreign relations. 355 On at least
@@ -8705,16 +8765,16 @@ investigations.
  On the morning of March 30, 2017, the president reached out to Comey directly about the
 Russia investigation. 360 according to Comey's contemporaneous record of the conversation, the
 president said "he was trying to run the country and the cloud of this Russia business was making
- 
-[^353]: Rogers 6/12/17 302, at 5; Ledgett 6/13/17 302, at 2. 
+
+[^353]: Rogers 6/12/17 302, at 5; Ledgett 6/13/17 302, at 2.
 [^354]: hearing on foreign intelligence surveillance Act Before the Senate Select intelligence
 committee, 115th Cong. (June 7, 2017) (CQ Cong. transcripts, at 20) (testimony by admiral Michael
-Rogers, director of the national security Agency). 
-[^355]: Gistaro 6/14/17 302, at I, 3; Pompeo 6/28/17 302, at 2-3. 
-[^356]: Gistaro 6/ 14/ l 7 302, at I. 
-[^357]: Pompeo 6/28/17 302, at 2. 
-[^358]: Rogers 6/12/17 302, at 6. 
-[^359]: Coats 6/14/17 302, at 3-4. 
+Rogers, director of the national security Agency).
+[^355]: Gistaro 6/14/17 302, at I, 3; Pompeo 6/28/17 302, at 2-3.
+[^356]: Gistaro 6/ 14/ l 7 302, at I.
+[^357]: Pompeo 6/28/17 302, at 2.
+[^358]: Rogers 6/12/17 302, at 6.
+[^359]: Coats 6/14/17 302, at 3-4.
 [^360]: SCRO l 2b_000044 (president's Daily Diary, 3/30/17, reflecting call to Comey from 8: 14 - 8:
 [^24]: a.m.); Comey 3/30/17 memorandum, at 1 (" The president called me on my CMS phone at 8: 13 am today. . . . The call laste d I I minutes (about IO minutes when he was connected)." ; hearing on Russian election
 interference Before the Senate Select intelligence committee, 115th Cong. (June 8, 2017) (statement for
@@ -8738,20 +8798,20 @@ back, and he informed the president that the traditional channel for such a requ
 
 [^361]: Comey 3/30/17 memorandum, at 1. Comey subsequently testified before congress abou t this
 conversation and described it to our Office; his recollections were consistent with his memorandum. hearing on Russian election interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 6); Comey
- 11/15/17 302, at 18. 
-[^362]: Comey 3/30/17 memorandum, at 1; Comey 11/15/17 302, at 18. 
-[^363]: Comey 3/30/17 memorandum, at I; Comey 11/15/17 302, at 18. 
+ 11/15/17 302, at 18.
+[^362]: Comey 3/30/17 memorandum, at 1; Comey 11/15/17 302, at 18.
+[^363]: Comey 3/30/17 memorandum, at I; Comey 11/15/17 302, at 18.
 [^364]: Comey 3/30/17 memorandum, at 1; hearing on Russian election interference Before the Senate
-Select intelligence committee, 115th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 6). 
+Select intelligence committee, 115th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 6).
 [^365]: Comey 3/30/ I 7 memorandum, at I; hearing on Russian election interference Before the Senate
-Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBT, at 6). 
+Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBT, at 6).
 [^366]: Comey 3/30/17 memorandum, at I; hearing on Russian election interference Before the Senate
-Select intelligence committee, 115th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 6-7). 
+Select intelligence committee, 115th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at 6-7).
 [^367]: Comey 3/30/17 memorandum, at 2; Boente I /3 1/ 18 302, at 6-7; hearing on Russian election
 interference Before the Senat e Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for
-the Record of James B. Comey, former director of the FBI, at 7). 
-[^368]: SCR012b _ 0000 53 (president's Daily Diary, 4/1 I /17, reflecting call to Comey from 8:27 - 8:3 
-[^1]: a.m.); Comey 4/11/17 memorandum, at I ("I returned the president's call this morning at 8:26 am EDT. We spoke for about four minutes. "). 
+the Record of James B. Comey, former director of the FBI, at 7).
+[^368]: SCR012b _ 0000 53 (president's Daily Diary, 4/1 I /17, reflecting call to Comey from 8:27 - 8:3
+[^1]: a.m.); Comey 4/11/17 memorandum, at I ("I returned the president's call this morning at 8:26 am EDT. We spoke for about four minutes. ").
 [^369]: Comey 4/11/17 memorandum, at I. Comey subsequently testified before congress about this
  conversation and his recollections were consistent with his memo. hearing on Russian election
  interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for
@@ -8762,7 +8822,7 @@ asked if it was too late for him to ask Comey to step down; the president respon
 too late, but you know, I have confidence in him. We'll see what happens. You know, it's going
 to be interesting." 373 After the interview, Hicks told the president she thought the president's
 comment about Comey should be removed from the broadcast of the interview, but the president
-wanted to keep it in, which Hicks thought was unusual. 
+wanted to keep it in, which Hicks thought was unusual.
 [^374]: Later that day, the president told senior advisors, including McGahn and Priebus, that he
 had reached out to Comey twice in recent weeks .375 The president acknowledged that McGahn
 would not approve of the outreach to Comey because McGahn had previously cautioned the
@@ -8776,31 +8836,31 @@ there was nothing obstructive about the calls from the president, but the y made
 uncomfortable. 379 according to McGahn, Boente responded that he did not want to issue a
 statement about the president not being under investigation because of the potential political
 ramifications and did not want to order Comey to do it because that action could prompt the
- 
-[^37]: °Comey 4/11/17 memorandum, at I. 
-[^371]: Comey 4/11/17 memorandum, at I. 
+
+[^370]: Comey 4/11/17 memorandum, at I.
+[^371]: Comey 4/11/17 memorandum, at I.
 [^372]: Comey 4/11/17 memorandum, at I. In a footnote to this statement in his memorandum, Comey
 wrote, "His use of these words did not fit with the flow of the call, which at that point had moved away
 from any request ofme, but I have recorded it here as it happened."
- 
+
 [^373]: Maria Bartiromo, interview with president Trump, Fox business network (Apr. 12, 2017);
 SCR012b_000054 (president's Daily Diary, 4/11/17, reflecting Bartiromo interview from 12:30 - 12:55
 
-p.m.). 
-[^374]: Hicks 12/8/17 302, at 13. 
-[^375]: Priebus 10/13/17 302, at 23; McGahn 12/12/17 302, at 9. 
+p.m.).
+[^374]: Hicks 12/8/17 302, at 13.
+[^375]: Priebus 10/13/17 302, at 23; McGahn 12/12/17 302, at 9.
 [^376]: Priebus 10/13/17 302, at 23; McGahn 12/12/17 302, at 9; see McGahn 11/30/17 302, at 9;
 Dhillon 11/21/17 302, at 2 (stating that White House counsel attorneys had advised the president not to
  contact the FBI director directly because it could create a perception he was interfering with investigations). Later in April, the president told other attorneys in the White House counsel's Office that he had called
  Comey even though he knew they had advised against direct contact. Dhillon 11/21/17 302, at 2 (recalling
- that the president said, "I know you told me not to, but I called Comey anyway."). 
-[^377]: McGahn 12/12/17 302, at 9. 
-[^378]: McGahn 12/12/17 302, at 9. 
+ that the president said, "I know you told me not to, but I called Comey anyway.").
+[^377]: McGahn 12/12/17 302, at 9.
+[^378]: McGahn 12/12/17 302, at 9.
 [^379]: McGahn 12/12/17 302, at 9; see Boente 1/3 1/ 18 302, at 6 (recalling that Comey told him after
  the March 30, 2017 call that it was not obstructive). appointment of a special counsel. 380 Boente did not recall that aspect of his conversation with
 McGahn, but did recall telling McGahn that the direct outreaches from the president to Comey
 were a problem. 381 Boente recalled that McGahn agreed and said he would do what he could to
-address that issue. 
+address that issue.
 [^382]: analysis
  In analyzing the president's reaction to sessions's recusal and the requests he mad e to
 Coats, Pompeo, Rogers, and Comey, the following evidence is relevant to the elements of
@@ -8831,9 +8891,9 @@ Comey's March 20, 2017 announcement that the FBI, as a part of its counterintell
  and the president affirmatively told Comey that if " some satellite" was involved in Russian
  election interference "it would be good to find that out. " But the president's intent in trying to
  prevent sessions's recusal, and in reaching out to Coat s, Pompeo, Rogers, and Corn ey following
- 
-[^380]: McGahn 12/12/17302, at9-10. 
-[^381]: Boente 1/31/18 302, at 7; McGahn 12/12/17 302, at 9. 
+
+[^380]: McGahn 12/12/17302, at9-10.
+[^381]: Boente 1/31/18 302, at 7; McGahn 12/12/17 302, at 9.
 [^382]: Boente 1/31/18 302, at 7. Comey's public announcement of the FBT's Russia investigation, is nevertheless relevant to
 understanding what motivated the president's other actions towards the investigation. The evidence shows that the president was focused on the Russia investigation's
 implications for his presidency - and, specifically, on dispelling any suggestion that he was under
@@ -8902,13 +8962,13 @@ hearing, Comey declined to answer questions about the status of the Russia inves
 "\[t\]he department of justice ha\[d\] authorized \[him\] to confirm that \[the Russia investigation\]
 exists," but that he was "not going to say another word about it" until the investigation was
 completed. 386 Comey also declined to answer questions about whether investigators had "ruled
- 
-[^383]: hearing on oversight of the FBI before the Senate judiciary committee, I 15th Cong. (May 3, 2017). 
-[^384]: McGahn 12/12/17 302, at 10-11. 
+
+[^383]: hearing on oversight of the FBI before the Senate judiciary committee, I 15th Cong. (May 3, 2017).
+[^384]: McGahn 12/12/17 302, at 10-11.
 [^385]: McGahn 12/12/17 302, at 7, 10-11 (McGahn believed that two foreign leaders had expressed
 sympathy to the president for being under investigation); SC_AD_00265 (Donaldson 4/11/17 Notes) (" P
 Called Comey - Day we told him not to?'You are not under investigation'NK/C hina/sapping
-credibility"). 
+credibility").
 [^386]: hearing on FBI oversight Before the Senate judiciary committee, I 15th Cong. (CQ Cong. transcripts, at 70) (May 3, 2017) (testimony by FBI director James Comey). Comey repeated this point
 out anyone in the Trump campaign as potentially a target ofth\[e\] criminal investigation," including
 whether the FBI had "ruled out the president of the United States." 387
@@ -8931,22 +8991,22 @@ authority with foreign leaders. 395 sessions responded that he had had no choice
  it was a mandatory rather than discretionary decision. 396 Hunt recalled that sessions also stated at
 several times during his testimony. See id. at 26 (explaining that he was "not going to say another peep
 about \[the investigation\] until we're done"); id. at 90 (stating that he would not provide any updates about
-the status of investigation "before the matter is concluded"). 
+the status of investigation "before the matter is concluded").
 [^387]: hearing on FBI oversight Before the Senate judiciary committee, 115th Cong. (May 3, 2017)
-(CQ Cong. transcripts, at 87-88) (questions by Sen. Blumenthal and testimony by FBI director James 8. Comey). 
+(CQ Cong. transcripts, at 87-88) (questions by Sen. Blumenthal and testimony by FBI director James 8. Comey).
 [^388]: hearing on FBI oversight Before the Senate judiciary committee, 1 I 5th Cong. (May 3, 2017)
-(CQ Cong. transcripts, at 15) (question by Sen. Feinstein). 
+(CQ Cong. transcripts, at 15) (question by Sen. Feinstein).
 [^389]: hearing on FBI oversight Before the Senate judiciary committee, I 15th Cong. (May 3, 2017)
  (CQ Cong. transcripts, at I7) (testimony by FBI director James 8. Comey). 390 hearing on FBI oversight Before the Senate judiciary committee, I 15th Cong. (May 3, 2017)
- (CQ Cong. transcripts, at 92) (testimony by FBI director James B. Comey). 
-[^391]: sessions 1/17/18 302, at 8; Hunt 2/1/18 302, at 8. 
-[^392]: sessions 1/17/18 302, at 8; Hunt-000021 (Hunt 5/3/17 Notes); McGahn 3/8/18 302, at 6. 
+ (CQ Cong. transcripts, at 92) (testimony by FBI director James B. Comey).
+[^391]: sessions 1/17/18 302, at 8; Hunt 2/1/18 302, at 8.
+[^392]: sessions 1/17/18 302, at 8; Hunt-000021 (Hunt 5/3/17 Notes); McGahn 3/8/18 302, at 6.
 [^393]: sessions 1/17/18 302, at 8-9. 394 Hunt-000021 (Hunt 5/3/17 Notes). Hunt said that he wrote down notes describing this meeting
- and others with the president after the events occurred. Hunt 2/ I/ 17 302, at 2. 
+ and others with the president after the events occurred. Hunt 2/ I/ 17 302, at 2.
 [^395]: Hunt-000021-22 (Hunt 5/3/17 Notes) ("I have foreign leaders saying they are sorry I am being
  investigated."); sessions 1/17/18 302, at 8 (sessions recalled that a chinese leader had said to the president
  that he was sorry the president was under investigation, which the president interpreted as undermining his
- authority); Hunt 2/1/18 302, at 8. 
+ authority); Hunt 2/1/18 302, at 8.
 [^396]: sessions 1/17/18 302, at 8; Hunt-000022 (Hunt 5/3/17 Notes). some point during the conversation that a new start at the FBI would be appropriate and the
 president should consider replacing Comey as FBI director. 397 according to sessions, when the
 meeting concluded, it was clear that the president was unhappy with Comey, but sessions did not
@@ -8958,7 +9018,7 @@ told me three times I'm not under investigation. He's a showboater. He's a grand
 know any Russians. There was no collusion." 400 Bannon told the president that he could not fire
 Comey because "that ship had sailed ." 40 1 Bannon also told the president that firing Comey was
 not going to stop the investigation, cautioning him that he cou ld fire the FBI director but could not
-fire the FBI. 
+fire the FBI.
 [^402]: 2. The president Makes the decision to terminate Comey
 
 The weekend following Comey's May 3, 2017 testimony, the president traveled to his
@@ -8973,16 +9033,16 @@ public - including Os and Rs - have lost faith in you as director of the FBT."40
 dinner, Miller prepared a termination letter based on those notes and research he conducted to
 support the president's arguments. 407 Over the weekend, the president provided several rounds of
 
-[^397]: Hunt-000022 (Hunt 5/3/17 Notes). 
-[^398]: sessions 1/17/18 302, at 9. 
-[^399]: Bannon 2/12/18 302, at 20. 
-[^400]: Bannon 2/12/18 302, at 20. 
-[^401]: Bannon 2/12/18 302, at 20. 
-[^402]: Bannon 2/12/18 302, at 20-21; see Priebus 10/13/17 302, at 28. 
-[^403]: S. Miller I 0/31/17 302, at 4-5; SCR025_000019 (president's Daily Diary, 5/4/17). 
-[^404]: S. Miller I 0/31/17 302, at 5. 
-[^405]: S. Miller 10/31/17 302, at 5-6. 
-[^406]: S. Miller 5/5/17 Notes, at I; see S. Miller 10/31/17 302, at 8. 
+[^397]: Hunt-000022 (Hunt 5/3/17 Notes).
+[^398]: sessions 1/17/18 302, at 9.
+[^399]: Bannon 2/12/18 302, at 20.
+[^400]: Bannon 2/12/18 302, at 20.
+[^401]: Bannon 2/12/18 302, at 20.
+[^402]: Bannon 2/12/18 302, at 20-21; see Priebus 10/13/17 302, at 28.
+[^403]: S. Miller I 0/31/17 302, at 4-5; SCR025_000019 (president's Daily Diary, 5/4/17).
+[^404]: S. Miller I 0/31/17 302, at 5.
+[^405]: S. Miller 10/31/17 302, at 5-6.
+[^406]: S. Miller 5/5/17 Notes, at I; see S. Miller 10/31/17 302, at 8.
 [^407]: S. Miller I0/31/17 302, at 6. edits on the draft letter. 408 Miller said the president was adamant that he not tell anyone at the
 White House what they were preparing because the president was worried about leaks. 409
 
@@ -9012,17 +9072,17 @@ In the morning of Monday, May 8, 2017, the president met in the Oval Office with
 advisors, including McGahn, Priebus, and Miller, and informed them he had decided to terminate
 Comey. 416 The president rea d aloud the first paragraphs of the termination letter he wrote with
 
-[^408]: S. Miller 10/31/17 302, at 6-8. 
+[^408]: S. Miller 10/31/17 302, at 6-8.
 [^409]: S. Miller 10/31/17 302, at 7. Miller said he did not want Priebus to be blindsided, so on Sunday
 night he called Priebus to tell him that the president had been thinking about the "Comey situation" and
-there would be an important discussion on Monday. S. Miller I 0/31/17 302, at 7. 4 
-[^10]: S. Miller 10/3 1/ 17 302, at 8. 
-[^411]: S. Miller 10/31/17 302, at 8. 
-[^412]: S. Miller 10/31117 302, at 10. 4 
+there would be an important discussion on Monday. S. Miller I 0/31/17 302, at 7. 4
+[^10]: S. Miller 10/3 1/ 17 302, at 8.
+[^411]: S. Miller 10/31/17 302, at 8.
+[^412]: S. Miller 10/31117 302, at 10. 4
 [^13]: SCRO13c_ 000003-06 (Draft termination Letter to FBI director Comey). 414 SCRO13c_OOOO03-O6 (Draft Te1mination Letter to FBI director Comey). Kushner said that the
 termination letter reflected the reasons the president wanted to fire Comey and was the truest representation
-of what the president had said during the May 5 dinner. Kushner 4/11/18 302, at 25. 
-[^415]: SCRO13c_O0OOO3 (Draft termination Letter to FBI director Comey). 
+of what the president had said during the May 5 dinner. Kushner 4/11/18 302, at 25.
+[^415]: SCRO13c_O0OOO3 (Draft termination Letter to FBI director Comey).
 [^416]: McGahn 12/12/17 302, at 1I; Priebus 10/13/17 302, at 24; S. Mil !er 10/31/17 302, at 11; Dhillon
  11/21/t 7 302, at 6; Eisenberg I 1/29/17 302, at 13. Miller and conveyed that the decision had been made and was not up for discussion. 417 The
 president told the group that Miller had researched the issue and determined the president had the
@@ -9051,21 +9111,21 @@ going to read you a letter. Don't talk me out of this. I've made my decision .")
 (the president announced in an irreversible way that he was firing Comey); Eisenberg 11/29/17 302, at 13
 
 (the president did not leave whether or not to fire Comey up for discussion); Priebus 10/13/17 302, at 25;
-McGahn 12/12/17 302, at 11-12. 
-[^418]: Dhillon 302 11/21/17, at 6; Eisenberg 11/29/17 302, at 13; McGahn 12/12/_l7 302, at I 1. 
+McGahn 12/12/17 302, at 11-12.
+[^418]: Dhillon 302 11/21/17, at 6; Eisenberg 11/29/17 302, at 13; McGahn 12/12/_l7 302, at I 1.
 [^419]: McGahn 12/12/17 302, at 12, 13; S. Miller 10/3 1/17 302, at 11; Dhillon 11/21/17 302, at 7. because of the attorney general's recusal, Rosenstein became the Acting attorney general for the Russia
 investigation upon his confirmation as Deputy attorney general. See 28 U.S.C. § 508(a) ("In case of a
 vacancy in the office of attorney general, or of his absence or disability, the Deputy attorney general may
-exercise all the duties of that office"). 
-[^420]: McGahn 12/12/17 302, at 12. 
+exercise all the duties of that office").
+[^420]: McGahn 12/12/17 302, at 12.
 [^421]: Dhillon 1 l/21/17 302, at 7; McGahn 12/12/17 302, at 13; Gauhar-000056 (Gauhar 5/16/17
 
 Notes); see Gauhar-000056-72 (2/11/19 memorandum to File attaching Gauhar handwritten notes) ("Ms. Gauhar determined that she likely recorded all these notes during one or more meetings on Tuesday, May
- 16, 2017 ."). 
-[^422]: McGahn 12/12/17 302, at 13; see Gauhar-000056 (Gauhar 5/16/17 Notes). 
-[^423]: Dhillon l I /21/ 17 302, at 7-9; sessions 1/17/18 302, at 9; McGahn 12/12/17 302, at 13. 
-[^424]: McGahn 12/12/17 302, at 13; Dhillon 11/21/17 302, at 9. 
-[^425]: Hunt-000026 (Hunt 5/8/17 Notes) ; see Gauhar-000057 (Gauhar 5/16/17 Notes). 
+ 16, 2017 .").
+[^422]: McGahn 12/12/17 302, at 13; see Gauhar-000056 (Gauhar 5/16/17 Notes).
+[^423]: Dhillon l I /21/ 17 302, at 7-9; sessions 1/17/18 302, at 9; McGahn 12/12/17 302, at 13.
+[^424]: McGahn 12/12/17 302, at 13; Dhillon 11/21/17 302, at 9.
+[^425]: Hunt-000026 (Hunt 5/8/17 Notes) ; see Gauhar-000057 (Gauhar 5/16/17 Notes).
 [^426]: Rosenstein 5/23/17 302, at 2; McGahn 12/12/17 302, at 14; see Gauhar-000057 (Gauhar 5/16/17
 
 Notes). 3 testimony over the weekend and thought that something was "not right" with Comey. 427 The
@@ -9087,29 +9147,29 @@ memo." 436 Rosenstein responded that the Russia investigation was not the basis 
 recommendation, so he did not think Russia should be mentioned .437 The president told
 Rosenstein he would appreciate it if Rosenstein put it in his letter anyway .438 When Rosenstein
 
-[^427]: Hunt-000026-27 (Hunt 5/8/17 Notes). 
+[^427]: Hunt-000026-27 (Hunt 5/8/17 Notes).
 [^428]: sessions I/ 17/18 302, at IO; see Gauhar-000058 (Gauhar 5/16/17 Note s) ("POTUS to AG: What
-is your rec?"). 
-[^429]: Hunt-000027 (Hunt 5/8/17 Notes). 
-[^430]: McGahn 12/12/17 302, at 14; Dhillon 11/21/17 302, at 7. 
-[^431]: Hunt-000028 (Hunt 5/8/17 Note s). 
-[^432]: McGahn 12/12/17302,at 13. 
-[^433]: Hunt-000028-29 (Hunt 5/8/17 Not es). 
+is your rec?").
+[^429]: Hunt-000027 (Hunt 5/8/17 Notes).
+[^430]: McGahn 12/12/17 302, at 14; Dhillon 11/21/17 302, at 7.
+[^431]: Hunt-000028 (Hunt 5/8/17 Note s).
+[^432]: McGahn 12/12/17302,at 13.
+[^433]: Hunt-000028-29 (Hunt 5/8/17 Not es).
 [^434]: McCab e 9/26/17 302, at 13; Rosenstein 5/23/17 302, at 2; see Gauhar-000059 (Gauh ar 5/16/17
 
-Notes) ("POTUS tells DAG to write a memo "). 
+Notes) ("POTUS tells DAG to write a memo ").
 [^435]: Hunt-000028-29 (Hunt 5/8/17 Notes) ("POTUS asked if Rod's recommendation would include
 the fact that although Comey talks about the investigation he refuses to say that the president is not under
 investigation. ... So it would be good if your recommendation would make mention of the fact that Comey
-refuses to say public\[ly\] what he said privately 3 times."). 
-[^436]: Gauh ar-000059 (Gauhar 5/16/17 Not es). 
+refuses to say public\[ly\] what he said privately 3 times.").
+[^436]: Gauh ar-000059 (Gauhar 5/16/17 Not es).
 [^437]: sessions 1/17/18 302 at 10; McCab e 9/26/17 302, at 13; see Gauhar-000059 (Gauhar 5/16/17
 
-Notes). 
+Notes).
 [^438]: Gauhar-000059 (Gauhar 5/16/17 Notes); McCabe 5/16/17 memorandum 1; McCabe 9/26/17
 
 302,a t 13. left the meeting, he knew that Comey would be terminated, and he told DOJ colleagues that his
-own reasons for replacing Comey were " not \[the president's\] reasons." 
+own reasons for replacing Comey were " not \[the president's\] reasons."
 [^439]: On May 9, Hunt delivered to the White House a letter from sessions recommending
 Comey's removal and a memorandum from Rosenstein, addressed to the attorney general, titled
 "restoring Public confidence in the FBJ."440 McGahn recalled that the president liked the DOJ
@@ -9124,7 +9184,7 @@ informed the president three times that he was not under investigation. 443 McGa
 Dhillon objected to including that language, but the president insisted that it be included. McGahn, Priebus, and others perceived that language to be th e most important part of the letter to
  439 Rosenstein 5/23/17 302, at 2; Gauhar-000059 (Gauhar 5/16/17 Notes) ("DAG reasons not their
 reasons \[POTUS)"); Gauhar-000060 (Gauhar 5/16/17 Notes)(" 1st draft had a recommendation. Took it out
-b/c knew decision had already been made."). 
+b/c knew decision had already been made.").
 [^440]: Rosenstein 5/23/17 302, at 4; McGahn 12/12/17 302, at 15; 5/9/17 Letter, sessions to president
 Trump ("Based on my evaluation, and for the reasons expressed by the Deputy attorney general in the
 attached memorandum, I have concluded that a fresh start is needed at the leadership of the FBI."); 5/9/17
@@ -9134,8 +9194,8 @@ memorandum, Rosenstein to sessions (concluding with, "The way the director handl
 until it has a director who understands the gravity of the mistakes and pledges never to repeat them. Having
  refused to admit his errors, the director cannot be expected to implement the necessary ·corrective actions."). 441 S. Miller 10/31/17 302, at 12; McGahn 12/12/17 302, at 15; Hunt-000031 (Hunt 5/9/17 Notes). 442 SC_AD _00342 (Donaldson 5/9/17 Notes). Donaldson also wrote "\[i\]s this the beginning of the
  end?" because she was worried that the decision to terminate Comey and the manner in which it was carried
- out would be the end of the presidency. Donaldson 11/6/17 302, at 25. 
-[^443]: S. Miller 10/3 1/ 17 302, at 12; McGahn 12/12/17 302, at 15; Hunt-000032 (Hunt 5/9/17 Notes). 
+ out would be the end of the presidency. Donaldson 11/6/17 302, at 25.
+[^443]: S. Miller 10/3 1/ 17 302, at 12; McGahn 12/12/17 302, at 15; Hunt-000032 (Hunt 5/9/17 Notes).
 [^444]: McGahn 12/12/17 302, at 15; S. Miller 10/3 1/17 302, at 12; Dhillon 11/21/17 302, at 8, 10;
  Priebus l 0/13/ I 7 302, at 27; Hunt 2/1/18 302, at 14- 15; Hunt-000032 (Hunt 5/9/17 Notes). the president. 445 Dhillon made a final pitch to the president that Comey should be permitted to
 resign, but the president refused .446
@@ -9167,18 +9227,18 @@ investigation). according to Hunt's notes, the reference to Comey's statement wo
 "notwithstanding" Comey'shaving informed the president that he was not under investigation, the
 president was terminating Comey. Hunt-000032 (Hunt 5/9/17 Notes). McGahn said he believed the
 president wanted the language included so that people would not think that the president had terminated
-Comey because the president was under investigation. McGahn 12/12/17 302, at 15. 
+Comey because the president was under investigation. McGahn 12/12/17 302, at 15.
 [^446]: McGahn 12/12/17 302, at 15; Donaldson 11/6/17 302, at 25; see SC_ AD_00342 (Donaldson
-5/9/17 Notes) ("Resign vs. removal. - POTUS /removal. "). 
-[^447]: Spicer 10/16/17 302, at 9; McGahn 12/12/17 302, at 16. 
-[^448]: Priebus I OJ13/ l 7 302, at 28. 
-[^449]: statement of the Press secretary, The White House, Office of the Press secretary (May 9, 2017). 
+5/9/17 Notes) ("Resign vs. removal. - POTUS /removal. ").
+[^447]: Spicer 10/16/17 302, at 9; McGahn 12/12/17 302, at 16.
+[^448]: Priebus I OJ13/ l 7 302, at 28.
+[^449]: statement of the Press secretary, The White House, Office of the Press secretary (May 9, 2017).
 [^450]: McCabe 9/26/17 302, at 4; SCR025 _000044 (president's Daily Diary, 5/9/17); McCabe 5/10/17
 
-memorandum, at 1. 
-[^451]: McCabe 9/26/17 302, at 5; McCabe 5/10/17 memorandum, at I. 
-[^452]: McCabe 9/26/17 302, at 5; McCabe 5/10/17 memorandum, at 1-2. 
-[^453]: McCabe 9/26/17 302, at 5; McCabe 5/10/17 memorandum, at 1-2. 
+memorandum, at 1.
+[^451]: McCabe 9/26/17 302, at 5; McCabe 5/10/17 memorandum, at I.
+[^452]: McCabe 9/26/17 302, at 5; McCabe 5/10/17 memorandum, at 1-2.
+[^453]: McCabe 9/26/17 302, at 5; McCabe 5/10/17 memorandum, at 1-2.
 [^454]: McCabe 9/26/17 302, at 5; McCabe 5/10/17 memorandum, at 1-2. Later that evening, the president told his communications team he was unhappy with the
 press coverage of Comey's termination and ordered them to go out and defend him. The
 president also called Chris christie and, according to christie, said he was getting "killed" in the
@@ -9194,18 +9254,18 @@ coverage had been great, and that he wanted Rosenstein to do a press conference.
 responded that this was not a good idea because if the press asked him, he would tell the truth that
 Comey's firing was not his idea. 464 sessions also informed the White House counsel's Office that
 evening that Rosenstein was upset that his memorandum was being po1trayed as the reason for
-Comey's termination. 
+Comey's termination.
 [^465]: In an unplanned press conference late in the evening of May 9, 2017, Spicer told reporters, "It was all \[Rosenstein\]. No one from the White House. It was a DOJ decision ." 46 6 That evening
 and the next morning, White House officials and spokespeople continued to maintain that the
- 
-[^455]: Spicer 10/16/17 302, at 11; Hicks 12/8/17, at 18; sanders 7/3/18 302, at 2. 45 
-[^6]: christie 2/13/ I9 302, at 6. 
-[^457]: christie 2/13/19 302, at 6. 
-[^458]: christie 2/13/19 302, at 6. 
-[^459]: christie 2/13/19 302, at 6. 
-[^46]: ° christie 2/13/19 302, at 6. 461 Gauhar-000071 (Gauhar 5/16/17 Notes); Page memorandum, at 3 (recording events of 5/16/17);
-McCabe 9/26/17 302, at 14. 
-[^462]: Rosenstein 5/23/17 302, at 4-5; Gauhar-000059 (Gauhar 5/16/17 Notes). 46 
+
+[^455]: Spicer 10/16/17 302, at 11; Hicks 12/8/17, at 18; sanders 7/3/18 302, at 2. 45
+[^6]: christie 2/13/ I9 302, at 6.
+[^457]: christie 2/13/19 302, at 6.
+[^458]: christie 2/13/19 302, at 6.
+[^459]: christie 2/13/19 302, at 6.
+[^460]: christie 2/13/19 302, at 6. 461 Gauhar-000071 (Gauhar 5/16/17 Notes); Page memorandum, at 3 (recording events of 5/16/17);
+McCabe 9/26/17 302, at 14.
+[^462]: Rosenstein 5/23/17 302, at 4-5; Gauhar-000059 (Gauhar 5/16/17 Notes). 46
 [^3]: Rosenstein 5/23/17 302, at 4-5; Gauhar-000071 (Gauhar 5/16/17 Notes). 464 Gauhar-000071 (Gauhar 5/16/17 Notes). DOJ notes from the week of Comey's firing indicate
 that Priebus was "screaming" at the DOJ public affairs office trying to get Rosenstein to do a press
 conference, and the DOJ public affairs office told Priebus that Rosenstein had told the president he was not
@@ -9234,23 +9294,23 @@ White House to discuss whether the president should visit FBI headquarters and m
 
 [^467]: See, e.g., Sarah sanders, White House Daily briefing, C-SPAN (May 10, 2017) ;
 SCR013_001088 (5/10/17 Email, hemming to Cheung et al.) (internal White House email describing
-comments on the Comey termination by Vice president Pence). 
+comments on the Comey termination by Vice president Pence).
 [^468]: SCR08_000353 (5/9/17 White House document, "working Visit with foreign minister Sergey
 Lavrov of Russia"); SCR08_001274 (5/10/17 Email, Ciaramella to Kelly et al.). The meeting had been
 planned on May 2, 2017, during a telephone call between the president and Russian president Vladimir
  Putin, and the meeting date was confirmed on May 5, 2017, the same day the president dictated ideas for
 the Comey termination letter to Stephen Miller. SCR08_001274 (5/10/17 Email, Ciaramella to Kelly et
-al.). 
+al.).
 [^469]: Matt Apuzzo et al., Trump Told Russians That Firing "Nut Job " Camey Eased pressure From
-investigation, New York Times (May 19, 2017). 
+investigation, New York Times (May 19, 2017).
 [^470]: SCR08 _ 002 l I 7 (5/19/17 Email, Walters to Farhi (CBS New s)) ; see Spicer I 0/16/17 302, at 13
 
 (noting he would have been told to "clean it up" if the repo1ting on the meeting with the Russian foreign
 minister was inaccurate, but he was never told to correct the reporting); Hicks 12/8/17 302, at 19 (recalling
 that the president never denied making the statements attributed to him in the Lavrov meeting and that the
- president had said similar things about Comey in an off-the-record meeting with reporters on May 18, 2017, calling Comey a "nut job" and "crazy"). 
-[^471]: Hicks 12/8/17 302, at 19. 
-[^472]: McGahn 12/12/17 302, at 18. 
+ president had said similar things about Comey in an off-the-record meeting with reporters on May 18, 2017, calling Comey a "nut job" and "crazy").
+[^471]: Hicks 12/8/17 302, at 19.
+[^472]: McGahn 12/12/17 302, at 18.
 [^473]: SCR025_000046 (president's Daily Diary, 5/10/17); McCabe 5/10/17 memorandum, at 1. employees. 474 The president said he had received "hundreds" of messages from FBI employees
 indicating their support for terminating Comey. 475 The president also told McCabe that Comey
 should not have been permitted to travel back to Washington, D.C. on the FBI's airplane after he
@@ -9280,19 +9340,19 @@ interview that rank-and-file FBI agents had lost confidence in Comey was a comme
 Also on May I 0, 2017, sessions and Rosenstein each spoke to McGahn and expressed
 concern that the White House was creating a narrative that Rosenst ein had initiated the decision to
 
-[^474]: McCabe 5/10/l 7 memorandum, at 1. 
-[^475]: McCabe 5/ I 0/17 memorandum, at I. 
+[^474]: McCabe 5/10/l 7 memorandum, at 1.
+[^475]: McCabe 5/ I 0/17 memorandum, at I.
 [^476]: McCabe 5/10/17 memorandum, at I; Rybicki 6/13/17 302, at 2. Comey had been visiting the
-FBl's Los Angeles office when he found out he had been terminated. Comey 11/15/17 302, at 22. 
+FBl's Los Angeles office when he found out he had been terminated. Comey 11/15/17 302, at 22.
 [^477]: McCabe 5/10/17 memorandum, at 1-2. McCabe's memorandum documenting his meeting with
 the president is consistent with notes taken by the White House counsel's Office. See SC_AD_
 [^00347]: (Donaldson 5/10/17 Notes). ·
 
-[^478]: sanders 7/3/18 302, at 4; Sarah sanders, White House Daily briefing, C-SPAN (May I 0, 2017). 
-[^479]: Sarah sanders, White House Daily briefing, C-SPAN (May I 0, 2017); sanders 7/3/18 302, at 4. 
-[^480]: Sarah sanders, White House Daily briefing, C-SP AN (May I 0, 2017). 
-[^481]: sanders 7/3/18 302, at 4. 
-[^482]: sanders 7/3/18 302, at 4. 
+[^478]: sanders 7/3/18 302, at 4; Sarah sanders, White House Daily briefing, C-SPAN (May I 0, 2017).
+[^479]: Sarah sanders, White House Daily briefing, C-SPAN (May I 0, 2017); sanders 7/3/18 302, at 4.
+[^480]: Sarah sanders, White House Daily briefing, C-SP AN (May I 0, 2017).
+[^481]: sanders 7/3/18 302, at 4.
+[^482]: sanders 7/3/18 302, at 4.
 [^483]: sanders 7/3/18 302, at 3. fire Comey. 484 The White House counsel's Office agreed that it was factually wrong to say that
 the department of justice had initiated Comey's termination ,485 and McGahn asked attorneys in
 the White House counsel's Office to work with the press office to correct the narrative .486
@@ -9304,7 +9364,7 @@ Comey before the president met with Rosenstein and sessions. The president told 
 going to fire regardless of recommendation. . . . \[Rosenstein\] made a recommendation. But
 regardless of recommendation, I was going to fire Comey knowing there was no goodtime to do
 it." 488 The president continued, "And in fact, when I decided to just do it, I said to myself-I said, you know, this Russia thing with Trump and Russia is a made-up story. It's an excuse by the
-democrats for having lost an election that they should've won." 
+democrats for having lost an election that they should've won."
 [^489]: In response to a question about whether he was angry with Comey about the Russia
 investigation, the president said, "As far as I'm concerned, I want that thing to be absolutely done
 properly." 490 The president added that he realized his termination of Comey "probably maybe will
@@ -9318,24 +9378,24 @@ president affirmed that he expected the new FBI director to continue the Russia 
 tweeted, "Russia must be laughing up their sleeves watching as the U.S. tears itself apart over a
 democrat EXCUSE for losing the election ."49 4 The same day, the media reported that the
 president had demanded that Comey pledge his loyalty to the president in a private dinner shortly
- 
+
 [^484]: McGahn 12/12/17 302, at 16-17; Donaldson 11/6/17 302, at 26; see Dhillon 11/21/17 302, at
- 11. 
-[^485]: Donaldson 11/6/17 302, at 27. 48 
-[^6]: McGahn 12/12/17 302, at 17. 
-[^487]: Dhillon 11/21/17 302, at 11. 
-[^488]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 2. 
-[^489]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 2. 
-[^490]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 3. 
-[^491]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 3. 49 
-[^2]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 1, 5. 
-[^493]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 7. 
+ 11.
+[^485]: Donaldson 11/6/17 302, at 27. 48
+[^6]: McGahn 12/12/17 302, at 17.
+[^487]: Dhillon 11/21/17 302, at 11.
+[^488]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 2.
+[^489]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 2.
+[^490]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 3.
+[^491]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 3. 49
+[^2]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 1, 5.
+[^493]: interview with president Donald Trump, NBC (May 11, 2017) transcript, at 7.
 [^494]: @rea!DonaldTrump 5/11 /l 7 (4:34 p.m. ET) Tweet. after being sworn in .495 Late in the morning of May 12, 2017, the president tweeted, " Again, the
 story that there was collusion between the Russians & Trump campaign was fabricated by Dems
 as an excuse for losing the election. " 496 The president also tweeted, "James Comey better hope
 that there are no'tapes'of our conversations before he starts leaking to the press!" and "When
 James clapper himself, and virtually everyone else with knowledge of the witch hunt, says there
-is no collusion, when does it end? " 
+is no collusion, when does it end? "
 [^497]: analysis
 
 In analyzing the president's decision to fire Comey, the following evidence is relevant to
@@ -9364,8 +9424,8 @@ the potential to affect a successor director's conduct of the investigation. The
  president stated that he understood when he made the decision to fire Comey that the action might
  prolong the investigation. And the president chose McCabe to serve as interim director, even
  495 Michaels. Schmidt, In a private Dinner, Trump demanded loyalty. Camey demurred., New
- York Times (May 11, 2017). 
-[^496]: @realDonaldTrump 5/12/17 (7:51 a.m. ET) Tweet. 
+ York Times (May 11, 2017).
+[^496]: @realDonaldTrump 5/12/17 (7:51 a.m. ET) Tweet.
 [^497]: @realDonaldTrump 5/12/17 (8:26 a.m. ET) Tweet; @realDonaldTrump 5/12/17 (8:54 a.m. ET)
  Tweet. though McCabe told the president he had worked "very closely " with Comey and was part of all
 the decisions made in the Clinton investigation. b. Nexus to a proceeding. The nexus element would be satisfied by evidence showing
@@ -9447,7 +9507,7 @@ to personal and political concerns. although the president publicly stated durin
  hacks, and that Trump privately sought information about future WikiLeaks releases. 499 More
  broadly, multiple witnesses described the president's preoccupation with press coverage of the
  Russia investigation and his persistent concern that it raised questions about the legitimacy of his
- election. 
+ election.
 [^500]: finally, the president and White House aides initially advanced a pretextual reason to the
  press and the public for Comey's termination. In the immediate aftermath of the firing, the
  president dictated a press statement suggesting that he had acted based on the DOJ
@@ -9459,7 +9519,7 @@ to personal and political concerns. although the president publicly stated durin
  termination. The initial reliance on a pretextual justification could support an inference that the
  president had concerns about providing the real reason for the firing, although the evidence does
  not resolve whether those concerns were personal, political, or both.
- 
+
 ### E. The president's efforts to Remove the special counsel
 
 #### overview
@@ -9472,8 +9532,8 @@ to personal and political concerns. although the president publicly stated durin
  special counsel's service. department of justice ethics officials similarly cleared the special
  counsel's service. On June 14, 2017, the press reported that the president was being personally
  investigated for obstruction of justice and the president responded with a series of tweets
- 
-[^498]: See Volume II, section II.K. l, infra. 
+
+[^498]: See Volume II, section II.K. l, infra.
 [^499]: See Volume l, section ITLD.1,supra. 500 In addition to whether the president had a motive related to Russia-related matters that an FBI
  investigation could uncover, we considered whether the president's intent in firing Comey was connected
  to other conduct that could come to light as a result of the FBT's Russian-interference investigation. In
@@ -9510,19 +9570,19 @@ the appointment and said, "everyone tells me if you get one of these independent
 your presidency. It takes years and years and I won't be able to do anything. This is the worst
 thing that ever happened to me." 508
 
-50 
+50
 [^1]: Office of the Deputy attorney general, Order No. 3915-2017, appointment of special counsel
-to investigate Russian interference with the 2016 presidential election and related matters (May 17, 2017). 
+to investigate Russian interference with the 2016 presidential election and related matters (May 17, 2017).
 [^502]: sessions 1/17/18 302, at 13; Hunt_2/l/18 302, at 18; McGahn 12/14/17 302, at 4; Hunt-000039
 
-(Hunt 5/17/17 Notes). 
+(Hunt 5/17/17 Notes).
 [^503]: sessions 1/17/18 302, at 13; Hunt 2/1/18 302, at 18; McGahn 12/14/17 302, at 4; Hunt-000039
 
-(Hunt 5/17/17 Notes). 
-[^504]: Hunt-000039 (Hunt 5/17/17 Notes). 
-[^505]: Hunt-000039 (Hunt 5/17/17 Notes); sessions 1/17/18 302, at 13- 14. 
-[^506]: Hunt-000040; see sessions 1/17/18 302, at 14. 
-[^507]: sessions 1/17/18 302, at 14. 
+(Hunt 5/17/17 Notes).
+[^504]: Hunt-000039 (Hunt 5/17/17 Notes).
+[^505]: Hunt-000039 (Hunt 5/17/17 Notes); sessions 1/17/18 302, at 13- 14.
+[^506]: Hunt-000040; see sessions 1/17/18 302, at 14.
+[^507]: sessions 1/17/18 302, at 14.
 [^508]: Hunt-000040 (Hunt 5/17/17 Notes); see sessions 1/17/18 302, at 14. Early the next morning, the president tweeted, "This is the single greatest witch hunt of a politician in American history!"
 @realDonaldTrump 5/18/17 (7:52 a.m. ET) Tweet. The president then told sessions he should resign as attorney general. 509 sessions agreed
 to submit his resignation and left the Oval Office. 510 Hicks saw the president shortly after sessions
@@ -9549,22 +9609,22 @@ When Priebus and Bannon learned that the president was holding onto sessions's
 resignation letter, they became concerned that it could be used to influence the department of
 justice. 52 1 Priebus told sessions it was not good for the president to hav e the letter because it
 
-509 Hunt-000041 (Hunt 5/17/17 Notes); sessions 1/17/18 302, at 14. 5 
-[^10]: Hunt-000041 (Hunt 5/17/17 Notes); sessions 1/17/18 302, at 14. 5 
-[^11]: Hicks 12/8/17 302, at 21. 5 
+509 Hunt-000041 (Hunt 5/17/17 Notes); sessions 1/17/18 302, at 14. 5
+[^10]: Hunt-000041 (Hunt 5/17/17 Notes); sessions 1/17/18 302, at 14. 5
+[^11]: Hicks 12/8/17 302, at 21. 5
 [^12]: Hicks 12/8/17 302, at 21. The Access Hollywood tape was released on October 7, 2016, as
-discussed in Volume I, section III.D.1, supra. 5 
+discussed in Volume I, section III.D.1, supra. 5
 [^13]: McGahn 12/14/17 302, at 9; SCR015_000175-82 (undated Draft memoranda to White House
-Staff). 
+Staff).
 [^514]: McGahn 12/14/17 302, at 9; SCRO15_000175-82 (undated Draft memoranda to White House
-Staff). The White House counsel's Office had previously issued a document hold on February 27, 2017. SCRO15_000171 (2/17/17 memorandum from McGahn to executive Office of the president Staff). 
+Staff). The White House counsel's Office had previously issued a document hold on February 27, 2017. SCRO15_000171 (2/17/17 memorandum from McGahn to executive Office of the president Staff).
 [^515]: Hunt-000047 (Hunt 5/18/17 Notes); 5/18/17 Letter, sessions to president Trump (resigning as
-attorney general). 
-[^516]: Hunt-000047-49 (Hunt 5/18/17 Notes); sessions 1/17/18 302, at 14. 
-[^517]: Hunt-000047-49 (Hunt 5/18/17 Notes); sessions 1/17/18 302, at 14. 5 
-[^18]: Hunt-000048-49 (Hunt 5/18/17 Notes); sessions 1/17/ I 8 302, at 14. 
-[^519]: sessions 1/17/18 302, at 14. 
-[^520]: Hunt-000049 (Hunt 5/18/17 Notes). 
+attorney general).
+[^516]: Hunt-000047-49 (Hunt 5/18/17 Notes); sessions 1/17/18 302, at 14.
+[^517]: Hunt-000047-49 (Hunt 5/18/17 Notes); sessions 1/17/18 302, at 14. 5
+[^18]: Hunt-000048-49 (Hunt 5/18/17 Notes); sessions 1/17/ I 8 302, at 14.
+[^519]: sessions 1/17/18 302, at 14.
+[^520]: Hunt-000049 (Hunt 5/18/17 Notes).
 [^521]: Hunt-000050-51 (Hunt 5/18/17 Notes). would function as a kind of "shock collar" that the president could use anytime he wanted ; Priebus
 said the president had "DOJ by the throat." 522 Priebus and Bannon told sessions they would
 attempt to get the letter back from the president with a notation that he was not accepting
@@ -9583,18 +9643,18 @@ interest. 528 The president cited as conflicts that Mueller had interviewed for 
 position sho11ly before being appointed as special counsel, that he had worked for a law firm that
 represented people affiliated with the president, and that Mueller had disputed certain fees relating
 to his membership in a Trump golf course in northern virginia. 529 The president's advisors pushed
- 
-[^522]: Hunt-000050 (Hunt 5/18/17 Notes); Priebus 10/13/17 302, at 21; Hunt 2/1/18 302, at 21. 
-[^523]: Hunt-000051 (Hunt 5/18/17 Notes). 
-[^524]: SCR026_000110 (president's Daily Diary, 5/19/17). 52 
+
+[^522]: Hunt-000050 (Hunt 5/18/17 Notes); Priebus 10/13/17 302, at 21; Hunt 2/1/18 302, at 21.
+[^523]: Hunt-000051 (Hunt 5/18/17 Notes).
+[^524]: SCR026_000110 (president's Daily Diary, 5/19/17). 52
 [^5]: Hicks 12/8/17 302, at 22. 526 Priebus 10/13/17 302, at 21. Hunt's notes state that when Priebus returned from the trip, Priebus
  told Hunt that the president was supposed to have given him the letter, but when he asked for it, the
- president "slapped the desk" and said he had forgotten it back at the hotel. Hunt-000052 (Hunt Notes, undated). 
+ president "slapped the desk" and said he had forgotten it back at the hotel. Hunt-000052 (Hunt Notes, undated).
 [^527]: Hunt-000052-53 (Hunt 5/30/17 Notes); 5/18/17 Letter, sessions to president Trump (resignation
  letter). Robert Porter, who was the White House Staff secretary at the time, said that in the days after the
  president returned from the Middle East trip, the Presidenttook sessions's letter out ofa drawer in the Oval
  Office and showed it to Porter. Porter 4/13/18 302, at 8. 528 Priebus 1/18/18 302, at 12; Bannon 2/14/18 302, at 10; McGahn 3/8/18 302, at I; McGahn
- 12/14/17 302, at 10; Bannon 10/26/18 302, at 12. 
+ 12/14/17 302, at 10; Bannon 10/26/18 302, at 12.
 [^529]: Priebus 1/18/18 302, at 12; Bannon 2/14/18 302, at JO. In October 2011, Mueller resigned his
  family's membership from Trump national Golf Club in sterling, virginia, in a letter that noted that "we
  live in the district and find that we are unable to make full use of the Club" and that inquired "whether we
@@ -9610,7 +9670,7 @@ again, he did not come in looking for the job. 533 Bannon also told the presiden
 position did not amount to a conflict in the legal community. 534 And Bannon told the president
 that the golf course dispute did not rise to the level of a conflict and claiming one was "ridiculous
 and petty ." 535 The president did not respond when Bannon pushed back on the stated conflicts of
-interest. 
+interest.
 [^536]: On May 23, 2017, the department of justice announced that ethics officials had determined
 that the special counsel's prior law firm position did not bar his service, generating media reports
 that Mueller had been cleared to serve. 537 McGahn recalled that around the same time, the
@@ -9623,28 +9683,28 @@ the issue with his personal attorney but it would "look like still trying to med
 investigation " and "knocking out Mueller " would be "\[a\]nother fact used to claim obst\[ruction\] of
 documents. 10/27/11 Letter, Muellers to Trump national Golf Club. The Muellers have not had further
 contact with the club. ·
- 
+
 [^530]: Priebus 4/3/18 302, at 3; Bannon I 0/26/18 302, at 13 (confirming that he, Priebus, and McGahn
-pushed back on the asserted conflicts). 
-[^531]: Bannon I 0/26/18 302, at 12-13. 
-[^532]: Bannon 10/26/18 302, at 12. 
-[^533]: Bannon 10/26/18 302, at 12. 
-[^534]: Bannon 10/26/18 302, at 12. 
-[^535]: Bannon 10/26/18 302, at 13. 
-[^536]: Bannon 10/26/18 302, at 12. 
+pushed back on the asserted conflicts).
+[^531]: Bannon I 0/26/18 302, at 12-13.
+[^532]: Bannon 10/26/18 302, at 12.
+[^533]: Bannon 10/26/18 302, at 12.
+[^534]: Bannon 10/26/18 302, at 12.
+[^535]: Bannon 10/26/18 302, at 13.
+[^536]: Bannon 10/26/18 302, at 12.
 [^537]: Matt Zapoto sky & Matea Gold, justice department ethics experts clear Mueller to lead Russia
-probe, Washington Post (May 23, 2017). 538 McGahn 3/8/18 302, at I; McGahn 12/14/17 302, at 10; Priebus 1/18/18 302, at 12. 
+probe, Washington Post (May 23, 2017). 538 McGahn 3/8/18 302, at I; McGahn 12/14/17 302, at 10; Priebus 1/18/18 302, at 12.
 [^539]: McGahn 3/8/18 302, at 1. McGahn and Donaldson said that after the appointment of the special
  counsel, they considered themselves potential fact witnesses and accordingly told the president that
  inquiries related to the investigation should be brought to his personal counsel. McGahn 12/14/17 302, at
- 7; Donaldson 4/2/18 302, at 5. 
+ 7; Donaldson 4/2/18 302, at 5.
 [^540]: SC_AD_00361 (Donaldson 5/3 1/17No tes). just\[ice\]." 541 McGahn told the president that his "biggest exposure" was not his act of firing
  Comey but his "other contacts" and "calls," and his "ask re: Flynn." 542 By the time McGahn
  provided this advice to the president, there had been widespread reporting on the president's
  request for Comey's loyalty, which the president publicly denied ; his request that Comey "let\[\]
  Flynn go," which the president also denied; and the president's statement to the Russian foreign
  minister that the termination of Comey had relieved "great pressure " related to Russia, which the
- president did not deny. 
+ president did not deny.
 [^543]: On June 8, 2017, Comey testified before congress about his interactions with the president
  before his termination, including the request for loyalty, the request that Comey " let\[\] Flynn go,"
  and the request that Comey "lift the cloud" over the presidency caused by the ongoing
@@ -9653,24 +9713,24 @@ probe, Washington Post (May 23, 2017). 538 McGahn 3/8/18 302, at I; McGahn 12/14
  counsel's Office that investigators intended to interview intelligence community officials who had
  allegedly been asked by the president to pushback against the Russia investigation. On Monday, June 12, 2017, Christopher Ruddy, the chief executive ofNewsmax Media
  and a longtime friend of the president's, met at the White House with Priebus and Bannon. Ruddy recalled that they told him the president was strongly considering firing the special counsel
- 
-[^541]: SC_AD_00361 (Donaldson 5/31/17Notes). 
+
+[^541]: SC_AD_00361 (Donaldson 5/31/17Notes).
 [^542]: SC AD 00361 (Donaldson 5/3 1/ 17 Notes). 543 See, e.g., Michaels. Schmidt, In a private Dinner, Trump demanded loyalty. Comey
  demurred., New York Times (May 11, 2017); Michaels. Schmidt, Comey memorandum Says Trump
  Asked Him to End Flynn investigation, New York Times (May 16, 2017); Matt Apuzzo et al., Trump Told
- Russians That Firing'Nut Job'Comey Eased pressure From investigation, New York Times (May 19, 2017). 
+ Russians That Firing'Nut Job'Comey Eased pressure From investigation, New York Times (May 19, 2017).
 [^544]: hearing on Russian election interference Before the Senate Select intelligence committee, I 15th Cong. (June 8, 2017) (statement for the Record of James B. Comey, former director of the FBI, at
- 5-6). Comey testified that he deliberately caused his memorandum documenting the February 14, 
+ 5-6). Comey testified that he deliberately caused his memorandum documenting the February 14,
 [^2017]: meeting to be leaked to the New York Times in response to a tweet from the president, sent on May 12, 2017, that stated "James Comey better hope that there are no'tapes'of our conversations before he starts
  leaking to the press!," and because he thought sharing the memorandum with a reporter "might prompt the
  appointment of a special counsel." hearing on Russian election interference Before the Senate Select
- intelligence committee, 115th Cong. (June 8, 2017) (CQ Cong. transcripts, at 55) (testimony by James B. Comey, former director of the FBI). 
+ intelligence committee, 115th Cong. (June 8, 2017) (CQ Cong. transcripts, at 55) (testimony by James B. Comey, former director of the FBI).
 [^545]: See, e.g., Matt Zapotosky, Comey lays out the case that Trump obstructed justice, Washington
  Post (June 8, 2017) ("Legal analysts said Comey's testimony clarified and bolstered the case that the
  president obstructed justice."). 546 6/9/17 Email, special counsel's Office to the White House counsel's Office. This Office made
  the notification to give the White House an opportunity to invoke executive privilege in advance of the
  interviews. On June 12, 2017, the special counsel's Office interviewed admiral Rogers in the presence of
- agency counsel. Rogers 6/12/17 302, at I. On June 13, the special counsel's Office interviewed Ledgett. Ledgett 6/13/17 302, at I. On June 14, the Office interviewed Coats and other personnel from his office. Coats 6/14/17 302, at 1; Gistaro 6/14/17 302, at I; Culver 6/14/17 302, at I. 
+ agency counsel. Rogers 6/12/17 302, at I. On June 13, the special counsel's Office interviewed Ledgett. Ledgett 6/13/17 302, at I. On June 14, the Office interviewed Coats and other personnel from his office. Coats 6/14/17 302, at 1; Gistaro 6/14/17 302, at I; Culver 6/14/17 302, at I.
 [^547]: Ruddy 6/6/18 302, at 5. and that he would do so precipitously, without vetting the decision through administration
 officials. 548 Ruddy asked Priebus if Ruddy could talk publicly about the discussion they had about
 the special counsel, and Priebus said he could .549 Priebus told Ruddy he hoped another blow up
@@ -9679,37 +9739,37 @@ stated in a televised interview that the president was "considering perhaps term
 counsel" based on purported conflicts of interest. 551 Ruddy later told another news outlet that
 "Trump is definitely considering" terminating the special counsel and "it's not something that's
 being dismissed." 552 Ruddy's comments led to extensive coverage in the media that the president
-was considering firing the special counsel. 
+was considering firing the special counsel.
 [^553]: White House officials were unhappy with that press coverage and Ruddy heard from
 friends that the president was upset with him. 554 On June 13, 2017, sanders asked the president
 for guidance on how to respond to press inquiries about the possible firing of the special
 counsel. 555 The president dictated an answer, which sanders delivered, saying that " \[w\]hile the
-president has every right to" fire the special counsel, "he has no intention to do so." 
+president has every right to" fire the special counsel, "he has no intention to do so."
 [^556]: Also on June 13, 2017, the president's personal counsel contacted the special counsel's
 Office and raised concerns about possible conflicts. 557 The president's counsel cited Mueller's
 previous partnership in his law firm, his interview for the FBI director position, and an asserted
 personal relationship he had with Comey. 558 That same day, Rosenstein had testified publicly
 before congress and said he saw no evidence of good cause to terminate the special" counsel, including for conflicts of interest. 559 Two days later, on June 15, 2017, the special counsel's
- 
-[^548]: Ruddy 6/6/18 302, at 5-6. 
-[^549]: Ruddy 6/6/ l 8 302, at 6. 
-[^550]: Ruddy 6/6/18 302, at 6. 
+
+[^548]: Ruddy 6/6/18 302, at 5-6.
+[^549]: Ruddy 6/6/ l 8 302, at 6.
+[^550]: Ruddy 6/6/18 302, at 6.
 [^551]: Trump confidant Christopher Ruddy says Mueller has "real conflicts" as special counsel, PBS
 (June 12, 2017); Michael D. Shear & Maggie Haberman, Friend Says Trump ls considering Firing Mueller
-as special counsel, New York Times (June 12, 2017). 552 Katherine Faulders & veronica Stracqualursi, Trump friend Chris Ruddy says Sp icer's'bizarre'statement doesn't deny claim Trump seeking Mueller firing, ABC (June 13, 2017). 
+as special counsel, New York Times (June 12, 2017). 552 Katherine Faulders & veronica Stracqualursi, Trump friend Chris Ruddy says Sp icer's'bizarre'statement doesn't deny claim Trump seeking Mueller firing, ABC (June 13, 2017).
 [^553]: See, e.g., Michael D. Shear & Maggie Haberman, Friend Says Trump ls considering Firing
-Mueller as special counsel, New York Times (June 12, 2017). 
-[^554]: Ruddy 6/6/18 302, at 6-7. 
+Mueller as special counsel, New York Times (June 12, 2017).
+[^554]: Ruddy 6/6/18 302, at 6-7.
 [^555]: sanders 7/3/18 302, at 6-7. 556 Glenn Thrush et al., Trump Stews, Staff Steps In, and Mueller Is Safe for Now, New York Times
  (June 13, 2017); see sanders 7/3/18 302, at 6 (sanders spoke with the president directly before speaking to
-the press on Air Force One and the answer she gave is the answer the president told her to give). 
-[^557]: special counsel's Office attorney 6/13/17 Notes. 
-[^558]: special counsel's Office attorney 6/13/17 Notes. 
+the press on Air Force One and the answer she gave is the answer the president told her to give).
+[^557]: special counsel's Office attorney 6/13/17 Notes.
+[^558]: special counsel's Office attorney 6/13/17 Notes.
 [^559]: hearing on Fiscal 2018 justice department Budget before the Senate appropriations
 subcommittee on commerce, justice, and science, 115th Cong. (June 13, 2017) (CQ Cong. transcripts, at
  14) (testimony by Rod Rosenstein, Deputy attorney general). Office informed the Acting attorney general's office about the areas of concern raised by the
 president's counsel and told the president's counsel that their concerns had been communicated to
-Rosenstein so that the department of justice could take any appropriate action. 
+Rosenstein so that the department of justice could take any appropriate action.
 [^560]: 3. The Press reports that the president is Being investigated for obstruction of
  justice and the president directs the White House counsel to Have the special
  counsel removed
@@ -9735,16 +9795,16 @@ obstruction of justice on the phony story. Nice"; 566 "You are witnessing the si
 HUNT in American political history-led by some very bad and conflicted people! "; and
 "crooked H destroyed phones w/ hammer,'bleached'emails, & had husband meet w/AG day s
 
-[^560]: special counsel's Office attorney 6/15/17 Notes. 
-[^561]: Devlin Barrett et al., special counsel is investigating Trump for possible obstruction of justice, officials say, Washington Post (June 14, 2017). 
+[^560]: special counsel's Office attorney 6/15/17 Notes.
+[^561]: Devlin Barrett et al., special counsel is investigating Trump for possible obstruction of justice, officials say, Washington Post (June 14, 2017).
 [^562]: CNN, for example, began running a chyron at 6:55 p.m. that stated: "WASH POST: MUELLER
 investigating TRUMP FOR obstruction OF justice." CNN, (June 14, 2017, published
-online at 7: 15 p.m. ET). 
+online at 7: 15 p.m. ET).
 [^563]: Devlin Barrett et al., special counsel is investigating Trump for possible obstruction of justice, officials say, Washington Post (June 14, 2017). 564 SCR026_000183 (president's Daily Diary, 6/14/17) (reflecting call from the president to
 McGahn on 6/14/17 with start time 10:31 p.m. and end time 10:46 p.m.); Call records of Don McGahn. 565 McGahn 2/28/19 302, at 1-2. McGahn thought he and the president also probably talked about
  the investiture ceremony for supreme Court justice Neil Gorsuch, which was scheduled for the following
- day. McGahn 2/28/18 302, at 2. 
-[^566]: @rea!DonaldTrump 6/15/ l 7 (6:55 a.m. ET) Tweet. 
+ day. McGahn 2/28/18 302, at 2.
+[^566]: @rea!DonaldTrump 6/15/ l 7 (6:55 a.m. ET) Tweet.
 [^567]: @realDonaldTrump 6/15/17 (7:57 a.m. ET) Tweet. before she was cleared - & they talk about obstruction?" 568 The next day, June 16, 2017, the
 president wrote additional tweets criticizing the investigation: "After 7 months of investigations
 & committee hearings about my'collusion with the Russians,'nobody has been able to show any
@@ -9767,13 +9827,13 @@ White House counsel's Office should not be involved in any effort to press the i
 McGahn was concerned about having any role in asking the Acting attorney general to fire the
 special counsel because he had grownup in the Reagan era and wanted to be more like Judge
 
-[^568]: @realDonaldTrump 6/15/17 (3:56 p.m. ET) Tweet. 
-[^569]: @rea!DonaldTrump 6/16/17 (7:53 a.m. ET) Tweet. 
-[^570]: @realDonaldTrump 6/16/17 (9:07 a.m. ET) Tweet. 
-[^571]: McGahn 3/8/18 302, at 1-2; McGahn 12/14/17 302, at 10. 
+[^568]: @realDonaldTrump 6/15/17 (3:56 p.m. ET) Tweet.
+[^569]: @rea!DonaldTrump 6/16/17 (7:53 a.m. ET) Tweet.
+[^570]: @realDonaldTrump 6/16/17 (9:07 a.m. ET) Tweet.
+[^571]: McGahn 3/8/18 302, at 1-2; McGahn 12/14/17 302, at 10.
 [^572]: McGahn 3/8/18 302, at I, 3; SCR026_000196 (president's Daily Diary, 6/17/17) (records
 showing president departed the White House at 11:07 a.m. on June 17, 2017, and arrived at Camp David at
- 11:37 a.m.). 
+ 11:37 a.m.).
 [^573]: McGahn 3/8/ l 8 302, at 1-2; McGahn 12/14/17 302, at I 0. Phone records show that the president
 called McGahn in the afternoon on June 17, 2017, and they spoke for approximately 23 minutes. SCR026_000196 (president's Daily Diary, 6/17/17) (reflecting call from the president to McGahn on
 6/17/17 with start time 2:23 p.m. and end time 2:46 p.m.); (Call records of Don McGahn). Phone records
@@ -9783,11 +9843,11 @@ that the first call instead occurred on June 14, 2017, shortly after the press r
  under investigation for obstruction of justice. McGahn 2/28/19 302, at 1-3. While McGahn was not certain
  of the specific dates of the calls, McGahn was confident that he had at least two phone conversations with
 the president in which the.president directed him to call the Acting attorney general to have the special
- counsel removed. McGahn 2/28/19 302, at 1-3. 
-[^574]: McGahn 3/8/18 302, at I. 
-[^575]: McGahn 3/8/18 302, at 1. 
-[^576]: McGahn 3/8/18 302, at 1. 
-[^577]: McGahn 3/8/ I 8 302, at 1-2. 
+ counsel removed. McGahn 2/28/19 302, at 1-3.
+[^574]: McGahn 3/8/18 302, at I.
+[^575]: McGahn 3/8/18 302, at 1.
+[^576]: McGahn 3/8/18 302, at 1.
+[^577]: McGahn 3/8/ I 8 302, at 1-2.
 [^578]: McGahn 3/8/18 302, at 1-2. Robert Bork and not " Saturday Night massacre Bork." 579 McGahn considered the president's
 request to be an inflection point and he wanted to hit the brakes. When the president called McGahn a second time to followup on the order to call the
 department of justice, McGahn recalled that the president was more direct, saying something like, "Call Rod, tell Rod that Mueller has conflicts and can't be the special counsel." McGahn
@@ -9805,18 +9865,18 @@ that McGahn did not want to do. 590 McGahn told Donaldson that the president had
 twice and in one of the calls asked "have you done it?" 591 McGahn did not tell Donaldson the
 specifics of the president's request because he was consciously trying not to involve her in the
 
-[^579]: McGahn 3/8/18 302, at 2. 
-[^580]: McGahn 3/8/18 302, at 2. 
-[^581]: McGahn 3/8/18 302, at 5. 
-[^582]: McGahn 3/8/18 302, at 2, 5; McGahn 2/28/19 302, at 3. 
-[^583]: McGahn 3/8/18 302, at 1-2, 5. 
-[^584]: McGahn 3/8/18 302, at 2. 
-[^585]: McGahn 2/28/19 302, at 3; McGahn 3/8/18 302, at 2. 
-[^586]: McGahn 3/8/18 302, at 2. 
+[^579]: McGahn 3/8/18 302, at 2.
+[^580]: McGahn 3/8/18 302, at 2.
+[^581]: McGahn 3/8/18 302, at 5.
+[^582]: McGahn 3/8/18 302, at 2, 5; McGahn 2/28/19 302, at 3.
+[^583]: McGahn 3/8/18 302, at 1-2, 5.
+[^584]: McGahn 3/8/18 302, at 2.
+[^585]: McGahn 2/28/19 302, at 3; McGahn 3/8/18 302, at 2.
+[^586]: McGahn 3/8/18 302, at 2.
 [^587]: McGahn 3/8/18 302, at 2. 588 McGahn 3/8/18 302, at 2-3; McGahn 2/28/19 302, at 3; Donaldson 4/2/18 302, at 4; Call records
- of Don McGahn. 
-[^589]: McGahn 3/8/18 302, at 2; Donaldson 4/2/ l 8 302, at 4. 
-[^590]: Donaldson 4/2/18 302, at 4. 
+ of Don McGahn.
+[^589]: McGahn 3/8/18 302, at 2; Donaldson 4/2/ l 8 302, at 4.
+[^590]: Donaldson 4/2/18 302, at 4.
 [^591]: Donaldson 4/2/18 302, at 4. investigation, but Donaldson inferred that the president's directive was related to the Russia
 investigation. 592 Donaldson prepared to resign along with McGahn. 593
 
@@ -9834,7 +9894,7 @@ with calling Rosenstein. 598
 Around the same time, Chris christie recalled a telephone _call with the president in which
 the president asked what christie thought about the president firing the special counsel. christie advised against doing so because there was no substantive basis for the president to fire
 the special counsel, and because the president would lose support from republicans in congress
-if he did so. 
+if he did so.
 [^600]: analysis
 
 In analyzing the president's direction to McGahn to have the special counsel removed, the following evidence is relevant to the elements of obstruction of justice:
@@ -9844,19 +9904,19 @@ the special counsel would qualify as an obstructive act if it would naturally ob
 
 [^592]: McGahn 2/28/19 302, at 3-4; Donaldson 4/2/18 302, at 4-5. Donaldson said she believed
 McGahn consciously did not share details with her because he did not want to drag her into the
-investigation. Donaldson 4/2/18 302, at 5; see McGahn 2/28/19 302, at 3. 
-[^593]: Donaldson 4/2/18 302, at 5. 
+investigation. Donaldson 4/2/18 302, at 5; see McGahn 2/28/19 302, at 3.
+[^593]: Donaldson 4/2/18 302, at 5.
 [^594]: McGahn 12/14/17 302, at IO; Call records of Don McGahn ; McGahn 2/28/19 302, at 3-4;
-Priebus 4/3/18 302, at 6-7. 
+Priebus 4/3/18 302, at 6-7.
 [^595]: McGahn 2/28/19 302, at 4. Priebus and Bannon confirmed that McGahn did not tell them the
-specific details of the president's request. Priebus 4/3/18 302, at 7; Bannon 2/14/18 302, at 10. 
-[^596]: Priebus 4/3/18 3 02, at 7. 
-[^597]: McGahn 3/8/18 302, at 3; McGahn 2/28/19 302, at 3-4. 
-[^598]: McGahn 3/8/18 302, at 3. 
+specific details of the president's request. Priebus 4/3/18 302, at 7; Bannon 2/14/18 302, at 10.
+[^596]: Priebus 4/3/18 3 02, at 7.
+[^597]: McGahn 3/8/18 302, at 3; McGahn 2/28/19 302, at 3-4.
+[^598]: McGahn 3/8/18 302, at 3.
 [^599]: christie 2/13/ I9 302, at 7. christie did not recall the precise date of this call, but believed it was
  after Christopher Wray was announced as the nominee to be the new FBI director, which was on June 7, 2017. christie 2/13/19 302, at 7. telephone records show that the president called christie twice after that
-time period, on July 4, 2017, and July 14, 2017. Call records of Chris christie. 
-[^60]: °christie 2/13/19 302, at 7. investigation and any grand jury proceedings that might flow from the inquiry. Even if the removal
+time period, on July 4, 2017, and July 14, 2017. Call records of Chris christie.
+[^600]: christie 2/13/19 302, at 7. investigation and any grand jury proceedings that might flow from the inquiry. Even if the removal
 of the lead prosecutor would not prevent the investigation from continuing under a new appointee, a factfinder would need to consider whether the act had the potential to delay further action in the
 investigation, chill the actions of any replacement special counsel, or otherwise impede the
 investigation. A threshold question is whetherthe president in fact directed McGahn to have the special
@@ -9992,17 +10052,17 @@ Now a group of people want to subvert the constitution of the United States. T a
 
 to meet with the special prosecutor to explain this is very unfair and let the special
  prosecutor move forward with investigating election meddling for future elections so that
- nothing can happen in future elections. 6 
+ nothing can happen in future elections. 6
 [^10]: 604 Kelly 8/2/18 302, at 7; Dearborn 6/20/18 302, at 1 (describing Lewandowski as a "comfort to
 the president" whose loyalty was appreciated). Kelly said that when he was Chief of Staff and the president
  had meetings with friends like Lewandowski, Kelly tried not to be there and to push the meetings to the
- residence to create distance from the West Wing. Kelly 8/2/18 302, at 7. 
-[^605]: Lewandowski 4/6/18 302, at 2. 
-[^606]: Lewandowski 4/6/18 302, at 2. 
-[^607]: Lewandowski 4/6/18 302, at 2. 
+ residence to create distance from the West Wing. Kelly 8/2/18 302, at 7.
+[^605]: Lewandowski 4/6/18 302, at 2.
+[^606]: Lewandowski 4/6/18 302, at 2.
+[^607]: Lewandowski 4/6/18 302, at 2.
 [^608]: Lewandowski 4/6/18 302, at 3. 609 Lewandowski 4/6/18 302, at 2-3; Lewandowski 6/19/17 Notes, at 1-2. 610 Lewandowski 4/6/18 302, at 3; Lewandowski 6/19/17 Notes, at 3. The president said that if sessions delivered that statement he would be the "most popular guy in
 the country." 6 11 Lewandowski told the president he understood what the president wanted sessions
-to do. 6 
+to do. 6
 [^12]: Lewandowski wanted to pass the message to sessions in person rather than over the
 
 613
@@ -10014,28 +10074,28 @@ meeting for the following evening at Lewandowski's office, but sessions had to c
 last minute conflict. 6 15 shortly thereafter, Lewandowski left Washington, D .C., without having
 had an opportunity to meet with sessions to convey the president's message .6 16 Lewandowski
 stored the notes in a safe at his home, which he stated was his standard procedure with sensitive
-items. 
+items.
 [^617]: 2. The president follows Up with Lewandowski
  following his June meeting with the president, Lewandowski contacted Rick Dearborn, then a senior White House official, and asked if Dearborn could pass a message to sessions. Dearborn agreed without knowing what the message was, and Lewandowski later confirmed that
 Dearborn would meet with sessions for dinner in late July and could deliver the message then. Lewandowski recalled thinking that the president had asked him to pass the message because the
 president knew Lewandowski could be trusted, but Lewandowski believed Dearborn would be a
 better messenger because he had a longstanding relationship with sessions and because Dearborn
-was in the government while Lewandowski was not. 
+was in the government while Lewandowski was not.
 [^620]: On July 19, 2017, the president again met with Lewandowski alone in the Oval Office. 621
 
 In the preceding days, as described in Volume IT, section ILG, infra, emails and other information
 about the June 9, 2016 meeting between several Russians and Donald Trump Jr., Jared Kushner, and Paul Manafort had been publicly disclosed. In the July 19 meeting with Lewandowski, the
- 
-[^611]: Lewandowski 4/6/18 302, at 3; Lewandowski 6/19/17 Notes, at 4. 
-[^612]: Lewandowski 4/6/18 302, at 3. 
-[^613]: Lewandowski 4/6/18 302, at 3-4. 
-[^614]: Lewandowski 4/6/18 302, at 4. 6 
-[^15]: Lewandowski 4/6/18 302, at 4. 6 
-[^16]: Lewandowski 4/6/18 302, at 4. 
-[^617]: Lewandowski 4/6/18 302, at 4. 
-[^618]: Lewandowski 4/6/18 302, at 4; see Dearborn 6/20/18 302, at 3. 
-[^619]: Lewandowski 4/6/18 302, at 4-5. 
-[^620]: Lewandowski 4/6/18 302, at 4, 6. 
+
+[^611]: Lewandowski 4/6/18 302, at 3; Lewandowski 6/19/17 Notes, at 4.
+[^612]: Lewandowski 4/6/18 302, at 3.
+[^613]: Lewandowski 4/6/18 302, at 3-4.
+[^614]: Lewandowski 4/6/18 302, at 4. 6
+[^15]: Lewandowski 4/6/18 302, at 4. 6
+[^16]: Lewandowski 4/6/18 302, at 4.
+[^617]: Lewandowski 4/6/18 302, at 4.
+[^618]: Lewandowski 4/6/18 302, at 4; see Dearborn 6/20/18 302, at 3.
+[^619]: Lewandowski 4/6/18 302, at 4-5.
+[^620]: Lewandowski 4/6/18 302, at 4, 6.
 [^621]: Lewandowski 4/6/18 302, at 5; SCR029b_000002-03 (6/5/18 additional response to special
  counsel request for certain visitor Log information). president raised his previous request and asked if Lewandowski had talked to sessions. 622
 
@@ -10064,18 +10124,18 @@ job, and I would have picked somebody else." 631 sessions's recusal, the preside
 unfair to the president. How do you take a job and then recuse yourself? Ifhe would have recused
 himself before the job, I would have said,'Thanks, Jeff, but I can't, you know, I'm not going to
 
-[^622]: Lewandowski4/6/18 302, at 5. 
-[^623]: Lewandowski4/6/18 302, at 5. 
+[^622]: Lewandowski4/6/18 302, at 5.
+[^623]: Lewandowski4/6/18 302, at 5.
 [^624]: Lewandowski 4/6/18 302, at 6. Priebus vaguely recalled Lewandowski telling him that in
  approximatelyMay or June 2017 the president had asked Lewandowski to get sessions's resignation. Priebus recalled that Lewandowskidescribedhis reaction as somethinglike, "What can I do? I'm not an
- employeeof the administration. I'm a nobody." Priebus4/3/18 302, at 6. 
+ employeeof the administration. I'm a nobody." Priebus4/3/18 302, at 6.
 [^625]: Lewandowski4/6/18 302, at 5. Lewandowski said he asked Hope Hicks to type the notes when
  he went in to the Oval Office, and he then retrieved the notes from her partway through his meeting with
-the president. Lewandowski4/6/18 302, at 5. 
-[^626]: Lewandowski4/6/18 3 02, at 5; Dearborn6/20/18 3 02, at 3. 
-[^627]: Dearborn6/20/18 302, at 3. 
-[^628]: Dearborn6/20 / t 8 302, at 3. 
-[^629]: Dearborn 6/20/18 302, at 3-4. 
+the president. Lewandowski4/6/18 302, at 5.
+[^626]: Lewandowski4/6/18 3 02, at 5; Dearborn6/20/18 3 02, at 3.
+[^627]: Dearborn6/20/18 302, at 3.
+[^628]: Dearborn6/20 / t 8 302, at 3.
+[^629]: Dearborn 6/20/18 302, at 3-4.
 [^630]: Peter Baker et al., excerpts From The Times's interview With Trump, New York Times (July
  19, 2017). 63 1 Peter Baker et al., excerpts From The Times's interview With Trump, New York Times (July
  19,2017). material Preteetee UHeer Fee. R. Crim.. P. 6(e)
@@ -10090,7 +10150,7 @@ would not meet with him. 635 As Hicks remembered the conversation, Lewandowski t
 president had recently asked him to meet with sessions and deliver a message that he needed to
 do the "right thing" and resign. 636 While Hicks and Lewandowski were together, the president
 called Hicks and told her he was happy with how coverage of his New York Times interview
-criticizing sessions was playing out. 
+criticizing sessions was playing out.
 [^637]: 4. The president Orders Priebus to Demand sessions's resignation
  Three days later, on July 21, 2017, the Washington Post repo1ted that U.S. intelligence
  intercepts showed that sessions had discussed campaign-related matters with the Russian
@@ -10101,21 +10161,21 @@ Hunt when the media had reported on tensions between sessions and the president,
 wanted to remove sessions because sessions was not going to quit. 640 according to Hunt, who
 took contemporaneous notes of the July 21 call, Hunt told Priebus that, as they had previously
  discussed, sessions had no intention ofresigning. 641 Hunt asked Priebus what the president would
- 
+
 [^632]: Peter Baker et al., excerpts From The Times's interview With Trump, New York Times (July
- 19, 2017). 
-[^633]: Hicks 12/8/17 302, at 23. 
-[^634]: Hicks 3/13/18 302, at 10; Lewandowski 4/6/18 302, at 6. 
-[^635]: Lewandowski 4/6/18 302, at 6. 
+ 19, 2017).
+[^633]: Hicks 12/8/17 302, at 23.
+[^634]: Hicks 3/13/18 302, at 10; Lewandowski 4/6/18 302, at 6.
+[^635]: Lewandowski 4/6/18 302, at 6.
 [^636]: Hicks 3/13/18 302, at l 0. Hicks thought that the president might be able to make a recess
  appointment of a new attorney general because the Senate was about to go on recess. Hicks 3/13/18 302, at I 0. Lewandowski recalled that in the afternoon of July 19, 2017, following his meeting with the
- president, he conducted research on recess appointments but did not share his research with the president. Lewandowski 4/6/18 302, at 7. 
-[^637]: Lewandowski 4/6/18 302, at 6. 
+ president, he conducted research on recess appointments but did not share his research with the president. Lewandowski 4/6/18 302, at 7.
+[^637]: Lewandowski 4/6/18 302, at 6.
 [^638]: Adam Entous et al., sessions discussed Trump campaign-related matters with Russian
  ambassador, US. intelligence intercepts show, Washington Post (July 21, 2017). The underlying events
- concerning the sessions-Kislyak contacts are discussed in Volume I, section IV.A.4.c, supra. 
-[^639]: Hunt 2/1118 302, at 23. 
-[^640]: Hunt 2/1/18 302, at 23. 
+ concerning the sessions-Kislyak contacts are discussed in Volume I, section IV.A.4.c, supra.
+[^639]: Hunt 2/1118 302, at 23.
+[^640]: Hunt 2/1/18 302, at 23.
 [^641]: Hunt 2/1/18 302, at 23-24 ; Hunt 7/21/17 Notes, at 1. accomplish by firing sessions, pointing out there was an investigation before and there would be
 an investigation after .
 [^642]: Early the following morning, July 22, 2017, the president tweeted, "A new
@@ -10128,7 +10188,7 @@ the negative publicity was not tolerable. 646 according to contemporaneous notes
 and that sessions had " no choice" but "must immediately resign." 647 Priebus replied that if they
 fired sessions, they would never get a new attorney general confirmed and that the department
 of justice and congress would turn their backs on the president, but the president suggested he
-could make a recess appointment to replace sessions. 
+could make a recess appointment to replace sessions.
 [^648]: Priebus believed that the president's request was a problem, so he called McGahn and
 asked for advice, explaining that he did not want to pull the trigger on something that was "all
 wrong. " 649 although the president tied his desire for sessions to resign to sessions's negative
@@ -10137,14 +10197,14 @@ desire to replace sessions was driven by the president's hatred of sessions's re
 Russia investigation. 650 McGahn told Priebus not to follow the president's order and said they
 should consult their personal counsel, with whom they had attorney-client privilege. 65 1 McGahn
 
-[^642]: Hunt 2/1/18 302, at 23-24 ; Hunt 7/21/17 Notes, at 1-2. 
-[^643]: @realDonaldTrump 7/22/17 (6:33 a.m. ET) Tweet. 
-[^644]: @realDonaldTrJ.!mp7/22/17 (7:44 a.m. ET) Tweet. Three minutes later, the president tweeted, "What about all of the Clinton ties to Russia, including Podesta company, uranium deal, Russian Reset, big dollar speeches etc." @realDonaldTrump 7/22/17 (7:47 a.m. ET) Tweet. 
-[^645]: Priebus 1/18/18 302, at 13-14. 
-[^646]: Priebus 1/18/18 302, at 14; Priebus 4/3/18 302, at 4-5; see RP_ 000073 (Priebus 7/22/17 Notes). 
-[^647]: RP_000073 (Priebus 7/22/17 Notes). 64 
-[^8]: Priebus 4/3/18 302, at 5. 
-[^649]: Priebus 1/18/18 302, at 14; Priebus 4/3/18 302, at 4-5. 
+[^642]: Hunt 2/1/18 302, at 23-24 ; Hunt 7/21/17 Notes, at 1-2.
+[^643]: @realDonaldTrump 7/22/17 (6:33 a.m. ET) Tweet.
+[^644]: @realDonaldTrJ.!mp7/22/17 (7:44 a.m. ET) Tweet. Three minutes later, the president tweeted, "What about all of the Clinton ties to Russia, including Podesta company, uranium deal, Russian Reset, big dollar speeches etc." @realDonaldTrump 7/22/17 (7:47 a.m. ET) Tweet.
+[^645]: Priebus 1/18/18 302, at 13-14.
+[^646]: Priebus 1/18/18 302, at 14; Priebus 4/3/18 302, at 4-5; see RP_ 000073 (Priebus 7/22/17 Notes).
+[^647]: RP_000073 (Priebus 7/22/17 Notes). 64
+[^8]: Priebus 4/3/18 302, at 5.
+[^649]: Priebus 1/18/18 302, at 14; Priebus 4/3/18 302, at 4-5.
 [^650]: Priebus 4/3/18 302, at 5. 651 RP _000074 (Priebus 7/22/17 Notes); McGahn 12/14/17 302, at 11; Priebus 1/18/18 302, at 14. Priebus followed McGahn's advice and called his personal attorney to discuss the president's request
  because he thought it was the type of thing about which one would need to consult an attorney. Priebus
  1/18/18 302, at 14. and Priebus discussed the possibility that they would both have to resign rather than carryout the
@@ -10172,19 +10232,19 @@ in his pocket every time he went to the White House .662
 
 
 [^652]: McGahn 12/14/17 302, at 11; RP_000074 (Priebus 7/22/17 Notes) ("discuss resigning
-together"). 
-[^653]: Priebus 1/18/18 302, at 14; Priebus 4/3/18 302, at 4. 
-[^654]: Priebus 4/3/18 302, at 4. 
-[^655]: Priebus 1/18/18 302, at 15. 
-[^656]: Priebus 1/18/18 302, at 15. 
-[^657]: Priebus l /18/ 18 302, at 15. 
-[^658]: Priebus 1/18/18 302, at 15. 
+together").
+[^653]: Priebus 1/18/18 302, at 14; Priebus 4/3/18 302, at 4.
+[^654]: Priebus 4/3/18 302, at 4.
+[^655]: Priebus 1/18/18 302, at 15.
+[^656]: Priebus 1/18/18 302, at 15.
+[^657]: Priebus l /18/ 18 302, at 15.
+[^658]: Priebus 1/18/18 302, at 15.
 [^659]: @realDonaldTrump 7/24/17 (8:49 a.m. ET) Tweet ("So why aren't the committees and
  investigators, and of course our beleaguered A.G., looking into crooked Hillarys crimes & Russia
- relations?"). 
+ relations?").
 [^660]: @realDonaldTrump 7/25/17 (6: I 2 a.m. ET) Tweet. The president sent another tweet shortly
- before this one asking "where is the investigation A.G." @realDonaldTrump 7/25/17 (6:03 a.m. ET) Tweet. 
-[^661]: @realDonaldTrump 7/26/17 (9:48 a.m. ET) Tweet. 
+ before this one asking "where is the investigation A.G." @realDonaldTrump 7/25/17 (6:03 a.m. ET) Tweet.
+[^661]: @realDonaldTrump 7/26/17 (9:48 a.m. ET) Tweet.
 [^662]: Hunt 2/1/18 302, at 24-25. analysis
 
 In analyzing the president's efforts to have Lewandowski deliver a message directing
@@ -10266,7 +10326,7 @@ other Russian individuals at Trump Tower on June 9, 2016. 666 At the meeting, th
 claimed that funds derived from illegal activities in Russia were provided to Hillary Clinton and
 other democrats, and the Russian attorney then spoke about the Magnitsky Act, a 2012 U.S. statute
 that imposed financial and travel sanctions on Russian officials and that had resulted in a retaliatory
-ban in Russia on U.S. adoptions of Russian children. 
+ban in Russia on U.S. adoptions of Russian children.
 [^667]: according to written answers submitted by the president in response to questions from this
 Office, the president had no recollection of learning of the meeting or the emails setting it up at the
 time the meeting occurred or at any other time before the election .
@@ -10281,14 +10341,14 @@ attorneys provided the emails setting up the meeting to the president's personal
 Corallo, who had been hired as a spokesman for the president's personal legal team, recalled that
 he learned about the June 9 meeting around June 21 or 22, 201 7. 671 Priebus recalled learning about
 the June 9 meeting from Fox News host Sean Hannity in late June 2017. 672 Priebu s notified one
- 
-[^663]: Hick s 3/13/18 302, at 1; Raffel 2/8/18 302, at 2. 664 RG000061 (6/3/16 Email, goldstone to Trump Jr.); @D onaldJTrumpJR 7/11/17 (11:01 a.m. ET) Tweet. 665 RG000061 (6/3/16 Email, Trump Jr. to goldstone); @DonaldJTrumpJR 7/11/17 (l 1:01 a.m. ET) Tweet. 
-[^666]: Samochornov 7/12/17 302, at 4. 
+
+[^663]: Hick s 3/13/18 302, at 1; Raffel 2/8/18 302, at 2. 664 RG000061 (6/3/16 Email, goldstone to Trump Jr.); @D onaldJTrumpJR 7/11/17 (11:01 a.m. ET) Tweet. 665 RG000061 (6/3/16 Email, Trump Jr. to goldstone); @DonaldJTrumpJR 7/11/17 (l 1:01 a.m. ET) Tweet.
+[^666]: Samochornov 7/12/17 302, at 4.
 [^667]: See Volume I, section IV.A.5, supra (describing meeting in detail). 668 written responses of Donald J. Trump (Nov. 20, 2018), at 8 (response to question I, Parts (a)
  through (c)). The president declined to answer questions about his knowledge of the June 9 meeting or
- other events after the election. 669 DJTFP _SCO _pDF _00000001 -02 (5/17/17 Letter, SSCI to Donald J. Trump for president, Inc.). 
-[^670]: goldstone 2/8/18 302, at 12; 6/2/17 and 6/5/17 Emails, goldstone & Garten; Raffel 2/8/18 302, at 3; Hicks 3/13/18 302, at 2. 
-[^671]: Corallo 2/15/18 302, at 3. 
+ other events after the election. 669 DJTFP _SCO _pDF _00000001 -02 (5/17/17 Letter, SSCI to Donald J. Trump for president, Inc.).
+[^670]: goldstone 2/8/18 302, at 12; 6/2/17 and 6/5/17 Emails, goldstone & Garten; Raffel 2/8/18 302, at 3; Hicks 3/13/18 302, at 2.
+[^671]: Corallo 2/15/18 302, at 3.
 [^672]: Priebus 4/3/18 302, at 7. of the president's personal attorneys, who told Priebus he was already working on it.673 By late
 June, several advisors recalled receiving media inquiries that could relate to the June 9 meeting. 2. The president directs communications Staff Not to publicly disclose
  information About the June 9 meeting
@@ -10301,29 +10361,29 @@ the president in on something that had been discovered in the documents he was t
 congressional committees involving a meeting with him, Manafort, and Trump Jr. 678 Kushner
 broughta folder of documents to the meeting and tried to show them to the president, but the
 president stopped Kushner and said he did not want to know about it, shutting the conversation
-down. 
+down.
 [^679]: On June 28, 2017, Hicks viewed the emails at Kushner's attorney's office. 680 She recalled
 being shocked by the emails because they looked "really bad." 681 The next day, Hicks spoke
 privately with the president to mention her concern about the emai ls, which she understood were
 soon going to be shared with congress. 682 The president seemed upset because too many people
 knew about the emails and he told Hicks that just one lawyer should deal with the matter. 683 The
 president indicated that he did not think the emails would leak, but said they would leak if everyone
-had access to them. 
-[^684]: 
-[^673]: Priebus 4/3/18 302, at 7. 
-[^674]: Corallo 2/15/18 302, at 3; Hicks 12/7/17 302, at 8; Raffel 2/8/ l 8 302, at 3. 
-[^675]: Raffel 2/8/18 302, at 2-3; Hicks 3/13/18 302, at 2. 
-[^676]: Raffel 2/8/18 302, at 2-3, 5; Hicks 3/13/ l 8 302, at 2; Hicks 12/7/17 302, at 8. 
-[^677]: Hicks 12/7/17 302, at 6-7; Hicks 3/13/18 302, at I. 
-[^678]: Hicks 12/7/17 302, at 7; Hicks 3/13/18 302, at 1. 
+had access to them.
+[^684]:
+[^673]: Priebus 4/3/18 302, at 7.
+[^674]: Corallo 2/15/18 302, at 3; Hicks 12/7/17 302, at 8; Raffel 2/8/ l 8 302, at 3.
+[^675]: Raffel 2/8/18 302, at 2-3; Hicks 3/13/18 302, at 2.
+[^676]: Raffel 2/8/18 302, at 2-3, 5; Hicks 3/13/ l 8 302, at 2; Hicks 12/7/17 302, at 8.
+[^677]: Hicks 12/7/17 302, at 6-7; Hicks 3/13/18 302, at I.
+[^678]: Hicks 12/7/17 302, at 7; Hicks 3/13/18 302, at 1.
 [^679]: Hicks 12/7/17 302, at 7; Hicks 3/13/18 302, at I. counsel for Ivanka Trump provided an attorney
  proffer that is consistent with Hicks's account and with the other events involving Ivanka Trump set forth
  in this section of the report. Kushner said that he did not recall talking to the president at this time about
- the June 9 meeting or the underlying emails. Kushner 4/11/18 302, at 30. 
-[^680]: Hicks 3/13/18 302, at 1-2. 
-[^681]: Hicks 3/13/18 302, at 2. 
-[^682]: Hicks I 2/7117 302, at 8. 
-[^683]: Hicks 3/13/18 302, at 2-3; Hicks 12/7/17 302, at 8. 
+ the June 9 meeting or the underlying emails. Kushner 4/11/18 302, at 30.
+[^680]: Hicks 3/13/18 302, at 1-2.
+[^681]: Hicks 3/13/18 302, at 2.
+[^682]: Hicks I 2/7117 302, at 8.
+[^683]: Hicks 3/13/18 302, at 2-3; Hicks 12/7/17 302, at 8.
 [^684]: Hicks 12/7/ l 7 302, at 8. Later that day, Hicks, Kushner, and Ivanka Trump went together to talk to the president. 685
 
 Hicks recalled that Kushner told the president the June 9 meeting was not a big deal and was about
@@ -10338,7 +10398,7 @@ production was due. 69 Kushner responded that it would be a couple of weeks and 
 said, "then leave it alone." 69 1 Hicks also recalled that the president said Kushner's attorney should
 give the emails to whomever he needed to give them to, but the president did not think they would
 be leaked to the press. 692 Raffel later heard from Hicks that the president had directed the group
-not to be proactive in disclosing the emails because the president believed they would not leak. 
+not to be proactive in disclosing the emails because the president believed they would not leak.
 [^693]: 3. The president directs Trump Jr.'s response to Press inquiries About the
  June 9 meeting
 
@@ -10350,23 +10410,23 @@ Times was working on a story about the June 9 meeting. 695 The next day, Hicks t
 about the story and he directed her not to comment. 696 Hicks thought the president's reaction was
 odd because he usually considered not responding to the press to be the ultimate sin .697 Later that
 day, Hicks and the president again spoke about the story. 698 Hicks recalled that the president asked
- 
-[^685]: Hicks 12/7/17 302, at 8; Hicks 3/13/18 302, at 2. 
-[^686]: Hicks 3/13/18 302, at 2; Hicks 12/7/17 302, at 9. 
-[^687]: Hick s 3/13/18 302, at 2-3. 
-[^688]: Hicks 3/13/18 302, at 2-3; Hicks 12/7/17 302, at 9. 
-[^689]: Hick s 3/13/18 302, at 3; Hicks 12/7/17 302, at 9. 
-[^690]: Hicks 3/13/18 302, at 3. 
-[^691]: Hicks 3/13/18 302, at 3. 
-[^692]: Hicks 12/7/17 3 02, at 9. 
-[^693]: Raffel 2/8/18 302, at 5. 
-[^694]: Raffel 2/8/18 302, at 6. 
-[^695]: Raffel 2/8/18 3 02, at 6-7; Hicks 3/ 13/ l 8 3 02, at 3. 
-[^696]: Hicks 12/7/17 302, at 10; Hicks 3/13/18 302, at 3. 
-[^697]: Hicks 12/7/17 302, at 10. 
+
+[^685]: Hicks 12/7/17 302, at 8; Hicks 3/13/18 302, at 2.
+[^686]: Hicks 3/13/18 302, at 2; Hicks 12/7/17 302, at 9.
+[^687]: Hick s 3/13/18 302, at 2-3.
+[^688]: Hicks 3/13/18 302, at 2-3; Hicks 12/7/17 302, at 9.
+[^689]: Hick s 3/13/18 302, at 3; Hicks 12/7/17 302, at 9.
+[^690]: Hicks 3/13/18 302, at 3.
+[^691]: Hicks 3/13/18 302, at 3.
+[^692]: Hicks 12/7/17 3 02, at 9.
+[^693]: Raffel 2/8/18 302, at 5.
+[^694]: Raffel 2/8/18 302, at 6.
+[^695]: Raffel 2/8/18 3 02, at 6-7; Hicks 3/ 13/ l 8 3 02, at 3.
+[^696]: Hicks 12/7/17 302, at 10; Hicks 3/13/18 302, at 3.
+[^697]: Hicks 12/7/17 302, at 10.
 [^698]: Hicks 3/13/ I 8 302, at 3. 10 I
 her what the meeting had been about, and she said that she had been told the meeting was about
-Russian adoption. 699 The president responded, "then just say that." 
+Russian adoption. 699 The president responded, "then just say that."
 [^700]: On the flight home from the G20 on July 8, 2017, Hicks obtained a draft statement about
 the meeting to be released by Trump Jr. and brought it to the president. 701 The draft statement
 began with a reference to the information that was offered by the Russians insetting up the
@@ -10391,18 +10451,18 @@ and some other nonsense which we shot down fast. " 708 Hicks texted back, "I thi
 on that word Be I know it's important and I think the mention of a campaign issue adds something
  to it in case we have to go further. " 709 Trump Jr. responded, "lfl don't have it in there it appears
  as though I'm lying later when they inevitably leak something ." 710 Trump Jr.'s statement-adding
- 
-[^699]: Hicks 3/13/18 302, at 3; Hicks 12/7/17 302, at I 0. 
-[^700]: Hicks 3/13/ l 8 302, at 3; see Hicks 12/7/17 302, at I 0. 
-[^701]: Hicks 3/13/18 302, at 4. 
-[^702]: Hicks 7/8/17 Notes. 
-[^703]: Hicks 3/13/18 302, at 4-5; Hicks I 2/7117 302, at 11. 
-[^704]: Hicks 12/7/17 302, at 11. 
-[^705]: SCRO 11a_000004 (7/8/17 Text message, Hicks to Trump Jr.). 
-[^706]: SCR01 la _000004 (7/8/17 Text message, Hicks to Trump Jr.). 
-[^707]: SCRO 11a_000005 (7/8/17 Text message, Trump Jr. to Hicks). 
-[^708]: SCROl la_000005 (7/8/17 Text message, Trump Jr. to Hicks). 
-[^709]: SCRO 11a_000005 (7/8/17 Text message, Hicks to Trump Jr.). 
+
+[^699]: Hicks 3/13/18 302, at 3; Hicks 12/7/17 302, at I 0.
+[^700]: Hicks 3/13/ l 8 302, at 3; see Hicks 12/7/17 302, at I 0.
+[^701]: Hicks 3/13/18 302, at 4.
+[^702]: Hicks 7/8/17 Notes.
+[^703]: Hicks 3/13/18 302, at 4-5; Hicks I 2/7117 302, at 11.
+[^704]: Hicks 12/7/17 302, at 11.
+[^705]: SCRO 11a_000004 (7/8/17 Text message, Hicks to Trump Jr.).
+[^706]: SCR01 la _000004 (7/8/17 Text message, Hicks to Trump Jr.).
+[^707]: SCRO 11a_000005 (7/8/17 Text message, Trump Jr. to Hicks).
+[^708]: SCROl la_000005 (7/8/17 Text message, Trump Jr. to Hicks).
+[^709]: SCRO 11a_000005 (7/8/17 Text message, Hicks to Trump Jr.).
 [^710]: SCRO l la_000006 (7/8/17 Text message, Trump Jr. to Hicks). the word "primarily" and making other minor additions-was then provided to the New York
 Times .711 The full statement provided to the Times stated:
 
@@ -10427,7 +10487,7 @@ going to the president to urge him that they should be fully transparent about t
 
 Later on the flight home, Hicks went to the president's cabin, where the president was on
 the phone with one of his personal attorneys. 715 At one point the president handed the phone to
-Hicks, and the attorney told Hicks that he had been working with Circa News on a separate story, and that she should not talk to the New York Times. 
+Hicks, and the attorney told Hicks that he had been working with Circa News on a separate story, and that she should not talk to the New York Times.
 [^716]: 4. The Media reports on the June 9, 2016 meeting
 
 Before the president's flight home from the G20 landed, the New York Times published
@@ -10436,22 +10496,22 @@ story also quoted a statement from Corallo on behalf of the president's legal te
 the meeting might have been a setup by individuals working with the firm that produced the Steele
 reporting. 718 Corallo also worked with Circa News on a story published an hour later that
 
-7 
+7
 [^11]: Hicks 3/13/18 302, at 6; see Jo Becker et al., Trump Team Met With Lawyer Linked to kremlin
-During campaign, New York Times (July 8, 2017). 
+During campaign, New York Times (July 8, 2017).
 [^712]: See Jo Becker et al., Trump Team Met With Lawy er Linked to kremlin During campaign, New
-York Times (July 8, 2017). 
-[^713]: Hicks 3/13/18 302, at 6; Raffel 2/8/18 302, at 9-10. 
-[^714]: Hick s 12/7/17 302, at 12; Raffel 2/8/18 302, at 10. 7 
-[^15]: Hicks 3/13/18 302, at 7. 
-[^716]: Hicks 3/13/18 302, at 7. 
+York Times (July 8, 2017).
+[^713]: Hicks 3/13/18 302, at 6; Raffel 2/8/18 302, at 9-10.
+[^714]: Hick s 12/7/17 302, at 12; Raffel 2/8/18 302, at 10. 7
+[^15]: Hicks 3/13/18 302, at 7.
+[^716]: Hicks 3/13/18 302, at 7.
 [^717]: See Jo Becker et al., Trump Team Met With Lawy er Linked to kremlin During campaign, New
-York Times (July 8, 2017); Raffel 2/8/18 302, at I 0. 
+York Times (July 8, 2017); Raffel 2/8/18 302, at I 0.
 [^718]: See Jo Becker et al., Trump Team Met With Lawyer Linked to kremlin During campaign, New
 York Times (July 8, 2017). questioned whether democratic operatives had arranged the June 9 meeting to create the
 appearance of improper connections between Russia and Trump family members. 7 19 Hicks was
 upset about Corallo's public statement and called him that evening to say the president had not
-approved the statement. 
+approved the statement.
 [^720]: The next day, July 9, 2017, Hicks and the president called Corallo together and the
 president criticized Corallo for the statement he had released. 721 Corallo told the president the
 statement had been authorized and further observed that Trump Jr.'s statement was inaccurate and
@@ -10472,17 +10532,17 @@ was about to publish the content of the emails." 727 Later that day, the media r
 president had been personally involved in preparing Trump Jr.'s initial statement to the New York
 Times that had claimed the meeting "primarily" concerned "a program about the adoption of
 Russian children ." 728 Over the next several days, the president's personal counsel repeatedly and
- 
+
 [^719]: See Donald Trump Jr. gathered members of campaign/or meeting with Russian lawyer before
-election, Circa News (July 8, 2017). 
-[^720]: Hicks 3/13/18 302, at 8; Corallo2/ 15/l 8 302, at 6- 7. 72 
-[^1]: Corallo 2/15/18 302, at 7. 
-[^722]: Corallo 2/15/18 302, at 7. 
-[^723]: Corallo 2/15/18302, at 7-9. 
-[^724]: Corallo 2/15/18 302, at 8. 
-[^725]: Corallo 2/15/18 302, at 8; Corallo 7/9/17Notes ("Sunday 9th - Hope calls w/ POTUSon line"). Corallosaid he is "I 00% confident"that Hicks said "It will neverget out" on the call. Corallo2/15/18302, at 9. 
-[^726]: Hicks 3/13/18302, at 9. 
-[^727]: @DonaldJTrumpJR7/11/17(11:01 a.m. ET) Tweet; Jo Becker et al., Russian Dirt on Clinton ?'I Love It,'Donald Trump Jr. Said, New York Times (July 11, 2017). 
+election, Circa News (July 8, 2017).
+[^720]: Hicks 3/13/18 302, at 8; Corallo2/ 15/l 8 302, at 6- 7. 72
+[^1]: Corallo 2/15/18 302, at 7.
+[^722]: Corallo 2/15/18 302, at 7.
+[^723]: Corallo 2/15/18302, at 7-9.
+[^724]: Corallo 2/15/18 302, at 8.
+[^725]: Corallo 2/15/18 302, at 8; Corallo 7/9/17Notes ("Sunday 9th - Hope calls w/ POTUSon line"). Corallosaid he is "I 00% confident"that Hicks said "It will neverget out" on the call. Corallo2/15/18302, at 9.
+[^726]: Hicks 3/13/18302, at 9.
+[^727]: @DonaldJTrumpJR7/11/17(11:01 a.m. ET) Tweet; Jo Becker et al., Russian Dirt on Clinton ?'I Love It,'Donald Trump Jr. Said, New York Times (July 11, 2017).
 [^728]: See, e.g., Peter Baker & Maggie Haberman,Rancor at White House as Russia Story refuses to
 Let the Page Turn, New York Times (July 11, 2017) (reporting that the president "signed off'on Trump
 Jr.'s statement). inaccurately denied that the president played any role in drafting Trump Jr.'s statement. After
@@ -10492,7 +10552,7 @@ suggestions like any father would do." 730 several months later, the president's
 stated in a private communication to the special counsel's Office that "the president dictated a
 short but accurate response to the New York Times article on behalf of his son, Donald Trump, Jr." 731 The president later told the press that it was "irrelevant" whether he dictated the statement
 and said, "It's a statement to the New York Times .... That's not a statement to a high tribunal of
-judges. " 
+judges. "
 [^732]: ecial counsel's Office Trump Jr. related to the June 9 meeting and those who attended the
 
 On July 19, 2017, the president had his follow-up meeting with Lewandowski and then
@@ -10506,18 +10566,18 @@ know, when they call up and say,'By the way, we have information on your opponen
  In analyzing the president's actions regarding the disclosure of information about the June
  9 meeting, the following evidence is relevant to the elements of obstruction of justice:
  a. obstructive act. On at least three occasions between Jun e 29, 2017, and July 9, 2017, the president directed Hicks and others not to publicly disclose information about the June
- 
+
 [^729]: See, e.g., David Wright, Trump lawyer: president was aware of "nothing", CNN (July 12, 2017)
  (quoting the president's personal attorney assaying, "I wasn't involved in the statement drafting at all nor
  was the president."); see also Good morning America, ABC (July 12, 2017) ("The president didn't sign
  off on anything. .. . The president wasn't involved in that."); Meet the Press, NBC (July 16, 2017) ("I do
- want to be clear-the president was not involved in the drafting of the statement."). 730 Sarah sanders, White House Daily briefing, C-SPAN (Aug. 1, 2017); sanders 7/3/18 302, at 
+ want to be clear-the president was not involved in the drafting of the statement."). 730 Sarah sanders, White House Daily briefing, C-SPAN (Aug. 1, 2017); sanders 7/3/18 302, at
 [^9]: (the president told sanders he "weighed in, as any father would" and knew she intended to tell the press
- what he ·said). 
-[^731]: 1/29/18 Letter, president's personal counsel to special counsel's Office, at 18. 
-[^732]: remarks by president Trump in Press Gaggle (June 15, 2018). 
+ what he ·said).
+[^731]: 1/29/18 Letter, president's personal counsel to special counsel's Office, at 18.
+[^732]: remarks by president Trump in Press Gaggle (June 15, 2018).
 [^733]: 734 Peter Baker et al., excerpts From The Times's interview With Trump, New York Times (July
- 19,2017). 
+ 19,2017).
 [^735]: Peter Baker et al., excerpts From The Times's interview With Trump, New York Times (July
  19, 2017). 9, 2016 meeting between senior campaign officials and a Russian attorney. On June 29, Hicks
 warned the president that the emails setting up the June 9 meeting were "really bad " and the story
@@ -10591,10 +10651,10 @@ interested inbeing responsible for the special counsel's investigation and wheth
 
 [^736]: sessions I /17/18 302, at 15. That was the second time that the president asked sessions to
 reverse his recusal from campaign-related investigations. See Volume II, section 11.C.1, supra (describing
-president's March 2017 request at Mar-a-Lago for sessions to unrecuse). 
-[^737]: sessions 1/17/18 302, at 15. 
-[^738]: sessions 1/17/18 302, at 15. 
-[^739]: Porter 4/13/18 302, at 11; Porter 5/8/18 302, at 6. 
+president's March 2017 request at Mar-a-Lago for sessions to unrecuse).
+[^737]: sessions 1/17/18 302, at 15.
+[^738]: sessions 1/17/18 302, at 15.
+[^739]: Porter 4/13/18 302, at 11; Porter 5/8/18 302, at 6.
 [^740]: Porter 4/13/18 302, at 11; Porter 5/8/18 302, at 6. to be attorney general one day. 74 1 because Pmter knew Brand, the president asked him to sound
 her out about taking responsibility for the investigation and being attorney general. contemporaneous notes taken by Porter show that the president told Porter to "Keep in touch with
 your friend ," in reference to Brand. 743 Later, the president asked Porter a few times in passing
@@ -10603,7 +10663,7 @@ with the task. 744 In asking him to reach out to Brand, Porter understood the pr
 find someone to end the Russia investigation or fire the special counsel, although the president
 never said so explicitly. 745 Porter did not contact Brand because he was sensitive to the
 implications of that action and did not want to be involved in a chain of events associated with an
-effort to end the investigation or fire the special counsel. 
+effort to end the investigation or fire the special counsel.
 [^746]: McGahn recalled that during the summer of 201 7, he and the president discussed the fact
 that if sessions were no longer in his position the special counsel would report directly to a non-
 recused attorney general. 747 McGahn told the president that things might not change much under
@@ -10611,22 +10671,22 @@ a new attorney general. 748 McGahn also recalled that in or around July 2017, th
 frequently brought up his displeasure with sessions. 749 Hicks recalled that the president viewed
 sessions's recusal from the Russia investigation as an act of disloyalty .750 In addition to criticizing
 sessions's recusal, the president raised other concerns about sessions and his job performance
-with McGahn and Hicks. 
-[^751]: 
+with McGahn and Hicks.
+[^751]:
 [^741]: Porter 4/13/ I 8 302, at 11; Porter 5/8/18 302, at 6. because of sessions's recusal, if Rosenstein
 were no longer in his position, Brand would, by default, become the DOJ official in charge of supervising
 the special counsel's investigation, and if both sessions and Rosenstein were removed, Brand would be
- next in line to become Acting attorney general for all DOJ matters. See 28 U.S.C. § 508. 
-[^742]: Porter 4/13/18 302, at 11; Porter 5/8/18 302, at 6. 
-[^743]: SC_ RRP000020 (Potter 7/10/17 Notes). 
-[^744]: Porter 4/13/18 302, at I 1-12. 
-[^745]: Porter 4/13/18 302, at 11-12. 
+ next in line to become Acting attorney general for all DOJ matters. See 28 U.S.C. § 508.
+[^742]: Porter 4/13/18 302, at 11; Porter 5/8/18 302, at 6.
+[^743]: SC_ RRP000020 (Potter 7/10/17 Notes).
+[^744]: Porter 4/13/18 302, at I 1-12.
+[^745]: Porter 4/13/18 302, at 11-12.
 [^746]: Porter 4/13/18 302, at 11-12. Brand confirmed that no one ever raised with her the prospect of
- taking over the Russia investigation or becoming attorney general. Brand 1/29/19 302, at 2. 
-[^747]: McGahn 12/14/17 302, at 11. 
-[^748]: McGahn 12/14/17 302, at 11. 
-[^749]: McGahn 12/14/17 302, at 9. 
-[^750]: Hicks 3/13/18 302, at 10. 
+ taking over the Russia investigation or becoming attorney general. Brand 1/29/19 302, at 2.
+[^747]: McGahn 12/14/17 302, at 11.
+[^748]: McGahn 12/14/17 302, at 11.
+[^749]: McGahn 12/14/17 302, at 9.
+[^750]: Hicks 3/13/18 302, at 10.
 [^751]: McGahn 12/14/17 302, at 9; Hicks 3/ 13/ l 8 302, at 10. 2. additional efforts to Have sessions Unrecuse or Direct investigations covered
  by his recusal
 
@@ -10654,16 +10714,16 @@ involved. Can order AG to investigate. I don't want to get involved. I'm not goi
 
 according to Porter's notes, sessions responded, "We are taking steps; whole new leadership
 
-[^752]: Porter 5/8/18 302, at 10. 
-[^753]: SC RRP000024 (Porter 10/16/17 Notes); see Porter 5/8/18 302, at 10. 
-[^754]: Porter 5/8/18 302, at 10. 
-[^755]: @realDonaldTrump 10/18/17 (6:21 a.m. ET) Tweet; @realDonaldTrump 10/18/17 (6:27 a.m. ET) Tweet. 
-[^756]: @realDonaldTrump 10/29/17 (9:53 a.m. ET) Tweet;@realDonaldTrump 10/29/17 (10:02 a.m. ET) Tweet; @rea!DonaldTrump 10/29/17 (10:17 a.m. ET) Tweet. 
+[^752]: Porter 5/8/18 302, at 10.
+[^753]: SC RRP000024 (Porter 10/16/17 Notes); see Porter 5/8/18 302, at 10.
+[^754]: Porter 5/8/18 302, at 10.
+[^755]: @realDonaldTrump 10/18/17 (6:21 a.m. ET) Tweet; @realDonaldTrump 10/18/17 (6:27 a.m. ET) Tweet.
+[^756]: @realDonaldTrump 10/29/17 (9:53 a.m. ET) Tweet;@realDonaldTrump 10/29/17 (10:02 a.m. ET) Tweet; @rea!DonaldTrump 10/29/17 (10:17 a.m. ET) Tweet.
 [^757]: Porter 4/13/18 302, at 5-6; see SC_RRP000031 (Porter 12/6/17 Notes) (" 12:45pm With the
 president, Gen. Kelly, and sessions (who I pulled in after the cabinet meeting)"); SC_RRP000033 (Porter
  12/6/17 Notes) ("Post-cabinet meeting - POTUS asked me to get AG sessions. Asked me to stay. Also
-COS Kelly."). 
-[^758]: Porter 5/8/18 302, at 12; Porter 4/ 13/l 8 302, at 5-6. 
+COS Kelly.").
+[^758]: Porter 5/8/18 302, at 12; Porter 4/ 13/l 8 302, at 5-6.
 [^759]: SC_RRP000033 (Porter 12/6/17 Notes); see Porter 4/13/18 302, at 6; Porter 5/8/18 302, at 12. team. professionals; will operate according to the law ." 760 sessions also said, "I never saw
 anything that was improper," which Porter thought was noteworthy because it did not fit with the
 previous discussion about Clinton. 761 Porter understood sessions to be reassuring the president
@@ -10686,17 +10746,17 @@ the special counsel's investigation. 767
 Over the next several months, the president continued to criticize sessions in tweets and
 media interviews and on several occasions appeared to publicly encourage him to take action in
 the Russia investigation despite his recusal. 768 On June 5, 2018, for example, the president
- 
-[^760]: SC_RRP000033 (Porter 12/6/17 Notes); see Porter 4/13/18 302, at 6. 
-[^761]: SC_RRP000033 (Porter 12/6/17 Notes); Porter 4/13/18 302, at 6. 
-[^762]: Porter 4/13/18 302, at 6-7. 
+
+[^760]: SC_RRP000033 (Porter 12/6/17 Notes); see Porter 4/13/18 302, at 6.
+[^761]: SC_RRP000033 (Porter 12/6/17 Notes); Porter 4/13/18 302, at 6.
+[^762]: Porter 4/13/18 302, at 6-7.
 [^763]: Michaels. Schmidt & Michael D. Shear, Trump Says Russia inquiry Makes US. "Look Very
  Bad", New York Times (Dec. 28, 2017). 764 Michaels. Schmidt & Michael D. Shear, Trump Says Russia inquiry Makes US. "Look Very
- Bad", New York Times (Dec. 28, 2017). 
-[^765]: Porter 4/13/18 302, at 14. 
+ Bad", New York Times (Dec. 28, 2017).
+[^765]: Porter 4/13/18 302, at 14.
 [^766]: Porter 5/8/18 302, at 15. contemporaneous notes Porter took of the conversation state, "Roy
- Cohn (14-0) / Jay Goldberg (12-0)." SC_RRP000047 (Potter 1/27/18 Notes). 
-[^767]: Porter 5/8/18 302, at 15-16. 
+ Cohn (14-0) / Jay Goldberg (12-0)." SC_RRP000047 (Potter 1/27/18 Notes).
+[^767]: Porter 5/8/18 302, at 15-16.
 [^768]: See, e.g., @realDonaldTrump 2/28/18 (9:34 a.m. ET) Tweet ("Why is A.G. Jeff sessions asking
  the inspector general to investigate potentially massive FISA abuse. Will take forever, has no prosecutorial
  power and already late with reports on Comey etc. Isn't the I.G. an Obama guy? Why not use justice
@@ -10721,9 +10781,9 @@ influenced by political considerations.'Jeff, this is GREAT, what everyone wants
 all of the corruption on the'other side'including deleted Emails, Comey lies & leaks, Mueller
 conflicts, McCabe, Strzok, Page, Ohr, FISA abuse, Christopher Steele & his phony and corrupt
 dossier, the Clinton foundation, illegal surveillance of Trump campaign, Russian collusion by
-Dems - and so much more. Open up the papers & documents without redaction? Come on Jeff, you can do it, the country is waiting!" 
+Dems - and so much more. Open up the papers & documents without redaction? Come on Jeff, you can do it, the country is waiting!"
 [^774]: On November 7, 2018, the day after the midterm elections, the president replaced sessions
-with sessions's chief of staff as Acting attorney general. 
+with sessions's chief of staff as Acting attorney general.
 [^775]: analysis
  In analyzing the president's efforts to have sessions unr ec use himself and regain control
  of the Russia investigation, the following considerations and evidence are relevant to the elements
@@ -10734,13 +10794,13 @@ with sessions's chief of staff as Acting attorney general.
  account the supervisory role that the attorney general, if unrecused, would play in the Rus sia
  investigation. It also would have to take into account that the attorney general's recusal covered
  ("Jeff sessions should be ashamed of himself for allowing this total HOAX to get started in the first
- place!"). 
-[^769]: @realDonaldTrump 6/5/18 (7:31 a.m. ET) Tweet. 
-[^770]: @realDonaldTrump 8/1/18 (9:24 a.m. ET) Tweet. 
-[^771]: Fox & friends interview of president Trump, Fox News (Aug. 23, 2018). 
-[^772]: Fox & friends interview of president Trump, Fox News (Aug. 23, 2018). 
+ place!").
+[^769]: @realDonaldTrump 6/5/18 (7:31 a.m. ET) Tweet.
+[^770]: @realDonaldTrump 8/1/18 (9:24 a.m. ET) Tweet.
+[^771]: Fox & friends interview of president Trump, Fox News (Aug. 23, 2018).
+[^772]: Fox & friends interview of president Trump, Fox News (Aug. 23, 2018).
 [^773]: sessions 8/23/18 Press statement. 774 @ real Donald Trump 8/24/18 (6: 17 a.m. ET) Tweet ;@ realDonaldTrump 8/24/18 (6:28 a.m. ET)
- Tweet. 
+ Tweet.
 [^775]: @realDonaldTrump 11/7/18 (2:44 p.m. ET) Tweet. I 11
 
 other campaign-related matters. The inquiry would not tum on what attorney general sessions
@@ -10817,9 +10877,9 @@ resign rather than carryout the directive." 780 After the article was published,
 
 [^777]: Michaels. Schmidt & Maggie Haberman, Trump ordered Mueller Fired, but Backed Off When
  White House counsel threatened to Quit, New York Times (Jan. 25.2018). 778 Michaels. Schmidt & Maggie Haberman, Trump ordered Mu eller Fired, but Backed Off When
- White House counsel threatened to Quit, New York Times (Jan.25.2018). 
+ White House counsel threatened to Quit, New York Times (Jan.25.2018).
 [^779]: Michaels. Schmidt & Maggie Haberman, Trump ordered Mueller Fired, but Backed Off When
- White House counsel threatened to Quit, New York Times (Jan.25. 2018). 
+ White House counsel threatened to Quit, New York Times (Jan.25. 2018).
 [^780]: Michaels. Schmidt & Maggie Haberman, Trump ordered Mueller Fired, but Backed Off When
  White House counsel threatened to Quit, New York Times (Jan.25.2018). dismissed the story when asked about it by reporters, saying, "Fake news, folks. Fake news. A
 typical New York Times fake story." 781
@@ -10842,18 +10902,18 @@ about the issue. 788
 
 
 [^781]: Sophie Tatum & Kara Scannell, Trump denies he called for Mueller's firing, CNN (Jan. 26, 2018); Michaels. Schmidt & Maggie Haberman, Trump ordered Mueller Fired, but Backed Off When
- White House counsel threatened to Quit, New York Times (Jan. 25, 2018). 
+ White House counsel threatened to Quit, New York Times (Jan. 25, 2018).
 [^782]: The Post article stated, "despite internal objections, Trump decided to assert that Mueller had
  unacceptable conflicts of interest and moved to remove him from his position. . . . In response, McGahn
  said he would not remain at the White House if Trump went through with the move.... McGahn did not
  deliver his resignation threat directly to Trump but was serious about his threat to leave." Rosalind S. Helderman & Josh Dawsey, Trump moved to fire Mueller in June, bringing White House counsel to the
- brink of leaving, Washington Post (Jan. 26, 2018). 
+ brink of leaving, Washington Post (Jan. 26, 2018).
 [^783]: Rosalind S. Helderman & Josh Dawsey, Trump moved to fir e Mueller in June, bringing White
- House counsel to the brink of leaving, Washington Post (Jan. 26, 2018); see McGahn 3/8/17 302, at 3-4. 
-[^784]: McGahn 3/8/18 302, at 3 (agent note). 
-[^785]: McGahn 3/8/18 302, at 3 (agent note). 
-[^786]: McGahn 3/8/18 302, at 3-4 (agent note). 
-[^787]: McGahn 3/8/18 302, at 4 (agent note). 
+ House counsel to the brink of leaving, Washington Post (Jan. 26, 2018); see McGahn 3/8/17 302, at 3-4.
+[^784]: McGahn 3/8/18 302, at 3 (agent note).
+[^785]: McGahn 3/8/18 302, at 3 (agent note).
+[^786]: McGahn 3/8/18 302, at 3-4 (agent note).
+[^787]: McGahn 3/8/18 302, at 4 (agent note).
 [^788]: Hicks 3/13/18 302, at 11. Hicks also recalled that the president spoke on the phone that day
  with Chief of Staff John Kelly and that the president said Kelly told him that McGahn had totally refuted
  the story and was going to put out a statement. Hicks 3/13/18 302, at 11. But Kelly said that he did not
@@ -10876,10 +10936,10 @@ statement to demonstrate that the reporting was inaccurate. 798 The president re
 as a "lying bastard" and said that he wanted a record from him .799 Porter recalled the president
 
 [^789]: Hicks 3/13/18 302, at 11. sanders did not recall whether the president asked her to speak to
-McGahn or if she did it on her own. sanders 7/23/18 302, at 2. 
-[^790]: sanders 7/23/18 302, at 1-2. 
-[^791]: Meet the Press interview with Reince Priebus, NBC (Feb. 4, 2018). 
-[^792]: Priebus 4/3/18 302, at 10. 
+McGahn or if she did it on her own. sanders 7/23/18 302, at 2.
+[^790]: sanders 7/23/18 302, at 1-2.
+[^791]: Meet the Press interview with Reince Priebus, NBC (Feb. 4, 2018).
+[^792]: Priebus 4/3/18 302, at 10.
 [^793]: Priebus 4/3/18 302, at 10. 794 Porter 4/13/18 302, at 16-17. Porter did not recall the timing of this discussion with the
  president. Porter 4/13/18 302, at 17. evidence indicates it was February 5, 2018. On the back of a pocket
  card dated February 5, 2018, Porter took notes that are consistent with his description of the discussion:
@@ -10891,11 +10951,11 @@ McGahn or if she did it on her own. sanders 7/23/18 302, at 2.
  recall what the notes meant, but thought the president may have "mused " about having McGahn write a
  letter. Kelly 8/2/18 302, at 3. McGahn recalled that Poiter spoke with him about the president's request
  about two weeks after the New York Times story was published, which is consistent with the discussion
- taking place on or about February 5. McGahn 3/8/18 302, at 4. 
-[^795]: Pmter 4/13/18 302, at 17. 
-[^796]: Porter 4/13/18 3 02, at 17. 
-[^797]: Porter 4/13/18 302, at 17. 
-[^798]: Porter 4/13/18 302, at 17; Porter 5/8/18 302, at 18. 
+ taking place on or about February 5. McGahn 3/8/18 302, at 4.
+[^795]: Pmter 4/13/18 302, at 17.
+[^796]: Porter 4/13/18 3 02, at 17.
+[^797]: Porter 4/13/18 302, at 17.
+[^798]: Porter 4/13/18 302, at 17; Porter 5/8/18 302, at 18.
 [^799]: Porter 4/13/18 302, at 17; Porter 5/8/18 302, at 18. saying something to the effect of, "If he doesn't write a letter, then maybe I'll have to get rid of
 him."soo
 
@@ -10912,23 +10972,23 @@ about his conversation with McGahn .
 [^808]: The next day, on February 6, 2018, Kelly scheduled time for McGahn to meet wit h him
 and the president in the Oval Office to discuss the Times article. 809 The morning of the meeting, the president's personal counsel ca lled ,McGahn's attorney and said that the president was going
 to bespeaking with McGahn and McGahn could not resign no matter what happened in the
-meeting. 
+meeting.
 [^810]: The president bega n the Oval Office meeting by telling McGahn that the New York Times
 story did not " look good" and McGahn needed to correct it.811 McGahn recalled the president
 said, "I never said to fire Mueller. I never said'fire.'This story doesn't look good. You need to
-correct this. You're the White House counsel." 
-[^812]: 
-[^800]: Porter 4/13/18 302, at 17. 
-[^801]: Porter 4/13/18 302, at 17; McGahn 3/8/18 302, at 4. 
-[^802]: Porter 4/13/18 302, at 17; McGahn 3/8/18 302, at 4. 
-[^803]: Porter 4/13/18 302, at 17; McGahn 3/8/18 302, at 4. 
-[^804]: Porter 4/13/18 302, at 17; McGahn 3/8/18 302, at 4. 805 Porter 4/13/18 302, at 17; McGahn 3/8/18 302, at 4. 
-[^806]: Porter 4/13/18 302, at 17-18; McGahn 3/8/18 302, at 4. 
-[^807]: McGahn 3/8/18 302, at 4. 
+correct this. You're the White House counsel."
+[^812]:
+[^800]: Porter 4/13/18 302, at 17.
+[^801]: Porter 4/13/18 302, at 17; McGahn 3/8/18 302, at 4.
+[^802]: Porter 4/13/18 302, at 17; McGahn 3/8/18 302, at 4.
+[^803]: Porter 4/13/18 302, at 17; McGahn 3/8/18 302, at 4.
+[^804]: Porter 4/13/18 302, at 17; McGahn 3/8/18 302, at 4. 805 Porter 4/13/18 302, at 17; McGahn 3/8/18 302, at 4.
+[^806]: Porter 4/13/18 302, at 17-18; McGahn 3/8/18 302, at 4.
+[^807]: McGahn 3/8/18 302, at 4.
 [^808]: Potter 4/13/18 302, at 18. 809 McGahn 3/8/18 302, at 4; WH000017685 (Kelly 2/6/18 Notes). McGahn recalled that, before
  the Oval Office meeting, he told Kelly that he was not inclined to fix the article. McGahn 3/8/18 302, at 4. 810 McGahn 3/8/18 302, at 5 (agent note); 2/26/19 Email, counsel for Don McGahn to special
- counsel's Offic e (confirming February 6, 2018 date of call from the president's personal counsel). 81 
-[^1]: McGahn 3/8/18 302, at 4; Kelly 8/2/18 302, at 2. 
+ counsel's Offic e (confirming February 6, 2018 date of call from the president's personal counsel). 81
+[^1]: McGahn 3/8/18 302, at 4; Kelly 8/2/18 302, at 2.
 [^812]: McGahn 3/8/18 302, at 4 ; Kelly 8/2/18 302, at 2. In response, McGahn acknowledged that he had not told the president directly that he
 planned to resign, but said that the story was otherwise accurate. 8 13 The president asked McGahn, ·
 "Did I say the word'fire'?" 814 McGahn responded, "What you said is,'Call Rod \[Rosenstein\], tell Rod that Mueller has conflicts and can't be the special counsel. "'8 15 Th e president responded, "I never said that. " 81 6 The president said he merely wanted McGahn to raise the conflicts issue
@@ -10951,23 +11011,23 @@ After the Oval Office meeting concluded, Kelly recalled McGahn telling him that 
 and the president " did have that conversation " about removing the special counsel. McGahn
 recalled that Kelly said that he had pointed out to the president after the Oval Office that McGahn
 
-[^813]: McGahn 3/8/18 302, at 4. 8 
-[^14]: McGahn 3/8/18 302, at 4; Kelly 8/2/18 302, at 2. 
-[^815]: McGahn 3/8/18 302, at 5. 
-[^816]: McGahn 3/8/18 302, at 5. 81 
-[^7]: McGahn 3/8/18 302, at 5. 8 
-[^18]: McGahn 3/8/18 302, at 5. 
-[^819]: McGahn 3/8/18 302, at 5; Kelly 8/2/18 302, at 2. 
-[^820]: McGahn 3/8/18 302, at 5. 
-[^821]: Kelly 8/2/18 302, at 2. 
-[^822]: McGahn 3/8/18 302, at 5. 
+[^813]: McGahn 3/8/18 302, at 4. 8
+[^14]: McGahn 3/8/18 302, at 4; Kelly 8/2/18 302, at 2.
+[^815]: McGahn 3/8/18 302, at 5.
+[^816]: McGahn 3/8/18 302, at 5. 81
+[^7]: McGahn 3/8/18 302, at 5. 8
+[^18]: McGahn 3/8/18 302, at 5.
+[^819]: McGahn 3/8/18 302, at 5; Kelly 8/2/18 302, at 2.
+[^820]: McGahn 3/8/18 302, at 5.
+[^821]: Kelly 8/2/18 302, at 2.
+[^822]: McGahn 3/8/18 302, at 5.
 [^823]: McGahn 3/8/18 302, at 5. 824 McGahn 3/8/18 302, at 5. McGahn said the president was referring to Donaldson's notes, which
- the president thought ofa s McGahn's notes. McGahn 3/8/18 302, at 5. 82 
-[^5]: McGahn 3/8/18 302, at 5. 
-[^826]: McGahn 3/8/18 302, at 5. 
+ the president thought ofa s McGahn's notes. McGahn 3/8/18 302, at 5. 82
+[^5]: McGahn 3/8/18 302, at 5.
+[^826]: McGahn 3/8/18 302, at 5.
 [^827]: Kelly 8/2/18 302, at 2. had not backed down and wou ld not budge. 828 following the Oval Office meeting, the president's
 personal counsel called McGahn's counsel and relayed that the president was'"fine" with
-McGahn. 
+McGahn.
 [^829]: analysis
 
 In analyzing the president's efforts to have McGahn deny that he had been ordered to have
@@ -10999,10 +11059,10 @@ understood that McGahn had not told the president directly that he planned to re
  word'fire'?" The president's assertion in the Oval Office meeting that he had never directed
  McGahn to have the special counsel removed thus runs counter to the evidence. Tn addition, even if the president sincerely disagreed with McGahn's memory of the June
  17, 2017 events, the evidence indicates that the president knew by the time of the Oval Office
- 
+
 [^828]: McGahn 3/8/18 302, at 5. Kelly did not recall discussing the Oval Office meeting with the
  president after the fact. Kelly 8/2/1 8 302, at 2. handwritten notes taken by Kelly state, "Do n\[:\] Mueller
- discussion in June. - Bannon Priebus - came out okay." WH0000l7685 (Kelly 2/6/18 Notes). 
+ discussion in June. - Bannon Priebus - came out okay." WH0000l7685 (Kelly 2/6/18 Notes).
 [^829]: McGahn 3/8/18 302, at 5 (agent note). meeting that McGahn's account differed and that McGahn was firm in his views. shortly after the
 story broke, the president's counsel told McGahn's counsel that the president wanted McGahn to
 make a statement denying he had been asked to fire the special counsel, but McGahn responded
@@ -11040,7 +11100,7 @@ the obstruction inquiry was not complete, it was foreseeable that he would be in
  to have McGahn refute the New York Times article, a nexus to a proceeding or to further
  investigative interviews would not be shown. But the president's efforts to have McGahn write a
  letter "for our records" approximately ten days after the stories had come out- well past the typical
- 
+
 [^830]: 1/29/ I 8 Letter, president's personal counsel to special counsel's Office, at 1-2 ("In our
  conversation of January 8, your office identified the following topics as areas you desired to address with
  the president in order to complete your investigation on the subjects of alleged collusion and obstruction of
@@ -11095,10 +11155,10 @@ counsel to acknowledge receipt of the voicemail. 836 F ly nn's attorneys reitera
 longer in a position to sha re information under any sort of privilege. 837 according to Flynn's
 attorneys, the president's personal counsel was indignant and vocal in his disagreement. The
 president's personal counsel said that he interpreted what they said to him as a reflection ofFlynn's
- 83 
+ 83
 [^1]: See, e.g., remarks by president Trump in Press conference, White House (Feb. 16, 2018)
 (stating that "Flynn is a fine person" and "I don't think \[Flynn\] did anything wrong. If anything, he did
-something right. .. You know, he was just doing his job"); interview of Donald J Trump, NBC (May 11, 2017) (stating that Flynn is a "very good person"). 
+something right. .. You know, he was just doing his job"); interview of Donald J Trump, NBC (May 11, 2017) (stating that Flynn is a "very good person").
 [^832]: See Priebus I/18/17 302, at 9-10 (the president asked Priebus to contact Flynn the week he was
 terminated to convey that the president sti ll cared about him and felt bad about what happened to him;
 Priebus thought the president did not want Flynn to have a problem with him); McFarland 12/22/17 302, at 18 (about a month or two after Flynn was terminated, the president asked McFarland to get in touch with
@@ -11109,15 +11169,15 @@ relay on behalf of the president that the president hoped Flynn was okay); chris
 (describing a phone conversation between Kushner and Flynn the day after Flynn was fired where Kushner
 said, "You know the president respects you. The president cares about you. I'II get the president to send
 out a positive tweet about you later," and the president nodded his assent to Kushner's comment promising
-a tweet). 
-[^833]: counsel for Flynn 3/1/18 302, at 1. 
-[^834]: counsel for Flynn 3/1/18 302, at I. 
-[^835]: 11/22/17 voicemail transcript, president's personal counsel to counsel for Michael Flynn. 
-[^836]: counsel for Flynn 3/1/18 302, at 1. 
-[^837]: counsel for Flynn 3/1/18 302, at 1. 
+a tweet).
+[^833]: counsel for Flynn 3/1/18 302, at 1.
+[^834]: counsel for Flynn 3/1/18 302, at I.
+[^835]: 11/22/17 voicemail transcript, president's personal counsel to counsel for Michael Flynn.
+[^836]: counsel for Flynn 3/1/18 302, at 1.
+[^837]: counsel for Flynn 3/1/18 302, at 1.
 [^838]: counsel for Flynn 3/1/18 3 02, at I. hostility towards the president and that he planned to inform his client of that interpretation. Flynn's attorneys understood that statement to be an attempt to make them reconsider their position
 because the president's personal counsel believed that Flynn would be disturbed to know that such
-a message would be conveyed to the president. 
+a message would be conveyed to the president.
 [^840]: On December 1, 2017, Flynn pleaded gui lty to making false statements pursuant to a
 cooperation agreement. 841 The next day, the president told the press that he was not concerned
 about what Flynn might tell the special counsel. 842 In response to a question about whether the
@@ -11132,18 +11192,18 @@ angry. "
  On October 27, 2017, a grand jury in the district of Columbia indicted Manafort and former
 deputy campaign manager Richard Gates on multiple felony counts, and on February 22, 2018, a
 grand jury in the eastern district of virginia indicted Manafort and Gates on additional felony
- 
+
 [^839]: counsel for Flynn 3/1/18 302, at 2. because of attorney-client privilege issues, we did not seek
 to interview the president's personal counsel about the extent to which he discussed his statements to
- Flynn's attorneys with the president. 
-[^84]: °counsel for Flynn 3/1/18 302, at 2. 84 1 information, United States v. Michael T Flynn, 1:17-cr-232 (D.D.C. Dec. 1, 2017), Doc. 1; Plea
- agreement, United States v. Michael T Flynn, 1: 17-cr-232 (D.D.C. Dec. I, 2017), Doc. 3. 
-[^842]: president Trump remarks on Tax Reform and Michael Flynn's Guilty Plea, C-SPAN (Dec. 2, 2017). 
+ Flynn's attorneys with the president.
+[^840]: counsel for Flynn 3/1/18 302, at 2. 84 1 information, United States v. Michael T Flynn, 1:17-cr-232 (D.D.C. Dec. 1, 2017), Doc. 1; Plea
+ agreement, United States v. Michael T Flynn, 1: 17-cr-232 (D.D.C. Dec. I, 2017), Doc. 3.
+[^842]: president Trump remarks on Tax Reform and Michael Flynn's Guilty Plea, C-SPAN (Dec. 2, 2017).
 [^843]: president Trump remarks on Tax Reform and Michael Flynn's Guilty Plea, C-SPAN (Dec. 2, 2017). 844 See @realDonaldTrump 12/2/17 (9:06 p.m. ET) Tweet ("So general Flynn lies to the FBI and
  his life is destroyed, while crooked Hillary Clinton, on that now famous FBl holiday'interrogation'with
  no swearing in and no recording, lies many times ... and nothing happens to her? Rigged system, or just
  a doubl e standard?"); president Trump departure remarks, C-SPAN (Dec. 4, 2017) ("Well, I feel badly
- for general Flynn. I feel very badly. He's led a very strong life. And I feel very badly. "). 
+ for general Flynn. I feel very badly. He's led a very strong life. And I feel very badly. ").
 [^845]: president Trump White House departure, C-SPAN (Dec. 15, 2017). counts. 846 The charges in both cases alleged criminal conduct by Manafort that began as early as
 2005 and continued through 2018. 847
 
@@ -11151,27 +11211,27 @@ In January 2018, Manafort told Gates that he had talked to the president's perso
 and they were "going to take care of us." 848 Mana fort told Gates it was stupid to plead, saying that
 he had been in touch with the president's personal counsel and repeating that they should " sit tight "
 and "we'll betaken care of." 849 Gates asked Manafort outright if anyone mentioned pardons and
-Manafort said no one used that word. 
+Manafort said no one used that word.
 [^850]: As the proceedings against Manafort progressed in court, the president told Porter that he
 never liked Manafort and that Manafort did not know what he was doing on the campaign. The
 president discussed with aides whether and in what way Manafort might be cooperating with the
 special counsel's investigation, and whether Manafort knew any information that would be
-harmful to the president. 
+harmful to the president.
 [^852]: In public, the president made statements criticizing the prosecution and suggesting that
 Manafort was being treated unfairly. On June I 5, 2018, before a scheduled court hearing that day
 on whether Manafort's bail should be revoked based on new charges that Manafort had tampered
 with witnesses while out on bail, the president told the press, "T feel badly about a lot of them
- 
+
 [^846]: indictment, United States v. Paul J. Manafort, Jr. and Richard W. Gates III, I: 17-cr-201 (D.D.C. Oct, 27, 2017), Doc. 13 ("Manafort and Gates D.D.C. indictment"); indictment, United States v. Paul J. Manafort, Jr. and Richard W. Gates III, I: l 8-cr-83 (E.D. Va. Feb. 22, 2018), Doc. 9 ("Manafort and Gates
 E.D. Va. indictment")
- 
+
 [^847]: Manafort and Gates D.D.C. indictment; Manafort and Gates E.D. Va. indictment. 848 Gates 4/18/18 302, at 4. In February 2018, Gates pleaded guilty, pursuant to a cooperation plea
 agreement, to a superseding criminal information charging him with conspiring to defraud and commit
 multiple offenses (i.e., tax fraud, failure to report foreign bank accounts, and acting as an unregistered agent
 of a foreign principal) against the United States, as well as making false statements to our
 Office. superseding criminal information, United States v. Richard W. Gates III, 1: I7-cr-201 (D.D.C. Feb. 23, 2018), Doc. 195; Plea agreement, United States v. Richard W. Gates III, l : I7-cr-201 (D.D.C. Feb. 23, 2018), Doc. 205. Gates has provided information and in-court testimony that the Office has deemed to be
-reliable. 
-[^849]: Gates 4/18/18 302, at 4. 
+reliable.
+[^849]: Gates 4/18/18 302, at 4.
 [^850]: Gates 4/18/18 302, at 4. Manafort told this Office that he never told Gates that he had talked to
 the president's personal counselor suggested that they would betaken care of. Manafort also said he hoped
 for a pardon but never discussed one with the president, although he noticed the president's public
@@ -11181,7 +11241,7 @@ grand jury. Order, United States v. Man afo rt, l: l 7-cr-201 (D.D.C. Feb. 13, 2
 Priebus 4/3/18 302, at 11. Hicks said that candidate Trump trusted Manafort's judgment while he worked
 on the campaign, but she also once heard Trump tell Gates to keep an eye on Manafort. Hicks 3/13/18
 
-302, at 16. 
+302, at 16.
 [^852]: Porter 5/8/18 302, at 11; McGahn 12/14/17 302, at 14. because I think a lot of it is very unfair. I mean, I look at some of them where they go back 12
 
 years. Like Manafort has nothing to do with our campaign. But I feel so-I tell you, I feel a little
@@ -11210,15 +11270,15 @@ in the investigation would not be "excluded from \[a pardon\], if in fact the pr
  .. . come to the conclusion that you have been treated unfairly." 860 Giuliani observed that pardons
 were not unusual in political investigations but said, "T hat doesn't mean they're going to happ en
 
-[^853]: remarks by president Trump in Press Gaggle, White House (June 15, 2018). 
-[^854]: remarks by president Trump in Press Gaggle, White Hous e (June 15, 2018). 
-[^855]: @rea!DonaldTrump 6/15/18 (1:41 p.m. ET) Tweet. 
+[^853]: remarks by president Trump in Press Gaggle, White House (June 15, 2018).
+[^854]: remarks by president Trump in Press Gaggle, White Hous e (June 15, 2018).
+[^855]: @rea!DonaldTrump 6/15/18 (1:41 p.m. ET) Tweet.
 [^856]: Chris Sommerfeldt, Rudy Giuliani says Mueller probe'might get cleaned up'with'presidential
-pardons'in light of Paul Manafort going to jail, New York Daily News (June 15, 2018). 
+pardons'in light of Paul Manafort going to jail, New York Daily News (June 15, 2018).
 [^857]: Sharon LaFraniere, Judge Orders Paul Manafort Jailed Before Trial, Citing New obstruction
- charges, New York Time s (June 15, 2018) (quoting Giuliani). 
-[^858]: State of the Union with Jake Tapper transcript, CNN (June 17, 2018); see Karoun Demitjian, Giuliani suggests Trump may pardon Manafort after Mueller's probe, washing ton Post (June 17, 20 18). 
-[^859]: State of the Union with Jake Tapper transcript, CNN (June 17, 2018). 
+ charges, New York Time s (June 15, 2018) (quoting Giuliani).
+[^858]: State of the Union with Jake Tapper transcript, CNN (June 17, 2018); see Karoun Demitjian, Giuliani suggests Trump may pardon Manafort after Mueller's probe, washing ton Post (June 17, 20 18).
+[^859]: State of the Union with Jake Tapper transcript, CNN (June 17, 2018).
 [^860]: State of the Union with Jake Tapper transcript, CNN (June 17, 2018). here. Doesn't mean that anybody should rely on it. ... Big signal is, nobody has been pardoned
 yet. ,,s
 [^61]: On July 31, 2018, Manafort's criminal trial began in the eastern district of virginia, generating substantial news coverage. 862 The next day, the president tweeted, "This is a terrible
@@ -11233,24 +11293,24 @@ worse, Alfonse Capone, legendary mob boss, killer and'Public Enemy Number One,'o
 Manafort, political operative & Reagan/Dole darling, now serving solitary confinement - although
 convicted of nothing? Where is the Russian collusion?" 865 The president's tweets about the
 Manafort trial were widely covered by the press. 866 When asked about the president's tweets, sanders told the press, "certainly, the president's been clear. He thinks Paul Manafort's been
-treated unfairly." 
+treated unfairly."
 [^867]: On August 16, 2018, the Manafort case was submitted to the jury and deliberations began. At that time, Giuliani had recently suggested to reporters that the special counsel investigation
 needed to be "done in the next two or three weeks," 868 and media stories reported that a Manafort
 acquittal would add to criticism that the special counsel investigation was not worth the time and
-expense, whereas a conviction could show that ending the investigation would be premature. 
-[^861]: State of the Union with Jake Tapper transcript, CNN (June 17, 2018). 
-[^862]: See, e.g., Katelyn Polantz, takeaways from day one of the Paul Manafort trial, CNN (July 31, 2018); Frank Bruni, Paul Manafort's Trial Is Donald Trump's, Too, New York Times opinion (July 31, 2018); Rachel Weiner et al., Paul Manafort trial Day 2: witnesses describe extravagant clothing purchases, home remodels, lavish cars paid with wire transfers, Washington Post (Aug. 1, 2018). 
+expense, whereas a conviction could show that ending the investigation would be premature.
+[^861]: State of the Union with Jake Tapper transcript, CNN (June 17, 2018).
+[^862]: See, e.g., Katelyn Polantz, takeaways from day one of the Paul Manafort trial, CNN (July 31, 2018); Frank Bruni, Paul Manafort's Trial Is Donald Trump's, Too, New York Times opinion (July 31, 2018); Rachel Weiner et al., Paul Manafort trial Day 2: witnesses describe extravagant clothing purchases, home remodels, lavish cars paid with wire transfers, Washington Post (Aug. 1, 2018).
 [^863]: @realDonaldTrump 8/1/18 (9:24 a.m. ET) Tweet. Later that day, when sanders was asked
  about the president's tweet, she told reporters, "It's not an order. It's the president's opinion." Sarah
- sanders, White House Daily briefing, C-SPAN (Aug. 1, 2018). 
-[^864]: @realDonaldTrump 8/1/18 (9:34 a.m. ET) Tweet. 
-[^865]: @realDonaldTrump 8/1/18 (11 :35 a.m. ET) Tweet. 
+ sanders, White House Daily briefing, C-SPAN (Aug. 1, 2018).
+[^864]: @realDonaldTrump 8/1/18 (9:34 a.m. ET) Tweet.
+[^865]: @realDonaldTrump 8/1/18 (11 :35 a.m. ET) Tweet.
 [^866]: See, e.g., Carol D. Leonnig et al., Trump calls Manafort prosecution "a hoax," says sessions
  should stop Mueller investigation "right now", Washington Post (Aug. 1, 2018) ; Louis Nelson, Trump
- claims Manafort case has "nothing to do with collusion", politico (Aug. I. 2018). 
-[^867]: Sarah sanders, White House Daily briefing, C-SPAN (Aug. 1, 2018). 
+ claims Manafort case has "nothing to do with collusion", politico (Aug. I. 2018).
+[^867]: Sarah sanders, White House Daily briefing, C-SPAN (Aug. 1, 2018).
 [^868]: Chris Strohm & Shannon Pettypiece, Mueller Prob e Doesn't Need to shutdown Befor e
- midterms, officials Say, Bloomberg (Aug. 15, 2018). 
+ midterms, officials Say, Bloomberg (Aug. 15, 2018).
 [^869]: See, e.g., Katelyn Polantz et al., Manafort jury ends first day of deliberations without a verdict, CNN (Aug. 16, 2018); David Voreacos, What Mueller's Manafort Case Means f or the Trump Battle to
 On August 17, 2018, as jury deliberations continued, the president commented on the trial from
 the South Lawn of the White House. In an impromptu exchange with reporters that lasted
@@ -11262,7 +11322,7 @@ short period of time. But you know what, he happens to beavery good person. And 
 very sad what they've done to Paul Manafort." 872 The president did not take further questions. 873
 
 In response to the president's statements, Manafort's attorney said, "Mr. Manafort really
-appreciates the support of president Trump." 
+appreciates the support of president Trump."
 [^874]: On August 21, 2018, the jury found Manafort guilty on eight felony counts. Also on
 August 21, Michael Cohen pleaded guilty to eight offenses, including a campaign-finance
 violation that he said had occurred "incoordination with, and at the direction of, a candidate for
@@ -11270,23 +11330,23 @@ violation that he said had occurred "incoordination with, and at the direction o
  described the special counsel's investigation as "a witch hunt that ends in disgrace. " 877 The next
  day, the president tweeted, " I feel very badly for Paul Manafort and his wonderful family.'justice'took a 12 year old tax case, among other things, applied tremendous pressure on him and, unlike
  Michael Cohen, he refused to'break'-make up stories in order to get a'deal.'Such respect for
- 
+
 [^878]: a brave man!"
  In a Fox News interview on August 22, 2018, the president said: " \[Cohen\] makes abetter
  deal when he uses me, like everybody else. And one of the reasons l respect Paul Manafort so
  much is he went through that trial - you know they make up stories. People make up stories. This
  Come, Bloomberg (Aug. 2, 2018); Gabby Morrongiello, What a guilty verdict for Manafort would mean
-for Trump and Mueller, Washington examiner (Aug. 18, 2018). 
-[^870]: president Trump remarks on John Brennan and Mueller Probe, C-SPAN (Aug. 17, 2018). 87 
-[^1]: president Trump Rem¶rks on John Brennan and Mueller Probe, C-SPAN (Aug. 17, 2018). 872 president Trump remarks on John Brennan and Mueller Probe, C-SPAN (Aug. 17, 2018). 
-[^873]: president Trump remarks on John Brennan and Mueller Probe, C-SPAN (Aug. 17, 2018). 
+for Trump and Mueller, Washington examiner (Aug. 18, 2018).
+[^870]: president Trump remarks on John Brennan and Mueller Probe, C-SPAN (Aug. 17, 2018). 87
+[^1]: president Trump Rem¶rks on John Brennan and Mueller Probe, C-SPAN (Aug. 17, 2018). 872 president Trump remarks on John Brennan and Mueller Probe, C-SPAN (Aug. 17, 2018).
+[^873]: president Trump remarks on John Brennan and Mueller Probe, C-SPAN (Aug. 17, 2018).
 [^874]: Trump calls Manafort "very good person, " All In with Chris Hayes (Aug. 17, 2018) (transcript);
  Manafort lawyer: We appreciate Trump's support, CNN (Aug. 17, 2018)
  (https://www .cnn.com/videos/politics/2 018/08/17/paul-manafort-attorney-trump-j Uiy-deliberations-
- schneider- lead-vpx .cnn). 
-[^875]: transcript at 23, United States v. Michael Cohen, l: 18-cr-602 (S.D.N.Y. Aug. 21, 2018), Doc. 7 (Cohen 8/21/18 transcript). 
-[^876]: president Trump remarks on Manafort Trial, C-SPAN (Aug. 21, 2018). 
-[^877]: president Trump remarks on Manafort Trial, C-SPA N (Aug. 21, 2018). 
+ schneider- lead-vpx .cnn).
+[^875]: transcript at 23, United States v. Michael Cohen, l: 18-cr-602 (S.D.N.Y. Aug. 21, 2018), Doc. 7 (Cohen 8/21/18 transcript).
+[^876]: president Trump remarks on Manafort Trial, C-SPAN (Aug. 21, 2018).
+[^877]: president Trump remarks on Manafort Trial, C-SPA N (Aug. 21, 2018).
 [^878]: @realDonaldTrump 8/22/18 (9:21 a.m. ET) Tweet. whole thing about flipping, they call it, T know all about flipping." 879 The president said that
 flipping was "not fair" and "almost ought to be outlawed ." 880 ln response to a question about
 whether he was considering a pardon for Manafort, the president said, "T have great respect for
@@ -11296,7 +11356,7 @@ president "really thinks Manafort has been horribly treated" and that he and the
 discussed the political fallout if the president pardoned Manafort. 882 The next day, Giuliani told
 the Washington Post that the president had asked his lawyers for advice on the possibility of a
 pardon for Manafort and other aides, and had been counseled against considering a pardon until
-the investigation concluded. 
+the investigation concluded.
 [^883]: On September 14, 2018, Manafort pleaded guilty to charges in the district of Columbia
 and signed a plea agreement that required him to cooperate with investigators. 884 Giuliani was
 reported to have publicly said that Manafort remained in a joint defense agreement with the
@@ -11305,17 +11365,17 @@ attorneys regularly briefed the president's lawyers on the topics discussed and 
 Manafort had provided in interviews with the special counsel's Office. 885 On November 26, 2018, the special counsel's Office disclosed in a public court filing that Manafort had breached his plea
 agreement by lying about multiple subjects. 886 The next day, Giuliani said that the president had
 been "upset for weeks" about what he considered to be "the un-American, horrible treatment of
- 
+
 [^879]: Fox & friends exclusive interview with president Trump, Fox News (Aug. 23, 2018) (recorded
-the previous day). 
-[^88]: °Fox & friends exclusive interview with president Trump, Fox News (Aug. 23, 2018) (recorded
-the previous day). 
+the previous day).
+[^880]: Fox & friends exclusive interview with president Trump, Fox News (Aug. 23, 2018) (recorded
+the previous day).
 [^881]: Fox & friends exclusive interview with president Trump, Fox News (Aug. 23, 2018) (recorded
 the previous day). 882. Maggie Haberman & Katie Rogers, "How Did We End Up Here?" Trump wonders as the White
-House soldiers On, New York Times (Aug. 22, 2018). 
+House soldiers On, New York Times (Aug. 22, 2018).
 [^883]: Carol D. Leonnig & Josh Dawsey, Trump recently sought his lawyers'advice on possibility of
-pardoning Manafort, Giuliani says, Washington Post (Aug. 23, 2018). 
-[^884]: Plea agreement, United States v. Paul J Manafort, Jr., l:l7-cr-201 (D.D.C. Sept. 14, 2018), Doc. 422. 
+pardoning Manafort, Giuliani says, Washington Post (Aug. 23, 2018).
+[^884]: Plea agreement, United States v. Paul J Manafort, Jr., l:l7-cr-201 (D.D.C. Sept. 14, 2018), Doc. 422.
 [^885]: Karen Freifeld & Nathan Layne, Trump lawyer: Manafort said nothing damaging in Mueller
  interviews, Reuters (Oct. 22, 2018); Michaels. Schmidt et al., Mana/art's Lawyer Said to Brief Trump
 attorneys on What He Told Mueller, New York Times (Nov. 27, 2018); Dana Bash, Mana/art team briefed
@@ -11324,7 +11384,7 @@ attorneys on What He Told Mueller, New York Times (Nov. 27, 2018); Dana Bash, Ma
  updated-mueller-probe-bash-sot-nr-vpx.cnn; see Sean Hannity, interview with Rudy Giuliani, Fox News
  (Sept. 14, 2018) (Giuliani: "\[T\]here was a quote put out by a source close to Manafort that the plea
  agreement has, and cooperation agreement has, nothing to do with the Trump campaign .... Now, I know
- that because 1've been privy to a lot of facts I can't repeat."). 
+ that because 1've been privy to a lot of facts I can't repeat.").
 [^886]: Joint Status Report, United States v. Paul J Mana/art, Jr., (D.D.C Nov. 26, 2018), Doc. 455. Manafort." 887 In an interview on November 28, 2018, the president suggested that it was "very
 brave" that Manafort did not " flip":
 
@@ -11339,21 +11399,21 @@ Corsi, but he refuses to say what they demanded. 888 Manafort, Corsi. It's
 
 actually very brave. Tn response to a question about a potential pardon for Manafort, the president said, "It was never
 discussed, but I wouldn't take it off the table. Why would I take it off the table? "
- 3. **\[ REDACTED: Harm to Ongoing Matter \]** a **\[ REDACTED: Harm to Ongoing Matter \]** III **\[ REDACTED: Harm to Ongoing Matter \]** :•• **\[ REDACTED: Harm to Ongoing Matter \]** 
+ 3. **\[ REDACTED: Harm to Ongoing Matter \]** a **\[ REDACTED: Harm to Ongoing Matter \]** III **\[ REDACTED: Harm to Ongoing Matter \]** :•• **\[ REDACTED: Harm to Ongoing Matter \]**
 [^887]: Stephen Collinson, Trump appears consumed by Mueller investigation as details emerge, CNN
-(Nov. 29, 2018). 
+(Nov. 29, 2018).
 [^888]: "Corsi" is a reference to Jerome Corsi, who was involved in efforts
 to coordinate with WikiLeaks and Assange, and who stated publicly at that time that he had refused a plea
 offer fro~'s Office because he was "not going to sign a lie." Sara Murray & Eli
-Watkins,~ says he won't agree to plea deal, CNN (Nov. 26, 2018). 
+Watkins,~ says he won't agree to plea deal, CNN (Nov. 26, 2018).
 [^889]: Marisa Schultz & Nikki Schwab, Oval Office interview with president Trump: Trump says
 pardon for Paul Manafort still a possibility, New York Post (Nov. 28, 2018). That same day, the president
 tweeted: "While the disgusting Fake News is doing everything within their power not to report it that way, at least 3 major players are intimating that the Angry Mueller Gang ofDems is viciously telling witnesses
 to lie about facts & they will get relief. This is our Joseph McCarthy Era!" @rea!DonaldTrump 11/28/18
 
 (8:39 a.m. ET) Tweet. 890 Marisa Schultz & Nikki Schwab, New York Post Oval Office interview with president Trump:
-Trump says pardon for Paul Manafort still a possibility, New York Post (Nov. 28, 2018). **\[ REDACTED: Harm to Ongoing Matter \]** ra **\[ REDACTED: Harm to Ongoing Matter \]** 1a **\[ REDACTED: Harm to Ongoing Matter \]** -• **\[ REDACTED: Harm to Ongoing Matter \]** 
-[^895]: 896 **\[ REDACTED: Harm to Ongoing Matter \]** :· **\[ REDACTED: Harm to Ongoing Matter \]** :•· **\[ REDACTED: Harm to Ongoing Matter \]** · **\[ REDACTED: Harm to Ongoing Matter \]** - **\[ REDACTED: Harm to Ongoing Matter \]** 111 **\[ REDACTED: Harm to Ongoing Matter \]** 900 **\[ REDACTED: Harm to Ongoing Matter \]** ·• **\[ REDACTED: Harm to Ongoing Matter \]** • **\[ REDACTED: Harm to Ongoing Matter \]** 
+Trump says pardon for Paul Manafort still a possibility, New York Post (Nov. 28, 2018). **\[ REDACTED: Harm to Ongoing Matter \]** ra **\[ REDACTED: Harm to Ongoing Matter \]** 1a **\[ REDACTED: Harm to Ongoing Matter \]** -• **\[ REDACTED: Harm to Ongoing Matter \]**
+[^895]: 896 **\[ REDACTED: Harm to Ongoing Matter \]** :· **\[ REDACTED: Harm to Ongoing Matter \]** :•· **\[ REDACTED: Harm to Ongoing Matter \]** · **\[ REDACTED: Harm to Ongoing Matter \]** - **\[ REDACTED: Harm to Ongoing Matter \]** 111 **\[ REDACTED: Harm to Ongoing Matter \]** 900 **\[ REDACTED: Harm to Ongoing Matter \]** ·• **\[ REDACTED: Harm to Ongoing Matter \]** • **\[ REDACTED: Harm to Ongoing Matter \]**
 [^1]: • • **\[ REDACTED: Harm to Ongoing Matter \]** 905 **\[ REDACTED: Harm to Ongoing Matter \]** 907 **\[ REDACTED: Harm to Ongoing Matter \]** 908 **\[ REDACTED: Harm to Ongoing Matter \]** Ma:teria:IPFoteeteEIUREief'FeEI.R. C!'im. P. 6(e)
  analysis
 
@@ -11511,7 +11571,7 @@ explained that Cohen had "provided valuable information ... while taking care an
 what he knows and what he doesn't know." transcript at 19, United States v. Michael Cohen, I: l 8-cr-85O
 (S.D.N.Y. Dec. 12, 2018), Doc. 17 (Cohen 12/12/18 transcript). 910See Volume I, section IV.A. I, supra (noting that starting in at least 2013, several employees of
 the Trump organization, including then-president of the organization Donald J. Trump, pursued a Trump
-Tower Moscow deal with several Russian counterparties). 911Cohen 9/12/18 302, at 1-4; Cohen 8/7/18 302, at 15. 912Cohen 9/12/18 302, at 2, 4. 913 Cohen 9/12/18 302, at 4. 
+Tower Moscow deal with several Russian counterparties). 911Cohen 9/12/18 302, at 1-4; Cohen 8/7/18 302, at 15. 912Cohen 9/12/18 302, at 2, 4. 913 Cohen 9/12/18 302, at 4.
 [^914]: Cohen 9/12/18 302, at 4, I 0. 915MDC-H-OOO618-25(10/28/15 Letter oflntent, signed by Donald J. Trump, Trump acquisition, LLC and Andrey Rozov, LC. Expert investment company); Cohen 9/12/18 302, at 3; written responses
 of Donald J. Trump (Nov. 20, 2018), at 15 (response to question III, Parts (a) through (g)). 916 MDC-H-OOO6OO (12/19/15 Email, Sater to Cohen). 917 Cohen 9/12/18 302, at 5. Peskov, who was Putin's deputy chief of staff and press secretary. 918 On January 20, 2016, Cohen
 received an email response from Elena Poliakova, Peskov's personal assistant, and phone records
@@ -11522,36 +11582,36 @@ recalled briefing candidate Trump about the call soon afterwards. 92 Cohen told 
 with a woman he identified as " someone from the kremlin ," and Cohen reported that she was very
 professional and asked detailed questions about the project. 921 Cohen recalled telling Trump he
 wished the Trump organization had assistants who were as competent as the woman from the
-kremlin. 
+kremlin.
 [^922]: Cohen thought his phone call renewed interest in the project. 923 The day after Cohen's call
 with Poliakova, Sater texted Cohen, asking him to "\[c\]all me when you have a few minutes to chat
 ... It's about Putin they called today." 924 Sater told Cohen that the Russian government liked the
 project and on January 25, 2016, sent an invitation for Cohen to visit Moscow " for a working
 visit. " 92 5 After the outreach from Sater, Cohen recalled telling Trump that he was waiting to hear
-back on moving the project forward. 
+back on moving the project forward.
 [^926]: After January 2016, Cohen continued to have conversations with Sater about Trump Tower
 Moscow and continued to keep candidate Trump updated about those discussions and the status
 of the project. 927 Cohen recalled that he and Trump wanted Trump Tower Moscow to succeed and
 that Trump never discouraged him from working on the project because of the campaign. In
 March or April 2016, Trump asked Cohen if anything was happening in Russia .929 Cohen also
- 9 
+ 9
 [^18]: See FS00004 (12/30/15 Text message, Cohen to Sater); TRUMPORG_MC_000233 (1/11/16
 
 Email, Cohen to pr_peskova @prpress.gof.ru); MDC-H-000690 (1/14/16 Email, Cohen to
-info@prpress.gov.ru); TRUMPORG_MC_000235 (1/16/16 Email, Cohen to pr_peskova @prpress.gov.ru). 
+info@prpress.gov.ru); TRUMPORG_MC_000235 (1/16/16 Email, Cohen to pr_peskova @prpress.gov.ru).
 [^919]: 1/20/16 Email, Poliakova to Cohen; Call records ofMichael Cohen. (showing a 22-minute call
 on January 20, 2016, between Cohen and the number Poliakova provided in her email) ; Cohen 9/12/18 302, at 2-3. After the call, Cohen saved Poliakova's contact information in his Trump organization outlook
-contact list. 1/20/16 Cohen Microsoft outlook Entry (6:22 a.m.). 
-[^92]: °Cohen 11/20/18 302, at 5. 
-[^921]: Cohen 11/20/18 302, at 5-6; Cohen I l/12/18 302, at 4. 
-[^922]: Cohen 11/20/18 302, at 5. 
-[^923]: Cohen 9/12/18 302, at 5. 92 
-[^4]: FS0O0l l (1/21/16 Text messages, Sater & Cohen). 
-[^925]: Cohen 9/12/18 302, at 5; 1/25/16 Email, Sater to Cohen (attachment). 
+contact list. 1/20/16 Cohen Microsoft outlook Entry (6:22 a.m.).
+[^920]: Cohen 11/20/18 302, at 5.
+[^921]: Cohen 11/20/18 302, at 5-6; Cohen I l/12/18 302, at 4.
+[^922]: Cohen 11/20/18 302, at 5.
+[^923]: Cohen 9/12/18 302, at 5. 92
+[^4]: FS0O0l l (1/21/16 Text messages, Sater & Cohen).
+[^925]: Cohen 9/12/18 302, at 5; 1/25/16 Email, Sater to Cohen (attachment).
 [^926]: Cohen 11/20/18 302, at 5. 927 Cohen 9/12/18 302, at 6. In later congressional testimony, Cohen stated that he briefed Trump
  on the project approximately six times after January 2016. hearing on Issues related to Trump
- organization Before the House oversight and Ref orm committee, 116th Cong. (Feb. 27, 2019) (CQ Cong. transcripts, at 24) (testimony of Michael Cohen). 
-[^928]: Cohen 9/12/18 302, at 6. 
+ organization Before the House oversight and Ref orm committee, 116th Cong. (Feb. 27, 2019) (CQ Cong. transcripts, at 24) (testimony of Michael Cohen).
+[^928]: Cohen 9/12/18 302, at 6.
 [^929]: Cohen 9/18/18 302, at 4. recalled briefing Donald Trump Jr. in the spring-a conversation that Cohen said was not " idle
 chitchat" because Trump Tower Moscow was potentially a $1 billion deal. 930
 
@@ -11587,17 +11647,17 @@ During the summer of 2016, Cohen recalled that candidate Trump publicly claimed 
 had nothing to do with Russia and then shortly afterwards privately checked with Cohen about the
 status of the Trump Tower Moscow project, which Cohen found "interesting." 940 At some point
 
-[^93]: °Cohen 9/12/18 302, at 10. 
-[^931]: Cohen 9/12/18 302, at 7. 
-[^932]: Cohen 9/12/18 302, at 7. 
-[^933]: FS000 15 (5/4/16 Text message, Sater to Cohen). 
-[^934]: FS000l5 (5/4/16 Text message, Cohen to Sater). 
-[^935]: FS00016-17 (5/5/16 Text messages, Sater & Cohen). 
-[^936]: Cohen 9/12/ l 8 302, at 7. 
-[^937]: Cohen 9/12/18 302, at 7. 
-[^938]: Cohen 9/12/18 302, at 7-8. 
-[^939]: Cohen 9/12/18 302, at 8. 
-[^94]: °Cohen 3/19/19 302, at 2. that summer, Cohen recalled having a brief conversation with Trump in which Cohen said the
+[^930]: Cohen 9/12/18 302, at 10.
+[^931]: Cohen 9/12/18 302, at 7.
+[^932]: Cohen 9/12/18 302, at 7.
+[^933]: FS000 15 (5/4/16 Text message, Sater to Cohen).
+[^934]: FS000l5 (5/4/16 Text message, Cohen to Sater).
+[^935]: FS00016-17 (5/5/16 Text messages, Sater & Cohen).
+[^936]: Cohen 9/12/ l 8 302, at 7.
+[^937]: Cohen 9/12/18 302, at 7.
+[^938]: Cohen 9/12/18 302, at 7-8.
+[^939]: Cohen 9/12/18 302, at 8.
+[^940]: Cohen 3/19/19 302, at 2. that summer, Cohen recalled having a brief conversation with Trump in which Cohen said the
 Trump Tower Moscow project was going nowhere because the Russian development company
 had not secured a piece of property for the project. 941 Trump said that was " too bad," and Cohen
 did not recall talking with Trump about the project after that. 942 Cohen said that at no time during
@@ -11626,13 +11686,13 @@ was part of a " script" or talking points he had developed with president-Elect 
 941 Cohen 3/19/19 302, at 2. Cohen could not recall the precise timing of this conversation, but said
  he thought it occurred in June or July 2016. Cohen recalled that the conversation happened at some point
 after candidate Trump was publicly stating that he had nothing to do with Russia. Cohen 3/19/19 302, at
-2. 
-[^942]: Cohen 3/19/19 302, at 2. 
-[^943]: Cohen 3/19/19 302, at 2. 
-[^944]: Cohen 11/20/18 302, at l; Cohen 9/18/18 302, at 3, 5; Cohen 9/12/18 302, at 9. 945 Cohen 9/18/18 302, at 1-2; see also Rtskhiladze 4/4/18 302, at 8-9. 
-[^946]: Cohen 9/18/18 302, at 1-2. 
-[^947]: Cohen 9/18/18 302, at 3. 
-[^948]: Cohen 11/20/18 302, at 4. 
+2.
+[^942]: Cohen 3/19/19 302, at 2.
+[^943]: Cohen 3/19/19 302, at 2.
+[^944]: Cohen 11/20/18 302, at l; Cohen 9/18/18 302, at 3, 5; Cohen 9/12/18 302, at 9. 945 Cohen 9/18/18 302, at 1-2; see also Rtskhiladze 4/4/18 302, at 8-9.
+[^946]: Cohen 9/18/18 302, at 1-2.
+[^947]: Cohen 9/18/18 302, at 3.
+[^948]: Cohen 11/20/18 302, at 4.
 [^949]: Cohen 9/18/18 302, at 5. The article was published on February 19, 2017, and reported that
  Sater and Cohen had been working on plan for a Trump Tower Moscow "as recently as the fall of2015"
  but had come to a halt because of the presidential campaign. consistent with Cohen's intended patty line
@@ -11646,7 +11706,7 @@ were untrue because Trump already knew they were untrue. 951 Cohen thought it wa
 say the deal was done in January 2016, rather than acknowledge that talks continued in May and
 June 2016, because it limited the period when candidate Trump could be alleged to have a
 relationship with Russia to an early point in the campaign, before Trump had become the party's
-presumptive nominee. 
+presumptive nominee.
 [^952]: 3. Cohen submits False statements to congress minimizing the Trump Tower
  Moscow project in accordance with the Party Line
 
@@ -11664,15 +11724,15 @@ Cohen eventually entered into a joint defense agreement (JOA) with the president
 individuals who were part of the Russia investigation. 957 In the months leading up to his
 congressional testimony, Cohen frequently spoke with the president's personal counsel. 958 Cohen
 
-[^95]: °Cohen 9/18/18 302, at 5-6. 
-[^951]: Cohen 9/18/18 302, at 6. 
-[^952]: Cohen 9/12/18 302, at I 0. 
+[^950]: Cohen 9/18/18 302, at 5-6.
+[^951]: Cohen 9/18/18 302, at 6.
+[^952]: Cohen 9/12/18 302, at I 0.
 [^953]: P-SCO-000000328 (5/9/17 Letter, HPSCI to Cohen); P-SCO-000000331 (5/12/17 Letter, SSCI
-to Cohen). 
-[^954]: Cohen 11/20/18 302, at 2-3. 
-[^955]: Cohen 11/20/18 302, at 2-3. 
-[^956]: Cohen 11/12/18 302, at 2; Cohen 11/20/19 302, at 3. 
-[^957]: Cohen 11/12/18 302, at 2. 
+to Cohen).
+[^954]: Cohen 11/20/18 302, at 2-3.
+[^955]: Cohen 11/20/18 302, at 2-3.
+[^956]: Cohen 11/12/18 302, at 2; Cohen 11/20/19 302, at 3.
+[^957]: Cohen 11/12/18 302, at 2.
 [^958]: Cohen 11/12/18 302, at 2-3; Cohen 11/20/18, at 2-6. Cohen told investigators about his
 conversations with the president's personal counsel after waiving any privilege of his own and after this
 Office advised his counsel not to provide any communications that would be covered by any other privilege, including communications protected by a joint defense or common interest privilege. As a result, most of
@@ -11712,17 +11772,17 @@ communications that could be covered by privilege, the president's personal coun
 the provenance of his own knowledge, the burden on a privilege holder to establish the elements to support
 a claim of privilege, and the substance of the statements themselves, we have included relevant statements
 Cohen provided in this report. If the statements were to be used in a context beyond this report, further
-analysis could be warranted. 
-[^959]: Cohen l 1/20/18 302, at 6. 
-[^96]: °Cohen 11/20/18 302, at 2, 4. 
-[^961]: Cohen 11/20/18 302, at 4. 
-[^962]: Cohen 9/18/18 302, at 8; Cohen 1 1/20/18 302, at 3-4. 
-[^963]: Cohen 11/20/18 302, at 4. 
-[^964]: Cohen 9/18/18 302, at 11; Cohen 11/20/18 302, at 2. 
+analysis could be warranted.
+[^959]: Cohen l 1/20/18 302, at 6.
+[^960]: Cohen 11/20/18 302, at 2, 4.
+[^961]: Cohen 11/20/18 302, at 4.
+[^962]: Cohen 9/18/18 302, at 8; Cohen 1 1/20/18 302, at 3-4.
+[^963]: Cohen 11/20/18 302, at 4.
+[^964]: Cohen 9/18/18 302, at 11; Cohen 11/20/18 302, at 2.
 [^965]: P-SCO-000003680 and P-SCO-0000003687 (8/16/17 Email and attachment, Michael Cohen's
-counsel to Cohen). Cohen said it was not his idea to write a letter to congress about Trump Tower Moscow. Cohen 9/18/18 302, at 7. 
-[^966]: P-SCO-00009478 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)). 
-[^967]: P-SCO-00009478 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)). 
+counsel to Cohen). Cohen said it was not his idea to write a letter to congress about Trump Tower Moscow. Cohen 9/18/18 302, at 7.
+[^966]: P-SCO-00009478 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)).
+[^967]: P-SCO-00009478 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)).
 [^968]: P-SCO-00009478 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)). of the project and had numerous conversations about it, the statement said, "Mr. Trump was never
 in contact with anyone about this proposal other than me on three occasions, including signing a
 non-binding letter of intent in 2015." 969 Fourth, although Cohen's outreach to Peskov in January
@@ -11746,8 +11806,8 @@ official about a possible meeting, and recalled that Trump asked him multiple ti
 the proposed meeting with Putin. 978 When Cohen called the Russian official a second time, she
 told him it would not follow proper protocol for Putin to meet with Trump, and Cohen relayed that
 
-[^969]: P-SCO-00009478 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)). 
-[^970]: P-SCO-00009478 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)). 
+[^969]: P-SCO-00009478 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)).
+[^970]: P-SCO-00009478 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)).
 [^971]: Cohen 9/12/18 302, at 8-9. Cohen also testified in congress that the president's counsel
 reviewed and edited the statement. hearing on Issues related to Trump organization Before the House
 oversight and Reform committee, 116th Cong. (Feb. 27, 2019) (CQ Cong. transcripts, at 24-25) (testimony
@@ -11755,16 +11815,16 @@ by Michael Cohen). because of concerns about the common interest privilege, we d
 all drafts of Cohen's statement. Based on the drafts that were released through this Office's filter process, it appears that the substance of the four principal false statements described above were contained in an
 early draft prepared by Cohen and his counsel. P-SCO-0000003680 and P-SCO-0000003687 (8/16/17
 
-Email and attachment, Cohen's counsel to Cohen). 
-[^972]: P-SCO-0000003687 (8/16/17 Draft statement of Michael Cohen); Cohen 11/20/18 302, at 4. 
+Email and attachment, Cohen's counsel to Cohen).
+[^972]: P-SCO-0000003687 (8/16/17 Draft statement of Michael Cohen); Cohen 11/20/18 302, at 4.
 [^973]: Cohen 11/20/18 302, at 4. A different line stating that Cohen did "not recall any response to my
 email \[to Peskov in January 2016\], nor any other contacts by me with Mr. Peskov or other Russian
 government officials about the proposal" remained in the draft. See P-SCO-0000009478 (statement of
-Michael D. Cohen, Esq. (Aug. 28, 2017)). 
-[^974]: Cohen 11/20/18 302, at 4. 
-[^975]: Cohen J l /20/18 302, at 5. 
-[^976]: Cohen 9/18/18 302, at I 0-11. 
-[^977]: Cohen 9/18/18 302, at 11; Cohen 11/12/ I 8 302, at 4. 
+Michael D. Cohen, Esq. (Aug. 28, 2017)).
+[^974]: Cohen 11/20/18 302, at 4.
+[^975]: Cohen J l /20/18 302, at 5.
+[^976]: Cohen 9/18/18 302, at I 0-11.
+[^977]: Cohen 9/18/18 302, at 11; Cohen 11/12/ I 8 302, at 4.
 [^978]: Cohen 9/18/18 302, at 11; Cohen 11/12/18 302, at 5. message to Trump. 979 Cohen anticipated he might be asked questions about the proposed Trump-
 Putin meeting when he testified before congress because he had talked about the potential meeting
  °
@@ -11792,18 +11852,18 @@ investigations. 987
 between August 18, 2017, when the statement was in an initial draft stage, and August 28, 2017, when the statement was submitted to congress, phone records reflect that Cohen spoke with
 the president's pcersonal counsel almost daily. 988 On August 27, 2017, the day before Cohen
 
-[^979]: Cohen 11/12/18 302, at 5. 
-[^98]: °Cohen 9/18/18 302, at 11. 
-[^981]: Cohen 3/19/19 302, at 2. 98 
+[^979]: Cohen 11/12/18 302, at 5.
+[^980]: Cohen 9/18/18 302, at 11.
+[^981]: Cohen 3/19/19 302, at 2. 98
 [^2]: Cohen 3/19/19 302, at 2; see Cohen 9/18/18 302, at 11 (recalling that he was told that if he
-stayed on message and kept the president out of the narrative, the president would have his back). 
+stayed on message and kept the president out of the narrative, the president would have his back).
 [^983]: Cohen 9/12/18 302, at 8; information at 4-5, United States v. Michael Cohen, I: l 8-cr-850
 
-(S.D.N.Y. Nov. 29, 2018), Doc. 2 (Cohen information). 
-[^984]: Cohen I 1/20/18 302, at 4. 
-[^985]: Cohen I I /20/18 302, at 4; Cohen 11/12/18 302, at 2-3, 4, 6. 
-[^986]: Cohen 9/12/l 8 302, at 9. 
-[^987]: Cohen 9/12/18 302, at 8-9. 
+(S.D.N.Y. Nov. 29, 2018), Doc. 2 (Cohen information).
+[^984]: Cohen I 1/20/18 302, at 4.
+[^985]: Cohen I I /20/18 302, at 4; Cohen 11/12/18 302, at 2-3, 4, 6.
+[^986]: Cohen 9/12/l 8 302, at 9.
+[^987]: Cohen 9/12/18 302, at 8-9.
 [^988]: Cohen 11/12/18 302, at 2-3; Cohen 11/20/18 302, at 5; Call records of Michael Cohen
 (reflecting three contacts on August 18, 2017 (24 seconds; 5 minutes 25 seconds; and IO minutes 58
 
@@ -11840,24 +11900,24 @@ in January 2016 .997
 
 seconds; 6 minutes 16 seconds; I minutes 10 seconds; 3 minutes 5 seconds; 18 minutes 55 seconds ; 4
 
-minutes 56 seconds ; 11 minutes 6 seconds; 8 seconds; 3 seconds; 2 seconds; 2 seconds). 
+minutes 56 seconds ; 11 minutes 6 seconds; 8 seconds; 3 seconds; 2 seconds; 2 seconds).
 [^989]: Cohen 11/20/18 302, at 5; Call records of Michael Cohen. (reflecting 14 contacts on August
 27, 2017 (28 seconds; 4 minutes 37 seconds; 1 minute 16 seconds; I minutes 35 seconds; 6 minutes 16
 
 seconds; I minutes IO seconds; 3 minutes 5 seconds; 18 minutes 55 seconds; 4 minutes 56 seconds; 11
 
-minutes 6 seconds; 8 seconds; 3 seconds; 2 seconds; 2 seconds)). 
-[^99]: °Cohen 1l /20/ 18 302, at 5. 
+minutes 6 seconds; 8 seconds; 3 seconds; 2 seconds; 2 seconds)).
+[^990]: Cohen 1l /20/ 18 302, at 5.
 [^991]: Cohen 1I /20/18 302, at 5. Cohen also vaguely recalled telling the president's personal counsel
 that he spoke with a woman from the kremlin and that the president's personal counsel responded to the
-effect of "so what?" because the deal never happened. ·Cohen 11/20/18 302, at 5. 
-[^992]: Cohen 11/20/18 302, at 5. 
-[^993]: Cohen 11/20/18 302, at 5. 
-[^994]: 2/8/19 email, counsel for personal counsel to the president to special counsel's Office. 
+effect of "so what?" because the deal never happened. ·Cohen 11/20/18 302, at 5.
+[^992]: Cohen 11/20/18 302, at 5.
+[^993]: Cohen 11/20/18 302, at 5.
+[^994]: 2/8/19 email, counsel for personal counsel to the president to special counsel's Office.
 [^995]: Cohen 9/18/18 302, at 7; Carol D. Leonnig et al., Trump's business sought deal on a Trump
- Tower in Moscow while he ran/ or president, Washington Post (Aug. 27, 2017). 
+ Tower in Moscow while he ran/ or president, Washington Post (Aug. 27, 2017).
 [^996]: Carol D. Leonnig et al., Trump's business sought deal on a Trump Tower in Moscow while he
- ran/or president, Washington Post (Aug. 27, 2017). 
+ ran/or president, Washington Post (Aug. 27, 2017).
 [^997]: Cohen 9/18/ I 8 302, at 7. On August 28, 2017, Cohen submitted his statement about the Trump Tower Moscow
 project to congress. 998 Cohen did not recall talking to the president about the specifics of what
 the statement said or what Cohen would later testify to about Trump Tower Moscow. He
@@ -11872,30 +11932,30 @@ the same message. 1002 Cohen said his decision was meant to mirror Jared Kushner
 release a statement in advance of Kushner's congressional testimony, which the president's
 personal counsel had told Cohen the president liked. 1003 Cohen recalled that on September 20, 2017, after Cohen's opening remarks had been printed by the media, the president's personal
 counsel told him that the president was pleased with the Trump Tower Moscow statement that had
-gone out. 
+gone out.
 [^1004]: On October 24 and 25, 2017, Cohen testified before congress and repeated the false
 statements he had included in his written statement about Trump Tower Moscow. 1005 Phone
 records show that Cohen spoke with the president's personal counsel immediately after his
-testimony on both days. 
+testimony on both days.
 [^1006]: 4. The president Sends messages of support to Cohen
  In January 2018, the media reported that Cohen had arranged a $130,000 payment during
 the campaign to prevent a woman from publicly discussing an alleged sexual encounter she had
- 
-[^998]: P-SCO-000009477 - 9478 (8/28/17 Letter and attachment, Cohen to SSCI). 
-[^999]: Cohen 11/12/18 302, at 2; Cohen 9/12/18 302, at 9. 
-[^100]: °Cohen 9/12/18 302, at 9. 
+
+[^998]: P-SCO-000009477 - 9478 (8/28/17 Letter and attachment, Cohen to SSCI).
+[^999]: Cohen 11/12/18 302, at 2; Cohen 9/12/18 302, at 9.
+[^1000]: Cohen 9/12/18 302, at 9.
 [^1001]: Cohen 9/18/18 302, at 7; see, e.g., READ: Michael Cohen's statement to the Senate intelligence
-committee, CNN (Sept. 19, 2017). 
-[^1002]: Cohen 9/18/18 302, at 7. 
-[^1003]: Cohen 9/18/18 302, at 7; Cohen 11/20/18 302, at 6. 
+committee, CNN (Sept. 19, 2017).
+[^1002]: Cohen 9/18/18 302, at 7.
+[^1003]: Cohen 9/18/18 302, at 7; Cohen 11/20/18 302, at 6.
 [^1004]: Cohen 11/20/18 302, at 6. Phone records show that the president's personal counsel called
 Cohen on the morning of September 20, 2017, and they spoke for approximately 11 minutes, and that they
 had two more contacts that day, one of which lasted approximately 18 minutes. Call records of Michael
 Cohen. (reflecting three contacts on September 20, 2017, with calls lasting for 11 minutes 3 seconds; 2
 
-seconds; and 18 minutes 38 seconds). 
-[^1005]: Cohen information, at 4; executive session, permanent Select committee on intelligence, U.S. House of representatives, interview of Michael Cohen (Oct. 24, 2017), at I 0-11, 117-119. 
-[^1006]: Call records of Michael Cohen. (reflecting two contacts on October 24, 2017 (12 minutes 
+seconds; and 18 minutes 38 seconds).
+[^1005]: Cohen information, at 4; executive session, permanent Select committee on intelligence, U.S. House of representatives, interview of Michael Cohen (Oct. 24, 2017), at I 0-11, 117-119.
+[^1006]: Call records of Michael Cohen. (reflecting two contacts on October 24, 2017 (12 minutes
 [^8]: seconds and 8 minutes 27 seconds) and three contacts on October 25, 2017 (1 second; 4 minutes 6 seconds;
  and 6 minutes 6 seconds)). with the president before he ran for office. 1007This Office did not investigate Cohen's campaign-
 period payments to women. 1008 however, those events, as described here, are potentially relevant
@@ -11910,27 +11970,27 @@ Cohen to say that the president "was not knowledgeable .. . of \[Cohen's\] actio
 payment. 1010 On February 19, 2018, the day after the New York Times wrote a detailed story
 attributing the payment to Cohen and describing Cohen as the president's "fixer," Cohen received
 a text message from the president's personal counsel that stated, " Client says thanks for what you
-do ." 
+do ."
 [^1011]: On April 9, 2018, FBI agents working with the U.S. attorney's Office for the southern
 district of New York executed search warrants on Cohen's home, hotel room, and office. That
 day, the president spoke to reporters and said that he had "just heard that they broke into the office
 of one of my personal attorneys-a goodman." 1013 The president called the searches "a real
 disgrace" and said, "It's an attack on our country, in a true sense. It's an attack on what we all
  1007 See, e.g., Michael Rothfeld & Joe Palazzolo, Trump Lawyer arranged $130,000 payment for
-Adult-Film Star's silence, Wall Street journal (Jan. 12, 2018). 
+Adult-Film Star's silence, Wall Street journal (Jan. 12, 2018).
 [^1008]: The Office was authorized to investigate Cohen's establishment and use of essential
 consultants LLC, which Cohen created to facilitate the $130,000 payment during the campaign, based on
 evidence that the entity received funds from Russian-backed entities. Cohen's use of essential consultants
 to facilitate the $130,000 payment to the woman during the campaign was part of the Offic e's referral of
-certain Cohen-related matters to the U.S. attorney's Office for the southern district of New Yor k. 
+certain Cohen-related matters to the U.S. attorney's Office for the southern district of New Yor k.
 [^1009]: See, e.g., Mark Berman, longtime Trump attorney says he made $130,000 payment to Stormy
 Daniels with his money, Washington Post (Feb. 14, 2018). 1010Hearing on Issues related to Trump organization Before the House oversight and Reform
 committee, I W" Cong. (Feb. 27, 2019) (CQ Cong. transcripts, at 147-148) (testimony ofMichael Cohen). Toll records show that Cohen was connected to a White House phone number for approximately five
 minutes on January 19, 2018, and for approximately seven minutes on January 30, 2018, and tha t Cohen
 called Melania Trump's cellphone several times between January 26, 2018, and January 30, 2018. Call
-records of Michael Cohen. 
+records of Michael Cohen.
 [^1011]: 2/19/18 Text message, president's personal counsel to Cohen; see Jim Rutenberg et al., Tools
-of Trump's Fixer: payouts, intimidation and the tabloids, New York Times (Feb. 18, 2018). 
+of Trump's Fixer: payouts, intimidation and the tabloids, New York Times (Feb. 18, 2018).
 [^1012]: Gov't Opp. to Def. Mot. for Temp. restraining Ord er, In the Matter of Search warrants
 executed on April 9, 2018, 18-mj-3161 (S.D.N.Y. Apr. 13, 2018), Doc. 1 ("On April 9, 2018, agents from
 the New York field office of the federal Bureau oflnvestigation. . . executed search warrants for Michael
@@ -11958,17 +12018,17 @@ York Times published an article about the president's relationship with and trea
 liked & respected. Most people will flip if the government lets them out of trouble, everi
 
 1014 remarks by president Trump Before meeting with Senior military leadership, White House
-(Apr. 9, 2018). 
-[^1015]: Cohen, 10/17/18 302, at 11. 
-[^1016]: Cohen 3/19/19 302, at 4. 
-[^1017]: Cohen 3/19/19 302, at 4. 
-[^1018]: Cohen 9/12/18 302, at 11. 
-[^1019]: Cohen 9/12/18 302, at 11. 
-[^102]: °Cohen 9/12/18 302, at 11. 
-[^1021]: Cohen 9/12/18 302, at 11. 
+(Apr. 9, 2018).
+[^1015]: Cohen, 10/17/18 302, at 11.
+[^1016]: Cohen 3/19/19 302, at 4.
+[^1017]: Cohen 3/19/19 302, at 4.
+[^1018]: Cohen 9/12/18 302, at 11.
+[^1019]: Cohen 9/12/18 302, at 11.
+[^1020]: Cohen 9/12/18 302, at 11.
+[^1021]: Cohen 9/12/18 302, at 11.
 [^1022]: 4/17/18 Email, Citron to Cohen; 4/19/18 Email, Costello to Cohen; MC-SCO-001 (7/7/
-[^18]: redacted billing statement from Davidoff, Hutcher & Citroh to Cohen). 
-[^1023]: 4/21/18 Email, Costello to Cohen. 
+[^18]: redacted billing statement from Davidoff, Hutcher & Citroh to Cohen).
+[^1023]: 4/21/18 Email, Costello to Cohen.
 [^1024]: See Maggie Haberman et al., Michael Cohen Has Said He Would Take a Bullet for Trump. Maybe Not anymore., New York Times (Apr. 20, 2018). if it means lying or making up stories. Sorry, I don't see Michael doing that despite the
 
 horrible Witch Hunt and the dishonest media! 1025
@@ -11989,33 +12049,33 @@ president's personal counsel responded that Cohen should stay on message, that t
 was a witch hunt, and that everything would be fine. 1033 Cohen understood based on this
 conversation and previous conversations about pardons with the president's personal counsel that
 as long as he stayed on message, he would betaken care of by the president, either through a
-pardon or through the investigation being shutdown. 
-[^1034]: 
-[^1025]: @realDonaldTrump 4121118(9: 10 a.m. ET) Tweets. 
-[^1026]: 4121/18 Email, Costello to Cohen. 
-[^1028]: Cohen 9112/18 302, at 11. 
-[^1029]: Cohen 9112118302, at 10. 
-[^103]: °Cohen 9/12/18 302, at IO. 
+pardon or through the investigation being shutdown.
+[^1034]:
+[^1025]: @realDonaldTrump 4121118(9: 10 a.m. ET) Tweets.
+[^1026]: 4121/18 Email, Costello to Cohen.
+[^1028]: Cohen 9112/18 302, at 11.
+[^1029]: Cohen 9112118302, at 10.
+[^1030]: Cohen 9/12/18 302, at IO.
 [^1031]: Cohen 11/20/18 302, at 7. At a White House press briefing on April 23, 2018, in response to a
  question about whether the White House had "close\[d\] the door one way or the other on the president
  pardoning Michael Cohen," sanders said, "It's hard to close the door on something that hasn't taken place. I don't like to discuss or comment on hypothetical situations that may or may not ever happen. I would
  refer you to personal attorneys to comment on anything specific regarding that case, but we don't have
- anything at this point." Sarah sanders, White House Daily briefing, C-SPAN (Apr. 23, 2018). 
-[^1032]: Cohen 11/20/18 302, at 7; Cohen 3/19/19 302, at 3. 
-[^1033]: Cohen 3/19/19 302, at 3. 
+ anything at this point." Sarah sanders, White House Daily briefing, C-SPAN (Apr. 23, 2018).
+[^1032]: Cohen 11/20/18 302, at 7; Cohen 3/19/19 302, at 3.
+[^1033]: Cohen 3/19/19 302, at 3.
 [^1034]: Cohen 3/19/19 302, at 3-4. On April 24, 2018, the president responded to a reporter's inquiry whether he would
 consider a pardon for Cohen with, "Stupid question. " 1035 On June 8, 2018, the president said he
 "hadn't even thought about " pardons for Manafort or Cohen, and continued, "It's far too early to
 bethinking about that. They haven't been convicted of anything. There's nothing to pardon. "
 And on June 15, 2018, the president expressed sympathy for Cohen, Manafort, and Flynn in a
 press interview and said, " I feel badly about a lot of them, because I think a lot of it is very
-unfair. " 
+unfair. "
 [^1037]: 5. The president's conduct After Cohen Began cooperating with the government
  On July 2, 2018, ABC News reported based on an "exclusive " interview with Cohen that
 Cohen "strongly signaled his willingness to cooperate with special counsel Robert Mueller and
 federal prosecutors in the southern district of New York--even if that puts president Trump in
 jeopardy." 1038 That week, the media repotted that Cohen had added an attorney to his legal team
-who previously had worked as a legal advisor to president Bill Clinton. 
+who previously had worked as a legal advisor to president Bill Clinton.
 [^1039]: beginning on July 20, 2018, the media reported on the existence of a recording Cohen had
 made of a conversation he had with candidate Trump about a payment made to a second woman
 who said she had had an affair with Trump. 1040 On July 21, 2018, the president responded :
@@ -12026,17 +12086,17 @@ July 27, 2018, after the media reported that Cohen was willing to inform investi
 Trump Jr. told his father about the June 9, 2016 meeting to get "dirt" on Hillary Clinton, the
  president tweeted: "\[S\]o the Fake News doesn't waste my time with dumb questions, NO, I did
 NOT know of the meeting with my son, Don jr. Sounds to me like someone is try ing to make up
- 
+
 [^1035]: remarks by president Trump and president Macron of France Before restricted Bil.ateral
  meeting, The White House (Apr. 24, 2018). 1036 president Donald Trump Holds Media availability Before departing for the G- 7 Summit, CQ
-newsmaker transcripts (June 8, 2018). 1037 remarks by president Trump in Press Gaggle, The White House (June 15, 2018). 
+newsmaker transcripts (June 8, 2018). 1037 remarks by president Trump in Press Gaggle, The White House (June 15, 2018).
 [^1038]: exclusive: Michael Cohen says family and country, not president Trump, is his'first
  loyalty', ABC (July 2, 2018). Cohen said in the interview, "To be crystal clear, my wife, my daughter and
  my son, and this country have my first loyalty. "
- 1039 See e.g., Darren Samuelsohn, Michael Cohen hires Clinton scandal veteran Lanny Davis, politico (July 5, 2018). 
+ 1039 See e.g., Darren Samuelsohn, Michael Cohen hires Clinton scandal veteran Lanny Davis, politico (July 5, 2018).
 [^1040]: See, e.g., Matt Apuzzo et al., Michael Cohen secretly Taped Trump discussing payment to
- playboy Model, New York Times (July 20, 2018). 104 
-[^1]: @r~alDonaldTrump 7/21/18 (8:10 a.m. ET) Tweet. 
+ playboy Model, New York Times (July 20, 2018). 104
+[^1]: @r~alDonaldTrump 7/21/18 (8:10 a.m. ET) Tweet.
 [^1042]: See, e.g., Jim Sciutto, Cuomo primetime transcript, CNN (July 26, 20 18). stories in order to get himself out of an unrelated jam (taxicabs maybe?). He even retained Bill
 and crooked Hillary's lawyer. Gee, I wonder if they helped him make the choice!"
 
@@ -12072,17 +12132,17 @@ discussion of travel to Russia in connection with it. I do not remember discussi
 
 [^1043]: @realDonaldTrump 7/27/18 (7:26 a.m. ET) Tweet; @realDonaldTrump 7/27/18 (7:38 a.m. ET)
 Tweet; @realDonaldTrump 7/27/18 (7:56 a.m. ET) Tweet. At the time of these tweets, the press had
- reported that Cohen's financial interests in taxicab medallions were being scrutinized by investigators. See, e.g., Matt Apuzzo et al., Michael Cohen secretly Taped Trump discussing payment to playboy Model, New York Times (July 20, 2018). 
-[^1044]: Cohen information. 
-[^1045]: Cohen 8/21/18 transcript, at 23. 
-[^1046]: @realDonaldTrurnp 8/22/18 (9:21 a.m. ET) Tweet. 
+ reported that Cohen's financial interests in taxicab medallions were being scrutinized by investigators. See, e.g., Matt Apuzzo et al., Michael Cohen secretly Taped Trump discussing payment to playboy Model, New York Times (July 20, 2018).
+[^1044]: Cohen information.
+[^1045]: Cohen 8/21/18 transcript, at 23.
+[^1046]: @realDonaldTrurnp 8/22/18 (9:21 a.m. ET) Tweet.
 [^1047]: 9/17/18 Letter, special counsel's Office to president's personal counsel (attaching written
- questions for the president, with attachments). 
+ questions for the president, with attachments).
 [^1048]: 9/17/18 Letter, special counsel's Office to president's personal counsel (attaching written
- questions for the president), question III, Parts (a) through (g). 
+ questions for the president), question III, Parts (a) through (g).
 [^1049]: written responses of Donald J. Trump (Nov. 20, 2018). anyone else at the Trump organization, although it is possible. T do not recall being aware
  at the time of any communications between Mr. Cohen and Felix Sater and any Russian
- government official regarding the Letter oflntent. 
+ government official regarding the Letter oflntent.
 [^1050]: On November 29, 2018, Cohen pleaded guilty to making false statements to congress
  based on his statements about the Trump Tower Moscow project. 1051 In a plea agreement with this
  Office, Cohen agreed to "provide truthful information regarding any and all matters as to which
@@ -12093,7 +12153,7 @@ Tweet; @realDonaldTrump 7/27/18 (7:56 a.m. ET) Tweet. At the time of these tweet
  was my business .... It was an option that I decided not to do .... I decided not to do it. The primary reason. . . T was focused on running for president. . . . I was running my
  business while I was campaigning. There was a good chance that I wouldn't have won, in
  which case I would've gone back into the business. And why should I lose lots of
- opportunities? 
+ opportunities?
 [^1053]: The president also said that Cohen was "a weak person. And by being weak, unlike other people
  that you watch-he is a weak person. And what he's trying to do is get a reduced sentence. So
  he's lying about a project that everybody knew about. " 1054 The president also brought up Coh en's
@@ -12105,17 +12165,17 @@ Tweet; @realDonaldTrump 7/27/18 (7:56 a.m. ET) Tweet. At the time of these tweet
  not to do the project," this Office again sought information from the president about whether he
  participated in any discussions about the project being abandoned or no longer pursued, including
  when he "decided not to do the project ," who he spoke to about that decision, and what motivated
- 
+
 [^1050]: written responses of Donald J. Trump (Nov. 20, 2018), at 15 (response to question III, Parts
- (a) through (g)). 105 
-[^1]: Cohen information; Cohen 8/21/18 transcript. 
-[^1052]: Plea agreement at 4, United States v. Michael Cohen, 1: l 8-cr-850 (S.D.N.Y. Nov. 29, 2018). 
+ (a) through (g)). 105
+[^1]: Cohen information; Cohen 8/21/18 transcript.
+[^1052]: Plea agreement at 4, United States v. Michael Cohen, 1: l 8-cr-850 (S.D.N.Y. Nov. 29, 2018).
 [^1053]: president Trump departure remarks, C-SP AN (Nov. 29, 2018). In contrast to the president's
  remarks following ·cohen's guilty plea, Cohen's August 28, 2017 statement to congress stated that Cohen, not the president, "decided to abandon the proposal" in late January 2016; that Cohen "did not ask or brief
  Mr. Trump ... before I made the decision to terminate further work on the proposal"; and that the decision
-· to abandon the proposal was "unrelated " to the campaign. P-SCO-000009477 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)). 
-[^1054]: president Trump departure remarks, C-SPAN (Nov. 29, 2018). 
-[^1055]: president Trump departure remarks, C-SPAN (Nov. 29, 2018). 
+· to abandon the proposal was "unrelated " to the campaign. P-SCO-000009477 (statement of Michael D. Cohen, Esq. (Aug. 28, 2017)).
+[^1054]: president Trump departure remarks, C-SPAN (Nov. 29, 2018).
+[^1055]: president Trump departure remarks, C-SPAN (Nov. 29, 2018).
 [^1056]: president Trump departure remarks, C-SPAN (Nov. 29, 2018). the decision. 1057 The Office also again asked for the timing of the president's discussions with
 Cohen about Trump Tower Moscow and asked him to specify "what period of the campaign" he
 was involved in discussions concerning the project. 1058 In response, the president's personal
@@ -12143,15 +12203,15 @@ was illegally started. They BROKE INTO AN attorney'S OFFICE! Why didn't they bre
 
 In January 2019, after the media reported that Cohen would provide public testimony in a
 congressional hearing, the president made additional public comments suggesting that Cohen's
- 
-[^1057]: 1/23/19 Letter, special counsel's Office to president's personal counsel. 
-[^1058]: 1/23/19 Letter, special counsel's Office to president's personal counsel. 
-[^1059]: 2/6/ l 9 Letter, president's personal counsel to special counsel's Office. 
-[^1060]: @rea!DonaldTrump 12/3/18 (10:24 a.m. ET and l 0:29 a.m. ET) Tweets (emphasis added). 
-[^1061]: @realDonaldTrump 12/3/18 (10:48 a.m. ET) Tweet. 
-[^1062]: Cohen 12/12/18 transcript. 
+
+[^1057]: 1/23/19 Letter, special counsel's Office to president's personal counsel.
+[^1058]: 1/23/19 Letter, special counsel's Office to president's personal counsel.
+[^1059]: 2/6/ l 9 Letter, president's personal counsel to special counsel's Office.
+[^1060]: @rea!DonaldTrump 12/3/18 (10:24 a.m. ET and l 0:29 a.m. ET) Tweets (emphasis added).
+[^1061]: @realDonaldTrump 12/3/18 (10:48 a.m. ET) Tweet.
+[^1062]: Cohen 12/12/18 transcript.
 [^1063]: @realDonaldTrump 12/13/18 (8: 17 a.m. ET, 8:25 a.m. ET, and 8:39 a.m. ET) Tweets (emphasis
- added). 
+ added).
 [^1064]: @realDonaldTrump 12/16/18 (9:39 a.m. ET) Tweet. family members had committed crimes. In an interview on Fox on January 12, 2019, the president
 was asked whether he was worried about Cohen's testimony and responded:
  \[I\]n order to get his sentence reduced, \[Cohen\] says "I have an idea, I'll ah, tell-I'll give
@@ -12160,10 +12220,10 @@ was asked whether he was worried about Cohen's testimony and responded:
  because where does that money-that's the money in the family. And I guess he didn't
  want to talk about his father-in-law, he's trying to get his sentence reduced. So it's ah, pretty sad. You know, it's weak and it's very sad to watch a thing like that. On January 18, 2019, the president tweeted, "Kevin Corke, @FoxNews'Don't forget, Michael Cohen has already been convicted of perjury and fraud, and as recently as this week, the
 Wall Street journal has suggested that he may have stolen tens of thousands of dollars ....'Lying
-to reduce his jail time! Watchfather-in-law/" 
+to reduce his jail time! Watchfather-in-law/"
 [^1066]: On January 23, 2019, Cohen postponed his congressional testimony, citing threats against
 his family. 1067 The next day, the president tweeted, "So interesting that bad lawyer Michael Cohen, who sadly will not be testifying before congress, is using the lawyer of crooked Hillary Clinton
-to represent him-Gee, how did that happen? " 
+to represent him-Gee, how did that happen? "
 [^1068]: Also in January 2019, Giuliani gave pres s interviews that appeared to confirm Cohen's
 account that the Trump organization pursued the Trump Tow er Moscow project well past January
 2016. Giuliani stated that " it's our understanding that \[discussions about the Trump Moscow
@@ -12173,15 +12233,15 @@ that the discussions regarding the Trump Moscow project were "going on from the 
 announced to the day I won." 1070 On January 21, 2019, Giuliani issued a statement that said: "My
 recent statements about discussions during the 2016 campaign between Michael Cohen and
 candidate Donald Trump about a potential Trump Moscow'project'were hypothetical and not
-based on conversations I had with the president. " 107 
-[^1]: 
-[^1065]: Jeanine Pirro interview with president Trump, Fox News (Jan. 12, 2019) (emphasis added). 
-[^1066]: @rea!DonaldTrump 1/18/19 (10:02 a.m. ET) Tweet (emphasis added). 
-[^1067]: statement by Lanny Davis, Cohen's personal counsel (Jan. 23, 2019). 
-[^1068]: @realDonaldTrump 1/24/19 (7:48 a.m. ET) Tweet. 
-[^1069]: Meet the Press interview with Rudy Giuliani, NBC (Jan. 20, 2019). 
+based on conversations I had with the president. " 107
+[^1]:
+[^1065]: Jeanine Pirro interview with president Trump, Fox News (Jan. 12, 2019) (emphasis added).
+[^1066]: @rea!DonaldTrump 1/18/19 (10:02 a.m. ET) Tweet (emphasis added).
+[^1067]: statement by Lanny Davis, Cohen's personal counsel (Jan. 23, 2019).
+[^1068]: @realDonaldTrump 1/24/19 (7:48 a.m. ET) Tweet.
+[^1069]: Meet the Press interview with Rudy Giuliani, NBC (Jan. 20, 2019).
 [^1070]: Mark Mazzetti et al., Moscow skyscraper Talks continued through "the Day I Won, " Trump
-Is Said to acknowledge, New York T imes (Jan. 20, 2019). 107 
+Is Said to acknowledge, New York T imes (Jan. 20, 2019). 107
 [^1]: Maggie Haberman, Giuliani Says His Moscow Trump Tower comments Were "hypothetical", New York Times (Jan. 2 1, 2019). In a letter to this Office, the president's counsel stated that Giuliani's
  pub! ic comments "were not intended to suggest nor did they reflect knowledge of the existence or timing
  analysis
@@ -12412,14 +12472,14 @@ we investigated. Rather, our analysis led us to conclude that the obstruction-of
 
 Letter, president's personal counsel to special counsel's Office; 2/6/18 Letter, president's personal
 counsel to special counsel's Office; 8/8/18 Letter, president's personal counsel to special counsel's
-Office, at 4. 
+Office, at 4.
 [^1073]: 2/6/18 Letter, president's personal counsel to special counsel's Office, at 2-9. counsel has
 also noted that other potentially applicable obstruction statutes, such as 18 U.S.C. § 1505, protect only
 pending proceedings. 6/23/17 Letter, president's personal counsel to special counsel's Office, at 7-8. section 1512(c)(2) is not limited to pending proceedings, but also applies to future proceedings that the
-person contemplated. See Volume II, section III.A, supra. 
+person contemplated. See Volume II, section III.A, supra.
 [^1074]: 6/23/17 Letter, president's personal counsel to special counsel's Office, at 1 ("\[T\]he president
-cannot obstruct ... by simply exercising these inherent constitutional powers."). 
-[^1075]: 6/23/17 Letter, president's personal counsel to special counsel's Office, at 2 n. 1. 
+cannot obstruct ... by simply exercising these inherent constitutional powers.").
+[^1075]: 6/23/17 Letter, president's personal counsel to special counsel's Office, at 2 n. 1.
 [^1076]: 6/23/17 Letter, president's personal counsel to special counsel's Office, at 2 n. I (dashes
 omitted); see also 8/8/18 Letter, president's personal counsel to special counsel's Office, at 4 ("\[T\]he
 obstruction-of-justice statutes cannot be read so expansively as to create potential liability based on facially
@@ -12564,19 +12624,19 @@ Ag uilar, which section 1512(c)(2) demands. See, e.g., United States v. yielding
 States v. Gray, 642 F.3d 371, 376-377 (2d Cir. 2011) ("\[I\]n enacting§ 1519, congress rejected
  any requirement that the government prove a link between a defendant's conduct and an imminent
  or pending official proceeding."). The existence of even "substantial" overlap is not "uncommon "
- in criminal statutes. Loughrin, 573 U.S. at 359 n.4; see Shaw, 137 S. Ct. at 458-469 ; Aguilar, 
+ in criminal statutes. Loughrin, 573 U.S. at 359 n.4; see Shaw, 137 S. Ct. at 458-469 ; Aguilar,
 [^515]: U.S. at 616 (Scalia, J., dissenting) ("T he fact that there is now some overlap between§ 1503 and
  § 1512 is no more intolerable than the fact that there is some overlap between the omnibus clause
  of§ 1503 and the other provisions of§ 1503 itself."). But given that sections 1503, 1505, and
  1519 each reach conduct that section 1512(c)(2) does not, the overlap provides no reason to give
- section 1512(c)(2) an artificially limited construction. See Shaw, 137 S. Ct. at 469. 108 
+ section 1512(c)(2) an artificially limited construction. See Shaw, 137 S. Ct. at 469. 108
 [^0]: 3. The legislative history of section l512(c)(2) Does Not justify narrowing Its
  Text
  "Given the straightforward statutory command" insection l512(c)(2), "there is no reason
  to resort to legislative history." United States v. Gonzales, 520 U .S. 1, 6 (1997). In any event, the
  legislative history of section 1512(c)(2) is not a reason to impose extratextual limitations on its
  reach. congress enacted section 1512(c)(2) as part the Sarbanes-Oxley Act of 2002, Pub. L. No. 107-204, Tit. XI, § 1102, 116 Stat. 807. The relevant section of the statute was entitled
- "tampering with a Record or otherwise impeding an official proceeding." 116 Stat. 
+ "tampering with a Record or otherwise impeding an official proceeding." 116 Stat.
 [^807]: (emphasis added). That title indicates that congress intended the two clauses to have independent
  effect. section 1512(c) was added as a floor amendment in the Senate and explained as closing a
  certain "loophole" with respect to "document shredding." See 148 Cong. Rec. S6545 (July I 0, 2002) (Sen. Lott) ; id. at S6549-S6550 (Sen: Hatch). But those explanations do not limit the enacted
@@ -12595,7 +12655,7 @@ States v. Gray, 642 F.3d 371, 376-377 (2d Cir. 2011) ("\[I\]n enacting§ 1519, c
  parallels a provision that congress considered years earlier in a bill designed to strengthen
  protections against witness tampering and obstruction of justice. While the earlier provision is not
  a direct antecedent of section 15 12(c)(2), congress's understanding of the broad scope of the
- 
+
 [^1080]: The supreme Court's decision in Marinello v. United States, 138 S. Ct. 1101 (2018), does not
  support imposing a non-textual limitation on section I 512(c)(2). Marinello interpreted the tax obstruction
  statute, 26 U.S.C. § 7212(a), to require "a'nexus'between the defendant's conduct and a particular
@@ -12623,22 +12683,22 @@ F.2d 31 (D.C. Cir. 1976)). The report therefore indicates a congressional awaren
 residual-clause language resembling section 1512(c)(2) broadly covers a wide variety of
 obstructive conduct, but also that such language reaches the improper use of governmental
 processes to obstruct justice-specifically, the Watergate cover-up orchestrated by White House
-officials including the president himself. See Haldeman, 559 F .3d at 51, 86-87, 120-129, 162. 
+officials including the president himself. See Haldeman, 559 F .3d at 51, 86-87, 120-129, 162.
 [^1081]: 4. general principles of statutory construction Do Not suggest That section
  1512(c)(2) is inapplicable to the conduct in this investigation
  The requirement of fair warning in criminal law, the interest in avoiding due process
 concerns in potentially vague statutes, and the rule of lenity do not justify narrowing the reach of
-section 1512(c)(2)'s text. 
+section 1512(c)(2)'s text.
 [^1082]: a. As with other criminal laws, the supreme Court has "exercised restraint" in interpreting
 obstruction-of-justice provisions, both out ofrespect for congress's role in defining crimes and in
 the interest of providing individuals with " fair warning " of what a criminal statute prohibits. Marinello v. United States, 138 S. Ct. 1101, 1106 (2018); Arthur Andersen, 544 U.S. at 703;
- 
+
 [^1081]: The Senate ultimately accepted the House version of the bill, which excluded an omnibus
  clause. See United States v. Poindexter, 951 F.2d 369, 382-383 (D.C. Cir. 1991) (tracing history of the
 proposed omnibus provision in the witness-protection legislation). During the floor debate on the bill, senator Heinz, one of the initiators and primary backers of the legislation, explained that the omnibus clause
 was beyond the scope of the witness-protection measure at issue and likely "duplicative" of other
  obstruction laws, 128 Cong. Rec. 26,810 (1982) (Sen. Heinz), presumably referring to sections 1503 and
- 1505. 
+ 1505.
 [^1082]: In a separate section addressing considerations unique to the presidency, we consider principles
  of statutory construction relevant in that context. See Volume Tl, section III.B.l, infra. Aguilar, 515 U.S. at 599-602. In several obstruction cases, the Court has imposed a nexus test that
 requires that the wrongful conduct targeted by the provision be sufficiently connected to an official
@@ -12672,8 +12732,8 @@ incredible." Id. at 617. Lower courts have also rejected vagueness challenges to
 "corruptly. " See, e.g ., United St ates v. Edwards, 869 F.3d 490, 501-502 (7th Cir. 2017); United
 States v. Brenson, 104 F.3d 1267, 1280-1281 (11th Cir. 1997); United States v. Howard, 569 F.2d
  1331, 1336 n.9 (5th Cir. 1978). This well-established intent standard precludes the need to limit
-the obstruction statutes to only certain kinds of inherently wrongful conduct. 
-[^1083]: 
+the obstruction statutes to only certain kinds of inherently wrongful conduct.
+[^1083]:
 [^1083]: In United States v. Poindexter, 951 F .2d 369 (D.C. Cir. 1991), the court of appeals found the
 term "corruptly" in 18 U.S.C. § 1505 vague as applied to a person who provided false information to
 congress. After suggesting that the word "corruptly" was vague on its face, 951 F.2d at 378, the court
@@ -12704,11 +12764,11 @@ Sampson, 898 F.3d at 298-303 & n.6 (collecting cases from eight circuits holding
  providing that "\[a\]s used in \[S\]ection 1505, the term'corruptly'means acting with an improper purpose, personally or by influencing another, including by making a false or misleading statement, or withholding, concealing, altering, or destroying a document or other information." 18 U.S.C. § 1515(b). Other courts
  have declined to follow Poindexter either by limiting it to section 1505 and the specific conduct at issue in
  that case, see Brenson, 104 F.3d at 1280-1281; reading it as narrowly limited to ce1tain types of conduct, see United States v. Morrison, 98 F.3d 619, 629-630 (D.C. Cir. I 996); or by noting that it predated Arthur
-Andersen's interpretation of the term "corruptly," see Edwards, 869 F.3d at 501-502. 
+Andersen's interpretation of the term "corruptly," see Edwards, 869 F.3d at 501-502.
 [^1084]: section \ 503(a) provides for criminal punishment of:
  whoever ... corruptly or by threats or force, or by any threatening letter or
  communication, influences, obstructs, or impedes, or endeavors to influence, obstruct, or
- impede, the due administration of justice. 
+ impede, the due administration of justice.
 [^1085]: section 1505 provides for criminal punishment of:
  finally, 18 U.S.C. § l 512(b)(3) criminalizes tampering with witnesses to prevent the
 communication of information about a crime to law enforcement. The nexus inquiry articulated
@@ -12873,7 +12933,7 @@ president's ability to perform his article II functions. 487 U.S. at 691-693, 69
  power is " both'exclusive'and'conclusive'on the issue ," congress is precluded from regulating
  its exercise. Zivotofsky v. Kerry, I 35 S. Ct. 2076, 2084 (2015). In Zivotofsky, for example, the
  Court followed "justice Jackson's familiar tripartite framework" in Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579, 635-638 (1952) (Jackson, J., concurring), and held that the president's
- 
+
 [^1087]: OLC applied such a balancing test in concluding that the president is not subject to criminal
  prosecution while in office, relying on many of the same precedents discussed in this section. See A sitting
  president's amenability to indictment and criminal prosecution, 24 Op. O.L.C. 222, 237-238, 244-
@@ -12999,7 +13059,7 @@ a serious constitutionalquestion whether congress had'impede\[d\] the president'
 constitutionalduty'to take care that the laws be faithfullyexecuted")(quotingMorrison, 487 U.S. at 691). corrupt reason-a reason grounded in achieving personal rather than official ends-does not
 seriously hinder the president's performance of his duties. The president retains broad latitude to
 supervise investigations and remove officials, circumscribed in this context only by the
-requirement that he not act for corrupt personal purposes. 
+requirement that he not act for corrupt personal purposes.
 [^1089]: c. congress Has Power to protect congressional, Grand Jury, and
  judicial proceedings against corrupt Acts from Any Source
  Where a law imposes a burden on the president's performance of article II functions, separation-of -powers analysis considers whether the statutory measure "is justified by an
@@ -13023,10 +13083,10 @@ Act declaratory of the Law concerning contempts of Court, 4 Stat. 487-488 § 2 (
  shall, corruptly ... obstruct, or impede, or endeavor to obstructor impede, the due administration
  of justice therein "). ii. The article TII courts have an equally strong interest inbeing protected against
  obstructive acts, whatever their source. As the supreme Court explained in United States v. Nixon, a "primary constitutional duty of the judicial Branch" is "to do justice in criminal prosecutions. "
- 418 U.S. at 707; accord Cheney v. United States district Court for the district of Columbia, 
+ 418 U.S. at 707; accord Cheney v. United States district Court for the district of Columbia,
 [^542]: U.S. 367, 384 (2004). In Nixon, the Court rejected the president's claim of absolute executive
  privilege because "the allowance of the privilege to withhold evidence that is demonstrably
- 
+
 [^1089]: The obstruction statutes do not disqualify the president from acting in a case simply because
  he has a personal interest in it or because his own conduct may be at issue. As the department of justice
  has made clear, a claim of a conflict of interest, standing alone, cannot deprive the president of the ability
@@ -13061,18 +13121,18 @@ weighing of interests leads us to conclude that congress has the authority to im
 restrictions contained in those statutes on the president's official conduct to protect the integrity
 of important functions of other branches of government. A general ban on corrupt action doe s not unduly intrude on the president's responsibility
 to "ta ke Care that the Laws be faithfully executed." U.S. CONST.ART IT, §§ 3. 1090 To the contrary, the concept of "faithful execution" connotes the use of power in the interest of the public, not in
-the officeholder's personal interests. See 1 Samuel johnson, A dictionary of the english
+the officeholder's personal interests. See 1 Samuel johnson, A dictionary of the English
 language 763 (1755) ("faithfully" def. 3: " \[w\]ith strict adherence to duty and allegiance"). And
 immunizing the president from the generally applicable criminal prohibition against corrupt
 obstruction of official proceedings would seriously impair congress's power to enact laws "to
 promote objectives within \[its\] constitutional authority," administrator of general services, 433
 
 U.S. at 425- i.e., protecting the integrity of its own proceedings and the proceedings of article TTI
-courts and grand juries. 
+courts and grand juries.
 [^1090]: As noted above, the president's selection and removal of principal executive officers may have
 a uniqu e constitutional status. accordingly, based on the analysis above, we were not persuaded by the argument that the
 president has blanket constitutional immunity to engage in acts that would corruptly obstruct
-justice through the exercise of otherwise-valid article TI powers. 
+justice through the exercise of otherwise-valid article TI powers.
 [^1091]: 3. ascertaining whether the president violated the obstruction statutes Would
  Not Chill his performance of his article II Duties
  applying the obstruction statutes to the president's official conduct would involve
@@ -13097,7 +13157,7 @@ virtually everything that the president does in the routine conduct of office wi
  stringent corrupt-motive standard. director indirect action by the president to end a criminal
  investigation into his own or his family members'conduct to protect against personal
  embarrassment or legal liability would constitute a core example of corruptly motivated conduct. So too would action to halt an enforcement proceeding that directly and adversely affected the
- president's financial interests for the purpose of protecting those interests. In those examples, 
+ president's financial interests for the purpose of protecting those interests. In those examples,
 [^1091]: A possible remedy through impeachment for abuses of power would not substitute for potential
  criminal liability after a president leaves office. impeachment would remove a president from office, but
  would not address the underlying culpability of the conductor serve the usual purposes of the criminal law. Indeed, the impeachment judgment Clause recognizes that criminal law plays an independent role in
@@ -13132,8 +13192,8 @@ in separation-of-powers analysis). And the attorney general holds "the power to 
 criminal litigation of the United States government," United States v. Nixon, 4 I 8 U .S. at 694
 
 (citing 28 U.S.C. § 516), which provides a strong institutional safeguard against politicized
-investigations or prosecutions. 
-[^1092]: 
+investigations or prosecutions.
+[^1092]:
 [^1092]: similar institutional safeguards protect department of justice officers and line prosecutors
 against unfounded investigations into prosecutorial acts. prosecutors are generally barred from
 participating in matters implicating their personal interests, see 28 C.F.R. § 45.2, and are instructed not to
@@ -13246,10 +13306,10 @@ Agalarov, Aras Russian real-estate developer (owner of the Crocus Group); met Do
  social media campaign to interfere in in the 2016 U.S. presidential
  election; traveled to the United States under false pretenses in 2014. Bossert, Thomas Former homeland security advisor to the president who also served as a
  (Tom) senior official on the presidential transition Team. Boyarkin, Viktor employee of Russian oligarch Oleg Deripaska. Boyd, Charles chairman of the board of directors at the Center for the national interest, a U.S.-based think tank with operations in and connections to Russia. Boyko, Yuriy Member of the Ukrainian political party opposition Bloc and member of
- the Ukrainian parliament. Brand, Rachel associate attorney general (May 2017 - Feb. 2018). Browder, william founder of hermitage capital management who lobbied in favor of the
+ the Ukrainian parliament. Brand, Rachel associate attorney general (May 2017 - Feb. 2018). Browder, William founder of hermitage capital management who lobbied in favor of the
 (Bill) Magnitsky Act, which imposed financial and travel sanctions on Russian
  officials. Bulatov, alexander Russian intelligence official who associated with Carter Page in 2008. Burchik, Mikhail executive director of the Internet research Agency, which engaged in an
- "active measures" social media campaign to interfere in the 2016 U.S. presidential election. Burck, william personal attorney to Don McGahn, White House counsel. Burnham, James attorney in the White House counsel's Office who attended January
+ "active measures" social media campaign to interfere in the 2016 U.S. presidential election. Burck, William personal attorney to Don McGahn, White House counsel. Burnham, James attorney in the White House counsel's Office who attended January
  2017 meetings between Sally Yates and Donald McGahn. Burt, Richard Former U.S. ambassador who had done work Alfa-Bank and was a board
  member of the Center for the national interest. Bystrov, Mikhail general director of the Internet research Agency, which engaged in an
  "active measures" social media campaign to interfere in the 2016 U.S. presidential election. calamari, Matt Chief operating officer for the Trump organization. Caputo, Michael Trump campaign advisor. Chaika, Yuri prosecutor general of the Russian federation who also maintained a
@@ -13318,18 +13378,18 @@ Konstantin Manafort assessed by the FBI to have tie s to Russian intelligence. K
 Aleksandra social medi a campaign to interfere in the 2016 U.S. presidential election;
  traveled to the United States under false pretenses in 2014. Kushner, Jared president Trump's son-in-law and senior advisor to the president. Kuznetsov, Sergey Russian government official at the Russian embassy to the United States
  who transmitted Vladimir Putin's congratulations to president-Elect
- Trump for his electoral victory on November 9, 2016. Landrum, Pete advisor to senator Jeff sessions who attended the September 
+ Trump for his electoral victory on November 9, 2016. Landrum, Pete advisor to senator Jeff sessions who attended the September
 [^2016]: meeting between sessions and Ru ss ian ambassador Sergey Kislyak. Lavrov, Sergey Russian minister of foreign affairs and former permanent representative
  of Russia to the United nations. Ledeen, Barbara Senate staffer and associate of Michael Flynn who sought to obta in
  Hillary Clinton ema ils during the 2016 U.S. presidential campaign
  period. Ledeen, Michael Member of the presidential transition Team who advised on foreign
  policy and national security matters. Ledgett, Richard Deputy director of the national security Agency (Jan.2014-Apr. 2017);
  present when president Trump called Michael Rogers on March 26, 2017. Lewandowski, campaign manager for the Trump campaign (Jan. 2015 - June 2016). Corey
-Luff, Sandra legislative director for senator Jeff sessions; attended a September 
+Luff, Sandra legislative director for senator Jeff sessions; attended a September
 [^2016]: meeting between sessions and Rus sian ambassador Sergey Ki slyak. Lyovochkin, Serhiy Member of Ukrainian parliament and member of Ukrai nian political
  party, opposition Bloc Party. Magnitsky, Sergei Russian tax specialist who alleged Rus sian government corruption and
  died in Russian police custody in 2009. His death prompted passage of
- 
+
 [^1]: the Magn itsky Act, whic h imposed financial and travel sanctions on
  Russian officials. Malloch, Theodore Chief executive officer of Global fiduciary governance and the
 (Ted) Roosevelt Group. He was a Lond on-ba sed associate of Jerome Corsi. Manafort, Paul Jr. Trump campaign member (March 2016-Aug. 2016) and chairman and
@@ -13353,7 +13413,7 @@ Greenberg) May 2016. Page, Carter foreign policy advisor to the Trump campaign w
  Russian views and made July 2016 and December 20 16 visits to Moscow. Pap adopoulos, foreign policy advisor to the Trump campaign who received information
 George from Joseph Mifsud that Russ ians had "d irt" in the form of thousands of
  Clinton email s. He pleaded guilty to lying to the FBI abo ut his contact
- with Mifsud. Parscale, Bradley digital media director for the 2016 Trump campaign. Patten, william lobbyist and business partner of Konstantin Kilimnik. (Sam) Jr. Peskov, Dmitry Deputy ch ief of staff of and press secretary for the Russian presidential
+ with Mifsud. Parscale, Bradley digital media director for the 2016 Trump campaign. Patten, William lobbyist and business partner of Konstantin Kilimnik. (Sam) Jr. Peskov, Dmitry Deputy ch ief of staff of and press secretary for the Russian presidential
  administration. Phares, Walid foreign policy advisor to the Trump campaign and co-secretary general
  of the transatlantic parliamentary Gro up on counterterrorism (TAG). Pinedo, Richard U.S. perso n who pleaded guilty to a single-co unt information of identity
  fraud. Podesta, John Jr. Clinton campaign chairman whose ema il account was hacke d by the
@@ -13381,7 +13441,7 @@ Sater, Felix Real-estate advisor who worked with Michael Cohen to pursue a Trump
  outlines and logistics of candidate Trump's April 2016 foreign policy
  speech. Sechin, Igor executive chairman of Rosneft, a Russian-stated owned oil company. sessions, Jefferson attorney general (Feb. 2017 - Nov. 2018); U.S. senator (Jan. 1997 -
 III (Jeff) Feb. 2017); head of the Trump campaign's foreign poli cy advisory team. Shoygu, Sergey Russian minister of defense. Simes, Dimitri president and chief executive officer of the Center for the national
- interest. 
+ interest.
 [^1]: material Preteeted U11derFed. R. Crim. P. 6(e)
 Smith, Peter investment banker active in republican politics who sought to obta in
  Hillary Clinton emails during the 2016 U.S. presidential campaign
@@ -13498,7 +13558,7 @@ an interview ." 1 We additionally stated that "it is in the interest of the pres
 for an interview to take place" and offered "numerous accommodations to aid the president's
 preparation and avoid surprise." 2 After extensive discussions with the department of justice about
 the special counsel's objective of securing the president's testimony, thes e accommodations
-included the submissions of written questions to the president on certain Russia-related topics. 
+included the submissions of written questions to the president on certain Russia-related topics.
 [^3]: We received the president's written responses in late November 2018. 4 In December 2018, we informed counsel of the insufficiency of those responses in several respects. 5 We noted, among
 other things, that the president stated on more than 30 occasions that he "does not're call'or'remember'or have an'independent recollection"'of information called for by the questions. 6
 
@@ -13506,19 +13566,19 @@ Other answers were "incomplete or imprecise." 7 The written responses, we inform
 up questions that would ensure complete answers and potentially refresh your client's recollection
 or clarify the extent or nature of his lack of recollection." 8 We again requested an in-person
 interview, limited to certain topics, advising the president's counsel that " \[t\]his is the president's
- 
-[^1]: 5/16/18 Letter, special counsel to the president's personal counsel, at 1. 
+
+[^1]: 5/16/18 Letter, special counsel to the president's personal counsel, at 1.
 [^2]: 5/16/18 Letter, special counsels's Office to the president's personal counsel, at l ; see 7/30/18
 
 Letter, special counsel's Office to the president's personal counsel, at I (describing accommodations). 3 9/17/18 Letter, special counsel's Office to the president's personal counsel, at I (submitting
 written questions). 4 11/20/18 Letter, president's personal counsel to the special counsel's Office (transmitting
-written responses of Donald J. Trump). 
-[^5]: 12/3/18 Letter, special counsel's Office to the president's personal counsel, at 3. 
+written responses of Donald J. Trump).
+[^5]: 12/3/18 Letter, special counsel's Office to the president's personal counsel, at 3.
 [^6]: 12/3/18 Letter, special counsel's Office to the president's personal counsel, at 3. 7 12/3/18 Letter, special counsel's Office to the president's personal counsel, at 3; see (noting, "for example," that the president "did not answer whether he had at anytime directed or suggested that
 discussions about the Trump Moscow project should cease ... but he has since made public comments
-about that topic"). 
+about that topic").
 [^8]: 12/3/18 Letter, special counsel's Office to the president's personal counsel, at 3. opportunity to voluntarily provide us with information for us to evaluate in the context of all of
-the evidence we have gathered." 9 The president declined. 
+the evidence we have gathered." 9 The president declined.
 [^10]: recognizing that the president would not be interviewed voluntarily, we considered
 whether to issue a subpoena for his testimony. We viewed the written answers to be inadequate. But at that point, our investigation had made significant progress and had produced substantial
 evidence for our report. We thus weighed the costs of potentially lengthy constitutional litigation, with resulting delay in finishing our investigation, against the anticipated benefits for our
@@ -13538,7 +13598,7 @@ and assessed without direct testimony from the subject of the investigation.
 a. When did you first learn that Donald Trump, Jr., Paul Manafort, or Jared Kushner
  was considering participating in a meeting in June 2016 concerning potentially
  negative information about Hillary Clinton? describe who you learned the
- information from and the substance of the discussion. b. attached to this document as exhibit A is a series of emails from June 
+ information from and the substance of the discussion. b. attached to this document as exhibit A is a series of emails from June
 [^2016]: between, among others, Donald Trump, Jr. and Rob goldstone. In addition to the
  emails reflected in exhibit A, Donald Trump, Jr. had other communications with
  Rob goldstone and Emin Agalarov between June 3, 2016, and June 9, 2016. i. Did Mr. Trump, Jr. or anyone else tell you about or show you any of these
@@ -13553,7 +13613,7 @@ a. When did you first learn that Donald Trump, Jr., Paul Manafort, or Jared Kush
  communicated with, when, the substance of the communication(s), and
  why you took that action. c. On June 9, 2016, Donald Trump, Jr., Paul Manafort, and Jared Kushner attended a
  meeting at Trump Tower with several individuals, including a Russian lawyer, Natalia Veselnitskaya (the June 9 meeting"). i. Other than as set forth in your answers to I.a and l.b, what, if anything, were you told about the possibility of this meeting taking place, or the
- scheduling of such a meeting? describe who you discussed this with, when, and what you were informed about the meeting. ii. When did you learn that some of the individuals attending the June 
+ scheduling of such a meeting? describe who you discussed this with, when, and what you were informed about the meeting. ii. When did you learn that some of the individuals attending the June
 [^9]: meeting were Russian or had any affiliation with any part of the Russian
  government? describe who you learned this information from and the
  substance of the discussion(s). iii. What were you told about what was discussed at the June 9 meeting?
@@ -13576,7 +13636,7 @@ a. When did you first learn that Donald Trump, Jr., Paul Manafort, or Jared Kush
  i. Why did you make that statement?
  ii. What information did you plan to share with respect to the Clintons?
  iii. What did you believe the source(s) of that information would be?
- iv. Did you expect any of the information to have come from the June 
+ iv. Did you expect any of the information to have come from the June
 [^9]: meeting?
  v. Did anyone help draft the speech that you were referring to? If so, who?
  vi. Why did you ultimately not give the speech you referenced on June 7, 2016?
@@ -13617,7 +13677,7 @@ a. On June 14, 2016, it was publicly reported that computer hackers had penetrat
  this information, when, and what you were told. 1 Fee. R. Ct1iffl.P. 6(e)
  e. On October 7, 2016, emails hacked from the account of John Podesta were
  released by WikiLeaks. · i. Where were you on October 7, 2016?
- ii. Were you told at anytime in advance of, or on the day of, the October 
+ ii. Were you told at anytime in advance of, or on the day of, the October
 [^7]: release that Wikileaks possessed or might possess emails related to John
  Podesta? If yes, describe who told you this, when, and what you were
  told. iii. Are you aware of anyone associated with you or your campaign, including
@@ -13713,7 +13773,7 @@ b. In a statement provided to congress, attached as exhibit C, Michael Cohen sta
  ii. Were you told in advance of LTG Flynn's December 29, 2016 conversation
  that he was going to bespeaking with ambassador Kislyak? If yes, describe
  who told you this information, when, and what you were told. If no, when
- and from whom did you learn of LTG Flynn's December 29, 
+ and from whom did you learn of LTG Flynn's December 29,
 [^2016]: conversation with ambassador Kislyak?
  iii. When did you learn of LTG Flynn and ambassador Kislyak's call on
  December 31, 2016? Who told you and what were you told?
@@ -13815,7 +13875,7 @@ other communications with Emin Agalarov or Robert goldstone between June 3, 2016
 9, 2016. response to question I, Part (d)
  I have no independent recollection of what portion of these four days in June of2016 I spent in
  Trump Tower. This was one of many busy months during a fast-paced campaign, as the primary
- season was ending and we were preparing for the general election campaign. I am now aware that my campaign's calendar indicates that I was in New York City from June 
+ season was ending and we were preparing for the general election campaign. I am now aware that my campaign's calendar indicates that I was in New York City from June
 [^6]: - 9, 2016. calendars kept in my Trump Tower office reflect that I had various calls and meetings
  scheduled for each of these days. While those calls and meetings may or may not actually have
  taken place, they do indicate that I was in Trump Tower during a portion of each of these working
@@ -14127,7 +14187,7 @@ US. attorney's Officefor the district of Columbia
  U.S. attorney's Office for the western district of Pennsylvania
  national security division
  (Post-indictment, pre-arrest)
- 8. United States v. william Samuel Patten
+ 8. United States v. William Samuel Patten
  U.S. attorney's Office for the district of Columbia
  (awaiting sentencing)
  The Acting attorney general authorized the special counsel to investigate aspects of

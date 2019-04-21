@@ -17,6 +17,7 @@
   - [x] Correct parentheses that were misidentified as curly braces
   - [x] Correct odd spacing
   - [ ] Search for these: `At-1:effley`
+  - [ ] Replace occurrences of `Netyksho indictment~ 69.` with Pilcrow
 - [ ] Checks
   - [ ] Ensure there are an even number of double quotes
   - [ ] Ensure there are an even number of brackets
