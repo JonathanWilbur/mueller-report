@@ -1,0 +1,17 @@
+{
+  "name": "mueller",
+  "version": "1.0.0",
+  "description": "Mueller Report",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan M. Wilbur",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^4.4.1"
+  },
+  "devDependencies": {
+    "@types/csv-parse": "^1.1.12"
+  }
+}
