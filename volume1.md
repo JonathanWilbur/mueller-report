@@ -16,27 +16,34 @@ systematic fashion. evidence of Russian government operations began to surface i
 June, the democratic national committee and its cyber response team publicly announced that
 Russian hackers had compromised its computer network. releases of hacked materials-hacks
 that public reporting soon attributed to the Russian government-began that same month. additional releases followed in July through the organization WikiLeaks, with further releases in
-October and November. In late July 2016, soon after WikiLeaks's first release of stolen documents, a foreign
+October and November.
+
+In late July 2016, soon after WikiLeaks's first release of stolen documents, a foreign
 government contacted the FBI about a May 2016 encounter with Trump campaign foreign policy
 advisor George Papadopoulos. Papadopoulos had suggested to a representative of that foreign
 government that the Trump campaign had received indications from the Russian government that
 it could assist the campaign through the anonymous release of information damaging to
 democratic presidential candidate Hillary Clinton. That information prompted the FBI on July
 31, 2016, to open an investigation into whether individuals associated with the Trump campaign
-were coordinating with the Russian government in its interference activities. That fall, two federal agencies jointly announced that the Russian government "directed
-recent compromises of e-mails from US persons and institutions, including US political
+were coordinating with the Russian government in its interference activities.
+
+That fall, two federal agencies jointly announced that the Russian government
+"directed recent compromises of e-mails from US persons and institutions, including US political
 organizations," and, "\[t\]hese thefts and disclosures are intended to interfere with the US election
 process." After the election, in late December 2016, the United States imposed sanctions on Russia
 for having interfered in the election. By early 2017, several congressional committees were
-examining Russia's interference in the election. Within the executive Branch, these investigatory efforts ultimately led to the May 2017
+examining Russia's interference in the election.
 
+Within the executive Branch, these investigatory efforts ultimately led to the May 2017
 appointment of special counsel Robert S. Mueller, III. The order appointing the special counsel
 authorized him to investigate "the Russian government's efforts to interfere in the 2016
-
 presidential election ," including any links or coordination between the Russian government and
-individuals associated with the Trump campaign. As set forth in detail in this report, the special counsel's investigation established that
-Russia interfere~ in the 2016 presidential election principally through two operations. First, a
-Russian entity carried out asocial media campaign that favored presidential candidate Donald J. Trump and disparaged presidential candidate Hillary Clinton. Second, a Russian intelligence
+individuals associated with the Trump campaign.
+
+As set forth in detail in this report, the special counsel's investigation established that
+Russia interfered in the 2016 presidential election principally through two operations. First, a
+Russian entity carried out asocial media campaign that favored presidential candidate
+Donald J. Trump and disparaged presidential candidate Hillary Clinton. Second, a Russian intelligence
 service conducted computer-intrusion operations against entities, employees, and volunteers
 working on the Clinton campaign and then released stolen documents. The investigation also
 identified numerous links between the Russian government and the Trump campaign. although
@@ -46,23 +53,29 @@ electorally from information stolen and released through Russian efforts, the in
 establish that members of the Trump campaign conspired or coordinated with the Russian
 government in its election interference activities.
 
- Below we describe the evidentiary considerations underpinning statements about the
+Below we describe the evidentiary considerations underpinning statements about the
 results of our investigation and the special counsel's charging decisions, and we then provide an
-overview of the two volumes of our report. The report describes actions and events that the special counsel's Office found to be
+overview of the two volumes of our report.
+
+The report describes actions and events that the special counsel's Office found to be
 supp01ted by the evidence collected in our investigation. In some instances, the report points out
 the absence of evidence or conflicts in the evidence about a particular fact or event. In other
 instances, when substantial, credible evidence enabled the Office to reach a conclusion with
 confidence, the report states that the investigation established that certain actions or events
 occurred. A statement that the investigation did not establish particular facts does not mean there
-was no evidence of those facts. In evaluating whether evidence about collective action of multiple individuals constituted
-a crime, we applied the framework of conspiracy law, not the concept of "collusion." In so doing, the Office recognized that the word "collud\[e\]" was used in communications with the Acting
+was no evidence of those facts.
+
+In evaluating whether evidence about collective action of multiple individuals constituted
+a crime, we applied the framework of conspiracy law, not the concept of "collusion."
+In so doing, the Office recognized that the word "collud\[e\]" was used in communications with the Acting
 attorney general confirming certain aspects of the investigation's scope and that the term has
 frequently been invoked in public reporting about the investigation. But collusion is not a specific
 offense or theory of liability found in the United States Code, nor is it a term of art in federal
 criminal law. For those reasons, the Office's focus in analyzing questions of joint criminal liability
 was on conspiracy as defined in federal law. In connection with that analysis, we addressed the
 factual question whether members of the Trump campaign "coordinat\[ed\]"-a term that appears
-in the appointment order-with Russian election interference activities. Like collusion, "coordination" does not have a settled definition in federal criminal law. We understood
+in the appointment order-with Russian election interference activities.
+Like collusion, "coordination" does not have a settled definition in federal criminal law. We understood
 coordination to require an agreement-tacit or express - between the Trump campaign and the
 Russian government on election interference. That requires more than the two parties taking
 actions that were informed by or responsive to the other's actions or interests. We applied the term
@@ -71,11 +84,14 @@ Trump campaign coordinated with the Russian government in its election interfere
 
 The report on our investigation consists of two volumes:
 
-Volume I describes the factual results of the special counsel's investigation of Russia's
-interference in the 2016 presidential election and its interactions with the Trump campaign. section I describes the scope of the investigation. sections II and III describe the principal ways
-Russia interfered in the 2016 presidential election. section IV describes links between the Russian
-government and individuals associated with the Trump campaign. section V sets forth the special
-counsel's charging decisions. Volume II addresses the president's actions towards the FBI's investigation into Russia's
+_Volume I_ describes the factual results of the special counsel's investigation of Russia's
+interference in the 2016 presidential election and its interactions with the Trump campaign.
+Section I describes the scope of the investigation. Sections II and III describe the principal ways
+Russia interfered in the 2016 presidential election. Section IV describes links between the Russian
+government and individuals associated with the Trump campaign. Section V sets forth the special
+counsel's charging decisions.
+
+_Volume II_ addresses the president's actions towards the FBI's investigation into Russia's
 interference in the 2016 presidential election and related matters, and his actions towards the
 special counsel's investigation. Volume II separately states its framework and the considerations
 that guided that investigation.
@@ -86,14 +102,21 @@ that guided that investigation.
 
 The Internet research Agency (IRA) carried out the earliest Russian interference
 operations identified by the investigation - asocial media campaign designed to provoke and
-amplify political and social discord in the United States. The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he
-controlled. Prigozhin is widely reported to have ties to Russian president Vladimir Putin, **\[ REDACTED: Harm to Ongoing Matter \]**
+amplify political and social discord in the United States.
+The IRA was based in St. Petersburg, Russia, and received funding
+from Russian oligarch Yevgeniy Prigozhin and companies he controlled.
+Prigozhin is widely reported to have ties to Russian president Vladimir Putin,
+**\[ REDACTED: Harm to Ongoing Matter \]**
 
-In mid-2014, the IRA sent employees to the United States on an intelligence-gathering mission with instructions **\[ REDACTED: Harm to Ongoing Matter \]**
+In mid-2014, the IRA sent employees to the United States on an
+intelligence-gathering mission with instructions
+**\[ REDACTED: Harm to Ongoing Matter \]**
 
-The IRA later used social media accounts and interest groups to sow discord in the U.S. political system through what it termed "information warfare." The campaign evolved from a
+The IRA later used social media accounts and interest groups to sow discord in
+the U.S. political system through what it termed "information warfare." The campaign evolved from a
 generalized program designed in 2014 and 2015 to undermine the U.S. electoral system, to a
-targeted operation that by early 2016 favored candidate Trump and disparaged candidate Clinton. The IRA's operation also included the purchase of political advertisements on social media in the
+targeted operation that by early 2016 favored candidate Trump and disparaged candidate Clinton.
+The IRA's operation also included the purchase of political advertisements on social media in the
 names of U.S. persons and entities, as well as the staging of political rallies inside the United
 States. To organize those rallies, IRA employees posed as U.S. grassroots entities and persons and
 made contact with Trump supporters and Trump campaign officials in the United States. The
@@ -107,20 +130,24 @@ At the same time that the IRA operation began to focus on supporting candidate T
 early 2016, the Russian government employed a second form of interference: cyber intrusions
 (hacking) and releases of hacked materials damaging to the Clinton campaign. The Russian
 intelligence service known as the Main intelligence directorate of the general Staff of the Russian
-Army (GRU) carried out these operations. In March 2016, the GRU began hacking the email accounts of Clinton campaign
+Army (GRU) carried out these operations.
+
+In March 2016, the GRU began hacking the email accounts of Clinton campaign
 volunteers and employees, including campaign chairman John Podesta. In April 2016, the GRU
 hacked into the computer networks of the democratic congressional campaign committee
 (DCCC) and the democratic national committee (DNC). The GRU stole hundreds of thousands
 of documents from the compromised email accounts and networks. Around the time that the DNC
 announced in mid-June 2016 the Russian government's role in hacking its network, the GRU
 began disseminating stolen materials through the fictitious online personas "DCLeaks" and
-"Guccifer 2.0." The GRU later released additional materials through the organization WikiLeaks. The presidential campaign of Donald J. Trump ("Trump campaign" or "campaign")
+"Guccifer 2.0." The GRU later released additional materials through the organization WikiLeaks.
+The presidential campaign of Donald J. Trump ("Trump campaign" or "campaign")
 showed interest in WikiLeaks's releases of documents and welcomed their potential to damage
 candidate Clinton. beginning in June 2016, **\[ REDACTED: Harm to Ongoing Matter \]** forecast to
 senior campaign officials that WikiLeaks would release information damaging to candidate
 Clinton. WikiLeaks's first release came in July 2016. Around the same time, candidate Trump
 announced that he hoped Russia would recover emails described as missing from a private server
-used b Clinton when she was secretary of State (he later said that he was speaking sarcastically). WikiLeaks began releasing
+used b Clinton when she was secretary of State (he later said that he was speaking sarcastically).
+**\[ REDACTED: Harm to Ongoing Matter \]** WikiLeaks began releasing
 Podesta's stolen emails on October 7, 2016, less than one hour after a U.S. media outlet released
 video considered damaging to candidate Trump. section III of this Report details the Office's
 investigation into the Russian hacking operations, as well as other efforts by Trump campaign
@@ -129,7 +156,8 @@ supporters to obtain Clinton-related emails.
 ### RUSSIAN CONTACTS WITH THE CAMPAIGN
 
 The social media campaign and the GRU hacking operations coincided with a series of
-contacts between Trump campaign officials and individuals with ties to the Russian government. The Office investigated whether those contacts reflected or resulted in the campaign conspiring
+contacts between Trump campaign officials and individuals with ties to the Russian government.
+The Office investigated whether those contacts reflected or resulted in the campaign conspiring
 or coordinating with Russia in its election-interference activities. although the investigation
 established that the Russian government perceived it would benefit from a Trump presidency and
 worked to secure that outcome, and that the campaign expected it would benefit electorally from
@@ -140,12 +168,18 @@ campaign, invitations for candidate Trump and Putin to meet in person, invitatio
 officials and representatives of the Russian government to meet, and policy positions seeking
 improved U.S.-Russian relations. section IV of this Report details the contacts between Russia
 and the Trump campaign during the campaign and transition periods, the most salient of which
-are summarized below in chronological order. 2015. Some of the earliest contacts were made in connection with a Trump organization
+are summarized below in chronological order.
+
+_2015._
+Some of the earliest contacts were made in connection with a Trump organization
 real-estate project in Russia known as Trump Tower Moscow. candidate Trump signed a Letter
 of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump organization
 executive Michael Cohen emailed and spoke about the project with the office of Russian
 government press secretary Dmitry Peskov. The Trump organization pursued the project through
-at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. campaign foreign policy advisor George Papadopoulos made early contact
+at least June 2016, including by considering travel to Russia by Cohen and candidate Trump.
+
+_Spring 2016._
+Campaign foreign policy advisor George Papadopoulos made early contact
 with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to
 Moscow in April 2016. immediately upon his return to London from that trip, Mifsud told
 Papadopoulos that the Russian government had "dirt" on Hillary Clinton in the form of thousands
@@ -154,7 +188,10 @@ representative of a foreign government that the Trump campaign had received indi
 the Russian government that it could assist the campaign through the anonymous release of
 information damaging to candidate Clinton. throughout that period of time and for several months
 thereafter, Papadopoulos worked with Mifsud and two Russian nationals to arrange a meeting
-between the campaign and the Russian government. No meeting took place. Summer 2016. Russian outreach to the Trump campaign continued into the summer of
+between the campaign and the Russian government. No meeting took place.
+
+_Summer 2016._
+Russian outreach to the Trump campaign continued into the summer of
 2016, as candidate Trump was becoming the presumptive republican nominee for president. On
 June 9, 2016, for example, a Russian lawyer met with senior Trump campaign officials Donald
 Trump Jr., Jared Kushner, and campaign chairman Paul Manafort to deliver what the email
@@ -163,51 +200,73 @@ incriminate Hillary." The materials were offered to Trump Jr. as "part of Russia
 government's support for Mr. Trump." The written communications setting up the meeting
 showed that the campaign anticipated receiving information from Russia that could assist
 candidate Trump's electoral prospects, but the Russian lawyer's presentation did not provide such
-information. Days after the June 9 meeting, on June 14, 2016, a cybersecurity firm and the DNC
+information.
+
+Days after the June 9 meeting, on June 14, 2016, a cybersecurity firm and the DNC
 announced that Russian government hackers had infiltrated the DNC and obtained access to
-opposition research on candidate Trump, among other documents. In July 2016, campaign foreign policy advisor Carter Page traveled in his personal capacity
+opposition research on candidate Trump, among other documents.
+
+In July 2016, campaign foreign policy advisor Carter Page traveled in his personal capacity
 to Moscow and gave the keynote address at the New economic School. Page had lived and worked
 in Russia between 2003 and 2007. After returning to the United States, Page became acquainted
 with at least two Russian intelligence officers, one of whom was later charged in 2015 with
 conspiracy to act as an unregistered agent of Russia. Page's July 2016 trip to Moscow and his
 advocacy for pro-Russian foreign policy drew media attention. The campaign then distanced itself
-from Page and, by late September 2016, removed him from the campaign. July 2016 was also the month WikiLeaks first released emails stolen by the GRU from the
+from Page and, by late September 2016, removed him from the campaign.
+
+July 2016 was also the month WikiLeaks first released emails stolen by the GRU from the
 DNC. On July 22, 2016, WikiLeaks posted thousands of internal DNC documents revealing
-information about the Clinton campaign. Within days, there was public reporting that U.S. intelligence agencies had "high confidence" that the Russian government was .behind the theft of
-emails and documents from the DNC. And within a week of the release, a foreign government
- informed the FBI about its May 2016 interaction with Papadopoulos and his statement that the
+information about the Clinton campaign.
+Within days, there was public reporting that U.S. intelligence agencies had "high confidence"
+that the Russian government was behind the theft of emails and documents from the DNC.
+And within a week of the release, a foreign government informed the FBI about its
+May 2016 interaction with Papadopoulos and his statement that the
 Russian government could assist the Trump campaign. On July 31, 2016, based on the foreign
 government rep01ting, the FBI opened an investigation into potential coordination between the
-Russian government and individuals associated with the Trump campaign. separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York
- City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties
+Russian government and individuals associated with the Trump campaign.
+
+Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City
+with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties
 to Russian intelligence. Kilimnik requested the meeting to deliver in persona peace plan for
 Ukraine that Manafort acknowledged to the special counsel's Office was a "backdoor" way for
  Russia to control part of eastern Ukraine; both men believed the plan would require candidate
 Trump's assent to succeed (were he to be elected president). They also discussed the status of the
-Trump campaign and Manafort's strategy for winning democratic votes in midwestern states. Months before that meeting, Manafort had caused internal polling data to be shared with Kilimnik, and the sharing continued for some period of time after their August meeting. Fall 2016. On October 7, 2016, the media released video of candidate Trump speaking in
+Trump campaign and Manafort's strategy for winning democratic votes in midwestern states.
+Months before that meeting, Manafort had caused internal polling data to be shared with Kilimnik,
+and the sharing continued for some period of time after their August meeting.
+
+_Fall 2016._
+On October 7, 2016, the media released video of candidate Trump speaking in
 graphic terms about women years earlier, which was considered damaging to his candidacy. Less
 than an hour later, WikiLeaks made its second release: thousands of John Podesta's emails that
 had been stolen by the GRU in late March 2016. The FBI and other U.S. government institutions
 were at the time continuing their investigation of suspected Russian government efforts to interfere
 in the presidential election. That same day, October 7, the department of homeland security and
 the Office of the director of national intelligence issued a joint public statement "that the Russian
-government directed the recent compromises of e-mails from US persons and institutions, including from US political organizations ." Those "thefts" and the "disclosures " of the hacked
+government directed the recent compromises of e-mails from US persons and institutions,
+including from US political organizations ." Those "thefts" and the "disclosures " of the hacked
 materials through online platforms such as WikiLeaks, the statement continued, "are intended to
 interfere with the US election process."
 
-Post-2016 election. immediately after the November 8 election, Russian government
+_Post-2016 Election._
+immediately after the November 8 election, Russian government
 officials and prominent Russian businessmen began trying to make inroads into the new
 administration. The most senior levels of the Russian government encouraged these efforts. The
 Russian embassy made contact hours after the election to congratulate the president-Elect and to
-arrange a call with president Putin. several Russian businessmen picked up the effort from there. Kirill Dmitriev, the chief executive officer of Russia's sovereign wealth fund, was among
+arrange a call with president Putin. Several Russian businessmen picked up the effort from there.
+
+Kirill Dmitriev, the chief executive officer of Russia's sovereign wealth fund, was among
 the Russians who tried to make contact with the incoming administration. In early December, a
 business associate steered Dmitriev to Erik Prince, a supporter of the Trump campaign and an
 associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in
-January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served
+January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period,
+another business associate introduced Dmitriev to a friend of Jared Kushner who had not served
 on the campaign or the transition Team. Dmitriev and Kushner's friend collaborated on a short
 written reconciliation plan for the United States and Russia, which Dmitriev implied had been
 cleared through Putin. The friend gave that proposal to Kushner before the inauguration, and
-Kushner later gave copies to Bannon and incoming secretary of State Rex Tillerson. On December 29, 2016, then-president Obama imposed sanctions on Russia for having
+Kushner later gave copies to Bannon and incoming secretary of State Rex Tillerson.
+
+On December 29, 2016, then-president Obama imposed sanctions on Russia for having
 interfered in the election. incoming national security advisor Michael Flynn called Russian
 ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the
 sanctions. The following day, Putin announced that Russia would not take retaliatory measures in
@@ -219,10 +278,12 @@ of Flynn's request.
 ---
 
 On January 6, 2017, members of the intelligence community briefed president-Elect Trump
- on a joint assessment-drafted and coordinated among the central intelligence Agency, FBI, and
+on a joint assessment-drafted and coordinated among the central intelligence Agency, FBI, and
 national security Agency-that concluded with high confidence that Russia had intervened in the
 election through a variety of means to assist Trump's candidacy and harm Clinton's. A
-declassified version of the assessment was publicly released that same day. between mid-January 2017 and early February 2017, three congressional committees -the
+declassified version of the assessment was publicly released that same day.
+
+Between mid-January 2017 and early February 2017, three congressional committees -the
 House permanent Select committee on intelligence (HPSCI), the Senate Select committee on
 intelligence (SSCI), and the Senate judiciary committee (SJC)-announced that they would
 conduct inquiries, or had already been conducting inquiries, into Russian interference in the
@@ -238,27 +299,38 @@ open-session testimony before HPSCI, Comey stated:
 > campaign and Russia's efforts .... As with any counterintelligence investigation,
 > this will also include an assessment of whether any crimes were committed.
 
-The investigation continued under then-director Comey for the next seven weeks until May 9, 2017, when president Trump fired Comey as FBI director-an action which is analyzed in
-Volume II of the report. On May 17, 2017, Acting attorney general Rod Rosenstein appointed the special counsel
+The investigation continued under then-director Comey for the next seven weeks
+until May 9, 2017, when president Trump fired Comey as FBI director-an action
+which is analyzed in Volume II of the report.
+
+On May 17, 2017, Acting attorney general Rod Rosenstein appointed the special counsel
 and authorized him to conduct the investigation that Comey had confirmed in his congressional
 testimony, as well as matters arising directly from the investigation, and any other matters within
-the scope of 28 C.F .R. § 600.4(a), which generally covers efforts to interfere with or obstruct the
-investigation. president Trump reacted negatively to the special counsel's appointment. He told advisors
+the scope of 28 C.F.R. § 600.4(a), which generally covers efforts to interfere with or obstruct the
+investigation.
+
+President Trump reacted negatively to the special counsel's appointment. He told advisors
 that it was the end of his presidency, sought to have attorney general Jefferson (Jeff) sessions
 unrecused from the Russia investigation and to have the special counsel removed, and engaged in
-efforts to curtail the special counsel's investigation and prevent the disclosure of evidence to it, including through public and private contacts with potential witnesses. Those and related actions
+efforts to curtail the special counsel's investigation and prevent the disclosure of evidence to it,
+including through public and private contacts with potential witnesses. Those and related actions
 are described and analyzed in Volume II of the report.
 
 ### THE special counsel'S charging decisions
 
 In reaching the charging decisions described in Volume 1 of the report, the Office
 determined whether the conduct it found amounted to a violation of federal criminal law
-chargeable under the principles of federal prosecution. See justice Manual § 9-27.000 et seq. (2018). The standard set forth in the justice Manual is whether the conduct constitutes a crime ; if
+chargeable under the principles of federal prosecution.
+See justice Manual § 9-27.000 et seq. (2018).
+The standard set forth in the justice Manual is whether the conduct constitutes a crime ; if
 so, whether admissible evidence would probably be sufficient to obtain and sustain a conviction;
 and whether prosecution would serve a substantial federal interest that could not be adequately
-served by prosecution elsewhere or through non-criminal alternatives. See justice Manual § 9-
-27 .220. section V of the report provides detailed explanations of the Office's charging decisions, which contain three main components. First, the Office determined that Russia's two principal interference operations in the 2016
+served by prosecution elsewhere or through non-criminal alternatives. See justice Manual § 9-27.220.
 
+Section V of the report provides detailed explanations of the Office's charging decisions,
+which contain three main components.
+
+First, the Office determined that Russia's two principal interference operations in the 2016
 U.S. presidential election-the social media campaign and the hacking-and-dumping operations-
 violated U.S. criminal law. Many of the individuals and entities involved in the social media
 campaign have been charged with participating in a conspiracy to defraud the United States by
@@ -266,14 +338,20 @@ undermining through deceptive acts the work of federal agencies charged with reg
 influence in U.S. elections, as well as related counts of identity theft. See United States v. Internet
 research Agency, et al., No. 18-cr-32 (D.D.C.). separately, Russian intelligence officers who
 carried out the hacking into democratic Party computers and the personal email accounts of
-individuals affiliated with the Clinton campaign conspired to violate, among other federal laws, the federal computer-intrusion statute, and the have been so char ed. See United States v. Neksho, et al., No. 18-cr-215 D.D.C.. Second, while the investigation identified numerous links between individuals with ties to
+individuals affiliated with the Clinton campaign conspired to violate, among other federal laws,
+the federal computer-intrusion statute, and the have been so char ed. See United States v. Neksho,
+et al., No. 18-cr-215 D.D.C..
+
+Second, while the investigation identified numerous links between individuals with ties to
 the Russian government and individuals associated with the Trump campaign, the evidence was
 not sufficient to support criminal charges. Among other things, the evidence was not sufficient to
 charge any campaign official as an unregistered agent of the Russian government or other Russian
 principal. And our evidence about the June 9, 2016 meeting and WikiLeaks's releases of hacked
 materials was not sufficient to charge a criminal campaign-finance violation. further, the evidence
 was not sufficient to charge that any member of the Trump campaign conspired with
-representatives of the Russian government to interfere in the 2016 election. Third, the investigation established that several individuals affiliated with the Trump
+representatives of the Russian government to interfere in the 2016 election.
+
+Third, the investigation established that several individuals affiliated with the Trump
 campaign lied to the Office, and to congress, about their interactions with Russian-affiliated
 individuals and related matters. Those lies materially impaired the investigation of Russian
 election interference. The Office charged some of those lies as violations of the federal false-
@@ -283,8 +361,11 @@ Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilt
 investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the
 professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of
 thousands of emails. Former Trump organization attorney Michael Cohen pleaded guilty to
-making false statements to congress about the Trump Moscow project. Manafort lied to the Office and the grand jury concerning his interactions and communications
-with Konstantin Kilimnik about Trump campaign polling data and a peace plan for Ukraine.
+making false statements to congress about the Trump Moscow project.
+**\[ REDACTED: Harm to Ongoing Matter \]** And in February 2019, the U.S. District Court for
+the District of Columbia found that Manafort lied to the Office and the grand jury
+concerning his interactions and communications with Konstantin Kilimnik about Trump campaign
+polling data and a peace plan for Ukraine.
 
 ---
 
@@ -297,7 +378,9 @@ one campaign official's efforts to dilute a portion of the republican Party plat
 assistance to Ukraine were undertaken at the behest of candidate Trump or Russia. The
 investigation also did not establish that a meeting between Kislyak and sessions in September
 2016 at sessions's Senate office included anymore than a passing mention of the presidential
-campaign. The investigation did not always yield admissible information or testimony, or a complete
+campaign.
+
+The investigation did not always yield admissible information or testimony, or a complete
 picture of the activities undertaken by subjects of the investigation. Some individuals invoked
 their Fifth amendment right against compelled self-incrimination and were not, in the Office's
 judgment, appropriate candidates for grants of immunity. The Office limited its pursuit of other
@@ -309,14 +392,20 @@ presumptively covered by legal privilege and was screened from investigators by 
 provided information that was false or incomplete, leading to some of the false-statements charges
 described above. And the Office faced practical limits on its ability to access relevant evidence as
 well-numerous witnesses and subjects lived abroad, and documents were held outside the United
-States. further, the Office learned that some of the individuals we interviewed or whose conduct
-we investigated-including some associated with the Trump campaign---deleted relevant
+States.
+
+Further, the Office learned that some of the individuals we interviewed or whose conduct
+we investigated-including some associated with the Trump campaign--deleted relevant
 communications or communicated during the relevant period using applications that feature
 encryption or that do not provide for long-term retention of data or communications records. In
- such cases, the Office was notable to corroborate witness statements through comparison to
+such cases, the Office was notable to corroborate witness statements through comparison to
 contemporaneous communications or fully question witnesses about statements that appeared
- inconsistent with other known facts. accordingly, while this report embodies factual and legal determinations that the Office
-believes to be accurate and complete to the greatest extent possible, given these identified gaps, the Office cannot rule out the possibility that the unavailable information would shed additional light on (or cast in a new light) the events described in the report.
+inconsistent with other known facts.
+
+Accordingly, while this report embodies factual and legal determinations that the Office
+believes to be accurate and complete to the greatest extent possible, given these identified gaps,
+the Office cannot rule out the possibility that the unavailable information would shed additional
+light on (or cast in a new light) the events described in the report.
 
 ## I. THE special counsel'S investigation
 
@@ -331,19 +420,27 @@ management of the department of justice, and to ensure a full and thorough inves
 Russian government's efforts to interfere in the 2016 presidential election." appointment Order
 (introduction). "The special counsel," the Order stated, "is authorized to conduct the investigation
 confirmed by then-FBI director James B. Comey in testimony before the House permanent Select
-committee on intelligence on March 20, 2017," including:'(i) any links and/or coordination between the Russian government and individuals
-associated with the campaign of president Donald Trump; and
-(ii) any matters that arose or may arise directly from the investigation; and
-(iii) any other matters within the scope of 28 C.F.R. § 600.4(a). appointment Order ¶(b). section 600.4 affords the special counsel "the authority to investigate
+committee on intelligence on March 20, 2017," including:
+
+- i. any links and/or coordination between the Russian government and individuals
+  associated with the campaign of president Donald Trump; and
+- ii. any matters that arose or may arise directly from the investigation; and
+- iii. any other matters within the scope of 28 C.F.R. § 600.4(a).
+
+Appointment Order ¶(b). section 600.4 affords the special counsel "the authority to investigate
 and prosecute federal crimes committed in the course of, and with intent to interfere with, the
-special counsel's investigation, such as perjury, obstruction of justice, destruction of evidence, and intimidation of witnesses ." 28 C.F.R. § 600.4(a). The authority to investigate "any matters
-that arose. .. directly from the investigation ," appointment Order ¶(b)(ii), covers similar crimes
+special counsel's investigation, such as perjury, obstruction of justice, destruction of evidence,
+and intimidation of witnesses ." 28 C.F.R. § 600.4(a). The authority to investigate "any matters
+that arose... directly from the investigation ," appointment Order ¶(b)(ii), covers similar crimes
 that may have occurred during the course of the FBI's confirmed investigation before the special
 counsel's appointment. "If the special counsel believes it is necessary and appropriate, " the
 Order further provided, "the special counsel is authorized to prosecute federal crimes arising from
 the investigation of these matters. " Id. ¶(c). finally, the Acting attorney general made applicable
-"sections 600.4 through 600.10 of Title 28 of the Code of federal regulations. " Id. ¶(d). The Acting attorney general further clarified the scope of the special counsel's
-investigatory authority in two subsequent memoranda. A memorandum dated August 2, 2017, explained that the appointment Order had been "worded categorically in order to permit its public
+"sections 600.4 through 600.10 of Title 28 of the Code of federal regulations. " Id. ¶(d).
+
+The Acting attorney general further clarified the scope of the special counsel's
+investigatory authority in two subsequent memoranda. A memorandum dated August 2, 2017,
+explained that the appointment Order had been "worded categorically in order to permit its public
 release without confirming specific investigations involving specific individuals." It then
 confirmed that the special counsel had been authorized since his appointment to investigate
 allegations that three Trump campaign officials-Carter Page, Paul Manafort, and George
@@ -355,13 +452,15 @@ payments he received from the Ukrainian government and crimes arising from his r
 from a bank whose CEO was then seeking a position in the Trump administration); allegations
 that Papadopoulos committed a crime or crimes by acting as an unregistered agent of the Israeli
 government; and four sets of allegations involving Michael Flynn, the former national security
-advisor to president Trump. On October 20, 2017, the Acting attorney general confirmed in a memorandum the
+advisor to president Trump.
+
+On October 20, 2017, the Acting attorney general confirmed in a memorandum the
 special counsel's investigative authority as to several individuals and entities. First, "as part of a
 full and thorough investigation of the Russian government's efforts to interfere in the 2016
-
 presidential election," the special counsel was authorized to investigate "the pertinent activities
-of Michael Cohen, Richard Gates, , Roger Stone, and
-I" "confirmation of the authorization to investigate such individuals, " the memorandum
+of Michael Cohen, Richard Gates, **\[ REDACTED: Personal Privacy \]**, Roger Stone, and
+**\[ REDACTED: Personal Privacy \]**"
+"confirmation of the authorization to investigate such individuals," the memorandum
 stressed, "does not suggest that the special counsel has made a determination that any of them has
 committed a crime ." Second, with respect to Michael Cohen, the memorandum recognized the
 special counsel's authority to investigate " leads relate\[d\] to Cohen's establishment and use of
@@ -371,62 +470,77 @@ who were possibly engaged in "jointly undertaken activity" with existing subject
 investigation, including Paul Manafort. finally, the memorandum described an FBI investigation
 opened before the special counsel's appointment into "allegations that \[then-attorney general
 Jeff sessions\] made false statements to the United States Senate\[,\]" and confirmed the special
-counsel's authority to investigate that matter. The special counsel structured the investigation in view of his power and authority "to
+counsel's authority to investigate that matter.
+
+The special counsel structured the investigation in view of his power and authority "to
 exercise all investigative and prosecutorial functions of any United States attorney." 28 C.F.R:
 § 600 .6. Like a U.S. attorney's Office, the special counsel's Office considered a range of
 classified and unclassified information available to the FBI in the course of the Office's Russia
 investigation, and the Office structured that workaround evidence for possible use in prosecutions
-of federal crimes (assuming that one or more crimes were identified that warranted prosecution). There was substantial evidence immediately available to the special counsel at the inception of
+of federal crimes (assuming that one or more crimes were identified that warranted prosecution).
+There was substantial evidence immediately available to the special counsel at the inception of
 the investigation in May 2017 because the FBI had, by that time, already investigated Russian
 election interference for nearly 10 months. The special counsel's Office exercised its judgment
 regarding what to investigate and did not, for instance, investigate every public report of a contact
-between the Trump campaign and Russian-affiliated individuals and entities. The Office has concluded its investigation into links and coordination between the Russian
+between the Trump campaign and Russian-affiliated individuals and entities. 
+
+The Office has concluded its investigation into links and coordination between the Russian
 government and individuals associated with the Trump campaign. certain proceedings associated
 with the Office's work remain ongoing. After consultation with the Office of the Deputy attorney
 general, the Office has transferred responsibility for those remaining issues to other components
-of the department of justice and FBI. appendix D lists those transfers. Two district courts confirmed the breadth of the special counsel's authority to investigate
+of the department of justice and FBI. appendix D lists those transfers.
+
+Two district courts confirmed the breadth of the special counsel's authority to investigate
 Russia election interference and links and/or coordination with the Trump campaign. See United
-States v. Manafort, 312 F. Supp. 3d 60, 79-83 (D.D .C. 2018); United States v. Manafort, 321 F. Supp. 3d 640, 650-655 (E.D. Va. 2018). In the course of conducting that investigation, the Office
+States v. Manafort, 312 F. Supp. 3d 60, 79-83 (D.D .C. 2018);
+United States v. Manafort, 321 F. Supp. 3d 640, 650-655 (E.D. Va. 2018).
+In the course of conducting that investigation, the Office
 periodically identified evidence of potential criminal activity that was outside the scope of the
 special counsel's authority established by the Acting attorney general. After consultation with
 the Office of the Deputy attorney general, the Office referred that evidence to appropriate law
-enforcement authorities, principally other components of the department of justice and to the FBI. appendix D summarizes those referrals.
+enforcement authorities, principally other components of the department of justice and to the FBI.
+Appendix D summarizes those referrals.
 
 ---
 
- To carryout the investigation and prosecution of the matters assigned to him, the special
+ To carry out the investigation and prosecution of the matters assigned to him, the special
 counsel assembled a team that at its high point included 19 attorneys-five of whom joined the
 Office from private practice and 14 on detail or assigned from other department of justice
 components. These attorneys were assisted by a filter team of department lawyers and FBI
 personnel who screened materials obtained via court process for privileged information before
 turning those materials over to investigators; a support staff of three paralegals on detail from the
-department's antitrust division; and an administrative staff of nine responsible for budget, finance, purchasing, human resources, records, facilities, security, information technology, and administrative support. The special counsel attorneys and support staff were co-located with and
+department's antitrust division; and an administrative staff of nine responsible for budget,
+finance, purchasing, human resources, records, facilities, security, information technology,
+and administrative support. The special counsel attorneys and support staff were co-located with and
 worked alongside approximately 40 FBI agents, intelligence analysts, forensic accountants, a
-paralegal, and professional staff assigned by the FBI to assist the special counsel's investigation. Those "assigned" FBI employees remained under FBI supervision at all times; the matters on which they assisted were supervised by the special counsel.
-[^1]: During its investigation the Office issued more than 2,800 subpoenas under the auspices of
+paralegal, and professional staff assigned by the FBI to assist the special counsel's investigation.
+Those "assigned" FBI employees remained under FBI supervision at all times;
+the matters on which they assisted were supervised by the special counsel. 1
+
+During its investigation the Office issued more than 2,800 subpoenas under the auspices of
 a grand jury sitting in the district of Columbia; executed nearly 500 search-and-seizure warrants;
 obtained more than 230 orders for communications records under 18 U.S.C. § 2703(d); obtained
 almost 50 orders authorizing use of pen registers; made 13 requests to foreign governments
-pursuant to Mutual Legal assistance treaties; and interviewed approximately 500 witnesses, including almost 80 before a grand jury.
+pursuant to Mutual Legal assistance treaties; and interviewed approximately 500 witnesses,
+including almost 80 before a grand jury.
 
 ---
 
- From its inception, the Office recognized that its investigation could identify foreign
+From its inception, the Office recognized that its investigation could identify foreign
 intelligence and counterintelligence information relevant to the FBI's broader national security
 mission. FBI personnel who assisted the Office established procedures to identify and convey
 such information to the FBI. The FBI's counterintelligence division met with the Office regularly
 for that purpose for most of the Office's tenure. For more than the past year, the FBI also
 embedded personnel at the Office who did not work on the special counsel's investigation, but
 whose purpose was to review the results of the investigation and to send-in writing-summaries
-of foreign intelligence and counterintelligence information to FBIHQ and FBI Field offices. Those communications and other correspondence between the Office and the FBI contain
+of foreign intelligence and counterintelligence information to FBIHQ and FBI Field offices.
+Those communications and other correspondence between the Office and the FBI contain
 information derived from the investigation, not all of which is contained in this Volume. This
 Volume is a summary. It contains, in the Office's judgment, that information necessary to account
 for the special counsel's prosecution and declination decisions and to describe the investigation's
-main factual results. 1 FBI personnel assigned to the special counsel's Office were required to adhere to all applicable
- federal law and all department and FBI regulations, guidelines, and policies. An FBI attorney worked on
-FBI-related matters for the Office, such as FBI compliance with all FBI policies and procedures, including
- the FBI's domestic investigations and operations Guide (DIOG). That FBI attorney worked under FBI
- legal supervision, not the special counsel's supervision.
+main factual results.
+
+[^1]: FBI personnel assigned to the special counsel's Office were required to adhere to all applicable federal law and all department and FBI regulations, guidelines, and policies. An FBI attorney worked on FBI-related matters for the Office, such as FBI compliance with all FBI policies and procedures, including the FBI's domestic investigations and operations Guide (DIOG). That FBI attorney worked under FBI legal supervision, not the special counsel's supervision.
 
 ## II. RUSSIAN "ACTIVE measures" SOCIAL MEDIA campaign
 
@@ -438,60 +552,58 @@ U.S. audiences with the goal of sowing discord in the U.S. political system. 3 T
 constituted "active measures," a term that typically refers to operations
 conducted by Russian security services aimed at influencing the course of international affairs. 4
 
-The IRA and its employees began operations targeting the United States as early as 2014. Using fictitious U.S. personas, IRA employees operated social media accounts and group pages
-designed to attract U.S. audiences. These groups and accounts, which addressed divisive U.S. political and social issues, falsely claimed to be controlled by U.S. activists. overtime, these
+The IRA and its employees began operations targeting the United States as early as 2014.
+Using fictitious U.S. personas, IRA employees operated social media accounts and group pages
+designed to attract U.S. audiences. These groups and accounts, which addressed divisive
+U.S. political and social issues, falsely claimed to be controlled by U.S. activists. overtime, these
 social media accounts became a means to reach large U.S. audiences. IRA employees travelled to
 the United States in mid-2014 on an intelligence-gathering mission to obtain information and
-photographs for use in their social media posts. IRA employees posted derogatory information about a number of candidates in the 2016
+photographs for use in their social media posts.
 
+IRA employees posted derogatory information about a number of candidates in the 2016
 U.S. presidential election. By early to mid-2016, IRA operations included supporting the Trump
 campaign and disparaging candidate Hillary Clinton. The IRA made various expenditures to carry
-out those activities, including buying political advertisements on social media in the names of U.S. persons and entities. Some IRA employees, posing as U.S. persons and without revealing their
+out those activities, including buying political advertisements on social media in the names
+of U.S. persons and entities. Some IRA employees, posing as U.S. persons and without revealing their
 Russian association, communicated electronically with individuals associated with the Trump
 campaign and with other political activists to seek to coordinate political activities, including the
 staging of political rallies. 5 The investigation did not identify evidence that any U.S. persons
-knowingly or intentionally coordinated with the IRA's interference operation. By the end of the 2016 U.S. election, the IRA had the ability to reach millions of U.S. persons through their social media accounts. multiple IRA-controlled Facebook groups and
+knowingly or intentionally coordinated with the IRA's interference operation.
 
-[^2]: The Office is aware of reports that other Russian entities engaged in similar active measures
-operations targeting the United States. Some evidence collected by the Office corroborates those rep01ts, and the Office has shared that evidence with other offices in the department of justice and FBI. 3 **\[ REDACTED: Harm to Ongoing Matter \]** see also SM-2230634, serial 44 (analysis). The FBI case number cited here, and other FBI case numbers
- identified in the report, should be treated as law enforcement sensitive given the context. The report contains
- additional law enforcement sensitive information. 4 As discussed in Part V below, the active measures investigation has resulted in criminal charges
- against 13 individual Russian nationals and three Russian entities, principally for conspiracy to defraud the
- United States, in violation of 18 U.S.C. § 371. See Volume I, section V.A, infra; indictment, United States
- v. Internet research Agency, et al., 1:18-cr-32 (D.D.C. Feb. 16, 2018), Doc. I ("Internet research Agency
- indictment"). Instagram accounts had hundreds of thousands of U.S. participants. IRA-controlled Twitter
+By the end of the 2016 U.S. election, the IRA had the ability to reach millions of U.S. persons through their social media accounts. multiple IRA-controlled Facebook groups and Instagram accounts had hundreds of thousands of U.S. participants. IRA-controlled Twitter
 accounts separately had tens of thousands of followers, including multiple U.S. political figures
 who retweeted IRA-created content. In November 2017, a Facebook representative testified that
 Facebook had identified 470 IRA-controlled Facebook accounts that collectively made 80,000
 
-posts between January 2015 and August 2017. Facebook estimated the IRA reached as many as
+Posts between January 2015 and August 2017. Facebook estimated the IRA reached as many as
 126 million persons through its Facebook accounts. 6 In January 2018, Twitter announced that it
 had identified 3,814 IRA-controlled Twitter accounts and notified approximately 1.4 million
 people Twitter believed may have been in contact with an iRA-controlled account. 7
 
+[^2]: The Office is aware of reports that other Russian entities engaged in similar active measures
+operations targeting the United States. Some evidence collected by the Office corroborates those rep01ts, and the Office has shared that evidence with other offices in the department of justice and FBI.
+[^3]: **\[ REDACTED: Harm to Ongoing Matter \]** see also SM-2230634, serial 44 (analysis). The FBI case number cited here, and other FBI case numbers identified in the report, should be treated as law enforcement sensitive given the context. The report contains additional law enforcement sensitive information.
+[^4]: As discussed in Part V below, the active measures investigation has resulted in criminal charges against 13 individual Russian nationals and three Russian entities, principally for conspiracy to defraud the United States, in violation of 18 U.S.C. § 371. See Volume I, section V.A, infra; indictment, United States v. Internet research Agency, et al., 1:18-cr-32 (D.D.C. Feb. 16, 2018), Doc. I ("Internet research Agency indictment"). 
+[^5]: Internet research Agency Indictment ¶¶ 52, 54, 55(a), 56, 74; **\[ REDACTED: Harm to Ongoing Matter \]**
+
 ### A. Structure of the Internet Research Agency
 
-**\[ REDACTED: Harm to Ongoing Matter \]**
-The growth of the organization also led to a more detailed organizational structure.
+**\[ REDACTED: Harm to Ongoing Matter \]** 8
+**\[ REDACTED: Harm to Ongoing Matter \]** 9
+**\[ REDACTED: Harm to Ongoing Matter \]** 10
 
-[^6]: Social Media influence in the 2016 US. election, hearing Before the Senate Select committee
-on intelligence, 115th Cong. 13 (11/1/17) (testimony of Colin stretch, general counsel ofFacebook) ("We
-estimate that roughly 29 million people were served content in their News Feeds directly from the IRA's
-80,000 posts over the two years. Posts from these Pages were also shared, liked, and followed by people on
-Facebook, and, as a result, three times more people may have been exposed to a story that originated from
-the Russian operation. Our best estimate is that approximately 126 million people may have been served
-content from a Page associated with the IRA at some point during the two-year period."). The Facebook
-representative also testified that Facebook had identified 170 Instagram accounts that posted approximately
- 120,000 pieces of content during that time. Facebook did not offer an estimate of the audience reached via
-Instagram.
+The organization quickly grew. **\[ REDACTED: Harm to Ongoing Matter \]**
+
+The growth of the organization also led to a more detailed organizational structure.
+**\[ REDACTED: Harm to Ongoing Matter \]** 3
+
+[^6]: Social Media influence in the 2016 US. election, hearing Before the Senate Select committee on intelligence, 115th Cong. 13 (11/1/17) (testimony of Colin stretch, general counsel ofFacebook) ("We estimate that roughly 29 million people were served content in their News Feeds directly from the IRA's 80,000 posts over the two years. Posts from these Pages were also shared, liked, and followed by people on Facebook, and, as a result, three times more people may have been exposed to a story that originated from the Russian operation. Our best estimate is that approximately 126 million people may have been served content from a Page associated with the IRA at some point during the two-year period."). The Facebook representative also testified that Facebook had identified 170 Instagram accounts that posted approximately 120,000 pieces of content during that time. Facebook did not offer an estimate of the audience reached via Instagram.
 [^7]: Twitter, Update on Twitter's Review of the 2016 US election (Jan. 31, 2018).
 [^8]: See SM-2230634, serial 92.
 [^9]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^10]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^11]: See SM-2230634, serial 86 **\[ REDACTED: Harm to Ongoing Matter \]**
 [^12]: **\[ REDACTED: Harm to Ongoing Matter \]**
-
-**\[ REDACTED: Harm to Ongoing Matter \]**
 
 Two individuals headed the IRA's management: its general director, Mikhail Bystrov,
 and its executive director, Mikhail Burchik. **\[ REDACTED: Harm to Ongoing Matter \]** 15
@@ -500,8 +612,10 @@ As early as the spring of 2014, the IRA be an to hide its funding and activities
 **\[ REDACTED: Harm to Ongoing Matter \]** 16
 
 The IRA's U.S. operations are part of a larger set of interlocking operations
-known as "Project Lakhta," **\[ REDACTED: Harm to Ongoing Matter \]**
-[^18]:
+known as "Project Lakhta,"
+**\[ REDACTED: Harm to Ongoing Matter \]** 17
+**\[ REDACTED: Harm to Ongoing Matter \]** 18
+
 ### B. funding and oversight from concord and Prigozhin
 
 Until at least February 2018, Yevgeniy Viktorovich Prigozhin and two concord companies
@@ -516,29 +630,49 @@ funded the IRA. Prigozhin is a wealthy Russian businessman who served as the hea
 
 **\[ REDACTED: Harm to Ongoing Matter \]**
 Prigozhin was sanctioned by the U.S. Treasury Department in December 2016. 19
+**\[ REDACTED: Harm to Ongoing Matter \]** 20
 
-**\[ REDACTED: Harm to Ongoing Matter \]**
-Numerous media sources have reported on Prigozhin's ties to Putin, and the two have appeared together in public
-photographs.
+**\[ REDACTED: Harm to Ongoing Matter \]** 21
+Numerous media sources have reported on Prigozhin's ties to Putin,
+and the two have appeared together in public photographs. 22
 
-**\[ REDACTED: Harm to Ongoing Matter \]**
-
-**\[ REDACTED: Harm to Ongoing Matter \]**
-
+**\[ REDACTED: Harm to Ongoing Matter \]** 23
 **\[ REDACTED: Harm to Ongoing Matter \]**
 
-22 **\[ REDACTED: Harm to Ongoing Matter \]** 1t1 **\[ REDACTED: Harm to Ongoing Matter \]** 11 **\[ REDACTED: Harm to Ongoing Matter \]** 11 **\[ REDACTED: Harm to Ongoing Matter \]** 19
+**\[ REDACTED: Harm to Ongoing Matter \]** 24
+**\[ REDACTED: Harm to Ongoing Matter \]** 25
+**\[ REDACTED: Harm to Ongoing Matter \]**
 
-U.S. treasury Department, "treasury sanctions individuals and entities in connection with
-Russia's occupation of Crimea and the conflict in Ukraine" (Dec. 20, 2016). **\[ REDACTED: Harm to Ongoing Matter \]** 22
+**\[ REDACTED: Harm to Ongoing Matter \]**
 
-See, e.g., Neil MacFarquhar, Yevgeny Prigozhin, Russian oligarch indicted by US., Is Known
-as "Putin's Cook", New York Times (Feb. 16, 2018). 24 **\[ REDACTED: Harm to Ongoing Matter \]** see also SM- **\[ REDACTED: Harm to Ongoing Matter \]** a **\[ REDACTED: Harm to Ongoing Matter \]** 26 **\[ REDACTED: Harm to Ongoing Matter \]** 27 **\[ REDACTED: Harm to Ongoing Matter \]** 28
+[^19]: U.S. treasury Department, "treasury sanctions individuals and entities in connection with Russia's occupation of Crimea and the conflict in Ukraine" (Dec. 20, 2016).
+[^20]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^21]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^22]: See, e.g., Neil MacFarquhar, Yevgeny Prigozhin, Russian oligarch indicted by US., is Known as "Putin's Cook", New York Times (Feb. 16, 2018).
+[^23]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^24]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^25]: **\[ REDACTED: Harm to Ongoing Matter \]**
 
-The term "troll" refers to Internet users--in this context, paid operatives--who post inflammatory
-or otherwise disruptive content on social media or other websites. • :6_ a • • a a
-I I. • I **\[ REDACTED: Harm to Ongoing Matter \]** In May
-2016, IRA employees, claiming to be U.S. social activists and administrators ofFacebook groups, recruited U.S. persons to hold signs (including one in front of the White House) that read "Happy 55th Birthday Dear Boss," as an homage to Prigozhin whose 55th birthday was on June 1, 2016. 31
+**\[ REDACTED: Harm to Ongoing Matter \]** 26
+**\[ REDACTED: Harm to Ongoing Matter \]** 27
+
+**\[ REDACTED: Harm to Ongoing Matter \]**
+
+**\[ REDACTED: Harm to Ongoing Matter \]** 28
+**\[ REDACTED: Harm to Ongoing Matter \]**
+
+[^26]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^27]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^28]: The term "troll" refers to Internet users--in this context, paid operatives--who post inflammatory or otherwise disruptive content on social media or other websites.
+
+IRA employees were aware that Prigozhin was involved in the IRA's U.S. operations,
+**\[ REDACTED: Harm to Ongoing Matter \]** 29
+**\[ REDACTED: Harm to Ongoing Matter \]** 30
+In May 2016, IRA employees, claiming to be U.S. social activists and administrators
+ofFacebook groups, recruited U.S. persons to hold signs (including one in front of
+the White House) that read "Happy 55th Birthday Dear Boss," as an homage to
+Prigozhin whose 55th birthday was on June 1, 2016. 31
+**\[ REDACTED: Harm to Ongoing Matter \]** 32
 
 **\[ REDACTED: Harm to Ongoing Matter \]**
 
@@ -546,22 +680,61 @@ I I. • I **\[ REDACTED: Harm to Ongoing Matter \]** In May
 
 #### 1. The IRA Ramps Up U.S. operations As Early As 2014
 
- I I. • I
- ! ...• ... • .... " • " I" : I I **\[ REDACTED: Harm to Ongoing Matter \]** subdivided the translator department into different
- responsibilities, ranging from operations on different social media platforms to analytics to
+The IRA's U.S. operations sought to influence public opinion through online
+media and forums. By the spring of 2014, the IRA began to consolidate U.S.
+operations within a single general department, known internally as the
+"Translator" department.
+**\[ REDACTED: Harm to Ongoing Matter \]**
+IRA subdivided the translator department into different
+responsibilities, ranging from operations on different social media platforms
+to analytics to graphics and IT.
 
 [^29]: **\[ REDACTED: Investigative Technique \]** See SM-2230634, serials 131 & 204.
 [^30]: See SM-2230634, serial 156.
-[^31]: Internet research Agency indictment ¶ 12 b; see also 5/26/16 Facebook messages, ID
- 1479936895656747 (United Muslims of America) &
-graphics and IT. **\[ REDACTED: Harm to Ongoing Matter \]** ■ **\[ REDACTED: Harm to Ongoing Matter \]** I, • ·. I
+[^31]: Internet research Agency indictment ¶ 12 b; see also 5/26/16 Facebook messages, ID 1479936895656747 (United Muslims of America) & **\[ REDACTED: Personal Privacy \]**
+[^32]: **\[ REDACTED: Harm to Ongoing Matter \]** see also SM-2230634, serial 189. **\[ REDACTED: Harm to Ongoing Matter \]**
 
-[^34]: See SM-2230634, serial 204 **\[ REDACTED: Harm to Ongoing Matter \]** IRA employees also traveled to the United States on intelligence-gathering missions. In
-June 2014, four IRA employees applied to the U.S. department of State to enter the United States, while lying about the purpose of their trip and claiming to be four friends who had met at a party. 38
+**\[ REDACTED: Harm to Ongoing Matter \]** 33
+**\[ REDACTED: Harm to Ongoing Matter \]** 34
 
-ultimately, two IRA employees-Anna Bogacheva and Aleksandra Krylova-received visas and
-entered the United States on June 4, 2014. ••• ". **\[ REDACTED: Harm to Ongoing Matter \]** . • ,,. ,:,!,,. " ..... - .-. . · **\[ REDACTED: Harm to Ongoing Matter \]** 35 **\[ REDACTED: Harm to Ongoing Matter \]** 37 **\[ REDACTED: Harm to Ongoing Matter \]**
+**\[ REDACTED: Harm to Ongoing Matter \]**
+
+[^33]: **\[ REDACTED: Harm to Ongoing Matter \]** See SM-2230634, serial 205.
+[^34]: See SM-2230634, serial 204 **\[ REDACTED: Harm to Ongoing Matter \]**
+
+**\[ REDACTED: Harm to Ongoing Matter \]** 35
+**\[ REDACTED: Harm to Ongoing Matter \]** 36
+
+**\[ REDACTED: Harm to Ongoing Matter \]**
+
+- **\[ REDACTED: Harm to Ongoing Matter \]**
+- **\[ REDACTED: Harm to Ongoing Matter \]**
+
+**\[ REDACTED: Harm to Ongoing Matter \]**
+
+**\[ REDACTED: Harm to Ongoing Matter \]**
+
+**\[ REDACTED: Harm to Ongoing Matter \]**
+
+**\[ REDACTED: Harm to Ongoing Matter \]** 37
+
+IRA employees also traveled to the United States on intelligence-gathering missions. In
+June 2014, four IRA employees applied to the U.S. department of State to enter the
+United States, while lying about the purpose of their trip and claiming to be four
+friends who had met at a party. 38 Ultimately, two IRA employees-Anna Bogacheva and
+Aleksandra Krylova-received visas and entered the United States on June 4, 2014.
+
+Prior to traveling, Krylova and Bogacheva compiled itineraries and instructions
+for the trip.
+**\[ REDACTED: Harm to Ongoing Matter \]** 9
+**\[ REDACTED: Harm to Ongoing Matter \]** 40
+**\[ REDACTED: Harm to Ongoing Matter \]** 41
+
+[^35]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^35]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^37]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^38]: See SM-2230634, serials 150 & 172 **\[ REDACTED: Harm to Ongoing Matter \]**
+[^39]: **\[ REDACTED: Harm to Ongoing Matter \]**
 
 #### 2. U.S. operations through IRA-controlled Social Media accounts
 
@@ -572,16 +745,28 @@ included social media specialists focusing on Facebook, YouTube, and Twitter. 43
 added specialists who operated on Tumblr and Instagram accounts. 44
 
 Initially, the IRA created social media accounts that pretended to be the personal accounts
-of U.S. persons.45 By early 2015, the IRA began to create larger social media groups or public
+of U.S. persons. 45 By early 2015, the IRA began to create larger social media groups or public
 social media pages that claimed (falsely) to be affiliated with U.S. political and grassroots
-organizations. In certain cases, the IRA created accounts that mimicked real U.S. organizations. For example, one IRA-controlled Twitter account, @TEN_ GOP, purported to be connected to the
+organizations. In certain cases, the IRA created accounts that mimicked real U.S. organizations.
+For example, one IRA-controlled Twitter account, @TEN_GOP, purported to be connected to the
 Tennessee republican Party .46 More commonly, the IRA created accounts in the names of
 fictitious U.S. organizations and grassroots groups and used these accounts to pose as anti-
 immigration groups, Tea Party activists, Black Lives Matter protestors, and other U.S. social and
-political activists. **\[ REDACTED: Harm to Ongoing Matter \]**
+political activists.
 
+The IRA closely monitored the activity of its social media accounts.
+**\[ REDACTED: Harm to Ongoing Matter \]**
+
+[^40]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^41]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^42]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^43]: **\[ REDACTED: Harm to Ongoing Matter \]**
+[^44]: See, e.g., SM-2230634, serial 179 **\[ REDACTED: Harm to Ongoing Matter \]**
 [^45]: See, e.g., Facebook ID 100011390466802 (Alex Anderson); Facebook ID 100009626173204 (Andrea Hansen); Facebook ID 100009728618427 (Gary Williams); Facebook ID 100013640043337 (Lakisha Richardson).
 [^46]: The account claimed to be the "unofficial Twitter of Tennessee republicans" and made posts that appeared to be endorsements of the state political party. See, e.g., @TEN_GOP, 4/3/16 Tweet ("Tennessee GOP backs @realDonaldTrump period #makeAmericaGreatAgain `#tngop` `#tennessee` `#gop`").
+
+**\[ REDACTED: Harm to Ongoing Matter \]** 47
+**\[ REDACTED: Harm to Ongoing Matter \]** 48
 
 By February 2016, internal IRA documents referred to the support for the Trump
 Campaign and opposition to candidate Clinton. 49 For example,
@@ -589,12 +774,10 @@ Campaign and opposition to candidate Clinton. 49 For example,
 directions to IRA operators **\[ REDACTED: Harm to Ongoing Matter \]**
 "Main idea: Use any opportunity to criticize Hillary \[Clinton\] and the rest
 (except Sanders and Trump - we support them)." 50
-
 **\[ REDACTED: Harm to Ongoing Matter \]**
 
 The focus on the U.S. presidential campaign continued throughout 2016. In
 **\[ REDACTED: Harm to Ongoing Matter \]** 2016
-
 internal **\[ REDACTED: Harm to Ongoing Matter \]**
 reviewing the IRA-controlled Facebook group "Secured Borders," the author
 criticized the "lower number of posts dedicated to criticizing Hillary Clinton"
@@ -603,7 +786,6 @@ criticizing Hillary Clinton."
 
 [^47]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^48]: See, e.g., SM-2230634 serial 131
-
 [^49]: The IRA posted content about the Clinton candidacy before Clinton officially announced her presidential campaign. IRA-controlled social media accounts criticized Clinton's record as Secretary of State and promoted various critiques of her candidacy. The IRA also used other techniques. **\[ REDACTED: Harm to Ongoing Matter \]** See SM-2230634, serial 70.
 [^50]: **\[ REDACTED: Harm to Ongoing Matter \]**
 
@@ -619,7 +801,13 @@ specialists. **\[ REDACTED: Harm to Ongoing Matter \]**
 
 **\[ REDACTED: Harm to Ongoing Matter \]**
 
-**\[ REDACTED: Harm to Ongoing Matter \]** IRA Facebook groups active during the 2016 campaign
+- **\[ REDACTED: Harm to Ongoing Matter \]**
+  - **\[ REDACTED: Harm to Ongoing Matter \]**
+  - **\[ REDACTED: Harm to Ongoing Matter \]**
+  - **\[ REDACTED: Harm to Ongoing Matter \]**
+
+**\[ REDACTED: Harm to Ongoing Matter \]** 4
+IRA Facebook groups active during the 2016 campaign
 covered a range of political issues and included purported conservative groups
 (with names such as "Being patriotic ," "Stop All immigrants," "secured borders," and
 "Tea Party News"), purported Black social justice groups ("Black matters ," "Blacktivist, " and
@@ -637,7 +825,8 @@ operational account "Matt Skiber" began to privately message dozens of pro-Trump
 groups asking them to help plan a "pro-Trump rally near Trump Tower." 55
 
 To reach larger U.S. audiences, the IRA purchased advertisements from Facebook that
-promoted the IRA groups on the newsfeeds of U.S. audience members. according to Facebook, the IRA purchased over 3,500 advertisements, and the expenditures totaled approximately
+promoted the IRA groups on the newsfeeds of U.S. audience members.
+According to Facebook, the IRA purchased over 3,500 advertisements, and the expenditures totaled approximately
 $100,000. 56
 
 During the U.S. presidential campaign, many IRA-purchased advertisements explicitly
@@ -647,7 +836,7 @@ opposed the Clinton campaign. For example, on March 18, 2016, the IRA purchased 
 advertisement depicting candidate Clinton and a caption that read in part, " If one day God lets
 this liar enter the White House as a president - that day would be a real national tragedy." 57
 
-similarly, on April 6, 2016, the IRA purchased advertisements for its account "Black matters"
+Similarly, on April 6, 2016, the IRA purchased advertisements for its account "Black matters"
 calling for a "flashmob" of U.S. persons to "take a photo with #HillaryClintonForPrison2016 or #noHillary2016."
 58 IRA-purchased advertisements featuring Clinton were, with very few
 exceptions, negative. 59
@@ -655,12 +844,12 @@ exceptions, negative. 59
 IRA-purchased advertisements referencing candidate Trump largely supported his
 campaign. The first known IRA advertisement explicitly endorsing the Trump campaign was
 purchased on April 19, 2016. The IRA bought an advertisement for its Instagram account "Tea
-Party News" asking U.S. persons to help them "make a patriotic team of young Trump supporters "
+Party News" asking U.S. persons to help them "make a patriotic team of young Trump supporters"
 by uploading photos with the hashtag "#KIDS4TRUMP." 60 In subsequent months, the IRA
 purchased dozens of advertisements supporting the Trump campaign, predominantly through the
-Facebook groups "Being patriotic ," "Stop All invaders ," and "secured borders."
+Facebook groups "Being patriotic," "Stop All invaders," and "secured borders."
 
-[^55]: 5/31/16 Facebook message, ID 100009922908461 (Matt Skiber) to ID
+[^55]: 5/31/16 Facebook message, ID 100009922908461 (Matt Skiber) to ID **\[ REDACTED: Personal Privacy \]**
 [^56]: Social Media influence in the 2016 US. election, hearing Before the Senate Select committee on intelligence, 115th Cong. 13 (11/1/17) (testimony of Colin stretch, general counsel of Facebook).
 [^57]: 3/18/16 Facebook advertisement ID 6045505152575.
 [^58]: 4/6/16 Facebook advertisement ID 6043740225319.
@@ -671,9 +860,7 @@ Collectively, the IRA's social media accounts reached tens of millions of U.S. p
 America" Facebook group had over 300,000 followers, the "Don't Shoot Us" Facebook group had
 over 250,000 followers, the "Being patriotic" Facebook group had over 200,000 followers, and
 the "secured borders" Facebook group had over 130,000 followers.61 according to Facebook, in
-total the IRA-controlled accounts made over 80,000 posts before their deactivation in August 2017, and these posts reached at least 29 million U.S persons and "may have reached an estimated 126
-
-million people." 62
+total the IRA-controlled accounts made over 80,000 posts before their deactivation in August 2017, and these posts reached at least 29 million U.S persons and "may have reached an estimated 126 million people." 62
 
 #### 4. U.S. operations through Twitter
 
@@ -688,10 +875,10 @@ on Twitter.
 
 ##### a. individualized accounts
 
+**\[ REDACTED: Harm to Ongoing Matter \]** 65
 **\[ REDACTED: Harm to Ongoing Matter \]**
 
-[^61]: See Facebook ID 1479936895656747 (United Muslims of America); Facebook ID 1157233400960126 (Don't Shoot); Facebook ID 1601685693432389 (Being Patriotic); Facebook ID 757183957716200 (Secured Borders).
-**\[ REDACTED: Harm to Ongoing Matter \]**
+[^61]: See Facebook ID 1479936895656747 (United Muslims of America); Facebook ID 1157233400960126 (Don't Shoot); Facebook ID 1601685693432389 (Being Patriotic); Facebook ID 757183957716200 (Secured Borders). **\[ REDACTED: Harm to Ongoing Matter \]**
 **\[ REDACTED: Harm to Ongoing Matter \]**
 **\[ REDACTED: Harm to Ongoing Matter \]**
 [^62]: Social Media influence in the 2016 US election, hearing Before the Senate Select committee on intelligence, 115th Cong. 13 (11/1/17) (testimony of Colin stretch, general counsel of Facebook).
@@ -699,17 +886,22 @@ on Twitter.
 [^64]: **\[ REDACTED: Harm to Ongoing Matter \]**
 [^65]: **\[ REDACTED: Harm to Ongoing Matter \]**
 
+**\[ REDACTED: Harm to Ongoing Matter \]**
 The IRA operated individualized Twitter accounts similar to the operation of its Facebook
 accounts, by continuously posting original content to the accounts while also communicating with
 U.S. Twitter users directly (through public tweeting or Twitter's private messaging).
+
 The IRA used many of these accounts to attempt to influence U.S. audiences on the
 election. individualized accounts used to influence the U.S. presidential election included
 `@TEN_GOP` (described above) ; `@jenn_abrams` (claiming to be a Virginian Trump supporter with
 70,000 followers); `@Pamela_Moore13` (claiming to be a Texan Trump supporter with 70,000
-
-followers); and `@America__1st_` (an anti-immigration persona with 24,000 followers) .67 In May
+followers); and `@America__1st_` (an anti-immigration persona with 24,000 followers). 67 In May
 2016, the IRA created the Twitter account `@march_for_trump`, which promoted IRA-organized
-rallies in support of the Trump campaign (described below) .68
+rallies in support of the Trump campaign (described below). 68
+
+**\[ REDACTED: Harm to Ongoing Matter \]**
+
+**\[ REDACTED: Harm to Ongoing Matter \]**
 
 Using these accounts and others, the IRA provoked reactions from users and the media. multiple
 IRA-posted tweets gained popularity. 70 U.S. media outlets also quoted tweets from IRA-controlled
