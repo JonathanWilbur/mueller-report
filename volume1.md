@@ -2275,7 +2275,7 @@ a one-time employee of the IRA, the entity that carried out
 the Russian social media campaign (see Volume I section II, supra).
 In January and February 2016, Mifsud and **\[ REDACTED: Investigative Technique \]**
 discussed **\[ REDACTED: Investigative Technique \]** possibly meeting in Russia.
-The investigation did not~ meeting. Later, in the spring of 2016,
+The investigation did not identify evidence of them meeting. Later, in the spring of 2016,
 **\[ REDACTED: Investigative Technique \]** was also in contact
 **\[ REDACTED: Investigative Technique \]** that was linked to an employee of the Russian
 ministry of defense, and that account had overlapping contacts with a group of Russian military-
@@ -3062,7 +3062,7 @@ translate. 693
 On June 7, Goldstone emailed Trump Jr. and said that "Emin asked that I schedule a
 meeting with you and \[t\]he Russian government attorney who is flying over from Moscow." 694
 Trump Jr. replied that Manafort (identified as the "campaign boss"), Jared Kushner, and Trump
-Jr. would likely attend. 695 Go~d to learn that Trump Jr., Manafort, and Kushner
+Jr. would likely attend. 695 Goldstone was surprised to learn that Trump Jr., Manafort, and Kushner
 would attend. 696 Kaveladze **\[ REDACTED: Grand Jury \]** "puzzled" by the list of attendees and that he
 checked with one of Emin Agalarov's assistants, Roman Beniaminov, who said that the purpose
 of the meeting was for Veselnitskaya to convey "negative information on Hillary Clinton." 697
@@ -3700,8 +3700,8 @@ explained that, in 2010, he and Yanukovych had lunch to celebrate the recent pre
 Yanukovych gave Manafort a large jar of black caviar that was worth approximately $30,000 to
 $40,000. 915 Manafort's identification ofYanukovych as "the guy who gave you your biggest black
 caviar jar" is consistent with Kilimnik being in Moscow-where Yanukovych resided-when
-Kilimnik wrote "I met today with~ a December 2016 email in which Kilimnik
-referred to Yanukovych as "BG,"- Manafort replied to Kilimnik's July 29
+Kilimnik wrote "I met today with the guy," and with a December 2016 email in which Kilimnik
+referred to Yanukovych as "BG," **\[ REDACTED: Grand Jury \]** Manafort replied to Kilimnik's July 29
 email, "Tuesday \[August 2\] is best... Tues or weds in NYC." 917
 
 Three days later, on July 31, 2016, Kilimnik flew back to Kiev from Moscow, and on that
@@ -5455,1239 +5455,2475 @@ reservation weighted against prosecution. See Justice Manual 9-27.220 9-27.230.
 
 **\[ REDACTED: Personal Privacy \]**
 
+
 [^1]: FBI personnel assigned to the special counsel's Office were required to adhere to all applicable federal law and all department and FBI regulations, guidelines, and policies. An FBI attorney worked on FBI-related matters for the Office, such as FBI compliance with all FBI policies and procedures, including the FBI's domestic investigations and operations Guide (DIOG). That FBI attorney worked under FBI legal supervision, not the special counsel's supervision.
+
 [^2]: The Office is aware of reports that other Russian entities engaged in similar active measures operations targeting the United States. Some evidence collected by the Office corroborates those rep01ts, and the Office has shared that evidence with other offices in the department of justice and FBI.
+
 [^3]: **\[ REDACTED: Harm to Ongoing Matter \]** see also SM-2230634, serial 44 (analysis). The FBI case number cited here, and other FBI case numbers identified in the report, should be treated as law enforcement sensitive given the context. The report contains additional law enforcement sensitive information.
+
 [^4]: As discussed in Part V below, the active measures investigation has resulted in criminal charges against 13 individual Russian nationals and three Russian entities, principally for conspiracy to defraud the United States, in violation of 18 U.S.C. § 371. See Volume I, section V.A, infra; indictment, United States v. Internet research Agency, et al., 1:18-cr-32 (D.D.C. Feb. 16, 2018), Doc. I ("Internet research Agency indictment").
+
 [^5]: Internet research Agency Indictment ¶¶ 52, 54, 55(a), 56, 74; **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^6]: Social Media influence in the 2016 US. election, hearing Before the Senate Select committee on intelligence, 115th Cong. 13 (11/1/17) (testimony of Colin stretch, general counsel ofFacebook) ("We estimate that roughly 29 million people were served content in their News Feeds directly from the IRA's 80,000 posts over the two years. Posts from these Pages were also shared, liked, and followed by people on Facebook, and, as a result, three times more people may have been exposed to a story that originated from the Russian operation. Our best estimate is that approximately 126 million people may have been served content from a Page associated with the IRA at some point during the two-year period."). The Facebook representative also testified that Facebook had identified 170 Instagram accounts that posted approximately 120,000 pieces of content during that time. Facebook did not offer an estimate of the audience reached via Instagram.
+
 [^7]: Twitter, Update on Twitter's Review of the 2016 US election (Jan. 31, 2018).
+
 [^8]: See SM-2230634, serial 92.
+
 [^9]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^10]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^11]: See SM-2230634, serial 86 **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^12]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^13]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^14]: See, e.g., SM-2230634, serials 9, 113 & 180 **\[ REDACTED: Harm to Ongoing Matter \]**.
+
 [^15]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^16]: **\[ REDACTED: Harm to Ongoing Matter \]** See SM-2230634, serials 131 & 204.
+
 [^17]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^18]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^19]: U.S. treasury Department, "treasury sanctions individuals and entities in connection with Russia's occupation of Crimea and the conflict in Ukraine" (Dec. 20, 2016).
+
 [^20]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^21]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^22]: See, e.g., Neil MacFarquhar, Yevgeny Prigozhin, Russian oligarch indicted by US., is Known as "Putin's Cook", New York Times (Feb. 16, 2018).
+
 [^23]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^24]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^25]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^26]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^27]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^28]: The term "troll" refers to Internet users--in this context, paid operatives--who post inflammatory or otherwise disruptive content on social media or other websites.
+
 [^29]: **\[ REDACTED: Investigative Technique \]** See SM-2230634, serials 131 & 204.
+
 [^30]: See SM-2230634, serial 156.
+
 [^31]: Internet research Agency indictment ¶ 12 b; see also 5/26/16 Facebook messages, ID 1479936895656747 (United Muslims of America) & **\[ REDACTED: Personal Privacy \]**
+
 [^32]: **\[ REDACTED: Harm to Ongoing Matter \]** see also SM-2230634, serial 189. **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^33]: **\[ REDACTED: Harm to Ongoing Matter \]** See SM-2230634, serial 205.
+
 [^34]: See SM-2230634, serial 204 **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^35]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^35]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^37]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^38]: See SM-2230634, serials 150 & 172 **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^39]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^40]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^41]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^42]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^43]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^44]: See, e.g., SM-2230634, serial 179 **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^45]: See, e.g., Facebook ID 100011390466802 (Alex Anderson); Facebook ID 100009626173204 (Andrea Hansen); Facebook ID 100009728618427 (Gary Williams); Facebook ID 100013640043337 (Lakisha Richardson).
+
 [^46]: The account claimed to be the "unofficial Twitter of Tennessee republicans" and made posts that appeared to be endorsements of the state political party. See, e.g., @TEN_GOP, 4/3/16 Tweet ("Tennessee GOP backs @realDonaldTrump period #makeAmericaGreatAgain `#tngop` `#tennessee` `#gop`").
+
 [^47]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^48]: See, e.g., SM-2230634 serial 131
+
 [^49]: The IRA posted content about the Clinton candidacy before Clinton officially announced her presidential campaign. IRA-controlled social media accounts criticized Clinton's record as Secretary of State and promoted various critiques of her candidacy. The IRA also used other techniques. **\[ REDACTED: Harm to Ongoing Matter \]** See SM-2230634, serial 70.
+
 [^50]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^51]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^52]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^53]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^54]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^55]: 5/31/16 Facebook message, ID 100009922908461 (Matt Skiber) to ID **\[ REDACTED: Personal Privacy \]**
+
 [^56]: Social Media influence in the 2016 US. election, hearing Before the Senate Select committee on intelligence, 115th Cong. 13 (11/1/17) (testimony of Colin stretch, general counsel of Facebook).
+
 [^57]: 3/18/16 Facebook advertisement ID 6045505152575.
+
 [^58]: 4/6/16 Facebook advertisement ID 6043740225319.
+
 [^59]: See SM-2230634, serial 213 (documenting politically-oriented advertisements from the larger set provided by Facebook).
+
 [^60]: 4/19/16 Facebook advertisement ID 6045151094235.
+
 [^61]: See Facebook ID 1479936895656747 (United Muslims of America); Facebook ID 1157233400960126 (Don't Shoot); Facebook ID 1601685693432389 (Being Patriotic); Facebook ID 757183957716200 (Secured Borders). **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^62]: Social Media influence in the 2016 US election, hearing Before the Senate Select committee on intelligence, 115th Cong. 13 (11/1/17) (testimony of Colin stretch, general counsel of Facebook).
+
 [^63]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^64]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^65]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^66]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^67]: Other individualized accounts included `@MissouriNewsUS` (an account with 3,800 followers that posted pro-Sanders and anti-Clinton material).
+
 [^68]: See `@march_for_trump`, 5/30/16 Tweet (first post from account).
+
 [^69]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^70]: For example, one IRA account tweeted, "To those people, who hate the confederate flag. Did you know that the flag and the war wasn't about slavery, it was all about money." The tweet received over 40,000 responses. `@Jenn_Abrams` 4/24/17 (2:37 p.m.) Tweet.
+
 [^71]: Josephine Lukito & Chris Wells, Most Major outlets Have Used Russian Tweets as sources for partisan opinion: Study, Columbia journalism Review (Mar. 8, 2018); see also Twitter Steps Up to explain #NewYorkValues to Ted Cruz, Washington Post (Jan. 15, 2016) (citing IRA tweet); People Are slamming the CIA/or claiming Russia Tried to Help Donald Trump, U.S. News & World Report (Dec. 12, 2016).
+
 [^72]: `@Mcfaul` 4/30/16 Tweet (responding to tweet by `@Jenn_Abrams`).
+
 [^73]: `@RogerJStoneJr` 5/30/16 Tweet (retweeting `@Pamela_Moore13`) ; `@RogerJStoneJr` 4/26/16 Tweet (same).
+
 [^74]: `@seanhannity` 6/21/17 Tweet (retweeting `@Pamela_Moore13`).
+
 [^75]: `@mflynnJR` 6/22/17 Tweet ("RT `@Jenn_Abrams`: This is what happens when you add the voice over of an old documentary about mental illness onto video of SJWs... ").
+
 [^76]: A botnet refers to a network of private computers or accounts controlled as a group to send specific automated messages. On the Twitter network, botnets can be used to promote and republish ("retweet") specific tweets or hashtags in order for them to gain larger audiences.
+
 [^77]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^78]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^79]: Eli Rosenberg, Twitter to Tell 677,000 Users they Were Had by the Russians. Some Signs Show the problem continues, Washington Post (Jan. 19, 2019).
+
 [^80]: Twitter, "Update on Twitter's Review of the 2016 US election" (updated Jan. 31, 2018). Twitter also reported identifying 50,258 automated accounts connected to the Russian government, which tweeted more than a million times in the ten weeks before the election....
+
 [^81]: Twitter, "Update on Twitter's Review of the 2016 US election" (updated Jan. 31, 2018).
+
 [^82]: 8/20/16 Facebook message, ID 100009922908461 (Matt Skiber) to ID
-[^83]: See, e.g., 7/21/16~gmail.com to ; 7/21/16 Email, joshmilton024@gmail.com to-
+
+[^83]: See, e.g., 7/21/16 joshmilton024@gmail.com to **\[ REDACTED: Personal Privacy \]**; 7/21/16 Email, joshmilton024@gmail.com to **\[ REDACTED: Personal Privacy \]**
+
 [^84]: @march_for_trump 6/25/16 Tweet (posting photos from rally outside Trump Tower).
+
 [^85]: Instagram ID 2228012168 (Stand For freedom) 11/3/15 Post ("Good evening buds! Well I am planning to organize a confederate rally\[. . .\] in Houston on the 14 of November and I want more people to attend.").
+
 [^86]: The pro-Trump rallies were organized through multiple Facebook, Twitter, and email accounts. See, e.g., Facebook ID 100009922908461 (Matt Skiber); Facebook ID 1601685693432389 (Being patriotic); Twitter account @march_for_trump ; beingpatriotic@gmail.com. (rallies were organized in New York on June 25, 2016; Florida on August 20, 2016; and Pennsylvania on October 2, 2016.)
+
 [^87]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^88]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^89]: 3/11/16 Facebook advertisement ID 6045078289928, 5/6/16 Facebook advertisement ID 6051652423528, 10/26/16 Facebook advertisement ID 6055238604687; 10/27/16 Facebook message, ID **\[ REDACTED: Harm to Ongoing Matter \]** & ID 100011698576461 (Taylor Brooks).
+
 [^90]: 8/19/16 Facebook message, ID 10000992 2908461 (Matt Skiber) to ID **\[ REDACTED: Personal Privacy \]**
+
 [^91]: 12/8/16 Email, `robot@craigslist.org` to `beingpatriotic@gmail.com` (confirming Craigslist advertisement).
+
 [^92]: 8/18-19/16 Twitter DMs, `@march_for_trump` & **\[ REDACTED: Personal Privacy \]**
+
 [^93]: See e.g. 11/11-27/16 Facebook Messages, ID 100011698576461 (Taylor Brooks) & ID **\[ REDACTED: Personal Privacy \]** (arranging to pay for plane tickets and for a bull horn).
+
 [^94]: See e.g. 9/10/16 Facebook message, ID 100009922908461 (Matt Skiber) & ID **\[ REDACTED: Personal Privacy \]** (discussing payment for rally supplies); 8/18/16 Twitter DM, @march_to_trump to **\[ REDACTED: Personal Privacy \]** (discussing payment for construction materials).
+
 [^96]: See, e.g, @DonaldJTrumpJr 10/26/16 Tweet ("RT @TEN_GOP: breaking thousands of names changed on voter rolls in Indiana. Police investigating `#Voterfraud`. `#DrainTheSwamp`."); @DonaldJTrumpJr 11/2/16 Tweet ("RT @TEN_GOP: breaking: #VoterFraud by counting tens of thousands of ineligible mail in Hillary votes being reported in Broward County, Florida."); @DonaldJTrumpJr 11/8/16 Tweet ("RT @TEN_GOP: This vet passed away last month before he could vote for Trump. Here he is in his #MAGA hat. #voted #ElectionDay."). Trump Jr. retweeted additional @TEN_GOP content subsequent to the election.
+
 [^97]: @EricTrump 10/20/16 Tweet ("RT @TEN_GOP: breaking Hillary shuts down press conference when asked about DNC operatives corruption & #VoterFraud #debatenight #TrumpB").
+
 [^98]: @KellyannePolls 11/6/16 Tweet ("RT @TEN_GOP: Mother of jailed sailor:'Hold Hillary to same standards as my son on classified info'#Hillarysemail #WeinerGate.").
+
 [^99]: @parscale 10/15/16 Tweet ("thousands of deplorables chanting to the media:'Tell The Truth!'RT if you are also done w/ biased Media! #Friday feeling").
+
 [^100]: @GenFlynn 11/7/16 (retweeting @TEN_GOP post that included in part "@realDonaldTrump & @mike_pence will be our next POTUS & VPOTUS.").
+
 [^101]: @TEN_GOP 10/11/16 Tweet ("North Carolina finds 2,214 voters over the age of 110!!").
+
 [^102]: @TEN_GOP 11/6/16 Tweet ("Mother of jailed sailor:'Hold Hillary to same standards as my son on classified info #Hillaryemail #WeinerGate.'").
+
 [^103]: @DonaldJTrumpJr 11/7/16 Tweet ("RT @Pamela_Moore 13: Detroit residents speak out against the failed policies of Obama, Hillary & democrats....").
+
 [^104]: @realDonaldTrump 9/19/17 (7 :33 p.m.) Tweet ("thankyou for your support Miami! My team just shared photos from your TRUMP SIGN WA YING DAY, yesterday! I love you-and there is no question - together, WE WILL MAKE AMERICA GREAT AGAIN!").
+
 [^105]: 8/23/16 Facebook message, ID 100009922908461 (Matt Skiber) to ID **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^106]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^107]: See, e.g., 8/16/16 Email, joshmilton024@gmail.com to **\[ REDACTED: Personal Privacy \]**@donaldtrump.com (asking for Trump/Pence signs for Florida rally); 8/18/16 Email, joshmilton024@gmail.com to **\[ REDACTED: Personal Privacy \]**@donaldtrump.com (asking for Trump/Pence signs for Florida rally); 8/12/16 Email, joshmilton024@gmail.com to **\[ REDACTED: Personal Privacy \]**@donaldtrump.com (asking for "contact phone numbers for Trump campaign affiliates" in various Florida cities and signs).
+
 [^108]: 8/15/16 Email, **\[ REDACTED: Personal Privacy \]** to joshmilton024@gmail.com (asking to add to locations to the "Florida Goes Trump," list); 8/16/16 Email, to joshmilton024@gmail.com (volunteering to send an email blast to followers).
+
 [^109]: As discussed in section V below, our Office charged 12 GRU officers for crimes arising from the hacking of these computers, principally with conspiring to commit computer intrusions, in violation of 18 U.S.C. §§ 1030 and 371. See Volume I, section V.B, infra; indictment, United States v. Netyksho, No. I :18-cr-215 (D.D.C. July 13, 2018), Doc. 1 ("Netyksho indictment").
+
 [^110]: Netyksho indictment, ¶ 1.
+
 [^111]: separate from this Office's indictment of GRU officers, in October 2018 a grand jury sitting in the western district of Pennsylvania returned an indictment charging certain members of Unit 26165 with hacking the U.S. Anti-Doping Agency, the World Anti-Doping Agency, and other international sport associations. United States v. Aleksei Sergeyevich Morenets, No. 18-263 (W.D. Pa.).
+
 [^112]: A spearphishing email is designed to appear as though it originates from a trusted source, and solicits information to enable the sender to gain access to an account or network, or causes the recipient to download malware that enables the sender to gain access to an account or network. Netyksho indictment ¶ 10.
+
 [^113]: Bitcoin mining consists of unlocking new bitcoins by solving computational problems. **\[ REDACTED: Investigative Technique \]** kept its newly mined coins in an account on the bitcoin exchange platform CEX.io. To make purchases, the GRU routed funds into other accounts through transactions designed to obscure the source of funds. Netyksho indictment ¶ 62.
+
 [^114]: Netyksho indictment ¶ 69.
+
 [^115]: Netyksho indictment ¶ 9.
+
 [^116]: See SM-2589105, serials 144 & 495.
+
 [^117]: **\[ REDACTED: Investigative Technique \]**
+
 [^118]: **\[ REDACTED: Investigative Technique \]**
+
 [^119]: **\[ REDACTED: Investigative Technique \]**
+
 [^120]: A VPN extends a private network, allowing users to send and receive data across public networks (such as the Internet) as if the connecting computer was directly connected to the private network. The VPN in this case had been created to give a small number of DCCC employees access to certain databases housed on the DNC network. Therefore, while the DCCC employees were outside the DNC's private network, they could access parts of the DNC network from their DCCC computers.
+
 [^121]: **\[ REDACTED: Investigative Technique \]**
+
 [^122]: **\[ REDACTED: Investigative Technique \]**
+
 [^123]: "malware" is short for malicious software, and here refers to software designed to allow a third party to infiltrate a computer without the consent or knowledge of the computer's user or operator.
+
 [^124]: **\[ REDACTED: Investigative Technique \]**
+
 [^125]: **\[ REDACTED: Investigative Technique \]**
+
 [^126]: In connection with these intrusions, the GRU used computers (virtual private networks, dedicated servers operated by hosting companies, etc.) that it leased from third-party providers located all over the world. The investigation identified rental agreements and payments for computers located in, inter alia, **\[ REDACTED: Investigative Technique \]** all of which were used in the operations targeting the U.S. election.
+
 [^127]: Netyksho indictment ¶ 25.
+
 [^128]: Netyksho indictment ¶ 4(c).
+
 [^129]: Netyksho indictment ¶ 4(b).
+
 [^130]: Netyksho indictment ¶¶ 27-29 ; **\[ REDACTED: Investigative Technique \]**
+
 [^131]: **\[ REDACTED: Investigative Technique \]**
+
 [^132]: **\[ REDACTED: Investigative Technique \]**
+
 [^133]: **\[ REDACTED: Investigative Technique \]**
+
 [^134]: **\[ REDACTED: Investigative Technique \]** SM-2589105-HACK, serial 5. **\[ REDACTED: Investigative Technique \]**
+
 [^135]: **\[ REDACTED: Investigative Technique \]** See SM-2589105-GJ, serial 649. As part of its investigation, the FBI later received images ofDNC servers and copies of relevant traffic logs. Netyksho indictment ¶ 28-29.
+
 [^136]: Netyksho indictment ¶ 29. The last-in-time DNC email released by WikiLeaks was dated May 25, 2016, the same period of time during which the GRU gained access to the DNC's email server. Netyksho indictment ¶ 45.
+
 [^137]: Netyksho indictment ¶ 5. Approximately a week before the registration of dcleaks.com, the same actors attempted to register the website electionleaks.com using the same domain registration service. **\[ REDACTED: Investigative Technique \]**
+
 [^138]: See SM-2589105, serial 181; Netyksho indictment ¶ 2l(a).
+
 [^139]: **\[ REDACTED: Investigative Technique \]**
+
 [^140]: See, e.g., Internet archive, "https://dcleaks.com/" (archive date Nov. 10, 2016). Additionally, DCLeaks released documents relating to **\[ REDACTED: Personal Privacy \]**, emails belonging to **\[ REDACTED: Personal Privacy \]**, and emails from 2015 relating to Republican Party employees (under the portfolio name "The United States republican Party"). "The United States republican Party" portfolio contained approximately 300 emails from a variety of GOP members, PACs, campaigns, state parties, and businesses dated between May and October 2015. According to open-source reporting, these victims shared the same Tennessee-based web-hosting company, called Smartech corporation. William Bastone, RNC E-Mail Was, In Fact, Hacked By Russians, The smoking Gun (Dec. 13, 2016).
+
 [^141]: Netyksho indictment ¶ 38.
+
 [^142]: See, e.g., Facebook account 100008825623541 (Alice Donovan).
+
 [^143]: 7/14/16 Facebook message, ID 793058100795341 (DC Leaks) to ID **\[ REDACTED: Personal Privacy \]**
+
 [^144]: See, e.g., 9/14/16 Twitter DM, `@dcleaks_` to **\[ REDACTED: Personal Privacy \]**; 9/14/16 Twitter DM, `@dcleaks_` to **\[ REDACTED: Personal Privacy \]**. The messages read: `Hi https://t.co/QTvKUjQcOx pass: KvFsg%\*14@gPgu&amp; enjoy;).`
+
 [^145]: Dmitri Alperovitch, Bears in the Midst: intrusion into the democratic national committee, CrowdStrike Blog (June 14, 2016). CrowdStrike updated its post after the June 15, 2016 post by Guccifer 2.0 claiming responsibility for the intrusion.
+
 [^146]: Netyksho indictment ¶ 41-42.
+
 [^147]: releases of documents on the Guccifer 2.0 blog occurred on June 15, 2016; June 20, 2016; June 21, 2016; July 6, 2016; July 14, 2016; August 12, 2016; August 15, 2016; August 21, 2016; August 31, 2016; September 15, 2016; September 23, 2016; October 4, 2016; and October 18, 2016.
+
 [^148]: 6/27/16 Email, guccifer20@aol.fr to **\[ REDACTED: Personal Privacy \]** (subject "leaked emails"); **\[ REDACTED: Investigative Technique \]**
+
 [^149]: 6/27/16 Email, guccifer20 @aol.fr to **\[ REDACTED: Personal Privacy \]** (subject "leaked emails"); **\[ REDACTED: Investigative Technique \]**; see also 6127/16 guccifer20@aol.fr to **\[ REDACTED: Personal Privacy \]** (subject "leaked emails"); **\[ REDACTED: Investigative Technique \]** (claiming DCLeaks was a "Wikileaks sub project").
+
 [^150]: Before sending the reporter the link and password to the closed DCLeaks website, and in an apparent effort to deflect attention from the fact that DCLeaks and Guccifer 2.0 were operated by the same organization, the Guccifer 2.0 persona sent the reporter an email stating that DCLeaks was a "Wikileaks subproject" and that Guccifer 2.0 had asked DCLeaks to release the leaked emails with "closed access" to give reporters a preview of them.
+
 [^151]: Netyksho indictment ¶ 3(a).
+
 [^152]: Netyksho indictment ¶ 3(b).
+
 [^153]: Netyksho indictment ¶ 3(c).
+
 [^154]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^155]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^156]: 11/19/15 Twitter Group Chat, Group ID 594242937858486276, @WikiLeaks et al. Assange also wrote that, `GOP will generate a lot oposition \[sic\], including through dumb moves. Hillary will do the same thing, but co-opt the liberal opposition and the GOP opposition. Hence biliary has greater freedom to start wars than the GOP and has the will to do so.` Id.
+
 [^157]: WikiLeaks, "Hillary Clinton Email archive," available at https://wikileaks.org/clinton-emails/.
+
 [^158]: 3/14/16 Twitter DM, `@WikiLeaks` to Less than two weeks earlier, the same account had been used to send a private message opposing the idea of Clinton `in whitehouse with her bloodlust and amitions \[sic\] of empire with hawkish liberal-interventionist appointees.` 11/19/15 Twitter Group Chat, Group ID 594242937858486276, @WikiLeaks et al.
+
 [^159]: 6/14/16 Twitter DM, `@dcleaks_` to @WikiLeaks.
+
 [^160]: Netyksho indictment ¶ 7(a).
+
 [^161]: 7/6/16 Twitter DMs, @WikiLeaks & @guccifer_2.
-[^163]: This was not the GRU's first attempt at transferring data to WikiLeaks. On June 29, 2016, the GRU used a Guccifer 2.0 email accounted file to a WikiLeak s email account. 6/29/16 Email, guccifer2@mail.com ~ (The email appears to have been undelivered.)
+
+[^163]: This was not the GRU's first attempt at transferring data to WikiLeaks. On June 29, 2016, the GRU used a Guccifer 2.0 email accounted file to a WikiLeak s email account. 6/29/16 Email, guccifer2@mail.com to **\[ REDACTED: Investigation Techniques \]** (The email appears to have been undelivered.)
+
 [^164]: See SM-2589105-DCLEAKS, serial 28 (analysis).
+
 [^165]: 6/27/16 Twitter DM, `@Guccifer_2` to `@WikiLeaks`.
+
 [^166]: 7/18/16 Twitter OM, `@Guccifer_2` & `@WikiLeaks`.
+
 [^167]: "DNC Email archive," WikiLeaks (Jul. 22, 2016), available at https://wikileaks.org/dnc-emails.
+
 [^168]: 9/15/16 Twitter DM, `@dcleaks_` to `@WikiLeaks`.
+
 [^169]: 9/15/16 Twitter DM, `@guccifer_2` to `@dcleaks_`.
+
 [^170]: See SM-2589105-DCLEAKS, serial 28; 9/15/16 Twitter DM, @Guccifer_2 & @WikiLeaks.
+
 [^171]: See SM-2284941, serials 63 & 64 **\[ REDACTED: Investigative Technique \]**
+
 [^172]: **\[ REDACTED: Investigative Technique \]** At the time, certain Apple operating systems used a setting that left a downloaded file's creation date the same as the creation date shown on the host computer. This would explain why the creation date on WikiLeaks's version of the files was still September 19, 2016. See SM-2284941, serial 62 **\[ REDACTED: Investigative Technique \]**
+
 [^173]: When WikiLeaks saved attachments separately from the stolen emails, its computer system appears to have treated each attachment as a new file and given it a new creation date. See SM-2284941, serials 63 & 64.
+
 [^174]: See 9/22/16 Email, dcleaksproject@gmail.com
+
 [^175]: Ellen Nakashima et al., A German Hacker Offers a Rare Look Inside the secretive World of Julian Assange and WikiLeaks, Washington Post (Jan. 17, 2018).
+
 [^176]: **\[ REDACTED: Investigative Technique \]**
+
 [^177]: **\[ REDACTED: Personal Privacy \]**
+
 [^178]: **\[ REDACTED: Personal Privacy \]**
+
 [^179]: Netyksho indictment ¶ 43.
+
 [^180]: @WikiLeaks 8/9/16 Tweet.
+
 [^181]: See Assange: "Murdered DNC Staffer Was 'Potential' WikiLeaks Source," Fox News (Aug. 25, 2016)(containing video of Assange interview by Megyn Kelly).
+
 [^182]: M. Raju & Z. Cohen, A GOP congressman's Lonely Quest defending Julian Assange, CNN (May 23, 2018).
+
 [^183]: "Donald Trump on Russian & missing Hillary Clinton Emails ," YouTube channel C-SPAN, Posted 7/27/16, available at https://www.youtube.com/watch?v=3kxG8uJUsWU (starting at 0:41).
+
 [^184]: **\[ REDACTED: Investigative Technique \]**
+
 [^185]: Netyksho indictment ¶ 34; see also SM-2589105-HACK, serial 29 **\[ REDACTED: Investigative Technique \]**
+
 [^186]: Netyksho indictment ¶ 69.
+
 [^187]: **\[ REDACTED: Investigative Technique \]**
+
 [^188]: **\[ REDACTED: Investigative Technique \]**
+
 [^189]: **\[ REDACTED: Investigative Technique \]**
+
 [^190]: **\[ REDACTED: Investigative Technique \]**
+
 [^191]: Netyksho indictment ¶ 76; **\[ REDACTED: Investigative Technique \]**
+
 [^192]: **\[ REDACTED: Investigative Technique \]**
+
 [^191]: Netyksho indictment ¶ 76; **\[ REDACTED: Investigative Technique \]**
+
 [^192]: **\[ REDACTED: Investigative Technique \]**
+
 [^193]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^194]: See Mahita Gajanan, Julian Assange Timed DNC Email release for democratic convention, Time (July 27, 2016) (quoting the June 12, 2016 television interview).
+
 [^195]: In February 2018, Gates pleaded guilty, pursuant to a plea agreement, to a superseding criminal information charging him with conspiring to defraud and commit multiple offenses (i.e., tax fraud, failure to report foreign bank accounts, and acting as an unregistered agent of a foreign principal) against the United States, as well as making false statements to our Office. Superseding criminal information, United States v. Richard W Gates III, 1:17-cr-201 (D.D.C. Feb. 23, 2018), Doc. 195 ("Gates superseding criminal information"); Plea agreement, United States v. Richard W Gates III, 1: 17-cr-201 (D.D.C. Feb. 23, 2018), Doc. 205 ("Gates Plea agreement"). Gates has provided information and in-court testimony that the Office has deemed to be reliable.
+
 [^196]: Gates I 0/25/18 302, at 1-2.
+
 [^197]: As explained further in Volume I, section IV.A.8, infra, Manafort entered into a plea agreement with our Office. We determined that he breached the agreement by being untruthful in proffer sessions and before the grand jury. We have generally recounted his version of events in this report only when his statements are sufficiently corroborated to be trustworthy; to identify issues on which Manafort's untruthful responses may themselves be of evidentiary value; or to provide Manafort's explanations for certain events, even when we were unable to determine whether that explanation was credible. His account appears here principally because it aligns with those of other witnesses.
+
 [^198]: **\[ REDACTED: Grand Jury \]**
+
 [^199]: In November 2018, Cohen pleaded guilty pursuant to a plea agreement to a single-count information charging him with making false statements to congress, in violation of 18 U.S.C. § l00l(a) & (c). He had previously pleaded guilty to several other criminal charges brought by the U.S. attorney's Office in the southern district of New York, after a referral from this Office. In the months leading up to his false-statements guilty plea, Cohen met with our Office on multiple occasions for interviews and provided information that the Office has generally assessed to be reliable and that is included in this report.
+
 [^202]: Cohen 9/18/18 302, at I 0. **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^203]: Gates 10/25/18 302 (serial 241), at 4.
+
 [^204]: **\[ REDACTED: Grand Jury \]**
+
 [^205]: **\[ REDACTED: Grand Jury \]**
+
 [^206]: **\[ REDACTED: Grand Jury \]**
+
 [^207]: Gates 4/10/18 302, at 3; Gates 4/11/18 302, at 1-2 (SM-2180998); Gates 10/25/18 302, at 2.
+
 [^208]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^209]: Gates 10/25/18 302 (serial 241), at 4.
+
 [^210]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^211]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^212]: Corsi first rose to public prominence in August 2004 when he published his book Unfit for command: Swift Boat veterans speak out against John Kerry. In the 2008 election cycle, Corsi gained prominence for being a leading proponent of the allegation that Barack Obama was not born in the United States. Corsi told the Office that Donald Trump expressed interest in his writings, and that he spoke with Trump on the phone on at least six occasions. Corsi 9/6/18 302, at 3.
+
 [^213]: Corsi 10/31/18 302, at 2; **\[ REDACTED: Harm to Ongoing Matter \]** Corsi was first interviewed on September 6, 2018 at the special counsel's offices in Washington, D.C. He was accompanied by counsel throughout the interview. Corsi was subsequently interviewed on September 17, 2018; September 21, 2018; October 31, 2018; November I, 2018; and November 2, 2018. Counsel was present for all interviews, and the interviews beginning on September 21, 2018 were conducted pursuant to a proffer agreement that precluded affirmative use of his statements against him in limited circumstances.
+
 [^214]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^215]: Corsi 10/31/18 302, at 4.
+
 [^216]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^217]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^218]: **\[ REDACTED: Grand Jury \]** Malloch denied ever communicating with Assange or Wikileaks, stating that he did not pursue the request to contact Assange because he believed he had no connections to Assange. **\[ REDACTED: Grand Jury \]**
+
 [^219]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^220]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^239]: candidate Trump can be heard off camera making graphic statements about women.
+
 [^240241]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^242]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^243]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^244]: In a later November 2018 interview, Corsi stated **\[ REDACTED: Harm to Ongoing Matter \]** that he believed Malloch was on the call but then focused on other individuals who were on the call-invitation, which Malloch was not. (separate travel records show that at the time of the call, Malloch was aboard a transatlantic flight). Corsi at one point stated that after WikiLeaks's release of stolen emails on October 7, 2016, he concluded Malloch had gotten in contact with Assange. Corsi 11/1/18 302, at 6.
+
 [^245]: During the same interview, Corsi also suggested that he may have sent out public tweet s because he knew Assange was reading his tweets. Our Office was unable to find evidence of any such tweets.
+
 [^246]: _Corsi 9/21/18 302, at 6-7.
+
 [^247]: Corsi 11/1/18 302, at 6.
+
 [^252]: 9/20/16 Twitter DM, @JasonFishbein to @WikiLeaks; see JF0058 7 (9/2 1/16 messages, **\[ REDACTED: Personal Privacy \]**@jabber.cryptoparty.is & **\[ REDACTED: Personal Privacy \]**@jabber.cryptoparty.is); Fishbein 9/5/18 302, at 4. When interviewed by our Office, Fishbein produced what he claimed to be logs from a chatroom in which the participants discussed U.S. politics; one of the other participants had posted the website and password that Fishbein sent to WikiLeaks.
+
 [^253]: 9/20/16 Twitter DM, @WikiLeaks to @DonaldJTrumpJr.
+
 [^254]: TRUMPORG_28_000629-33 (9/21/16 Email, Trump Jr. to Conway et al. (subject "Wikileaks")).
+
 [^255]: 9/21/16 Twitter DM, @DonaldJTrumpJr to @WikiLeaks.
+
 [^256]: 10/3/16 Twitter DMs, @DonaldJTrumpJr & @WikiLeaks.
+
 [^257]: At the time, the link took users to a WikiLeaks archive of stolen Clinton campaign documents.
+
 [^258]: 10/12/16 Twitter DM, @WikiLeaks to @DonaldJTrumpJr.
+
 [^259]: @DonaldJTrumpJr 10/14/16 (6:34 a.m.) Tweet.
+
 [^260]: Caputo 5/2/18 302, at 4; Oknyansky 7/13/18 302, at 1.
+
 [^261]: Oknyansky 7/13/18 302, at 1-2.
+
 [^262]: Oknyansky 7/13/18 302, at 2.
+
 [^263]: Caputo 5/2/18 302, at 4; Oknyansky 7/13/18 302, at 1.
+
 [^264]: Flynn 4/25/18 302, at 5-6; Flynn 5/1/18 302, at 1-3.
+
 [^265]: Flynn 5/1/18 302, at l -3.
+
 [^266]: Flynn 4/25/18 302, at 7; Flynn 5/4/18 302, at 1-2; Flynn 11/29/17 302, at 7-8.
+
 [^267]: Flynn 11/29/17 302, at 7.
+
 [^268]: Szobocsan 3/29/17 302, at 1.
+
 [^269]: 12/3/15 Email, Ledeen to Smith.
+
 [^270]: 12/3/15 Email, Ledeen to Smith (attachment).
+
 [^271]: 12/3/15 Email, Smith to Szobocsan & Safron.
+
 [^272]: Szobocsan 3/29/18 302, at 1.
+
 [^273]: 8/31/16 Email, Smith to Smith.
+
 [^274]: 8/28/16 Email, Smith to Smith.
+
 [^275]: incorporation papers ofKLS research LLC, 7/26/
+
 [^17]: Szobocsan 3/29/18 302, at 2.
+
 [^276]: Szobocsan 3/29/18 302, at 3.
+
 [^277]: financial institution Record of Peter Smith and KLS research LLC, 10/31/17 **\[ REDACTED: Grand Jury \]** 10/11/16 Email, Smith to **\[ REDACTED: Personal Privacy \]**
+
 [^278]: Tait 8/22/17 302, at 3; York 7/12/17 302, at 1-2; York 11/22/17 302, at 1.
+
 [^279]: York 7/13/17 302 (attachment KLS research, LLC, "Clinton Email reconnaissance initiative," Sept. 9, 2016).
+
 [^280]: The same recruitment document listed Jerome Corsi under "independent Groups/organizations/individuals," and described him as an "established author and writer from the right on president Obama and Sec. Clinton."
+
 [^281]: Flynn 11/29/17 302, at 7-8; 10/15/16 Email, Smith to Flynn et al.; 8/28/16 Email, Smith to Smith (bee: Clovis et al.).
+
 [^282]: 9/16/16 Email, Ledeen to Smith.
+
 [^283]: Prince 4/4/18 302, at 4-5.
+
 [^284]: The forensic analysis of Smith's computer devices found that Smith used an older Apple operating system that would have preserved that October 2, 2016 creation date when it was downloaded (no matter what day it was in fact downloaded by Smith). See Volume I, section 111.B.3.c,supra. The Office tested this theory in March 2019 by downloading the two files found on Smith's computer from WikiLeaks's site using the same Apple operating system on Smith's computer ; both files were successfully downloaded and retained the October 2, 2016 creation date. See SM-2284941, serial 62.
+
 [^285]: 10/28/16 Email, Smith to Smith.
+
 [^286]: 8/31/16 Email, Smith to Smith.
+
 [^287]: Safron 3/20/18 302, at 3; Szobocsan 3/29/18 302, at 6.
+
 [^288]: For example, on August 18, 2015, on behalf of the editor-in-chief of the Internet newspaper Vzglyad, Georgi Asatryan emailed campaign press secretary Hope Hicks asking for a phone or in-person candidate interview. 8/18/15 Email, Asatryan to Hicks. One day earlier, the publication's founder (and former Russian parliamentarian) Konstantin Rykov had registered two Russian websites-Trump2016.ru and DonaldTrump2016.ru. No interview took place.
+
 [^289]: See, e.g., interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 151-152: (Sept. 7, 2017) (discussing licensing deals of specific projects).
+
 [^290]: As noted in Volume I, section III.D.l, supra, in November 20 18, Cohen pleaded guilty to making false statements to congress concerning, among other things, the duration of the Trump Tower Moscow project. See information ¶ 7(a), United States v. Michael Cohen, 1:18-cr-850 (S.D.N .Y. Nov. 29, 2018), Doc. 2 ("Cohen information ").
+
 [^291]: See interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 13 (Sept. 7, 2017) ("following the pageant the Trump organization and Mr. Agalarov's company, Crocus Group, began preliminarily discussion \[sic\] potential real estate projects in Moscow."). As has been widely reported, the Miss universe pageant-which Trump co-owned _at the time-was held at the Agalarov-owned Crocus City Hall in Moscow in November 2013. Both groups were involved in organizing the pageant, and Aras Agalarov's son Emin was a musical performer at the event, which Trump attended.
+
 [^292]: Kaveladze 11/16/17 302, at 2, 4-6; **\[ REDACTED: Grand Jury \]** OSC-KAV_00385 (12/6/13 Email, Trump Jr. to Kaveladze & E. Agalarov).
+
 [^293]: **\[ REDACTED: Grand Jury \]**
+
 [^294]: **\[ REDACTED: Grand Jury \]**
+
 [^295]: OSC-KAV_00452 (12/23/13 Email, Trump Jr. to Kaveladze & E. Agalarov).
+
 [^296]: See, e.g., OSC-KAV _011 58 (Letter agreement signed by Trump Jr. & E. Agalarov); OSC-KAV _01147 (1/20/14 Email, Kaveladze to Trump Jr. et al.).
+
 [^297]: See, e.g., OSC-KAV_00972 (10/14/14 Email, McGee to Khoo et al.) (email from Crocus Groupcontractor about specifications); OSC-KA V_00540 (1/24/14 Email, McGee to Trump Jr. et al.).
+
 [^298]: See OSC-KA V 00631 (2/5/14 Email, E. Agalarov to Ivanka Trump Jr. & Kaveladze); Goldstone Facebook post, 2/4/14 (8:01 a.m.) **\[ REDACTED: Investigative Technique \]**
+
 [^299]: See, e.g., OSC-KAV_00791 (6/3/14 Email, Kaveladze to Trump Jr. et al.; OSC-KAV_00799 (6/10/14 Email, Trump Jr. to Kaveladze et al.); OSC-KAV_0081 7 (6/16 14 Email, Trump Jr. to Kaveladze et al.).
+
 [^300]: OSC-KAV 00870 (7/17/14 Email, Khoo to McGee et al.).
+
 [^301]: OSC-KAV_00855 (8/4/14 Email, Khoo to McGee et al.).
+
 [^302]: OSC-KAV_00903 (9/29/14 Email, Tropea to McGee & Kaveladze (noting last response was on August 26, 2014)); OSC-KAV _00906 (9/29/14 Email, Kaveladze to Tropea & McGee (suggesting silence "proves my fear that those guys are bailing out of the project"); OSC-KA V_00972 (10/14/14 Email, McGee to Khoo et al.) (email from Crocus Group contractor about development specifications)).
+
 [^303]: OSC-KAV_01140 (11/24/14 Email, Khoo to McGee et al.).
+
 [^304]: Sater provided information to our Office in two 2017 interviews conducted under a proffer agreement, **\[ REDACTED: Grand Jury \]**
+
 [^305]: **\[ REDACTED: Grand Jury \]**
+
 [^306]: Sater 9/19/1 7 302, at 1-2, 5.
+
 [^307]: Sater 9/19/17 302, at 3.
+
 [^308]: Rozov 1/25/18 3 02, at 1.
+
 [^309]: Rozov 1/25/18 302, at I ; see also 11/2/15 Email, Cohen to Rozov et al. (sending letter of intent).
+
 [^3100]: Cohen 9/12/18 302, at 1-2, 4-6.
+
 [^311]: Cohen 9/12/18 302, at 5.
+
 [^312]: Cohen 9/12/18 302, at 4-5.
+
 [^313]: Rtskhiladze was a U.S.-based executive of the Georgian company Silk Road Group. In approximately 2011, Silk Road Group and the Trump organization entered into a licensing agreement to build a Trump-branded property in Batumi, Georgia. Rtskhiladze was also involved in discussions for a Trump-branded project in Astana, Kazakhstan. The Office twice interviewed Rtskhiladze, **\[ REDACTED: Grand Jury \]**
+
 [^314]: Cohen 9/12/18 302, at 12; see also Rtskhiladze 5/10/18 302, at 1.
+
 [^315]: 9/22/1 5 Email, Rtskhiladze to Nizharadze.
+
 [^316]: 9/24/15 Email, Rtskhiladze to Cohen.
+
 [^317]: 9/24/1 5 Email, Rtskhiladze to Cohen.
+
 [^318]: 9/27/15 Email, Rtskhiladze to Cohen.
+
 [^319]: Cohen 9/12/18 302, at 12.
+
 [^320]: 11/2/15 Email, Cohen to Rozov et al. (attachment) (hereinafter "LOI"); see also I 0/13/15 Email, Sater to Cohen & Davis (attaching proposed letter of intent). 321 LOI, p. 2.
+
 [^322]: The LOI called for the Trump organization to receive 5% of all gross sales up to $100 million; 4% of all gross sales from $100 million to $250 million; 3% of all gross sales from $250 million to $500 million; 2% of all gross sales from $500 million to $1 billion; and 1% of all gross sales over $1 billion. LOI, schedule 2.
+
 [^323]: LOI, schedule 2.
+
 [^324]: LOI, schedule 1.
+
 [^325]: LOI, schedule 2.
+
 [^326]: Cohen 9/12/18 302, at 3.
+
 [^327]: 11/3/15 Email, Sater to Cohen (12:14 p.m.).
+
 [^328]: 11/3/15 Email, Sater to Cohen (12 :40 p.m.).
+
 [^329]: Cohen 9/12/18 302, at 3-4; Cohen 8/7/18 302, at 15.
+
 [^330]: Sater 12/15/17 302, at 2.
+
 [^331]: Sater 12/15/17 302, at 3-4.
+
 [^332]: 10/12/15 Email, Sater to Cohen (8:07 a.m.).
+
 [^333]: **\[ REDACTED: Grand Jury \]**
+
 [^334]: Ivanka Trump received an email from a woman who identified herself as "Lana E. Alexander," which said in part, "If you ask anyone who knows Russian to google my husband Dmitry Klokov, you'll see who he is close to and that he has done Putin's political campaigns." 11/16/15 Email, Erchova to I. Trump.
+
 [^335]: 11/16/15 Email, I. Trump to Cohen.
+
 [^336]: Cohen 8/7/18 302, at 17. During his interviews with the Office, Cohen still appeared to believe that the Klokov he spoke with was that Olympian. The investigation, however, established that the email address used to communicate with Cohen belongs to a different Dmitry Klokov, as described above.
+
 [^337]: 11/18/15 Email, Klokov to Cohen (6:51 a.m.).
+
 [^338]: In July 2018, the Office received an unsolicited email purporting to be from Erchova, in which she wrote that "\[a\]t the end of 2015 and beginning of2016 I was asked by my ex-husband to contact Ivanka Trump... and offer cooperation to Trump's team on behalf of the Russian officials." 7/27/18 Email, Erchova to special counsel's Office. The email claimed that the officials wanted to offer candidate Trump "land in Crimea among other things and unofficial meeting with Putin." Id. In order to vet the email's claims, the Office responded requesting more details. The Office did not receive any reply.
+
 [^339]: 11/18/15 Email, Cohen to Klokov (7:15 a.m.).
+
 [^340]: 11/18/15 Email, Klokov to Cohen (6:51 a.m.).
+
 [^341]: 11/18/15 Email, Klokov to Cohen (6:51 a.m.) ("I would suggest separating your negotiations and our proposal to meet. I assure you, after the meeting level of projects and their capacity can be completely different, having the most important support.").
+
 [^342]: 11/19/15 Email, Klokov to Cohen (7:40 a.m.).
+
 [^343]: 11/19/15 Email, Cohen to Klokov (12:56 p.m.).
+
 [^344]: Cohen 9/18/18 302, at 12.
+
 [^345]: FS00004 (12/30/15 Text message, Cohen to Sater (6:17 p.m.)).
+
 [^346]: 1/11/16 Email, Cohen to pr_peskova@prpress.gof.ru (9: 12 a.m.).
+
 [^347]: 1/14/16 Email, Cohen to info@prpress.gov.ru (9:21 a.m.).
+
 [^348]: 1/16/16 Email, Cohen to pr_peskova@prpress.gov.ru (10:28 a.m.).
+
 [^349]: Cohen information ¶¶ 4, 7. Cohen's interactions with president Trump and the president's lawyers when preparing his congressional testimony are discussed further in Volume II. See Vol. II, section 11.K.3 infra.
+
 [^350]: 1/20/16 Email, Poliakova to Cohen (5:57 a.m.) ("Mr. Cohen\[,\] I can't get through to both your phones. Pls, call me.").
+
 [^351]: telephone records show a 20-minute call on January 20, 2016 between Cohen and the number Poliakova provided in her email. Call records of Michael Cohen After the call, Cohen saved Poliakova's contact information in his Trump organization outlook contact list. 1/20/16 Cohen Microsoft Outlook Entry (6:22 a.m.).
+
 [^352]: Cohen 9/12/18 302, at 2-3.
+
 [^353]: FS000l 1 (1/21/16 Text messages, Sater to Cohen).
+
 [^354]: The invitation purported to be from Genbank, a Russian bank that was, according to Sater, working at the behest of a larger bank, VTB, and would consider providing financing. FS00008 (12/31/15 Text messages, Sater & Cohen). Additional information about Genbank can be found infra.
+
 [^355]: FS000l I (1/21/16 Text message, Sater to Cohen (7:44 p.m.)) ; 1/21/16 Email, Sater to Cohen (6:49 p.m.).
+
 [^356]: 1/25/16 Email, Sater to Cohen (12:01 p.m.) (attachment).
+
 [^357]: Cohen 9/12/18 302, at 6-7.
+
 [^358]: See, e.g., 12/1/15 Email, Sater to Cohen (12:41 p.m.) ("Please scan and send me a copy of your passport for the Russian Ministry of Foreign Affairs.").
+
 [^359]: Toll records show that Sater was speaking to Evgeny Dvoskin. Call records of Felix Sater Dvoskin is an executive of Genbank, a large bank with lending focused in Crimea, Ukraine. At the time that Sater provided this financing letter to Cohen, Genbank was subject to U.S. government sanctions, see Russia/Ukraine -related sanctions and identifications, Office of foreign Assets control (Dec. 22, 2015), available at https://www.treasury.gov/resource-center/sanctions/OFAC-enforcement/Pages/20151222.aspx. Dvoskin, who had been deported from the United States in 2000 for criminal activity, was under indictment in the United States for stock fraud under the aliases Eugene Slusker and Gene Shustar. See United States v. Rizzo, et al., 2:03-cr-63 (E.D.N.Y. Feb. 6, 2003).
+
 [^360]: 12/19/15 Email, Sater to Cohen (10:50 a.m.); FS00002 (12/19/15 Text messages, Sater to Cohen, (10:53 a.m.).
+
 [^361]: FS00004 (12/19/15 Text message, Cohen to Sater); ERT_0198-256 (12/19/15 Text messages, Cohen & Sater).
+
 [^362]: Cohen 9/12/18 302, at 5.
+
 [^363]: On December 21, 2015, Sater sent Cohen a text message that read, "They need a copy of DJT passport," to which Cohen responded, "After I return from Moscow with you with a date for him." FS00004 (12/21/15 Text messages, Cohen & Sater).
+
 [^364]: FS00014 (4/20/16 Text message, Sater to Cohen (9:06 p.m.)).
+
 [^365]: FS000l 5 (5/4/16 Text message, Sater to Cohen (7:38 p.m.)).
+
 [^366]: FS00015 (5/4/16 Text message, Cohen to Sater (8:03 p.m.)).
+
 [^367]: Sater 12/15/17 302, at 4.
+
 [^368]: FS00016 (5/5/16 Text messages, Sater to Cohen (6:26 & 6:27 a.m.)).
+
 [^369]: FS00016 (5/6/16 Text messages, Cohen & Sater). On June 9, 2016, Sater sent Cohen a notice that he (Sater) was completing the badges for the Forum, adding, "Putin is thereon the 17th very strong chance you will meet him as well." 370
+
 [^370]: FS000 18 (6/9/16 Text messages, Sater & Cohen).
+
 [^371]: 6/13/16 Email, Sater to Cohen (2:10 p.m.).
+
 [^372]: FS00018 (6/13/16 Text message, Sater to Cohen (2:20 p.m.)); 6/13/16 Email, Sater to Cohen.
+
 [^373]: Cohen 9/12/18 302, at 6-8.
+
 [^374]: FS00019 (6/14/16 Text messages, Cohen & Sater (12:06 and 2:50 p.m.)).
+
 [^375]: Cohen 9/12/18 302, at 2.
+
 [^376]: Cohen 9/12/18 302, at 7.
+
 [^377]: 12/21/15 Email, Mira to Ivanka Trump (6:57 a.m.) (attachments); TRUMPORG_16_000057 (1/7/16 Email, I. Trump to Graff(9:18 a.m.)).
+
 [^378]: 1/14/16 Email, Graff to Mira.
+
 [^379]: 1/15/16 Email, Mira to Graff. 380 As explained in Volume II and appendix C, on September 17, 2018, the Office sent written questions to the president's counsel. On November 20, 20 18, the president provided written answers to those questions through counsel.
+
 [^381]: written responses of Donald J. Trump (Nov. 20, 2018), at 17 (response to question IV, Part (e)) ("\[D\]ocuments show that Ms. Graff prepared for my signature a brief response declining the invitation.").
+
 [^382]: written responses of Donald J. Trump (Nov. 20, 2018), at 17 (response to question IV, Part (e)); see also TRUMPORG_l 6_000134 (unsigned letter dated March 31, 2016).
+
 [^383]: TRUMPORG_16_000134 (unsigned letter).
+
 [^384]: TRUMPORG_16_000133 (3/31/16 Email, Graff to Macchia).
+
 [^385]: Foresman 10/17/18 302, at 3-4.
+
 [^386]: See TRUMPORG_16_00136 (3/31/16 Email, Foresman to Graff) ; see also Foresman 10/17/18 302, at 3-4.
+
 [^387]: See TRUMPORG_16_00136 (4/4/16 Email, Graff to Macchia).
+
 [^388]: See TRUMPORG_16_00137 (4/26/16 Email, Foresman to Graff); TRUMPORG_16_00141 (4/30/16 Email, Foresman to Graff).
+
 [^389]: See TRUMPORG_16_00139 (4/27/16 Email, Graff to Foresman); TRUMPORG_16_00137 (4/27/16 Email, Graff to Lewandowski).
+
 [^390]: TRUMPORG_16_00142 (5/2/16 Email, Graff to S. Miller); see also TRUMPORG_16_00143 (5/2/16 Email, Graff to S. Miller) (forwarding March 2016 email from Foresman).
+
 [^391]: Foresman's contacts during the transition period are discussed further in Volume I, section IV.B.3, infra.
+
 [^392]: Foresman 10/17/18 302, at 4.
+
 [^393]: Foresman 10/17/18 302, at 8-9.
+
 [^394]: Papadopoulos met with our Office for debriefings on several occasions in the summer and fall of 2017, after he was arrested and charged in a sealed criminal complaint with making false statements in a January 2017 FBI interview about, inter alia, the timing, extent, and nature of his interactions and communications with Joseph Mifsud and two Russian nationals: Olga Polonskaya and Ivan Timofeev. Papadopoulos later pleaded guilty, pursuant to a plea agreement, to an information charging him with making false statements to the FBI, in violation of 18 U.S.C. § 1001(a).
+
 [^395]: A transcript of Donald Trump's meeting with the Washington Post editorial Board, Washington Post (Mar. 21, 2016).
+
 [^396]: 7/15/15 LinkedIn message, Papadopoulos to Lewandowski (6:57 a.m.); 9/30/15 Email, Glassner to Papadopoulos (7:42:21 a.m.).
+
 [^397]: Papadopoulos 8/10/17 302, at 2.
+
 [^398]: Papadopoulos 8/10/17 302, at 2; 2/4/16 Email, Papadopoulos to Idris.
+
 [^399]: London Centre of International Law practice, at https://www.lcilp.org/ (via web.archive.org).
+
 [^400]: 2/4/16 Email, Papadopoulos to Idris.
+
 [^401]: 2/5/16 Email, Idris to Papadopoulos (6:11:25 p.m.); 2/6/16 Email, Idris to Papadopoulos (5:34:15 p.m.).
+
 [^402]: 2/4/16 LinkedIn message, Papadopoulos to Lewandowski (1 :28 p.m.); 2/4/16 Email, Papadopoulos to Glassner (2:10:36 p.m.).
+
 [^403]: 3/2/16 Email, Papadopoulos to Glassner (11:17:23 a.m.).
+
 [^404]: 3/2/16 Email, Lutes to Papadopoulos (10:08:15 p.m.).
+
 [^405]: Clovis 10/3/17 302 (1 of2), at 4.
+
 [^406]: Clovis 10/3/17 302 (1 of2), at 4.
+
 [^407]: **\[ REDACTED: Grand Jury \]**; 3/3/16 Email, Lutes to Clovis & Papadopoulos (6:05:47 p.m.).
+
 [^408]: 3/6/16 Email, Papadopoulos to Clovis (4:24:21 p.m.).
+
 [^409]: statement of offense ¶ 4, United States v. George Papadopoulos, 1:17-cr-182 (D.D.C. Oct. 5, 2017), Doc. 19 ("Papadopoulos statement of offense").
+
 [^410]: Papadopoulos 8/10/17 302, at 2.
+
 [^411]: Papadopoulos 8/10/17 302, at 2-3; Papadopoulos statement of offense ¶ 5.
+
 [^412]: Papadopoulos 8/10/17 302, at 2-3; Stephanie Kirchgaessner et al., Joseph Mifsud: more questions than answers about mystery professor linked to Russia, The guardian (Oct. 31, 2017) ("Link Campus university... is headed by a former Italian interior minister named Vincenzo Scotti.").
+
 [^413]: Papadopoulos statement of offense ¶ 5.
+
 [^414]: Papadopoulos 8/10/17 302, at 3.
+
 [^415]: **\[ REDACTED: Investigative Technique \]** **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^416]: Papadopoulos statement of offense ¶ 5.
+
 [^417]: Papadopoulos statement of offense ¶ 5.
+
 [^418]: Papadopoulos 8/10/17 302, at 3; Papadopoulos 8/11/17 302, at 2.
+
 [^419]: Papadopoulos statement of offense ¶ 5.
+
 [^420]: Papadopoulos 8/10/17 302, at 2.
+
 [^421]: Phillip Rucker & Robert Costa, _Trump Questions Need for NATO, Outlines Noninterventionist Foreign Policy_, Washington Post (Mar. 21, 2016).
+
 [^422]: Papadopoulos 8/10/17 302, at 3; 3/24/16 Text messages, Mifsud & Papadopoulos.
+
 [^423]: Papadopoulos 8/10/17 302, at 3.
+
 [^424]: Papadopoulos 8/10/17 302, at 3; Papadopoulos 2/10/17 302, at 2-3 ; Papadopoulos Internet Search history (3/24/16) (revealing late-morning and early-afternoon searches on March 24, 2016 for "putin's niece," "olga putin," and "russian president niece olga," among other terms).
+
 [^425]: Papadopoulos 8/10/17 302, at 3.
+
 [^426]: Papadopoulos statement of offense ¶ 8 n.l.
+
 [^427]: 3/24/16 Email, Papadopoulos to Page et al. (8:48:21 a.m.).
+
 [^428]: Papadopoulos's statements to the campaign were false. As noted above, the woman he met was not Putin's niece, he had not met the Russian ambassador in London, and the ambassador did not also serve as Russia's Deputy foreign minister.
+
 [^429]: 3/24/16 Email, Papadopoulos to Page et al. (8:48:21 a.m.).
+
 [^430]: **\[ REDACTED: Grand Jury \]**
+
 [^431]: 3/24/16 Email, Clovis to Papadopoulos et al. (8:55:04 a.m.).
+
 [^432]: Papadopoulos 8/10/17 302, at 4; Papadopoulos 8/11/17 302, at 3.
+
 [^433]: sessions 1/17/18 302, at 16-17.
+
 [^434]: Papadopoulos 8/10/17 302, at 4.
+
 [^435]: Papadopoulos 8/10/17 302, at 4.
+
 [^436]: Papadopoulos 8/10/17 302, at 4.
+
 [^437]: Papadopoulos statement of offense ¶ 9; see Gordon 8/29/17 302, at 14; Carafano 9/12/17 302, at 2; Hoskins 9/14/17 302, at 1.
+
 [^438]: Papadopoulos 8/10/17 302, at 4-5 ; Gordon 9/7/17 302, at 4-5.
+
 [^439]: Papadopoulos 8/10/17 302, at 5; Papadopoulos 8/11/17 302, at 3.
+
 [^440]: sessions 1/17/18 302, at 17; Gordon 9/7/17 302, at 5; Hoskins 9/14/17 302, at l ; Carafano 9/12/17 302, at 2.
+
 [^441]: Papadopoulos 8/10/17 302, at 4-5; Papadopoulos 8/11/17 302, at 3; Papadopoulos 9/20/17 302, at 2.
+
 [^442]: Papadopoulos statement of offense ¶ 10.
+
 [^443]: Papadopoulos statement of offense ¶¶ 10-15.
+
 [^444]: 3/29/16 Emails, Mifsud to Polonskaya (3:39 a.m. and 5 :36 a.m.).
+
 [^445]: 4/10/16 Email, Papadopoulos to Polonskaya (2:45:59 p.m.).
+
 [^446]: 4/11/16 Email, Polonskaya to Papadopoulos (3:11:24 a.m.).
+
 [^447]: 4/11 /l 6 Email, Papadopoulos to Polonskaya (9:21 :56 a.m.).
+
 [^448]: 4/11/16 Email, Mifsud to Papadopoulos (11:43:53).
+
 [^449]: Papadopoulos statement of offense ¶ 10(c).
+
 [^450]: Anton Troianovski, Putin Ally Warns of Arms Race as Russia considers response to US. nuclear Stance, Washington Post (Feb. 10, 2018).
+
 [^451]: 4/11/16 Email, Papadopoulos to Mifsud (11:51:53 a.m.).
+
 [^452]: 4/12/16 Email, Polonskaya to Papadopoulos (4:47:06 a.m.).
+
 [^453]: Papadopoulos 9/19/17 302, at 7.
+
 [^454]: 4/12/16 Email, Mifsud to Papadopoulos (5:44:39 a.m.) (forwarding Libya-related document); 4/12/16 Email, Mifsud to Papadopoulos & Obaid (10:28:20 a.m.); Papadopoulos Internet Search history (Apr. 11, 2016 10:56:49 p.m.) (search for "andaz hotel liverpool street"); 4/12/16 Text messages, Mifsud & Papadopoulos.
-[^455]: See, e.g., 4/18/16 Email, Mifsud t~ Papadopoulos (8:04:54 a.m.).
+
+[^455]: See, e.g., 4/18/16 Email, Mifsud to Papadopoulos (8:04:54 a.m.).
+
 [^456]: Papadopoulos 8/ l 0/17 302, at 5.
+
 [^457]: Papadopoulos statement of offense ¶ 11.
-[^458]: During the campaign period, Papadopoulos connected over LinkedIn with several MFA-affiliated individuals in addition to Timofeev. On April 25, 2016, he connected with Dmitry Andreyko, publicly identified as a First secretary at the Russian embassy in Ireland. In July 2016, he connected with Yuriy Melnik, the spokesperson for the Russian embassy in Washington and with Alexey Krasilnikov, publicly identified as a counselor with the MFA. And on September 16, 2016, he con~ Nalobin, also identified as an MFA official. See Papadopoulos LinkedIn connections **\[ REDACTED: Investigative Technique \]**
+
+[^458]: During the campaign period, Papadopoulos connected over LinkedIn with several MFA-affiliated individuals in addition to Timofeev. On April 25, 2016, he connected with Dmitry Andreyko, publicly identified as a First secretary at the Russian embassy in Ireland. In July 2016, he connected with Yuriy Melnik, the spokesperson for the Russian embassy in Washington and with Alexey Krasilnikov, publicly identified as a counselor with the MFA. And on September 16, 2016, he connected with Sergei Nalobin, also identified as an MFA official. See Papadopoulos LinkedIn connections **\[ REDACTED: Investigative Technique \]**
+
 [^459]: Papadopoulos statement of offense ¶ 11.
+
 [^460]: Papadopoulos 8/10/17 302, at 5; Papadopoulos 9/19/17 302, at 10.
+
 [^461]: 4/25/16 Email, Timofeev to Papadopoulos (8:16 :35 a.m.).
+
 [^462]: 4/22/16 Email, Mifsud to Papadopoulos (12:41:01 a.m.).
+
 [^463]: Papadopoulos statement of offense ¶ 14; 4/25/16 Text messages, Mifsud & Papadopoulos.
+
 [^464]: Papadopoulos statement of offense ¶ 14.
+
 [^465]: This information is contained in the FBI case-opening document and related materials. ~~The information is law enforcement sensitive (LES) and must be treated accordingly in any external dissemination.~~ The foreign government conveyed this information to the U.S. government on July 26, 2016, a few days after WikiLeaks's release of Clinton-related emails. The FBI opened its investigation of potential coordination between Russia and the Trump campaign a few days later based on the information.
+
 [^466]: 4/25/16 Email, Papadopoulos to S. Miller (8: 12:44 p.m.).
+
 [^467]: 4/27/16 Email, Papadopoulos to S. Miller (6:55 :58 p.m.).
+
 [^468]: 4/27/16 Email, Papadopoulos to Lewandowski (7:15:14 p.m.).
+
 [^469]: 5/4/16 Email, Papadopoulos to Lewandowski (8:14:49 a.m.).
+
 [^470]: 5/5/16 Email, Papadopoulos to Clovis (7:15:21 p.m.).
+
 [^471]: 5/21/16 Email, Papadopoulos to Manafort (2:30: 14 p.m.).
+
 [^472]: Papadopoulos statement of offense ¶ 19 n.2.
+
 [^473]: 6/1/16 Email, Papadopoulos to Lewandowski (3:08:18 p.m.).
+
 [^474]: 6/1/16 Email, Lewandowski to Papadopoulos (3:20:03 p.m.); 6/1/16 Email, Papadopoulos to Clovis (3:29:14 p.m.).
+
 [^475]: 6/1/16 Email, Papadopoulos to Clovis (3:29:14 p.m.). Papadopoulos's email coincided in time with another message to Clovis suggesting a Trump-Putin meeting. First, on May 15, 2016, David Klein- a distant relative of then-Trump organization lawyer Jason Greenblatt-emailed Clovis about a potential campaign meeting with Berel Lazar, the Chief Rabbi of Russia. The email stated that Klein had contacted Lazar in February about a possible Trump-Putin meeting and that Lazar was "a very close confidante of Putin." DJTFP00011547 (5/15/16 Email, Klein to Clovis (5:45:24 p.m.)). The investigation did not find evidence that Clovis responded to Klein's email or that any further contacts of significance came out of Klein's subsequent meeting with Greenblatt and Rabbi Lazar at Trump Tower. Klein 8/30/18 302, at 2.
+
 [^476]: Papadopoulos statement of offense ¶ 21(a).
+
 [^477]: **\[ REDACTED: Grand Jury \]**
+
 [^478]: 6/19/16 Email, Papadopoulos to Lewandowski (1 :11 :11 p.m.).
+
 [^479]: 6/19/16 Email, Papadopoulos to Lewandowski (1: 11: 11 p.m.).
+
 [^480]: Papadopoulos statement of offense ¶ 21; 7/14/16 Email, Papadopoulos to Timofeev (11:57:24 p.m.); 7/15/16 Email, Papadopoulos to Mifsud; 7/27/16 Email, Papadopoulos to Mifsud (2:14:18 p.m.).
+
 [^481]: Papadopoulos 9/19/17 302, at 16-17; 9th TAG Summit in Washington DC, transatlantic parliament Group on counterterrorism.
+
 [^482]: 9th TAG Summit in Washington DC, transatlantic parliament Group on counterterrorism. 483
+
 [^483]: **\[ REDACTED: Grand Jury \]**
+
 [^484]: Papadopoulos 9/19/17 302, at 16-17.
+
 [^485]: 7/11/16 Email, Phares to Papadopoulos.
+
 [^486]: 7/12/16 Email, Phares to Papadopoulos (14:52:29).
+
 [^487]: 7/27/16 Email, Papadopoulos to Mifsud (14:14:18).
+
 [^488]: Papadopoulos 9/20/17 302, at 3.
+
 [^489]: Papadopoulos declined to assist in deciphering his notes, telling investigators that he could not read his own handwriting from the journal. Papadopoulos 9/19/17 302, at 21. The notes, however, app ear to read as listed in the column to the left of the image above.
+
 [^490]: 8/15/16 Email, Papadopoulos to Clovis (11:59:07 a.m.).
+
 [^491]: 8/15/16 Email, Clovis to Papadopoulos (12:01:45 p.m .).
+
 [^492]: George Papadopoulos: sanctions Have Done Little More Than to Turn Russia towards China, Interfax (Sept. 30, 2016).
+
 [^493]: Papadopoulos 9/19/17 302, at 14-15; Def. Sent. Mem., United States v. George Papadopoulos, I :17-cr-182 (D.D.C. Aug. 31, 2018), Doc. 45.
+
 [^494]: See footnote 465 of Volume I, section IV.A.2.d, supra.
+
 [^495]: Papadopoulos 8/10/17 302, at 5; Papadopoulos 8/11/17 302, at 5; Papadopoulos 9/20/1 7 302, at 2.
+
 [^496]: S. Miller 12/14/17 302, at 10.
+
 [^497]: **\[ REDACTED: Grand Jury \]**
+
 [^498]: **\[ REDACTED: Grand Jury \]**
+
 [^499]: **\[ REDACTED: Grand Jury \]**
+
 [^500]: 7/15/16 LinkedIn message, Millian to Papadopoulos.
+
 [^501]: 7/15/16 LinkedIn message, Millian to Papadopoulos.
+
 [^502]: 7/22/16 Facebook message, Papadopoulos to Timofeev (7:40:23 p.m.); 7/26/16 Facebook message, Papadopoulos to Timofeev (3:08:57 p.m.).
+
 [^503]: 7/23/16 Facebook message, Timofeev to Papadopoulos (4:31:37 a.m.); 7/26/16 Facebook message, Timofeev to Papadopoulos (3:37: 16 p.m.).
+
 [^504]: 7/16/16 Text messages, Papadopoulos & Millian (7:55:43 p.m.).
+
 [^505]: 7/30/16 Text messages, Papadopoulos & Millian (5:38 & 6:05 p.m.); 7/31/16 Text messages, Millian & Papadopoulos (3:48 & 4:18 p.m.); 8/1/16 Text message, Millian to Papadopoulos (8:19 p.m .).
+
 [^506]: 8/2/16 Text messages, Millian & Papadopoulos (3:04 & 3:05 p.m.); 8/3/16 Facebook messages, Papadopoulos & Millian (4:07:37 a.m. & 1:11:58 p.m.).
+
 [^507]: 7/31/16 Email, Papadopoulos to Denysyk (12:29:59 p.m.).
+
 [^508]: 7/31/16 Email, Denysyk to Papadopoulos (21:54:52).
+
 [^509]: 8/23/16 Facebook message, Millian to Papadopoulos (2:55:36 a.m.).
+
 [^510]: Papadopoulos 9/20/17 302, at 2.
+
 [^511]: 11/10/16 Facebook message, Millian to Papadopoulos (9:35:05 p.m .).
+
 [^512]: 11/14/16 Facebook message, Millian to Papadopoulos (1 :32: 11 a.m.).
+
 [^513]: Papadopoulos 9/19/17 302, at 19.
+
 [^514]: E.g., 11/29/16 Facebook messages, Papadopoulos & Millian (5:09 - 5:11 p.m.); 12/7/
+
 [^515]: Facebook message, Millian to Papadopoulos (5:10:54 p.m.).
+
 [^5515]: 1/20/17 Facebook messages, Papadopoulos & Millian (4:37-4:39 a.m.).
+
 [^516]: Page was interviewed by counsel's appointment.
+
 [^517]: testimony of Carter Page, hearing Before the U.S. House of representatives, permanent Select committee on intelligence, 115th Cong. 40 (Nov. 2, 2017) (exhibit).
+
 [^518]: Page 3/30/17 302, at 10. 519
+
 [^520]: **\[ REDACTED: Grand Jury \]**
+
 [^521]: **\[ REDACTED: Grand Jury \]**
+
 [^522]: Page 3/30/17 302, at 10; **\[ REDACTED: Grand Jury \]**
+
 [^523]: **\[ REDACTED: Grand Jury \]**
+
 [^524]: **\[ REDACTED: Grand Jury \]**
+
 [^525]: **\[ REDACTED: Grand Jury \]** Complaint ¶¶ 22, 24, 32, United States v. Buryakov, 1:15-mj-215 (S.D.N.Y. Jan. 23, 20 I 5), Doc. 1 ("Buryakov complaint").
+
 [^526]: Buryakov complaint ¶ 34.
+
 [^527]: Buryakov complaint ¶ 34.
+
 [^528]: Buryakov complaint ¶ 32.
+
 [^529]: Buryakov complaint.
+
 [^530]: Buryakov complaint.
+
 [^531]: Buryakov complaint.
+
 [^532]: See Buryakov Complaint; see also indictment United States v. Buryakov, 1: 15-cr-73 (S.D.N. Y. Feb. 9, 2015), Doc. 10; **\[ REDACTED: Grand Jury \]**\
+
 [^533]: See Buryakov Complaint ¶¶ 32-34; **\[ REDACTED: Grand Jury \]**
+
 [^534]: **\[ REDACTED: Grand Jury \]**
+
 [^535]: Page 3/16/17 302, at 4; **\[ REDACTED: Grand Jury \]**
+
 [^536]: Page 3/16/17 302, at 4;
+
 [^537]: Page 3/30/17 302, at 6; Page 3/31/17 302, at 1.
+
 [^538]: Page 3/31/17 302, at 1.
+
 [^539]: Page 3/16/17 302, at 1;
+
 [^540]: Page 3/10/17 302, at 2.
+
 [^541]: See, e.g., 1/30/16 Email, Page to Glassner et al.; 3/17/16 Email, Page to Clovis (attaching a "President's Daily Brief" prepared by Page that discussed the "severe degradation of U.S.-Russia relations following Washington's meddling" in Ukraine); **\[ REDACTED: Grand Jury \]**
+
 [^542]: 1/30/16 Email, Page to Glassner et al.
+
 [^543]: 1/30/16 Email, Page to Glassner et al.
+
 [^544]: 1/30/16 Email, Page to Glassner et al.
+
 [^545]: **\[ REDACTED: Grand Jury \]**
+
 [^546]: A transcript of Donald with the Washington Post editorial Board, Washington Post (Mar. 21, 2016); **\[ REDACTED: Grand Jury \]**
+
 [^547]: **\[ REDACTED: Grand Jury \]**
+
 [^548]: **\[ REDACTED: Grand Jury \]**
+
 [^549]: See, e.g., 3/28/16 Email, Clovis to Lewandowski et al. (forwarding notes .prepared by Page and stating, "I wanted to let you know the type of work some of our advisors are capable of.").
+
 [^550]: Page 3/16/17 302, at 2-3; Page 3/10/17 302, at 3.
+
 [^551]: S. Weber 7/28/17 302, at 3.
+
 [^552]: Y. Weber 6/1/17 302, at 4-5; S. Weber 7/28/17 302, at 3.
+
 [^553]: See Y. Weber 6/1/17 302, at 4; S. Weber 7/28/17 302, at 3.
+
 [^554]: De. Klimentov 6/9/17 302, at 2.
+
 [^555]: S. Weber 7/28/17 302, at 3.
+
 [^556]: See 5/16/16 email, Page to Phares et al. (referring to submission of a "campaign advisor request form").
+
 [^557]: **\[ REDACTED: Grand Jury \]**; 5/16/16 Email, Page to Phares et al.
+
 [^558]: 6/19/16 Email, Page to Gordon et al.
+
 [^559]: 6/19/16 Email, Lewandowski to Page et al.
+
 [^560]: Dmitri Klimentov is a New York-based public relations consultant.
+
 [^561]: 7/5/16 Email, Klimentov to Zakharova (translated).
+
 [^562]: 7/5/16 Email, Klimentov to Zakharova (translated).
+
 [^563]: 7/5/16 Email, Klimentov to Zakharova (translated).
+
 [^564]: Dm. Klimentov 11/27/18 302, at 1-2.
+
 [^565]: 7/6/16 Email, Peskov to Klimentov (translated).
+
 [^566]: Page 3/10/17 302, at 3.
+
 [^567]: See Carter W. Page, The lecture of Trump's advisor Carter Page in Moscow, YouTube channel Katehon Think Tank, Posted July 7, 2016, available at https://www.youtube.com/watch?time_continue=28&v=lCYF29saA9w. Page also provided the FBI with a copy of his speech and slides from the speech. See Carter Page, "The evolution of the World economy: Trends and potential," Speech at national economic Speech (July 7, 2016).
+
 [^568]: Page 3/10/17 302, at 3.
+
 [^569]: Page 3/16/17 302, at 3.
+
 [^570]: S. Weber 7/28/17 302, at 4.
+
 [^571]: **\[ REDACTED: Grand Jury \]**
+
 [^572]: Page 3/10/17 302, at 3; Page 3/30/17 302, at 3; Page 3/31/17 302, at 2.
+
 [^573]: Page 3/30/17 302, at 3.
+
 [^574]: Page 3/30/17 302, at 9. **\[ REDACTED: Grand Jury \]**
+
 [^575]: **\[ REDACTED: Grand Jury \]** Page 3/30/17 302, at 3.
+
 [^576]: Page 3/10/17 302, at 3; Page 3/30/17 302, at 7; Page 3/31/17 302, at 2.
+
 [^577]: **\[ REDACTED: Grand Jury \]** 7/8/16 Email, Page to Dahl & Gordon.
+
 [^578]: **\[ REDACTED: Grand Jury \]** 7/9/16 Email, Page to Clovis
+
 [^579]: **\[ REDACTED: Grand Jury \]**
+
 [^580]: **\[ REDACTED: Grand Jury \]**
+
 [^581]: **\[ REDACTED: Grand Jury \]**
+
 [^582]: **\[ REDACTED: Grand Jury \]**
+
 [^583]: & Page 3/10/17 302, at 4; Page 3/16/17 302, at 3.
+
 [^584]: & Page 3/10/17 302, at 4; Page 3/16/17 302, at 3. 5&
+
 [^585]: **\[ REDACTED: Grand Jury \]**; 7/23/16 Email, Page to Clovis; 7/25/16 Email, Page to Gordon & Schmitz.
+
 [^586]: **\[ REDACTED: Grand Jury \]**
+
 [^587]: See, e.g., Steven Mufson & Tom Hamburger, Trump advisor's Public comments, Ties to Moscow Stir Unease in Both parties, Washington Post (Aug. 5, 2016).
+
 [^588]: Michael Isikoff, US. Intel officials Probe Ties between Trump adviser and kremlin, Yahoo! News (Sept. 23, 2016).
+
 [^589]: Michael Isikoff, US. Intel officials Probe Ties between Trump adviser and kremlin, Yahoo! News (Sept. 23, 2016); see also 9/25/16 Email, Hicks to Conway & Bannon (instructing that inquiries about Page should be answered with "\[h\]e was announced as an informal adviser in March. Since then he has had no role or official contact with the campaign. We have no knowledge of activities past or present and he now officially has been removed from all lists etc.").
+
 [^590]: Page 3/16/17 302, at 2; see, e.g., 9/23/16 Email, J. Miller to Bannon & S. Miller (discussing plans to remove Page from the campaign).
+
 [^591]: **\[ REDACTED: Grand Jury \]**, "Transition Online Form," 11/14/16 **\[ REDACTED: Grand Jury \]**
+
 [^592]: **\[ REDACTED: Grand Jury \]**, "Transition Online Form," 11/14/16 **\[ REDACTED: Grand Jury \]**
+
 [^593]: Simes 3/8/18 302, at 1-2.
+
 [^594]: About the Center, CNI, available at https://cftni.org/about/.
+
 [^595]: advisory counsel, CNI, available at https://web.archive.org/web/20161030025331/ http://cftni.org/about/advisory-council/; Simes 3/8/18 302, at 3-4; Saunders 2/15/18 302, at 4; sessions 1/17/18 302, at 16.
+
 [^596]: Simes 3/8/18 302, at 2.
+
 [^597]: Simes 3/8/18 302, at 1-2; Simes 3/27/18 302, at 19.
+
 [^598]: Simes 3/27/18 302, at 10-15.
+
 [^599]: C000l 1656 (rethinking US-Russia relations, CNI (Apr. 18, 2015)).
+
 [^600]: Simes 3/8/18 302, at 5; Saunders 2/15/18 302, at 29-30; Zakheim 1/25/18 302, at 3.
+
 [^601]: Simes 3/8/18 302, at 6; C00006784 (3/11/16 Email, Gilbride to Saunders (3:43:12 p.m.); cf Zakheim 1/25/18 302, at 1 (Kissinger was CNI's "honorary chairman of the Board"); Boyd 1/24/1 8 302, at 2; P. Sanders 2/15/18 302, at 5.
+
 [^602]: Simes 3/8/18 302, at 5-6; Simes 3/27/18 302, at 2.
+
 [^603]: Simes 3/8/18 302, at 6; Kushner 4/11/18 302 at 2.
+
 [^604]: Kushner 4/11/18 302, at 2.
+
 [^605]: Simes 3/8/18 302, at 6-7.
+
 [^606]: see Volume I, section IV.A.2, supra.
+
 [^607]: Simes 3/8/18 302, at 7-9.
+
 [^608]: Simes 3/8/18 302, at 7-8.
+
 [^609]: Simes 3/8/18 302, at 8; see also Boyd 1/24/18 302, at 2.
+
 [^610]: C00008187 (6/17/16 Email, Simes to Gordon (3:35:45 p.m.)).
+
 [^611]: Simes 3/8/18 302, at 7. 612 Simes 3/8/18 302, at 8-11; C00008923 (4/6/16 Email, Simes to Burt (2:22:28 p.m.)) ; Burt 2/9/18: 302, at 7.
+
 [^613]: C00008551 (4/17/16 Email, Kushner to Simes (2:44:25 p.m.)); C00006759 (4/14/16 Email Kushner to Simes & S. Miller (12:30 p.m.)).
+
 [^614]: Burt 2/9/18 302, at 7; Saunders 2/15/18 302, at 7-8.
+
 [^615]: Simes 3/8/18 302, at 13; Saunders 2/15/18 302, at 7-8.
+
 [^616]: Simes 3/8/18 302, at 13; Saunders 2/15/18 302, at 7-8.
+
 [^617]: Saunders 2/15/18 302, at 8; Simes 3/8/18 302, at 12; C00003834-43 (4/22/16 Email, Simes to Boyd et al. (8 :47 a.m.)).
+
 [^618]: Simes 3/8/18 302, at 12, 18; Saunders 2/15/18 302, at 11.
+
 [^619]: Saunders 2/15/18 302, at 11-12; C00006651-57 (mayflower Group Sales agreement).
+
 [^620]: Saunders 2/15/18 302, at 12-13.
+
 [^621]: Saunders 2/15/18 302, at 12.
+
 [^622]: C00002575 (attendee List); C00008536 (4/25/16 Email, Simes to Kushner (4:53:45 p.m.)).
+
 [^623]: Simes 3/8/18 302, at 19-20.
+
 [^624]: Simes 3/8/18 302, at 21.
+
 [^625]: Simes 3/8/18 302, at 21.
+
 [^626]: Simes 3/8/18 302, at 21.
+
 [^627]: Simes 3/8/18 302, at 2 1.
+
 [^628]: Kushner 4/11/18 302, at 4.
+
 [^629]: See, e.g., Ken Dilanian, Did Trump, Kushner, sessions Have an undisclosed meeting With Russian?, NBC News (June 1, 2016); Julia Ioffe, Why Did Jeff sessions Really Meet With Sergey Kislyak, The Atlantic (June 13, 2017).
+
 [^630]: sessions 1/17/18 302, at 22.
+
 [^631]: Simes 3/8/18 302, at 21; Saunders 2/15/18 302, at 14, 21; Boyd 1/24/18 302, at 3-4; Heilbrunn 2/1/18 302, at 6; statement regarding president Trump's April 27, 2016 foreign Policy Speech at the Center for the national interest, CNI (Mar. 8, 2017).
+
 [^632]: Simes 3/8/18 302, at 22; Heilbrunn 2/1/18 302, at 7.
+
 [^633]: Luff 1/30/18 302, at 4.
+
 [^634]: Saunders 2/15/18 302, at 15.
+
 [^635]: sessions 1/17/18 302, at 22 ; Saunders 2/15/18 302, at 17. 636 Saunders 2/15/18 302, at 17; C00004779-80 (5/23/16 Email, Cantelmo to Saunders & Hagberg (9:30: 12 a.m.); C00004362 (5/23/16 Email, Bauman to Cantelmo et al. (2:02:32 a.m.).
+
 [^637]: C00004362 (5/23/16 Email Bauman to Cantelmo et al. (2:02:32 a.m.).
+
 [^638]: sessions 1/17/18 302, at 22.
+
 [^639]: Boyd 1/24/18 302, at 4.
+
 [^640]: Simes 3/8/18 302, at 23; Saunders 2/15/18 302, at 18; Heilbrunn 2/1/18 302, at 7.
+
 [^641]: Simes 3/8/18 302, at 31; Saunders 2/15/18 302, at 19; Burt 2/9/18 302, at 9-1 0; Khalilzad 1/9/18 302, at 5.
+
 [^642]: Butt 2/9/18 302, at 9-10; Khalilzad 1/9/18 302, at 1-2, 5.
+
 [^643]: Khalilzad 1/9/18 302, at 5-6.
+
 [^644]: Simes 3/8/18 302, at 31; Burt 2/9/18 302, at 9-1 O; Khalilzad 1/9/18 302, at 5.
+
 [^645]: Saunders 2/15/18 302, at 20.
+
 [^646]: Khalilzad 1/9/18 302, at 6.
+
 [^647]: Saunders 2/15/18 302, at 19-20.
+
 [^648]: Simes 3/8/18 302, at 27.
+
 [^649]: Simes 3/8/18 302, at 27.
+
 [^650]: Simes 3/8/18 302, at 27.
+
 [^651]: Simes 3/8/18 302, at 27. During this period of time, the campaign received a request for a high-level campaign official to meet with an officer at a Russian state-owned bank "to discuss an offer \[that officer\] claims to be carrying from president Putin to meet with" candidate Trump. NOSC00005653 (5/17/16 Email, Dearborn to Kushner (8:12 a.m.)). Copying Manafort and Gates, Kushner responded, "Pass on this. A lot of people come claiming to carry messages. Very few are able to verify. For now I think we decline such meetings. Most likely these people go back home and claim they have special access to gain importance for themselves. Be careful." NOSC00005653 (5/17/16 Email, Kushner to Dearborn).
+
 [^652]: Kushner 4/11/18 302, at 11-13.
+
 [^653]: Simes 3/8/18 302, at 29-30; Simes 3/27/18 302, at 6; Kushner 4/11/18 302, at 12; C00007269 (8/10/16 meeting invitation, Vargas to Simes et al.); DJTFP00023484 (8/11/16 Email, Hagan to Manafort (5:57:15 p.m.)).
+
 [^654]: C00007981-84 (8/9/16 Email, Simes to Kushner (6:09:21 p.m.)). The memorandum recommended "downplaying Russia as a U.S. foreign policy priority at this time" and suggested that "some tend to exaggerate Putin's flaws." The memorandum also recommended approaching general Russian- related questions in the framework of "how to work with Russia to advance important U.S. national interests" and that a Trump administration "not go abroad in search of monsters to destroy." The memorandum did not discuss sanctions but did address how to handle Ukraine-related questions, including questions about Russia's invasion and annexation of Crimea.
+
 [^655]: C00007981 (8/9/16 Email, Simes to Kushner (6:09:21 p.m.)).
+
 [^656]: DJTFP00023459 (8/10/16 Email, Kushner to S. Miller et al. (11:30:13 a.m.)).
+
 [^657]: DJTFP00023484 (8/1 1/16 Email, Hagan to Manafort (5:57:15 p.m.)). 658 Simes 3/8/18 302, at 29-30; Simes 3/27/18 302, at 6; Kushner 4/11/18 302, at 12.
+
 [^659]: Simes 3/8/18 302, at 30; Simes 3/27 /l 8 302, at 6.
+
 [^660]: Simes 3/8/18 302, at 30.
+
 [^661]: Simes 3/8/18 302, at 30; Simes 3/27/18 302, at 6.
+
 [^662]: Kushner 4/11/18 302, at 12.
+
 [^663]: Simes 3/8/18 302, at 30.
+
 [^664]: **\[ REDACTED: Grand Jury \]** Goldstone 2/8/18 302, at 4.
+
 [^665]: **\[ REDACTED: Grand Jury \]** Kaveladze 11/16/17 302, at 3; Shugart 9/25/17 302, at 2-3; **\[ REDACTED: Grand Jury \]**
+
 [^666]: **\[ REDACTED: Grand Jury \]** Goldstone 2/8/18 302, at 10; **\[ REDACTED: Grand Jury \]** Kaveladze 11/16/17 302, at 5-6; 4/25/16 Email, Graff to Goldstone.
+
 [^667]: RG000033-34 (4/25/16 Email, Graff to Goldstone (attachment)).
+
 [^669]: Call records of Robert Goldstone **\[ REDACTED: Grand Jury \]** Goldstone 2/8/18 302, at 6.
+
 [^670]: Goldstone 2/8/18 302, at 1-2; **\[ REDACTED: Grand Jury \]** Beniaminov 1/6/18 302, at 3.
+
 [^671]: Goldstone 2/8/18 302, at 1-5; **\[ REDACTED: Grand Jury \]** DJTJR00008 (2/29/19 Email, Goldstone to Trump Jr.); Beniaminov 1/6/18 302, at 3; Shugart 9/25/17 302, at 2; TRUMPORG_18_001325 (6/21/13 Email, Goldstone to Graft); TRUMPORG_18_001013 (6/24/13 Email, Goldstone to Graff); TRUMPORG_18_001014 (6/24/13 Email, Graff to Shugart); TRUMPORG_l8_001018 (6/26/13 Email, Graff to Goldstone); TRUMPORG_l8_001022 (6/27/13 Email, Graff to L. Kelly); TRUMPORG_18_001333 (9/12/13 Email, Goldstone to Graff, Shugart); MUO00004289 (7/27/13 Email, Goldstone to Graff, Shugart).
+
 [^672]: **\[ REDACTED: Grand Jury \]** see Goldstone 2/,8/ 18 302, at 6-7.
+
 [^673]: **\[ REDACTED: Grand Jury \]**
+
 [^674]: **\[ REDACTED: Grand Jury \]**
+
 [^675]: **\[ REDACTED: Grand Jury \]**
+
 [^676]: In December 2018, a grand jury in the southern district of New York returned an indictment charging Veselnitskaya with obstructing the Prevezon litigation discussed in the text above. See indictment, United States v. Natalia Vladimirovna Veselnitskaya, No. 18-cr-904 (S.D.N.Y.). The indictment alleges, among other things, that Veselnitskaya lied to the district court about her relationship to the Russian prosecutor general's Office and her involvement in responding to a U.S. document request sent to the Russian government.
+
 [^677]: Veselnitskaya 11/20/17 statement to the Senate committee on the judiciary, at 2; **\[ REDACTED: Grand Jury \]**
+
 [^678]: testimony of Natalia Veselnitskaya Before the Senate committee on judiciary (Nov. 20, 2017) at 33; Keir Simmons & Rachel Elbaum, Russian Lawyer Veselnitskaya Says She Didn't Give Trump Jr. Info on Clinton, NBC News (July 11, 2017); Maria Tsvetkova & Jack Stubbs, Moscow Lawyer Who Met Trump Jr. Had Russian Spy Agency As Client, Reuters (July 21, 2017); Andrew E. Kramer & Sharon LaFraniere, Lawyer Who Was Said to Have Dirt on Clinton Had Closer Ties to kremlin than She Let On, New York Times (Apr. 27, 2018).
+
 [^679]: See Pub. L. No. 112-208 §§ 402, 404(a)(l), 126 Stat. 1502, 1502-1506. Sergei Magnitsky was a Russian tax specialist who worked for William Browder, a former investment fund manager in Russia. Browder hired Magnitsky to investigate tax fraud by Russian officials, and Magnitsky was charged with helping Browder embezzle money. After Magnitsky died in a Russian prison, Browder lobbied congress to pass the Magnitsky Act. See, e.g., Andrew E. Kramer, turning Tables in Magnitsky Case, Russia accuses nemesis of Murder, New York Times (Oct. 22, 2017) ; testimony ofNatalia Veselnitskaya Before the Senate committee on judiciary (Nov. 20, 2017), exhibits at 1-4; Rosie Gray, Bill Browder's testimony to the Senate judiciary committee, The Atlantic (July 25, 2017).
+
 [^680]: Ellen Barry, Russia Bars 18 Americans After sanctions by US, New York Times (Apr. 13, 2013); Tom Porter, supporters of the Magnitsky Act Claim They've Been targets of Russian assassination and kidnapping Bids, Newsweek (July 16, 2017).
+
 [^681]: testimony ofNatalia Veselnitskaya Before the Senate committee on judiciary (Nov. 20, 2017), at 21.
+
 [^682]: See Veselnitskaya Decl., United States v. Prevezon holdings, Ltd., No. 13-cv-6326 (S.D.N.Y.); see Prevezon holdings, Second amended complaint; Prevezon holdings, Mem. and Order; Prevezon holdings, deposition of Oleg Lurie.
+
 [^683]: See Gribbin 8/31/17 302, at 1-2 & 1A (undated one-page document given to congressional delegation). The Russian prosecutor general is an official with broad national responsibilities in the Russian legal system. See federal Law on the prosecutor's Office of the Russian federation (1992, amended 2004).
+
 [^684]: RG000061 (6/3/16 Email, Goldstone to Trump Jr.); DJTJR00446 (6/3/16 Email, Goldstone to Donald Trump Jr.); @DonaldJTrumpJr 07/11/17 (11 :00) Tweet.
+
 [^685]: DJTJR00446 (6/3/16 Email, Trump Jr. to Goldstone); @DonaldJTrumpJr 07/11/1 7 (11:00) Tweet; RG000061 (6/3/16 Email, Trump Jr. to Goldstone).
+
 [^686]: **\[ REDACTED: Grand Jury \]** RG000062 (6/3/16 Email, Goldstone & Trump Jr.).
+
 [^687]: RG000063 (6/6/16 Email, A. Agalarov to Goldstone); RG000064 (6/6/16 Email, Goldstone to A. Agalarov).
+
 [^688]: RG000065 (6/6/16 Email, Goldstone to Trump Jr.); DJTJR00446 (6/6/16 Email, Goldstone to Trump Jr.).
+
 [^689]: DJTJR00445 (6/6/16 Email, Goldstone and Trump Jr.); RG000065-67 (6/6/16 Email, Goldstone and Trump Jr.); **\[ REDACTED: Grand Jury \]**
+
 [^690]: DJTJR00499 (Call records of Donald Trump Jr. **\[ REDACTED: Grand Jury \]**); Call records of Donald Trump Jr. **\[ REDACTED: Grand Jury \]**
+
 [^691]: Kaveladze 11/16/17 302, at 6; **\[ REDACTED: Grand Jury \]**
+
 [^692]: Kaveladze 11/16/17 302, at 1-2; **\[ REDACTED: Grand Jury \]** Beniaminov 1/6/18 302, at 2-3; **\[ REDACTED: Grand Jury \]**
+
 [^693]: Kaveladze 11/16/17 302, at 6.
+
 [^694]: DJTJR00467 (6/7/16 Email, Goldstone to Trump Jr.); @DonaldJTrumpJr 07/11/17 (11:00) Tweet; RG000068 (6/7/16 Email, Goldstone to Trump Jr.); **\[ REDACTED: Grand Jury \]**
+
 [^695]: DJTJR00469 (6/7/16 Email, Trump Jr. to Goldstone); @DonaldJTrumpJr 07/11/1 7 (11:00) Tweet; RG000071 6/7/16 Email, Trump Jr. to Goldstone); OSC-KAV_00048 (6/7/16 Email, Goldstone to Kaveladze); **\[ REDACTED: Grand Jury \]**
+
 [^696]: Goldstone 2/8/18 302, at 7; **\[ REDACTED: Grand Jury \]**
+
 [^697]: **\[ REDACTED: Grand Jury \]** see Kaveladze 11/16/17 302 at 7; OSC-KAV_00048 (6/7/16 Email, Goldstone to Kaveladze).
+
 [^698]: Beniaminov 1/6/18 302, at 3.
+
 [^699]: NOSC0000007-08 (6/8/18 Email, Kushner to Vargas).
+
 [^700]: NOSC00000039 -42 (6/8/16 Email, Trump Jr. to Kushner & Manafort) ; DJTJR00485 (6/8/16 Email, Trump Jr. to Kushner & Manafort).
+
 [^701]: NOSC0000004 (6/8/16 Email, Kushner to Vargas).
+
 [^702]: 6/8/16 Email, Manafort to Trump Jr.
+
 [^703]: Gates 1/30/18 302, at 7; Gates 3/1/18 302, at 3-4. Although the March l 302 refers to "June 19," that is likely a typographical error; external emails indicate that a meeting with those participants occurred on June 6. See NOSC00023603 (6/6/16 Email, Gates to Trump Jr. et al.).
+
 [^704]: Gates 1/30/18 302, at 7. Aras Agalarov is originally from Azerbaijan, and public reporting indicates that his company, the Crocus Group, has done substantial work in Kyrgyzstan. See Neil MacFarquhar, A Russian developer Helps Out the kremlin on occasion. Was He a conduit to Trump?, New York T imes (July 16, 2017).
+
 [^705]: Gates 3/1/18 302, at 3-4.
+
 [^706]: Hicks 12/7117 302, at 6.
+
 [^707]: Kushner 4/11/18 302, at 8.
+
 [^708]: Cohen 8/7/18 302, at 4-6.
+
 [^709]: Cohen 8/7/18 302, at 4-5.
+
 [^710]: Cohen 9/12/18 302, at 15-16.
+
 [^711]: interview of Donald J Trump, Jr., Senate judiciary committee, 115th Cong. 28-29, 84, 94-95
+
 [^712]: Manafort 9/11/18 302, at 3-4; Kushner 4/11/18 302, at 10.
+
 [^713]: written responses of Donald J. Trump (Nov. 20, 2018), at 8 (response to question I, Parts (a) - (c)). We considered whether one sequence of events suggested that candidate Trump had contemporaneous knowledge of the June 9 meeting. On June 7, 2016 Trump announced his intention to give "a major speech" "probably Monday of next week"-which would have been June 13-about "all of the things that have taken place with the Clintons." See, e.g., Phillip Bump, What we know about the Trump Tower meeting, Washington Post (Aug. 7, 2018). Following the June 9 meeting, Trump changed the subject of his planned speech to national security. But the Office did not find evidence that the original idea for the speech was connected to the anticipated June 9 meeting or that the change of topic was attributable to the failure of that meeting to produce concrete evidence about Clinton. Other events, such as the Pulse nightclub shooting on June 12, could well have caused the change. The president's written answers to our questions state that the speech's focus was altered "\[i\]n light of'the Pulse nightclub shooting. See written responses, supra. As for the original topic of the June 13 speech, Trump has said that "he expected to give a speech referencing the publicly available, negative inf01mation about the Clintons," and that the draft of the speech prepared by campaign staff"was based on publicly available material, including, in particular, information from the book Clinton Cash by Peter Schweizer." written responses, supra. In a later June 22 speech, Trump did speak extensively about allegations that Clinton was corrupt, drawing from the Clinton cashbook. See Full transcript: Donald Trump NYC Speech on Stakes of the election, politico.com (June 22, 2016).
+
 [^714]: testimony of Natalia Veselnitskaya Before the Senate committee on judiciary (Nov. 20, 2017) at 41, 42; Alison Frankel, How Did Russian Lawyer Veselnitskaya Get into US. for Trump Tower meeting? Reuters, (Nov. 6, 2017); Michael Kranish et al., Russian Lawyer who Met with Trump Jr. Has Long history fighting sanctions, Washington Post (July 11, 2017); see OSC-KAV00113 (6/8/16 Email, Goldstone to Kaveladze); RG000073 (6/8/16 Email, Goldstone to Trump Jr.) ; Lieberman 12/13/17 302, at 5; see also Prevezon holdings Order (Oct. 17, 2016).
+
 [^715]: **\[ REDACTED: Grand Jury \]**
+
 [^716]: Akmetshin 11/14/17 302, at 4-6; **\[ REDACTED: Grand Jury \]**
+
 [^717]: Kaveladze 11/16/17 302, at 7; **\[ REDACTED: Grand Jury \]** Samochornov 7/13/17 302, at 2, 4; **\[ REDACTED: Grand Jury \]**
+
 [^718]: **\[ REDACTED: Grand Jury \]**
+
 [^719]: **\[ REDACTED: Grand Jury \]** Kaveladze 11/16/17 302, at 7; **\[ REDACTED: Grand Jury \]** Samochornov did not recall the subject matter of the Trump Tower meeting coming up at lunch. **\[ REDACTED: Grand Jury \]** Samochornov 7/12/17 302, at 4. In her later Senate statement and interactions with the press, Veselnitskaya produced what she claimed were the talking points that she brought to the June 9 meeting.
+
 [^720]: **\[ REDACTED: Grand Jury \]**
+
 [^721]: E.g., Samochornov 7/12/17 302, at 4.
+
 [^722]: E.g., Samochornov 7/12/17 302, at 4.
+
 [^723]: E.g., Samochornov 7/12/17 302, at 4; Goldstone 2/8/18 302, at 9.
+
 [^724]: **\[ REDACTED: Grand Jury \]**
+
 [^725]: **\[ REDACTED: Grand Jury \]**
+
 [^726]: **\[ REDACTED: Grand Jury \]**
+
 [^727]: **\[ REDACTED: Grand Jury \]**
+
 [^728]: **\[ REDACTED: Grand Jury \]**
+
 [^729]: **\[ REDACTED: Grand Jury \]** Akhmetshin 11/14/17 302, at 12.
+
 [^730]: Kaveladze 11/16/17 302, at 8; **\[ REDACTED: Grand Jury \]**
+
 [^731]: Samochornov 7/13/17 302, at 3; **\[ REDACTED: Grand Jury \]**
+
 [^732]: E.g., Akhmetshin 11/14/ l 7 302, at 12-13; **\[ REDACTED: Grand Jury \]**
+
 [^733]: Akhmetshin 11/14/17 302, at 12-13; **\[ REDACTED: Grand Jury \]** Samochornov 7/13/17 302, at 3. Trump Jr. confirmed this in a statement he made in July 2017 after news of the June 20 16 meeting broke. Interview of Donald J Trump, Jr., Senate judiciary committee US. Senate Washington DC, 115th Cong. 57 (Sept. 7, 2017).
+
 [^734]: Manafort's notes state: Bill Browder offshore - Cyprus 133m shares companies Not invest - loan Value in Cyprus as inter Illicit Active sponsors ofRNC Browder hired Joanna Glover Tied into Cheney Russian adoption by American families PJM-SJC-00000001-02 (Notes produced to Senate judiciary committee).
+
 [^735]: NOSC00003992 (6/9/16 Text message, Kushner to Manafort); Kushner 4/11/18 302, at 9; Vargas 4/4/18 302, at 7; NOSC00000044 (6/9/16 Email, Kushner to Vargas); NOSC00000045 (6/9/16 Email, Kushner to Cain).
+
 [^736]: Samochornov 7/12/17 302, at 4; **\[ REDACTED: Grand Jury \]** Kushner 4/11/18 302, at 9-10; see also interview of Donald J Trump, Jr., Senate judiciary committee, 115th Cong. 48-49 (Sept. 7, 2017)
+
 [^737]: Russian Lawyer Veselnitskaya Says She Didn't Give Trump Jr. Info on Clinton, NBC News (July 11, 2017).
+
 [^738]: testimony of Natalia Veselnitskaya before the United States Senate committee on the judiciary, th 115 Cong. }O(Nov 20, 2017).
+
 [^739]: testimony of Natalia Veselnitskaya before the United States Senate committee on the judiciary, th 115 Cong. 21 (Nov. 20, 2017).
+
 [^740]: Sean Hannity, transcript-Donald Trump Jr, Fox News (July 11, 2017).
+
 [^741]: interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 16 (Sept. 7, 2017).
+
 [^742]: interview of Donald J Trump, Jr, Senate judiciary committee, 115th Cong. 16-17 (Sept. 7, 2017).
+
 [^743]: Kaveladze 11/16/17 302, at 8; **\[ REDACTED: Grand Jury \]** Goldstone 2/8/18 302, at 9; **\[ REDACTED: Grand Jury \]**
+
 [^744]: **\[ REDACTED: Grand Jury \]**
+
 [^745]: **\[ REDACTED: Grand Jury \]** The week after the June 9 meeting, a cybersecurity firm and the DNC announced the Russian hack of the DNC. _See_ Volume I, Section III.B.2, _supra_. **\[ REDACTED: Grand Jury \]** (and on text message shows) that, shortly after the DNC announcement, Goldstone made comments connecting the DNC hacking announcement to the June 9 meeting. **\[ REDACTED: Grand Jury \]** OSC-KAV_00029 (6/14/16 Email, Goldstone to E. Agalarov & Kaveladze (10:09 a.m.)). The investigation did not identify evidence connecting the events of June 9 to the GRU's hack-and-dump operation. OSC-KAV_00029-30 (6/14/16 Email, Goldstone to E. Agalarov).
+
 [^746]: **\[ REDACTED: Grand Jury \]**
+
 [^747]: Kaveladze 11/16/17 302, at 8; Call records of Ike Kaveladze **\[ REDACTED: Grand Jury \]**
+
 [^748]: Kaveladze 11/16/17 302, at 8; Call records of Ike Kaveladze **\[ REDACTED: Grand Jury \]** On June 14, 2016 Kaveladze's teenage daughter emailed asking how the June 9 meeting had gone, and Kaveladze responded, "meeting was boring. The Russians did not have an bad info on Hilary." OSC-KAV_00257 (6/14/16 Email, I. Kaveladze to A. Kaveladze; **\[ REDACTED: Grand Jury \]**
+
 [^749]: Goldstone 2/8/18 302, at 11; **\[ REDACTED: Grand Jury \]**
+
 [^750]: OSC-KAV 00138 11/23/16 Email, Goldstone to Kaveladze); **\[ REDACTED: Grand Jury \]**
+
 [^751]: RG000196 (11/26-29/16 Text messages, Goldstone & Kaveladze); **\[ REDACTED: Grand Jury \]**
+
 [^752]: Goldstone 2/8/18 302, at 11; **\[ REDACTED: Grand Jury \]** DJTJR00118 (11/28/16 Email, Goldstone to Graff).
+
 [^753]: **\[ REDACTED: Grand Jury \]**
+
 [^754]: **\[ REDACTED: Grand Jury \]**
+
 [^755]: **\[ REDACTED: Grand Jury \]**
+
 [^756]: RG000256 (6/2/17 Email, Goldstone to Garten).
+
 [^757]: **\[ REDACTED: Grand Jury \]**
+
 [^758]: RG000092 (6/27/17 Email, Goldstone to E. Agalarov).
+
 [^759]: RG000092 (6/27/17 Email, Goldstone to E. Agalarov). **\[ REDACTED: Grand Jury \]**
+
 [^760]: OSC-KAV_01190 (6/27/17 Text message, E. Agalarov to Kaveladze).
+
 [^761]: RG000286-87 (7/9/17 Text messages, E. Agalarov & Goldstone); **\[ REDACTED: Grand Jury \]**
+
 [^762]: **\[ REDACTED: Grand Jury \]**
+
 [^763]: **\[ REDACTED: Grand Jury \]**
+
 [^764]: OSC-KAV 01197 (7/11-12/17 Text messages, Kaveladze & E. Agalarov); **\[ REDACTED: Grand Jury \]**
+
 [^765]: **\[ REDACTED: Investigative Technique \]**
+
 [^766]: **\[ REDACTED: Investigative Technique \]**
+
 [^767]: 7/10/17 Email, Goldstone to Futerfas & Garten.
+
 [^768]: **\[ REDACTED: Grand Jury \]**
+
 [^769]: 7/10/17 Email, Goldstone to Futerfas & Garten.
+
 [^770]: **\[ REDACTED: Grand Jury \]**
+
 [^771]: Samochornov 7/13/17 302, at 1; **\[ REDACTED: Grand Jury \]**
+
 [^772]: **\[ REDACTED: Grand Jury \]**
+
 [^773]: Samochornov 7/13/17 302, at 1.
+
 [^774]: **\[ REDACTED: Grand Jury \]**
+
 [^775]: Gordon 8/29/17 302, at 9; sessions 1/17/18 302, at 22; Allan Smith, We Now Know More About why Jeff sessions and a Russian ambassador crossed Paths at the republican convention, business insider (Mar. 2, 2017).
+
 [^776]: Gordon 8/29/17 302, at 9; Laura DeMarco, Global Cleveland and Sen. Bob Corker welcome international republican national convention Guests, Cleveland Plain Dealer (July 20, 2016).
+
 [^777]: Gordon 8/29/17 302, at 9; sessions 1/17/18 302, at 22.
+
 [^778]: Gordon 8/29/17 302, at 9.
+
 [^779]: sessions 1/17/18 302, at 22; Luff 1/30/18 302, at 3.
+
 [^780]: Gordon 8/29/17 302, at 9; Luff 1/30/18 302, at 3.
+
 [^781]: Gordon 8/29/17 302, at 9.
+
 [^782]: sessions 1/17/18 302, at 22; Luff 1/30/18 302, at 3; see also Volume I, section IV.A.4.b, supra (explaining that sessions and Kislyak may have met three months before this encounter during a reception held on April 26, 2016, at the mayflower Hotel).
+
 [^783]: sessions 1/17/18 302, at 22.
+
 [^784]: Gordon 8/29/17 302, at 9-10.
+
 [^785]: Gordon 8/29/17 302, at 9-10.
+
 [^786]: Gordon 8/29/17 302, at 10; see also Volume I, section IV.A.3.d, supra (explaining that Page acknowledged meeting Kislyak at this event).
+
 [^787]: Gordon 8/29/17 302, at 10.
+
 [^788]: Gordon 8/29/17 302, at 10.
+
 [^789]: Gordon 8/29/17 302, at 10.
+
 [^790]: Gordon 8/29/17 302, at 10; Hoff 5/26/17 302, at 1-2.
+
 [^791]: Hoff 5/26/17 302, at 1; Gordon 9/7/17 302, at 10.
+
 [^792]: Mashburn 6/25/18 302, at 4; Manafort 9/20/18 302, at 7-8.
+
 [^793]: Mashburn 6/25/18 302, at 4; Gordon 8/29/17 302, at 10.
+
 [^794]: DENMAN 000001-02, DENMAN 000012, DENMAN 000021-22; Denman 12/4/17 302, at 1; Denman 6/7/17 302, at 2.
+
 [^795]: DENMAN 000001-02, DENMAN 000012, DENMAN 000021-22.
+
 [^796]: Gordon 8/29/17 302, at 10-11.
+
 [^797]: Gordon 8/29/17 302, at 11; Gordon 9/7/17 302, at 11; Gordon 2/14/19 302, at 1-2, 5-6.
+
 [^798]: Gordon 2/14/19 302, at 5-6.
+
 [^799]: Denman 6/7/17 302, at 2; see DENMAN 000014.
+
 [^800]: Denman 6/7/17 302, at 2; Denman 12/4/17 302, at 2; Gordon 9/7/17 302, at 11-12; see Hoff 5/26/17 302, at 2.
+
 [^801]: Denman 6/7/17 302, at 3.
+
 [^802]: M. Miller 10/25/17 302 at 3.
+
 [^803]: Denman 12/4/17 302, at 2; Denman 6/7/17 302, at 2.
+
 [^804]: Hoff 5/26/17 302, at 2.
+
 [^805]: Denman 6/7/17 302, at 2-3, 3-4; Denman 12/4/17 302, at 2.
+
 [^806]: Gordon 2/14/19 302, at 7.
+
 [^807]: Call records of J.D. Gordon **\[ REDACTED: Grand Jury \]**. Gordon stated to the Office that his calls with sessions were unrelated to the platform change. Gordon 2/14/19 302, at 7.
+
 [^808]: written responses of Donald J. Trump (Nov. 20, 2018), at 17 (response to question IV, Part (f)).
+
 [^809]: Gordon 2/14/19 302, at 6-7; Gordon 9/7/17 302, at 11-12; see Gordon 8/29/17 302, at 11.
+
 [^810]: Dearborn 11/28/17 302, at 7-8.
+
 [^811]: Mashburn 6/25/18 302, at 4.
+
 [^812]: Hoff 5/26/17 302, at 2-3; see Denman 12/4/17 302, at 2-3; Gordon 8/29/17 302, at 11.
+
 [^813]: Gordon 8/29/17 302, at 11; Gordon 9/7/17 302, at 12.
+
 [^814]: Hoff 5/26/17 302, at 2-3.
+
 [^815]: Gordon 2/14/19 302, at 6.
+
 [^816]: Clovis 10/3/17 302, at 10-11.
+
 [^817]: Mashburn 6/25/18 302, at 4.
+
 [^818]: DJTFP00004828 (8/3/16 Email, Pchelyakov \[embassy @russianembassy.org\] to Gordon).
+
 [^819]: DJTFP00004953 (8/8/16 Email, Gordon to embassy@russianembassy.org).
+
 [^820]: Luff 1/30/18 302, at 5.
+
 [^821]: sessions 1/17/18 302, at 23-24; Luff 1/30/18 302, at 5.
+
 [^822]: sessions 1/17/18 302, at 23-24; Luff 1/30/18 302, at 5; Landrum 2/27/18 302, at 3-5.
+
 [^823]: sessions 1/17/18 302, at 23.
+
 [^824]: sessions 1/17/18 302, at 23.
+
 [^825]: sessions 1/17/18 302, at 23; Luff 1/30/18 302, at 5-6; Landrum 2/27/18 302, at 4-5 (stating he could not remember if election was discussed).
+
 [^826]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302, at 5.
+
 [^827]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302, at 4-5.
+
 [^828]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302 at 4-5.
+
 [^829]: Landrum 2/27/18 302, at 5.
+
 [^830]: sessions 1/17/18 302, at 23. Sessions also noted that ambassadors came to him for information about Trump and hoped he would pass along information to Trump. Sessions 1/17118 302, at 23-24.
+
 [^831]: sessions 1/17/18 302, at 23; Luff 1/30/18 302, at 6; Landrum 2/27 / l 8 302, at 5.
+
 [^832]: Luff 1/30/18 302, at 5; Landrum 2/27/18 302, at 4.
+
 [^833]: Luff 1/30/18 302, at 5.
+
 [^834]: Luff 1/30/18 302, at 6; Landrum 2/27/18 302, at 4-5.
+
 [^835]: sessions 1/17/l 8 302, at 23.
+
 [^836]: sessions 1/17/18 302, at 23.
+
 [^837]: sessions 1/17/18 302, at 23.
+
 [^838]: On August 21, 2018, Manafort was convicted in the eastern district of Virginia on eight tax, foreign Bank account registration (FBAR), and bank fraud charges. On September 14, 2018, Manafort pleaded guilty in the district of Columbia to (1) conspiracy to defraud the United States and conspiracy to commit offenses against the United States (money laundering, tax fraud, FBAR, foreign Agents registration Act (FARA), and FARA false statements), and (2) conspiracy to obstruct justice (witness tampering). Manafort also admitted criminal conduct with which he had been charged in the eastern district of Virginia, but as to which the jury hung. The conduct at issue in both cases involved Manafort's work in Ukraine and the money he earned for that work, as well as crimes after the Ukraine work ended. On March 7, 2019, Manafort was sentenced to 47 months of imprisonment in the Virginia prosecution. On March 13, the district court in D.C. sentenced Manafort to a total term of 73 months: 60 months on the Count 1 conspiracy (with 30 of those months to run concurrent to the Virginia sentence), and 13 months on the Count 1 conspiracy, to be served consecutive to the other two sentences. The two sentences resulted in a total term of 90 months.
+
 [^839]: As noted in Volume I, section III.D. l .b, supra, Gates pleaded guilty to two criminal charges in the district of Columbia, including making a false statement to the FBI, pursuant to a plea agreement. He has provided information and in-court testimony that the Office has deemed to be reliable. See also transcript at 16, United States v. Paul J Manafort, Jr., l :17-cr-201 (D.D.C. Feb. 13, 2019), Doc. 514 ("Manafort 2/13/19 transcript") (court's explanation of reasons to credit Oates's statements in one instance).
+
 [^840]: The email was drafted in Kilimnik's DMP email account (in English) **\[ REDACTED: Investigative Technique \]**
+
 [^841]: According to the president's written answers, he does not remember Manafort communicating to him any particular positions that Ukraine or Russia would want the United States to support. Written responses of Donald J. Trump (Nov. 20, 2018), at 16-17 (response to question IV, Part (d)).
+
 [^842]: Manafort made several false statements during debriefings. Based on that conduct, the Office determined that Manafort had breached his plea agreement and could not be a cooperating witness. The judge presiding in Manafort's D.C. criminal case found by a preponderance of the evidence that Manafort intentionally made multiple false statements to the FBI, the Office, and the grand jury concerning his interactions and communications with Kilimnik (and concerning two other issues). Although the report refers at times to Manafort's statements, it does so only when those statements are sufficiently corroborated to be trustworthy, to identify issues on which Manafort's untruthful responses may themselves be of evidentiary value, or to provide Manafort's explanations for certain events, even when we were unable to determine whether that explanation was credible.
+
 [^843]: Pinchuk et al., Russian Tycoon Deripaska in Putin delegation to China, Reuters (June 8, 2018).
+
 [^844]: 6/23/05 Memo, Manafort & Davis to Deripaska & Rothchild.
+
 [^845]: Gates 2/2/18 302, at 7.
+
 [^846]: Manafort 9/20/18 302, at 2-5; Manafort Income by Year, 2005 - 2015; Manafort Loans from Wire transfers, 2005 - 2015.
+
 [^847]: Gates 3/12/18 302, at 5.
+
 [^848]: Manafort 12/16/15 Dep., at 157:8-11.
+
 [^849]: Gates 2/2/18 302, at 9.
+
 [^850]: Gates 2/2/18 302, at 6.
+
 [^851]: Gates 2/2/18 302, at 9-10.
+
 [^852]: Manafort 7/30/14 302, at 1; Manafort 9/20/18 302, at 2.
+
 [^853]: Manafort 9/11/18 302, at 5-6.
+
 [^854]: Gates 3/16/18 302, at 1; Davis 2/8/18 302, at 9; Devine 7/6/18 302, at 2-3.
+
 [^855]: Patten 5/22/18 302, at 5; Gates 1/29/18 302, at 18-19; 10/28/97 Kilimnik Visa Record, U.S. department of State.
+
 [^856]: Gates 1/29/18 302, at 18-19; Patten 5/22/18 302, at 8; Gates 1/3 1/18 302, at 4-5; Gates 1/30/18 302, at 2; Gates 2/2/18 302, at 11.
+
 [^857]: Gates 1/29/18 302, at 18; Patten 5/22/18 302, at 8.
+
 [^858]: Boyarkin Visa Record, U.S. department of State.
+
 [^859]: Manafort 9/11/18 302, at 5.
+
 [^860]: The Office has noted Kilimnik's assessed ties to Russian intelligence in public court filings. E.g., Gov't Opp. to Mot. to Modify, United States v. Paul J Manafort, Jr ., 1:17-cr-201 (D.D.C. Dec. 4, 2017), Doc. 73, at 2 ("Manafort (D.D.C.) Gov't Opp. to Mot. to Modify").
+
 [^861]: 12/17/16 Kilimnik Visa Record, U.S. department of State.
+
 [^862]: In August 2018, Patten pleaded guilty pursuant to a plea agreement to violating the foreign Agents registration Act, and admitted in his statement of offense that he also misled and withheld documents from the Senate Select committee on intelligence in the course of its investigation of Russian election interference. Plea agreement, United States v. W. Samuel Patten, 1: 18-cr-260 (D.D.C. Aug. 31, 2018), Doc. 6; statement of offense, United States v. W. Samuel Patten, 1:18-cr-260 (D.D.C. Aug. 31, 2018), Doc. 7.
+
 [^863]: Patten 5/22/18 302, at 5-6.
+
 [^864]: 10/28/97 Kilimnik Visa Record, U.S. department of State.
+
 [^865]: Nix 3/30/18 302, at 1-2.
+
 [^866]: Nix 3/30/18 302, at 2.
+
 [^867]: Lenzi 1/30/18 302, at 2.
+
 [^868]: Hawker 1/9/18 302, at 13; 3/18/14 Email, Hawker & Tulukbaev.
+
 [^869]: van der Zwaan pleaded guilty in the U.S. district Court for the district of Columbia to making false statements to the special counsel's Office. Plea agreement, United States v. Alex van der Zwaan, 1:18-cr-31 (D.D.C. Feb. 20, 2018), Doc. 8.
+
 [^870]: Hawker 6/9/18 302, at 4; van der Zwaan 11/3/17 302, at 22. Manafort said in an interview that Gates had joked with Kilimnik about Kilimnik's going to meet with his KGB handler. Manafort 10/16/18 302, at 7.
+
 [^871]: Press release-DonaldJ. Trump announces campaign convention manager PaulJ. Manafort, The American presidency project - U.C. Santa Barbara (Mar. 29, 2016).
+
 [^872]: Gates 1/29/18 302, at 8; Meghan Keneally, timeline of Manafo rt's role in the Trump campaign, ABC News (Oct. 20, 2017).
+
 [^873]: Gates 1/29/18 302, at 7-8; Manafort 9/1 1/18 302, at 1-2; barrack 12/12/17 302, at 3.
+
 [^874]: Barrack 12/12/17 302, at 3; Gates 1/29/18 302, at 7-8.
+
 [^875]: Manafort 10/16/18 302, at 6.
+
 [^876]: Manafort 10/16/18 302, at 6.
+
 [^877]: Gates 2/2/18 302, at IO.
+
 [^878]: Gates 1/30/18 302, at 4.
+
 [^879]: Gates 2/2/18 302, at 11.
+
 [^880]: See Sharon LaFraniere, Manafort's Trial Isn't About Russia, but It Will Be in the Air, New York Times (July 30, 2018); Tierney Sneed, prosecutors believe Manafort Made $60 million consulting in Ukraine, talking Points Memo (July 30, 2018); Mykola Vorobiov, How Pro-Russian Forces Will Take revenge on Ukraine, Atlantic council (Sept. 23, 2018); Sergii Leshchenko, Ukraine's oligarchs Are Still calling the Shots, foreign Policy (Aug. 14, 2014); Interfax-Ukraine, Kolesnikov: inevitability of punishment Needed for Real Fight against smuggling in Ukraine, Kyiv Post (June 23, 2018); Igor Kossov, Kyiv Hotel industry Makes Room for New entrants, Kyiv Post (Mar. 7, 2019); Markian Kuzmowycz, How the kremlin Can Win Ukraine's elections, Atlantic council (Nov. 19, 2018). The opposition Bloc is a Ukraine political party that largely reconstituted the Party of regions.
+
 [^881]: 3/30/16 Email, Gates to Kilimnik.
+
 [^882]: 4/11/16 Email, Manafort & Kilimnik.
+
 [^883]: 4/11/16 Email, Manafort & Kilimnik.
+
 [^884]: Gates 2/2/18 302, at 10.
+
 [^885]: Gates 2/2/18 302, at 11; Gates 9/27/18 302 (serial 740), at 2.
+
 [^886]: Gates 2/2/18 302, at 12.
+
 [^887]: Gates 2/2/18 302, at 12. 888 Gates 1/31/18 302, at 17; Gates 9/27/18 302 (serial 740), at 2. In a later interview with the Office, Gates stated that Manafort directed him to send polling data to Kilimnik after a May 7, 2016 meeting between Manafort and Kilimnik in New York, discussed in Volume I, section IV.A.8.b.iii, infra. Gates 11/7/18 302, at 3.
+
 [^889]: Gates 9/27/18 302, Part II, at 2;
+
 [^890]: Gates 2/12/18 302, at 10; Gates 1/3 1/18 302, at 17.
+
 [^891]: Gates 9/27/18 302 (serial 740), at 2; Gates 2/7/18 302, at 15.
+
 [^892]: Gates 1/31/18 302, at 17.
+
 [^893]: Gates 2/12/18 302, at 11-12. According to Gates, his access to internal polling data was more limited because Fabrizio was himself distanced from the campaign at that point.
+
 [^894]: **\[ REDACTED: Grand Jury \]**
+
 [^895]: 8/18/16 Email, Kilimnik to Dirkse; 8/18/16 Email, Kilimnik to Schultz; 8/18/16 Email, Kilimnik to Marson; 7/27/16 Email, Kilimnik to Ash; 8/18/16 Email, Kilimnik to Ash; 8/18/16 Email, Kilimnik to Jackson; 8/18/16 Email, Kilimnik to Mendoza-Wilson; 8/19/16 Email, Kilimnik to Patten.
+
 [^896]: **\[ REDACTED: Grand Jury \]**
+
 [^897]: 7/7/16 Email, Manafort to Kilimnik.
+
 [^898]: Gates 2/2/18 302, at 13.
+
 [^899]: Manafort 9/11/18 302, at 6.
+
 [^900]: 7/8/16 Email, Kilimnik to Manafort.
+
 [^901]: 7/8/16 Email, Kilimnik to Manafort; Gates 2/2/18 302, at 13.
+
 [^902]: Manafort 9/11/18 302, at 6.
+
 [^903]: Manafort 9/11/18 302, at 6.
+
 [^904]: Manafort 9/11/18 302, at 6.
+
 [^905]: **\[ REDACTED: Investigative Technique \]**
+
 [^906]: 4/26/16 Email, Kilimnik to Purcell, at 2; Gates 2/2/18 302, at 12; Patten 5/22/18 302, at 6-7; Gates 11/7/18 302, at 3. 907 5/7/16 Email, Kilimnik to Charap & Kimmage; 5/7/16 Email, Kasanofto Kilimnik.
+
 [^908]: 5/6/16 Email, Manafort to Gates; 5/6/16 Email, Gates to Kilimnik.
+
 [^909]: Manafort 10/11/18 302, at 1.
+
 [^910]: Manafort 10/11/18 302, at 1.
+
 [^911]: Manafort 10/11/18 302, at 1.
+
 [^912]: 7/25/16 Email, Kilimnik to katrin@yana.kiev.ua (2: 17:34 a.m.).
+
 [^913]: 7/29/16 Email, Kilimnik to Manafort (10:51 a.111.).
+
 [^914]: 7/29/16 Email, Kilimnik to Manafort (10:51 a.m.).
+
 [^915]: Manafort 9/12/18 302, at 3.
+
 [^916]: 7/29/16 Email, Manafort to Kilimnik; **\[ REDACTED: Investigative Technique \]**
+
 [^917]: 7/29/16 Email, Manafort to Kilimnik.
+
 [^918]: 7/31/16 Email, Manafort to Kilimnik.
+
 [^919]: 7/3 1/16 Email, Manafort to Kilimnik.
+
 [^920]: Kilimnik 8/2/16 CBP Record; Call records of Konstantin Kilimnik **\[ REDACTED: Grand Jury \]**; Call records of Rick Gates **\[ REDACTED: Grand Jury \]**; 8/2-3/ 16, Kilimnik Park Lane Hotel receipt.
+
 [^921]: Deripaska's private plane also flew to Teterboro airport in New Jersey on the evening of August 2, 2016. According to customs and Border protection records, the only passengers on the plane were Deripaska's wife, daughter, mother, and father-in-law, and separate records obtained by our Office confirm that Kilimnik flew on a commercial flight to New York.
+
 [^922]: The Luhansk and Donetsk People's republics, which are located in the Donbas region of Ukraine, declared themselves independent in response to the popular unrest in 2014 that removed president Yanukovych from power. Pro-Russian Ukrainian militia forces, with backing from the Russian military, have occupied the region since 2014. Under the Yanukovych-backed plan, Russia would assist in withdrawing the military, and Donbas would become an autonomous region within Ukraine with its own prime minister. The plan emphasized that Yanukovych would be an ideal candidate to bring peace to the region as prime minister of the republic, and facilitate the reintegration of the region with the support of the U.S. and Russian presidents. As noted above, according to **\[ REDACTED: Grand Jury \]** the written documentation describing the plan, for the plan to work, both U.S. and Russian support were necessary. 2/21/18 Email, Manafort, Ward, & Fabrizio, at 3-5.
+
 [^923]: **\[ REDACTED: Grand Jury \]** Manafort 9/11/18 302, at 4; **\[ REDACTED: Grand Jury \]**
+
 [^924]: **\[ REDACTED: Grand Jury \]**
+
 [^925]: Manafort 9/11/18 302, at 4.
+
 [^926]: Manafort 9/12/18 302, at 4.
+
 [^927]: Manafort 9/11/18 302, at 5; Manafort 9/12/18 302, at 4.
+
 [^928]: Manafort 9/12/18 302, at 4; **\[ REDACTED: Investigative Technique \]**
+
 [^929]: **\[ REDACTED: Grand Jury \]** Documentary evidence confirms the peace-plan discussions in 2018. 2/19/18 Email, Fabrizio to Ward (forwarding email from Manafort); 2/21/18 Email, Manafort to Ward & Fabrizio.
+
 [^930]: Manafort 9/11/18 302, at 5.
+
 [^931]: Gates 1/30/18 302, at 3, 5.
+
 [^932]: **\[ REDACTED: Grand Jury \]**
+
 [^933]: Gates 1/30/18 302, at 2-4; Patten 5/22/18 302, at 7.
+
 [^934]: Gates 1/30/18 302, at 5; Manafort 9/11/18 302, at 5.
+
 [^935]: Gates 2/12/18 302, at 12.
+
 [^936]: NOSC00021517-20 (10/21/16 email, Manafort to Kushner).
+
 [^937]: NOSC00021573-75 (11/5/16 email, Manafort to Kushner).
+
 [^938]: Manafort 9/12/18 302, at 1, 4-5; Gates 1/30/18 302, at 4.
+
 [^939]: Manafo119/12/18 302, at 1.
+
 [^940]: Kalashnikova 5/17/18 302, at 4; Gary Lee, Soviet embassy's identity Crisis, Washington Post (Dec. 20, 1991); Georgy S. Oganov executive profile & biography, Bloomberg (Mar. 12, 2019).
+
 [^941]: Manafort 9/11/18 302, at 7.
+
 [^942]: Text message, Manafort & Kilimnik.
+
 [^943]: Text message, Manafort & Kilimnik; Manafort 9/12/18 302, at 5.
+
 [^944]: Text message, Manafort & Kilimnik.
+
 [^945]: 1/15/17 Email, Manafort, McFarland, & Flynn.
+
 [^946]: 1/15/17 Email, Manafort, McFarland, & Flynn.
+
 [^947]: Manafort 9/11/18 302, at 7.
+
 [^948]: 1/15/17 Email, Manafort, McFarland, & Flynn ; McFarland 12/22/17 302, at 18-19.
+
 [^949]: **\[ REDACTED: Grand Jury \]** Manafort 9/11/18 302, at 7; Manafort 9/21/18 302, at 3; 1/19/17 & 1/22/17 Kilimnik CBP records, Jan. 19 and 22, 2017; 20 16-17 Text messages, Kilimnik & Patten, at 1-2.
+
 [^950]: **\[ REDACTED: Investigative Technique \]**
+
 [^951]: Manafort 9/11/18 302, at 6;
+
 [^952]: **\[ REDACTED: Investigative Technique \]**
+
 [^956]: 2/21/17 Email, Zatynaiko to Kilimnik.
+
 [^957]: Manafort 9/13/18 302, at I.
+
 [^958]: In resolving whether Manafort breached his cooperation plea agreement by lying to the Office, the district court found that Manafort lied about, among other things, his contacts with Kilimnik regarding the peace plan, including the meeting in Madrid. Manafort 2/13/19 transcript, at 29-31, 40.
+
 [^959]: Manafort (D.D.C.) Gov't Opp. to Mot. to Modify, at 2; superseding indictment ¶,r48-51, United States v. Paul J Manafort, Jr., 1: 17-cr-201 (D.D.C. June 8, 2018), Doc. 318.
+
 [^960]: 2/12/18 Email, Fabrizio to Manafort & Ward; 2/16/18 Email, Fabrizio to Manafort; 2/19/18 Email, Fabrizio to Ward; 2/21/18 Email, Manafort to Ward & Fabrizio.
+
 [^961]: 2/21/18 Email, Manafort to Ward & Fabrizio (7:16:49 a.m.) (attachment).
+
 [^962]: 3/9/18 Email, Ward to Manafort & Fabrizio (attachment).
+
 [^963]: **\[ REDACTED: Investigative Technique \]**
+
 [^964]: Hicks 12/8/17 302, at 3.
+
 [^965]: Hicks 12/8/17 302, at 3.
+
 [^966]: Hicks 12/8/17 302, at 3.
+
 [^967]: NOSC00044381 (11/9/16 Email, Kuznetsov to Hicks (5:27 a.m.)).
+
 [^968]: NOSC00044381-82 (11/9/16 Email, Kuznetsov to Hicks (5:27 a.m.)).
+
 [^969]: NOSC00044382 (11/9/16 Letter from Putin to president-Elect Trump (Nov. 9, 2016) (translation)).
+
 [^970]: NOSC00044381 (11/9/16 Email, Hicks to Kushner (10:26 a.m.)).
+
 [^971]: statement of Jared C. Kushner to congressional committees, at 4 (Jul. 24, 2017).
+
 [^972]: NOSC00000058(11/9/16 Email, Kushner to Simes (10:28 a.m.)); statement of Jared Kushner to congressional committees, at 4 (Jul. 24, 2017).
+
 [^973]: NOSC00000058 (11/9/16 Email, Kushner to Hicks (11:05:44 a.m.)).
+
 [^974]: Hicks 12/8/17 302, at 3-4.
+
 [^975]: Flynn 11/16/17 302, at 8-10; see Doug G. Ware, Trump, Russia's Putin Talk about Syria, Icy relations in Phone Call, UPI (Nov. 14, 2016).
+
 [^976]: Aven provided information to the Office in an interview and through an attorney proffer, **\[ REDACTED: Grand Jury \]**
+
 [^977]: Aven 8/2/18 302, at 7.
+
 [^978]: **\[ REDACTED: Grand Jury \]**
+
 [^979]: Aven 8/2/18 302, at 2-3.
+
 [^980]: **\[ REDACTED: Grand Jury \]** and interview with the Office, Aven referred to the high-ranking Russian government officials using numbers (e.g., official 1, official 2). Aven separately confirmed through an attorney proffer that official 1 was Putin and official 2 was Putin's chief of staff, Vaino. See affidavit of Ryan Junck (Aug. 2, 2018) (hard copy on file).
+
 [^981]: At the time of his Q4 2016 meeting with Putin, Aven was generally aware of the press coverage about Russian interference in the U.S. election. According to Aven, he did not discuss that topic with Putin at any point, and Putin did not mention the rationale behind the threat of new sanctions. Aven 8/2/18 302, at 5-7.
+
 [^982]: **\[ REDACTED: Grand Jury \]**
+
 [^983]: **\[ REDACTED: Grand Jury \]**
+
 [^984]: **\[ REDACTED: Grand Jury \]**
+
 [^985]: **\[ REDACTED: Grand Jury \]**
+
 [^986]: **\[ REDACTED: Grand Jury \]**
+
 [^987]: **\[ REDACTED: Grand Jury \]** Aven 8/2/18 302, at 6.
+
 [^988]: Aven 8/2/18 302, at 4-8; **\[ REDACTED: Grand Jury \]**
+
 [^989]: Nader provided information to the Office in multiple interviews, all but one of which were conducted under a proffer agreement. **\[ REDACTED: Grand Jury \]** The investigators also interviewed Prince under a proffer agreement. Bannon was interviewed by the Office, under a proffer agreement.
+
 [^990]: Kirill Dmitriev biography, Russian Direct investment Fund, available at https://rdif.ru/Eng_person_dmitriev_kirill/. See also overview, Russian Direct investment Fund, available at https://rdif.ru/Eng_About/.
+
 [^991]: Gerson 6/15/18 302, at 1. See also, e.g., 12/14/16 Text message, Dmitriev to Gerson; 1/9/17 Text message, Dmitriev to Gerson.
+
 [^992]: **\[ REDACTED: Grand Jury \]**
+
 [^993]: Nader 1/22/18 302, at 1-2; Nader 1/23/18 302, at 2-3; 5/3/16 Email, Nader to Phares; **\[ REDACTED: Grand Jury \]**
+
 [^994]: Nader 1/22/18 302, at 1-2.
+
 [^995]: Nader 1/22/18 302, at 3.
+
 [^996]: Nader 1/22/18 302, at 3; **\[ REDACTED: Grand Jury \]**
+
 [^997]: Nader 1/22/18 302, at 3; **\[ REDACTED: Grand Jury \]**
+
 [^998]: **\[ REDACTED: Grand Jury \]**
+
 [^999]: Nader 1/22/18 302, at 3. 1000
+
 [^1001]: **\[ REDACTED: Grand Jury \]**
+
 [^1002]: **\[ REDACTED: Grand Jury \]**
+
 [^1003]: **\[ REDACTED: Grand Jury \]**
+
 [^1004]: **\[ REDACTED: Grand Jury \]**
+
 [^1005]: Prince 4/4/18 302, at 1-5; Bannon 2/14/18 302, at 21.
+
 [^1006]: Prince 4/4/18 302, at l, 3-4; Prince 5/3/18 302, at 2; Bannon 2/14/18 302, at 19-20; 10/18/16 Email, Prince to Bannon.
+
 [^1007]: Flynn 11/20/17 302, at 6; Flynn 1/11/18 302, at 5; Flynn 1/24/18 302, at 5-6; Flynn 5/1/18 302, at 11; Prince 4/4/18 302, at 5, 8; Bannon 2/14/18 302, at 20-21; 11/12/16 Email, Prince to Corallo.
+
 [^1008]: Prince 4/4/18 302, at 5; Bannon 2/14/18 302, at 21. Nader 1/22/18 302, at 5-6;
+
 [^1009]: **\[ REDACTED: Grand Jury \]**
+
 [^1010]: **\[ REDACTED: Investigative Technique \]** Nader 1/22/18 302, at 5-6; **\[ REDACTED: Grand Jury \]**
+
 [^1012]: **\[ REDACTED: Investigative Technique \]**
+
 [^1013]: **\[ REDACTED: Investigative Technique \]**
+
 [^1014]: **\[ REDACTED: Investigative Technique \]**
+
 [^1015]: **\[ REDACTED: Investigative Technique \]**
+
 [^1016]: 11/9/16 Text message, Dmitriev to Nader (9:34 a.m.); Nader 1/22/18 302, at 4.
+
 [^1017]: 11/9/16 Text message, Dmitriev to Nader (11 :58 p.m.).
+
 [^1018]: Nader 1/22/18 302, at 3.
+
 [^1019]: 11/9/16 Text Message, Dmitriev to Nader 10:06 a.m.); 11/9/16 Text message, Dmitriev to Nader (10:10 a.m.); **\[ REDACTED: Grand Jury \]**
+
 [^1020]: 11/9/16 Text message, Dmitriev to Nader (10:08 a.m.); 11/9/16 Text message, Dmitriev to Nader (3:40 p.m.); Nader 1/22/18 302, at 5.
+
 [^1021]: 11/9/16 Text message, Dmitriev to Nader (7: 10 p.m.).
+
 [^1022]: 11/10/16 Text message, Dmitriev to Nader (5:20 a.m.).
+
 [^1023]: Nader 1/22/18 302, at 5-6.
+
 [^1024]: Marinello 5/31/18 302, at 2-3; Nader 1/22/18 302, at 5-6.
+
 [^1025]: Written responses of Donald J. Trump (Nov. 20, 2018), at 17-18 (response to question V, Part (a).
+
 [^1026]: Nader 1/22/18 302, at 6; **\[ REDACTED: Grand Jury \]**
+
 [^1027]: Nader 1/22/18 302, at 6; **\[ REDACTED: Grand Jury \]**
+
 [^1028]: **\[ REDACTED: Grand Jury \]**
+
 [^1029]: **\[ REDACTED: Grand Jury \]**
+
 [^1030]: Nader 1/22/18 302, at 6.
+
 [^1031]: Nader 1/22/18 302, at 5-7.
+
 [^1032]: 12/8/16 Text messages, Dmitriev to Nader (12:10:31 a.m.); Nader 1/22/18 302, at 11.
+
 [^1033]: 12/8/16 Text message, Dmitriev to Nader (12:10:31 a.m .); 12/8/16 Text message, Dmitriev to Nader (12:10:57 a.m.).
+
 [^1034]: Prince 4/4/18 302, at 8.
+
 [^1040]: 1/4/17 Text message, Nader to Prince; 1/4/17 Text Messages, Nader to Dmitriev (5:24 a.m. - 5:26 a.m.); Nader 1/22/18 302, at 8-9;
+
 [^1041]: 1/4/17 Text messages, Nader & Dmitriev (7:24:27 a.m.).
+
 [^1042]: 1/4/17 Text messages, Dmitriev to Nader (7:25-7:29 a.m.)
+
 [^1043]: 1/4/17 Text messages, Nader to Prince.
+
 [^1044]: 1/4/17 Text messages, Nader to Prince;
+
 [^1045]: Prince 5/3/18 302, at 1-3.
+
 [^1046]: Prince 5/3/18 302, at 2-3.
+
 [^1047]: Cell-site location data for Prince's mobile phone **\[ REDACTED: Investigative Technique \]**
+
 [^1048]: Prince 5/3/18 302, at 3.
+
 [^1049]: **\[ REDACTED: Grand Jury \]**
+
 [^1050]: 1/5/17 Email, Kasbo to Prince.
+
 [^1051]: 1/8/17 Text messages, Nader to Dmitriev (6:05 - 6: 10 p.m.).
+
 [^1052]: 1/8/17 Text messages, Nader & Dmitriev (6: 10 - 7:27 p.m.).
+
 [^1053]: 1/9/17 Text message, Dmitriev to Nader.
+
 [^1054]: **\[ REDACTED: Grand Jury \]**
+
 [^1055]: 1/9/17 Text message, Nader to Dmitriev (2:12:56 p.m.); Nader 1/19/18 302, at 13; **\[ REDACTED: Grand Jury \]**
+
 [^1056]: Nader 1/19/18 302, at 13; **\[ REDACTED: Grand Jury \]** Prince 5/3/18 302, at 3.
+
 [^1057]: Bannon 2/14/18 302, at 25-26.
+
 [^1058]: 1/10/17 Text messages, Dmitriev & Nader (2:05:54 - 3:30:25 p.m.); 1/1 1/17 Text messages, Dmitriev & Nader (2:16:16 - 5:17:59 p.m.).
+
 [^1059]: 1/7/17 Email, Kasbo to Prince.
+
 [^1060]: 1/11/17 Text messages, Nader & Dmitriev (5:18:24 - 5:37:14 p.m.); **\[ REDACTED: Grand Jury \]**
+
 [^1061]: Prince 5/3/18 302, at 4; **\[ REDACTED: Grand Jury \]**
+
 [^1062]: **\[ REDACTED: Grand Jury \]**
+
 [^1063]: **\[ REDACTED: Grand Jury \]**
+
 [^1064]: Prince 5/3/18 302, at 4.
+
 [^1065]: **\[ REDACTED: Grand Jury \]**
+
 [^1066]: **\[ REDACTED: Grand Jury \]**
+
 [^1067]: **\[ REDACTED: Grand Jury \]**
+
 [^1068]: **\[ REDACTED: Grand Jury \]**
+
 [^1069]: Prince 5/3/18 302, at 4-5.
+
 [^1070]: **\[ REDACTED: Grand Jury \]**
+
 [^1071]: Prince 5/3/18 302, at 4; **\[ REDACTED: Grand Jury \]**
+
 [^1072]: **\[ REDACTED: Grand Jury \]**
+
 [^1073]: Prince 4/4/18 302, at 10; Prince 5/3/18 302, at 4; **\[ REDACTED: Grand Jury \]**
+
 [^1074]: Nader 1/22/18 302, at 14; **\[ REDACTED: Grand Jury \]**
+
 [^1075]: 1/11/17 Text messages, Dmitriev & Nader (9:13:54 - 10:24:25 p.m.).
+
 [^1076]: Prince, however, denied that and recalled that he was making these remarks to Dmitriev not in an official capacity for the transition but based on his experience as a former naval officer. Prince 5/3/18 302, at 4.
+
 [^1077]: **\[ REDACTED: Grand Jury \]**
+
 [^1078]: Nader 1/22/18 302, at 15; **\[ REDACTED: Grand Jury \]**
+
 [^1079]: Nader 1/22/18 302, at 9, 15; **\[ REDACTED: Grand Jury \]**
+
 [^1080]: Nader 1/22/18 302, at 15.
+
 [^1081]: **\[ REDACTED: Grand Jury \]** Nader 1/22/18 302, at 15.
+
 [^1082]: Call Records of Erik Prince **\[ REDACTED: Grand Jury \]**
+
 [^1083]: Prince 4/4/18 302, at 10; Prince 5/3/18 302, at 4; **\[ REDACTED: Grand Jury \]**
+
 [^1084]: 1/12/17 Text messages, Prince to Preate.
+
 [^1085]: 1/15/17 Text message, Prince to Preate.
+
 [^1086]: Prince 4/4/18 302, at 11; Prince 5/3/18 302, at 5.
+
 [^1087]: Prince 4/4/18 302, at 11; Prince 5/3/18 302, at 5.
+
 [^1088]: Prince 5/3/18 302, at 5; 1/16/17 Image on Prince Phone (on file with the Office).
+
 [^1089]: Prince 5/3/18 302, at 5.
+
 [^1090]: Prince 5/3/18 302, at 5.
+
 [^1091]: Prince 5/3/18 302, at 5.
+
 [^1092]: Bannon 10/26/18 302, at 10-11.
+
 [^1093]: Bannon 10/26/18 302, at 10-11.
+
 [^1094]: Call records of Erik Prince
+
 [^1095]: Prince 4/4/18 302, at 6.
+
 [^1096]: Bannon 10/26/18 302, at 11; Bannon 2/14/18 302, at 36.
+
 [^1097]: Bannon 10/26/18 302, at 11.
+
 [^1098]: Gerson 6/5/18 302, at 1, 3; 11/26/16 Text message, Dmitriev to Gerson; 1/25/17 Text message, Dmitriev to Nader.
+
 [^1099]: Gerson 6/5/18 302, at 1.
+
 [^1100]: Gerson 6/5/18 302, at 1-2; Kushner 4/11/18 302, at 21.
+
 [^1101]: Gerson 6/5/18 302, at 3-4 ; see, e.g., 12/2/16 Text messages, Dmitriev & Gerson; 12/14/16 Text messages, Dmitriev & Gerson; 1/3/17 Text message, Gerson to Dmitriev; 12/2/16 Email, Tolokonnikov to Gerson.
+
 [^1102]: Gerson 6/5/18 302, at 3; 12/14/16 Text message, Dmitriev to Gerson.
+
 [^1103]: 12/14/16 Text message, Gerson to Dmitriev.
+
 [^1104]: 12/14/16 Text message, Gerson to Dmitriev.
+
 [^1105]: 12/14/16 Text messages, Dmitriev & Gerson; Gerson 6/15/18 302, at 1.
+
 [^1106]: 12/14/16 Text messages, Dmitriev & Gerson.
+
 [^1107]: Gerson 6/15/18 302, at I.
+
 [^1108]: 1/9/17 Text messages, Dmitriev to Gerson; 1/9/17 Text message, Dmitriev to Nader.
+
 [^1109]: Gerson 6/5/18 302, at 4.
+
 [^1110]: 1/18/17 Text messages, Dmitriev & Gerson.
+
 [^1111]: 1/16/17 Text messages; Dmitriev & Gerson.
+
 [^1112]: Gerson 6/5/18 302, at 3; Gerson 6/15/18 302, at 2.
+
 [^1113]: Gerson 6/5/18 302, at 3.
+
 [^1114]: Gerson 6/5/18 302, at 3; Gerson 6/15/18.302, at 1-2; Kushner 4/11/18 30 2, at 22.
+
 [^1115]: Gerson 6/5/18 302, at 3.
+
 [^1116]: Kushner 4/11/18 302, at 32.
+
 [^1117]: 1/19/17 Text message, Dmitriev to Nader (11:11:56 a.m.).
+
 [^1118]: 1/18/17 Text message, Gerson to Dmitriev; Gerson 6/15/18 302, at 2.
+
 [^1119]: 1/26/17 Text message, Dmitriev to Gerson.
+
 [^1120]: 1/26/17 Text message, Dmitriev to Gerson.
+
 [^1121]: 1/26/17 Text message, Dmitriev to Gerson.
+
 [^1122]: 1/26/17 Text message, Dmitriev to Nader (10:04:41 p.m.).
+
 [^1123]: 1/28/17 Text message, Dmitriev to Nader (11:05:39 a.m.).
+
 [^1124]: 1/28/17 Text message, Nader to Dmitriev (11:11:33 a.m.).
+
 [^1125]: 1/29/17 Text message, Dmitriev to Nader (11:06:35 a.m.).
+
 [^1126]: 1/28/17 Text message, Gerson to Dmitriev; 1/29/17 Text message, Dmitriev to Gerson.
+
 [^1127]: Gerson 6/15/18 302, at 4; 3/21/17 Text message, Gerson to Dmitriev.
+
 [^1128]: statement of Jared C. Kushner to congressional committees ("Kushner Stmt. "), at 6 (7/24/17) (written statement by Kushner to the Senate judiciary committee).
+
 [^1129]: NOSC00004356 (11/16/16 Email, Vargas to Kushner (6:44 p.m.)).
+
 [^1130]: NOSC00004356 (11/16/16 Email, Kushner to Vargas (9:54 p.m.)).
+
 [^1131]: 11/17/16 Email, Brown to Simes (10:41 a.m.); Brown 10/13/17 302, at 4; 11/17/16 Email, Vargas to Kushner (12:3 1:18).
+
 [^1132]: Foresman 10/17/18 302, at 17.
+
 [^1133]: Foresman 10/17/18 302, at 17-18.
+
 [^1134]: Foresman 10/17/18 302, at 18.
+
 [^1135]: RMF-SCO-00000015 (1/5/17 Email, Foresman to Atencio & Flaherty); RMF-SCO-00000015 (1/5/17 Email, Flaherty to Foresman & Atencio).
+
 [^1136]: 9/26/18 attorney proffer from Covington & burling LLP (reflected in email on file with the Office).
+
 [^1137]: Vargas 4/4/18 302, at 5.
+
 [^1138]: Kushner 11/1/17 302, at 4.
+
 [^1139]: AKIN_GUMP_BERKOWITZ_0000016-019 (11/29/16 Email, Vargas to Kuznetsov).
+
 [^1140]: Flynn 1/11/18 302, at 2; NOS00004240 (calendar Invite, Vargas to Kushner & Flynn).
+
 [^1141]: Kushner Strut. at 6.
+
 [^1142]: Kushner Strut. at 6; Kushner 4/11/18 302, at 18.
+
 [^1143]: Kushner Stmt. at 7; Kushner 4/11/18 302, at 18; Flynn 1/11/18 302, at 2.
+
 [^1144]: Kushner 4/11/18 302, at 18.
+
 [^1145]: Kushner 4/11/18 302, at 18.
+
 [^1146]: Kushner Strut. at 7; NOSC00000123 (12/6/16 Email, Vargas to Kushner (12:11:40 p.m.)).
+
 [^1147]: Kushner 4/11/18 302, at 19; NOSC00000130 (12/12/16 Email, Kushner to Vargas (10:41 p.m.)).
+
 [^1148]: Kushner 4/11/18 302, at 19; Kushner Stmt. at 7; DJTFP_SCO_01442290 (12/6/16 Email, Berkowitz to
+
 [^1149]: DJTFP - SCO- 01442290 (12/7/16 Email to Berkowitz (12:31:39 p.m.)).
+
 [^1150]: Berkowitz 1/12/18 302, at 7; AKIN_GUMP_BERKOWITZ_O0000l-04 (12/12/16 Text messages, Berkowitz & 202-701-8532).
+
 [^1151]: Kushner 4/11/18 302, at 19; NOSC00000130-135 (12/12/16 Email, Kushner to Berkowitz).
+
 [^1152]: Kushner 4/11/18 302, at 19; NOSC00000130-135 (12/12/16 Email, Kushner to Berkowitz).
+
 [^1153]: announcement of treasury sanctions on entities Within the financial services and Energy sectors of Russia, against Arms or related materiel entities, and those undermining Ukraine's sovereignty, United States department of the treasury (Jul. 16, 2014).
+
 [^1154]: Kushner 4/11/18 302, at 20.
+
 [^1155]: Kushner 4/11/18 302, at 19. Berkowitz, by contrast, stated to the Office that he had googled Gorkov's name and told Kushner that Gorkov appeared to be a banker. Berkowitz 1/12/18 302, at 8.
+
 [^1156]: Kushner 4/11/18 302, at 19-20.
+
 [^1157]: Kushner Stmt. at 8.
+
 [^1158]: Kushner Stmt. at 8. 1159 See, e.g., Peter Grant, Donald Trump Son-in-Law Jared Kushner Could Face His Own conflict-of-interest questions, Wall Street journal (Nov. 29, 2016).
+
 [^1160]: Patrick Reevell & Matthew Mosk, Russian Banker Sergey Gorkov brushes off questions About meeting with Jared Kushner, ABC News (June 1, 2017).
+
 [^1161]: Foresman 10/17/18 302, at 14-15.
+
 [^1162]: Foresman 10/17/18 302, at 15-16.
+
 [^1163]: AKIN_GUMP_BERKOWITZ_00000ll (12/19/16 Text message, Ivanchenko to Berkowitz (9:56 a.m.)).
+
 [^1164]: AKIN_GUMP_BERKOWITZ_00000ll-15 (12/19/16 - 2/16/17 Text messages, Ivanchenko & Berkowitz).
+
 [^1165]: AKIN_GUMP_BERKOWITZ_00000lS (2/8/17 Text message, Ivanchenko to Berkowitz (10:41 a.m.)).
+
 [^1166]: Berkowitz 3/22/18 302, at 4-5.
+
 [^1168]: **\[ REDACTED: Grand Jury \]**
+
 [^1169]: **\[ REDACTED: Grand Jury \]**
+
 [^1170]: **\[ REDACTED: Grand Jury \]** Aven 8/2/18 302, at 6; Burt 2/9/18 302, at 2.
+
 [^1173]: Burt 2/9/18 302, at 4.
+
 [^1174]: Burt 2/9/18 302, at 5.
+
 [^1175]: Burt 2/9/18 302, at 3.
+
 [^1176]: Burt 2/9/18 302, at 3.
+
 [^1177]: Burt 2/9/18 302, at 3; Simes 3/27/18 302, at 4.
+
 [^1178]: Burt 2/9/18 302, at 3; Simes 3/27/18 302, at 4.
+
 [^1179]: Simes 3/27/18 302, at 5.
+
 [^1180]: Simes 3/27/18 302, at 5. Fea. R. Criffl. P. 6(e)
+
 [^1181]: 12/22/16 Email, Burt to Aven (7:23 p.m.).
+
 [^1182]: Burt 2/9/18 302, at 3.
+
 [^1183]: Burt 2/9/18 302, at 3-4.
+
 [^1184]: 12/22/16 Email, Aven to Butt (4:58:22 p.m.).
+
 [^1185]: Aven 8/2/18 302, at 7.
+
 [^1186]: **\[ REDACTED: Grand Jury \]**
+
 [^1187]: Burt 2/9/18 302, at 3-4.
+
 [^1188]: **\[ REDACTED: Grand Jury \]**
+
 [^1189]: **\[ REDACTED: Grand Jury \]**
+
 [^1190]: **\[ REDACTED: Grand Jury \]**
+
 [^1191]: **\[ REDACTED: Grand Jury \]**
+
 [^1192]: Aven 8/2/18 302, at 8.
+
 [^1193]: Aven 8/2/18 302, at 8; **\[ REDACTED: Grand Jury \]**
+
 [^1194]: Aven 8/2/18 302, at 8; **\[ REDACTED: Grand Jury \]**
+
 [^1195]: Page 3/10/17 302, at 4; Page 3/16/17 302, at 3; Among other meetings, Page contacted Andrey Baranov, head of investor relations at Rosneft, and they discussed the sale of Rosneft and meetings Baranov had attended with Rosneft CEO Igor Sechin. **\[ REDACTED: Grand Jury \]**
+
 [^1196]: **\[ REDACTED: Grand Jury \]**
+
 [^1197]: **\[ REDACTED: Investigative Technique \]**
+
 [^1198]: Page 3/16/17 302, at 3; Page 3/30/17 302, at 8.
+
 [^1199]: Weber 7/28/17 302, at 4; Page 3/16/17 302, at 3; **\[ REDACTED: Grand Jury \]**
+
 [^1200]: Page 3/16/17 302, at 3; **\[ REDACTED: Grand Jury \]**
+
 [^1201]: Page 3/16/17 302, at 3; **\[ REDACTED: Grand Jury \]**
+
 [^1202]: **\[ REDACTED: Grand Jury \]**
+
 [^1203]: **\[ REDACTED: Grand Jury \]**
+
 [^1204]: **\[ REDACTED: Grand Jury \]**
+
 [^1205]: **\[ REDACTED: Grand Jury \]**
+
 [^1206]: **\[ REDACTED: Grand Jury \]**
+
 [^1207]: As discussed further in Volume I, section V.C.4, infra, Flynn pleaded guilty to making false statements to the FBI, in violation of 18 U.S.C. § 1001, about these communications with ambassador Kislyak. Plea agreement, United States v. Michael T Flynn, No. 1:17-cr-232 (D.D.C. Dec. 1, 2017), Doc. 3. Flynn's plea agreement required that he cooperate with this Office, and the statements from Flynn in this report reflect his cooperation over the course of multiple debriefings in 2017 and 2018.
+
 [^1208]: Karen DeYoung, How the US. Came to abstain on a UN. resolution condemning Israeli Settlements, Washington Post (Dec. 28, 2016).
+
 [^1209]: Karen DeYoung, How the US. Came to abstain on a UN. resolution condemning Israeli settlements, Washington Post (Dec. 28, 2016).
+
 [^1210]: Michelle Nichols & Lesley Wroughton, US. intended to Allow passage of UN. Draft critical of Israel, Reuters (Dec. 21, 2016).
+
 [^1211]: Flynn 11/16/17 302, at 12; Flynn 11/17117 302, at 2.
+
 [^1212]: Flym1 11/16/17 302, at 12-14; Flynn 11/17/17 302, at 2.
+
 [^1213]: Flynn 11/16/17 302, at 12-14; Flynn 11/17/17 302, at 2; Kushner 11/1/17 302, at 3; 12/22/16 Email, Kushner to Flynn; 12/22/16 Email, McFarland to et al.
+
 [^1214]: Flynn 11/16/17 302, at 13; Call records of Michael T. Flynn
+
 [^1215]: statement of offense 13(d), United States v. Michael T. Flynn, No. 1: l 7-cr-232 (D.D.C. Dec. 1, 2017), Doc. 4 ("Flynn statement of offense"); Flynn 11/16/17 302, at 12-13.
+
 [^1216]: Flynn 11/17/17 302, at 2; Flynn 11/16/17 302, at 13.
+
 [^1217]: UN Vote on Israeli settlement postponed, "potentially indefinitely", Reuters (Dec. 22, 2016).
+
 [^1218]: Somini Sengupta & Rick Gladstone, rebuffing Israel, U.S. Allows censure Over settlements, New York Times (Dec. 23, 2016).
+
 [^1219]: Flynn 11/16/17 302, at 12-14; Kushner 11/1/17 302, at 3; 12/23/16 Email, Flynn to Kushner et al.
+
 [^1220]: Flynn statement of offense 13(g).
+
 [^1221]: Israel's settlements Have No Legal validity, constitute flagrant violation of international Law, security council reaffirms, 7853rd meeting (PM), United nations security council (Dec. 23, 2016).
+
 [^1222]: Taking additional Steps to address the national emergency With respect to significant malicious Cyber-Enabled Activities, The White House, Office of the Press secretary (Dec. 29, 2016).
+
 [^1223]: statement by the president on actions in response to Russian malicious Cyber activity and harassment, The White House, Office of the Press secretary (Dec. 29, 2016).
+
 [^1224]: Flynn 11/16/17 302, at 14; McFarland 12/22/17 302, at 3-8; Bannon 2/12/18 302, at 5.
+
 [^1225]: Flynn 11/17/17 302, at 5; Flynn 1/19/18 302, at 1; McFarland 11/22/17 302, at 3-9.
+
 [^1226]: Flynn 11/17/l 7 302, at 3.
+
 [^1227]: Christine Wang, US to announce new sanctions against Russia in response to election hacking, CNBC (Dec. 28, 2016).
+
 [^1228]: John Wagner, Trump on alleged election interference by Russia: "Get on with our lives", Washington Post (Dec. 29, 2016).
+
 [^1229]: SF000006 (12/28/16 Text message, Kislyak to Flynn).
+
 [^1230]: Call records of Michael T. Flynn
+
 [^1231]: Flynn 11/17/17 302, at 2-3; McFarland 12/22/17 302, at 4-5.
+
 [^1232]: 12/29/16 Email, McFarland to O'Brien et al.; 12/29/16 Email, McFarland to Flynn et al.
+
 [^1233]: SF00000t (12/29/16 Text message, Flaherty to Flynn).
+
 [^1234]: Call records of K.T. McFarland **\[ REDACTED: Grand Jury \]**
+
 [^1235]: McFarland 12/22/17 302, at 5-6.
+
 [^1236]: McFarland 12/22/17 302, at 5-6.
+
 [^1237]: McFarland 12/22/17 302, at 6.
+
 [^1238]: McFarland 12/22/17 302, at 6.
+
 [^1239]: SF00000l (12/29/16 Text message, Flynn to Flaherty).
+
 [^1240]: SF00000l (12/29/16 Text message, Flynn to Flaherty).
+
 [^1241]: Flynn 11/20/17 302, at 3.
+
 [^1242]: Michael Ledeen is married to Barbara Ledeen, the Senate staffer whose 2016 efforts to locate Hillary Clinton's missing emails are described in Volume I, section III.D.2, supra.
+
 [^1243]: Flynn 11/17/17 302, at 3; Call records of Michael Ledeen **\[ REDACTED: Grand Jury \]**
+
 [^1244]: Flynn 11/17/17 302, at 3-4; Flynn statement of offense ¶ 3(c); Call Records of K.T. McFarland **\[ REDACTED: Grand Jury \]**; Call records of Michael T. Flynn **\[ REDACTED: Grand Jury \]**
+
 [^1245]: Flynn 11/17117 302, at 3-4
+
 [^1246]: Flynn 11/17/17 302, at 3-4; Flynn statement of offense ¶ 3(c); McFarland 12/22/17 302, at 6-7.
+
 [^1247]: Flynn 11/17/17 302, at 4; McFarland 12/22/17 302, at 6-7.
+
 [^1248]: Flynn statement of offense ¶ 3(d).
+
 [^1249]: Flynn 11/17/17 302, at 3-4; Flynn statement of offense ¶ 3(c); 12/30/16 Email, Flynn to McFarland.
+
 [^1250]: Flynn 11/17/17 302, at 1; Flynn statement of offense ¶ 3(d).
+
 [^1251]: 12/29/16 Email, McFarland to Flynn et al.
+
 [^1252]: 12/29/16 Email, Westerhout to Flaherty; McFarland 12/22/17 302, at 7.
+
 [^1253]: McFarland 12/22/17 302, at 7.
+
 [^1254]: McFarland 12/22/17 302, at 7.
+
 [^1255]: McFarland 12/22/17 302, at 7.
+
 [^1256]: McFarland 12/22/17 302, at 7.
+
 [^1257]: McFarland 12/22/17 302, at 7.
+
 [^1258]: McFarland 12/22/17 302, at 7.
+
 [^1259]: Flynn 11/17/17 302, at 4; Flynn statement of offense ¶ 3(e).
+
 [^1260]: McFarland 12/22/17 302, at 8.
+
 [^1261]: McFarland 12/22/17 302, at 8.
+
 [^1262]: comment by foreign minister Sergey Lavrov on recent US sanctions and the expulsion of Russian diplomats, Moscow, December 20, 2016, The Ministry of Foreign Affairs of the Russian federation (Dec. 30, 2016 (5:32 a.m.)).
+
 [^1263]: statement of the president of the Russian federation, kremlin, Office of the president (Dec. 30, 2016 (7:15 a.m.)).
+
 [^1264]: @realDonaldTrump 12/30/16 (11:41 a.m.) Tweet.
+
 [^1265]: 12/30/16 Email, Flynn to McFarland; 12/30/16 Email, McFarland to Kushner et. al.
+
 [^1266]: 12/30/16 Email, McFarland to Kushner et. al.
+
 [^1267]: Flynn 11/17/17 302, at 4.
+
 [^1268]: Call records of Michael T. Flynn ; Flynn 11/17/17 302, at 1; Flynn 1/19/17 302, at 3; Flynn statement of offense ¶ 3(g).
+
 [^1269]: Call records of Michael T. Flynn ; Flynn 11/17/17 302, at 5; Flynn 1/19/17 302, at 3; McFarland 12/22/17 302, at 10.
+
 [^1270]: McFarland 12/22/17 302, at 10.
+
 [^1271]: McFarland 12/22/17 302, at 10.
+
 [^1272]: McFarland 12/22/17 302, at 10.
+
 [^1273]: Flynn 11/17/17 302, !1t5-6.
+
 [^1274]: Flynn 11/21/17 302, at 1; Flynn 11/20/17 302, at 3; Flynn 1/19/17 302, at 5; Flynn statement of offense ¶ 3(h).
+
 [^1275]: Bannon 2/12/18 302, at 9.
+
 [^1276]: A more detailed explanation of the charging decision in this case is set forth in a separate memorandum provided to the Acting attorney general before the indictment.
+
 [^1278]: The Office also considered, but ruled out, charges on the theory that the post-hacking sharing and dissemination of emails could constitute trafficking in or receipt of stolen property under the national Stolen property Act (NSPA), 18 U.S.C. §§ 2314 and 2315. The statutes comprising the NSPA cover "goods, wares, or merchandise," and lower courts have largely understood that phrase to be limited to tangible items since the supreme Court's decision in Dowling v. United States, 473 U.S. 207 (1985). See United States v. Yijia Zhang, 995 F. Supp. 2d 340, 344-48 (E.D. Pa. 2014) (collecting cases). One of those post-Dowling decisions-United States v. Brown, 925 F.2d 1301 (10th Cir. 1991)-specifically held that the NSPA does not reach "a computer program insource code form," even though that code was stored in tangible items (i.e., a hard disk and in a three-ring notebook). Id. at 1302-03. congress, in turn, cited the Brown opinion in explaining the need for amendments to 18 U.S.C. § 1030(a)(2) that "would ensure that the theft of intangible information by the unauthorized use of a computer is prohibited in the same way theft of physical items \[is\] protected." S. Rep. 104-357, at 7 (1996). That sequence of events would make it difficult to argue that hacked emails in electronic form, which are the relevant stolen items here, constitute "goods, wares, or merchandise" within the meaning of the NSPA.
+
 [^1279]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^1280]: Gates superseding criminal information ; Waiver of indictment, United States v. Richard W Gates III, 1:17-cr-201 (D.D.C. Feb. 23, 2018), Doc. 203; Waiver of Trial by Jury, United States v. Richard W Gates III, 1:17-cr-201 (D.D.C. Feb. 23, 2018), Doc. 204; Gates Plea agreement; statement of offense, United States v. Richard W Gates III, 1:17-cr-201 (D.D.C. Feb. 23, 2018), Doc. 206; Plea agreement, United States v. Paul J. Manafort, Jr., 1 :17-cr-2 01 (D.D.C. Sept. 14, 2018), Doc. 422 ; statement of offense, United States v. Paul J. Manafort, Jr., 1: l 7-cr-201 (D.D.C. Sept. 14, 2018), Doc. 423.
+
 [^1281]: **\[ REDACTED: Harm to Ongoing Matter \]**
+
 [^1282]: On four occasions, the foreign intelligence surveillance Court (FISC) issued warrants based on a finding of probable cause to believe that Page was an agent of a foreign power. 50 U.S.C. §§ 1801(b), 1805(a)(2)(A). The FISC's probable-cause finding was based on a different (and lower) standard than the one governing the Office's decision whether to bring charges against Page, which is whether admissible evidence would likely be sufficient to prove beyond a reasonable doubt that Page acted as an agent of the Russian federation during the period at issue. Cf United States v. Cardoza, 713 F.3d 656, 660 (D.C. Cir. 2013) (explaining that probable cause requires only "a fair probability ," and not "certainty, or proof beyond a reasonable doubt, or proof by a preponderance of the evidence").
+
 [^1283]: campaign-finance law also places financial limits on contributions, 52 U.S.C. § 30116(a), and prohibits contributions from corporations, banks, and labor union s, 52 U.S.C. § 3011 S(a); see citizens United v. FEC, 558 U.S. 310, 320 (2010). Because the conduct that the Office investigated involved possible electoral activity by foreign nationals, the foreign-contributions ban is the most readily applicable provision.
