@@ -1,7 +1,7 @@
 # Report On The investigation Into Russian interference In The 2016 presidential election, Volume II
 
-special counsel Robert S. Mueller, III
-submitted pursuant to 28 C.F.R. § 600.B(c)
+Special Counsel Robert S. Mueller, III
+Submitted Pursuant to 28 C.F.R. § 600.B(c)
 Washington, D.C. March 2019
 
 ## introduction TO VOLUME II
