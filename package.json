@@ -9,9 +9,11 @@
   "author": "Jonathan M. Wilbur",
   "license": "MIT",
   "dependencies": {
-    "csv-parse": "^4.4.1"
+    "csv-parse": "^4.4.1",
+    "titleize": "^2.1.0"
   },
   "devDependencies": {
-    "@types/csv-parse": "^1.1.12"
+    "@types/csv-parse": "^1.1.12",
+    "@types/node": "^11.13.6"
   }
 }
